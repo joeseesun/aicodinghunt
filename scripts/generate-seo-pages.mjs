@@ -49,7 +49,7 @@ function setLink(html, rel, href) {
 let n = 0
 for (const p of catalog.products || []) {
   const path = `/p/${encodeURIComponent(p.slug)}/`
-  const title = `${p.name} · 乔木 AI 工具猎场`
+  const title = `${p.name} · AI Coding Hunt`
   const desc = p.summary || `${p.name} — AI Coding Hunt 收录`
   const url = `${SITE}${path}`
   const image = abs(p.image)
@@ -90,4 +90,24 @@ for (const p of catalog.products || []) {
   writeFileSync(join(outDir, 'index.html'), html, 'utf8')
   n++
 }
+// submit SEO shell
+{
+  const path = '/submit'
+  const title = '投稿 · AI Coding Hunt'
+  const desc = '向 AI Coding Hunt 投稿你的 AI Coding 工具：产品链接 + 中文描述，自动抓取标题与封面。'
+  const url = `${SITE}${path}`
+  let html = indexHtml
+  html = html.replace(/<title>[^<]*<\/title>/, `<title>${esc(title)}</title>`)
+  html = setMeta(html, 'name', 'description', desc)
+  html = setLink(html, 'canonical', url)
+  html = setMeta(html, 'property', 'og:title', title)
+  html = setMeta(html, 'property', 'og:description', desc)
+  html = setMeta(html, 'property', 'og:url', url)
+  html = setMeta(html, 'property', 'og:type', 'website')
+  const outDir = join(dist, 'submit')
+  mkdirSync(outDir, { recursive: true })
+  writeFileSync(join(outDir, 'index.html'), html, 'utf8')
+  console.log('SEO pages: submit shell written')
+}
+
 console.log(`SEO pages: ${n} product HTML shells written under dist/p/`)

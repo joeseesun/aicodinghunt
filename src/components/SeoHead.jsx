@@ -1,7 +1,7 @@
 import { useEffect } from 'react'
 
 const SITE = 'https://aicodinghunt.qiaomu.ai'
-const SITE_NAME = 'AI Coding Hunt · 乔木 AI 工具猎场'
+const SITE_NAME = 'AI Coding Hunt'
 const DEFAULT_DESC =
   '来自 @vista8 社区自荐的 AI Coding 工具、Agent、插件与开源项目目录。可检索、可排序，中文优先。'
 const DEFAULT_OG = `${SITE}/icon-512.png`
@@ -50,7 +50,7 @@ export default function SeoHead({
   jsonLd,
 }) {
   useEffect(() => {
-    const fullTitle = title ? `${title} · 乔木 AI 工具猎场` : SITE_NAME
+    const fullTitle = title ? `${title} · AI Coding Hunt` : SITE_NAME
     const desc = description || DEFAULT_DESC
     const url = `${SITE}${path.startsWith('/') ? path : `/${path}`}`
     const img = image

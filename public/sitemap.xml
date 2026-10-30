@@ -7,6 +7,13 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://aicodinghunt.qiaomu.ai/submit</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://aicodinghunt.qiaomu.ai/p/%E9%80%9A%E6%B1%9F-lab-3d-%E4%BA%92%E5%8A%A8%E8%AF%BE%E7%A8%8B/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>

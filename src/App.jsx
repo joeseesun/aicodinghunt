@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import ProductDetail from './pages/ProductDetail'
+import Submit from './pages/Submit'
 
 export default function App() {
   const [data, setData] = useState(null)
@@ -32,6 +33,8 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home data={data} />} />
+        <Route path="/submit" element={<Submit />} />
+        <Route path="/submit/" element={<Submit />} />
         <Route path="/p/:slug/" element={<ProductDetail data={data} />} />
         <Route path="/p/:slug" element={<ProductDetail data={data} />} />
         <Route path="*" element={<Navigate to="/" replace />} />

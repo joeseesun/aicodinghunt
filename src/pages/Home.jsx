@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import { Link } from 'react-router-dom'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
 import ProductGrid from '../components/ProductGrid'
@@ -6,7 +7,7 @@ import RankList from '../components/RankList'
 import SeoHead, { SITE } from '../components/SeoHead'
 import { CAT_LABELS, CAT_ORDER } from '../lib/categories'
 import { sortedForView } from '../lib/metrics'
-import { IconBolt, IconChevron, IconFilters } from '../lib/icons'
+import { IconBolt, IconChevron, IconFilters, IconSearch } from '../lib/icons'
 
 const VIEWS = [
   { id: 'cards', label: '卡片' },
@@ -66,7 +67,7 @@ export default function Home({ data }) {
     return {
       '@context': 'https://schema.org',
       '@type': 'ItemList',
-      name: '乔木 AI 工具猎场',
+      name: 'AI Coding Hunt',
       description:
         '来自 @vista8 社区自荐的 AI Coding 工具、Agent、插件与开源项目目录。',
       url: `${SITE}/`,
@@ -86,53 +87,104 @@ export default function Home({ data }) {
     )
   }
 
+  const searching = Boolean(q.trim())
+
   return (
     <div className="min-h-screen flex flex-col">
       <SeoHead
         title={null}
-        description={`乔木 AI 工具猎场收录 ${data.product_count} 个社区自荐 AI Coding 工具与产品。点赞、浏览可排序，支持分类检索。更新 ${data.updated_at_label}。`}
+        description={`AI Coding Hunt 收录 ${data.product_count} 个社区自荐 AI Coding 工具与产品。点赞、浏览可排序，支持分类检索。更新 ${data.updated_at_label}。`}
         path="/"
         jsonLd={jsonLd}
       />
-      <Nav query={q} onQueryChange={setQ} onSubmit={() => {}} />
+      <Nav query={q} onQueryChange={setQ} onSubmit={() => {}} showSearch={true} />
 
       <main className="flex-1">
-        <div className="shell pt-11">
-          <h1 className="text-[28px] sm:text-[31px] font-[450] tracking-[-0.022em] text-ink-2">
-            {q.trim() ? (
-              <>
-                搜索结果 · <strong className="font-[750] text-ink">{q.trim()}</strong>
-              </>
-            ) : (
-              <>
-                乔木 <strong className="font-[750] text-ink">AI 工具猎场</strong>
-              </>
-            )}
-          </h1>
-          <p className="mt-[9px] text-[15.5px] text-ink-3 max-w-[62ch] leading-relaxed">
-            来自{' '}
-            <a
-              className="text-ink-2 font-medium hover:text-accent transition-colors"
-              href="https://x.com/vista8"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              @vista8
-            </a>{' '}
-            社区自荐：把真正在用、在做的 AI 工具与项目，整理成可检索、可排序的图文目录。共{' '}
-            <strong className="text-ink-2 font-semibold">{data.product_count}</strong> 个产品 · 更新{' '}
-            {data.updated_at_label}
-          </p>
-        </div>
+        {!searching ? (
+          <section className="relative overflow-hidden border-b border-line-soft bg-surface">
+            <div
+              aria-hidden
+              className="pointer-events-none absolute -top-24 -right-16 w-[420px] h-[420px] rounded-full bg-accent/[0.06]"
+            />
+            <div
+              aria-hidden
+              className="pointer-events-none absolute -bottom-28 -left-20 w-[360px] h-[360px] rounded-full bg-[#4f9a6a]/[0.06]"
+            />
+            <div className="shell relative pt-12 sm:pt-16 pb-12 sm:pb-14">
+              <div className="max-w-[760px]">
+                <p className="inline-flex items-center gap-2 text-[13px] font-semibold tracking-[0.04em] uppercase text-accent">
+                  Community catalog
+                  <span className="w-1 h-1 rounded-full bg-ink-4" />
+                  社区自荐
+                </p>
+                <h1 className="mt-3 text-[34px] sm:text-[44px] font-[750] tracking-[-0.035em] leading-[1.12] text-ink">
+                  发现真正在用的
+                  <br className="hidden sm:block" />
+                  <span className="text-accent"> AI Coding </span>
+                  工具
+                </h1>
+                <p className="mt-4 text-[16px] sm:text-[17px] text-ink-3 leading-relaxed max-w-[54ch]">
+                  把 X 上自荐的 Agent、插件、CLI 与开源项目，整理成可检索、可排序的图文猎场。不靠广告位，只看社区真实在用。
+                </p>
+              </div>
 
-        <div className="shell flex items-center flex-wrap gap-2.5 pt-[34px] pb-[26px] min-w-0">
+              <form
+                className="mt-8 flex w-full max-w-[560px] items-center gap-2.5 h-14 pl-[22px] pr-2 bg-chip rounded-pill border border-line-soft focus-within:border-line focus-within:bg-surface transition-[background,border-color] duration-200 ease-yarrow"
+                onSubmit={(e) => e.preventDefault()}
+              >
+                <input
+                  type="search"
+                  value={q}
+                  onChange={(e) => setQ(e.target.value)}
+                  placeholder="试试 Cursor、Agent、剪贴板、Skill…"
+                  className="flex-1 min-w-0 bg-transparent border-0 outline-none text-[15.5px] text-ink placeholder:text-ink-4"
+                  aria-label="搜索工具"
+                />
+                <button
+                  type="submit"
+                  className="w-11 h-11 shrink-0 rounded-pill bg-accent text-white grid place-items-center hover:bg-accent-hi transition-colors"
+                  aria-label="搜索"
+                >
+                  <IconSearch size={18} />
+                </button>
+              </form>
+
+              <div className="mt-7 flex flex-wrap items-center gap-2.5">
+                <span className="inline-flex items-center h-9 px-3.5 rounded-pill bg-chip text-[13.5px] font-semibold text-ink-2 tabular-nums">
+                  {data.product_count} 个产品
+                </span>
+                <span className="inline-flex items-center h-9 px-3.5 rounded-pill bg-chip text-[13.5px] font-semibold text-ink-2">
+                  {categories.length} 个分类
+                </span>
+                <span className="inline-flex items-center h-9 px-3.5 rounded-pill bg-chip text-[13.5px] font-semibold text-ink-2">
+                  更新 {data.updated_at_label}
+                </span>
+                <Link
+                  to="/submit"
+                  className="inline-flex items-center h-9 px-3.5 rounded-pill border border-line bg-surface text-[13.5px] font-semibold text-ink hover:bg-chip transition-colors"
+                >
+                  提交你的工具 →
+                </Link>
+              </div>
+            </div>
+          </section>
+        ) : (
+          <div className="shell pt-10">
+            <h1 className="text-[28px] sm:text-[31px] font-[450] tracking-[-0.022em] text-ink-2">
+              搜索结果 · <strong className="font-[750] text-ink">{q.trim()}</strong>
+            </h1>
+            <p className="mt-2 text-[15px] text-ink-3">{list.length} 个匹配</p>
+          </div>
+        )}
+
+        <div className="shell flex items-center flex-wrap gap-2.5 pt-[30px] pb-[22px] min-w-0">
           <span className="text-[14.5px] text-ink-3 mr-1 shrink-0">热门分类:</span>
           {popular.map((item) => (
             <button
               key={item.id}
               type="button"
               onClick={() => setCat(item.id === cat ? 'all' : item.id)}
-              className={`px-[17px] py-[9px] rounded-pill border text-[14.5px] whitespace-nowrap transition-[border-color,background,color,transform] duration-[180ms] ease-yarrow hover:-translate-y-px ${
+              className={`px-[17px] py-[9px] rounded-pill border text-[14.5px] whitespace-nowrap transition-[border-color,background,color] duration-[180ms] ease-yarrow ${
                 cat === item.id
                   ? 'bg-ink text-surface border-ink'
                   : 'bg-surface text-ink-2 border-line hover:bg-chip hover:border-[#c8cedb] hover:text-ink'
@@ -231,7 +283,7 @@ export default function Home({ data }) {
         </div>
 
         <div className="shell pb-16">
-          <section className="rounded-md border border-line-soft bg-surface p-7 shadow-tile">
+          <section className="rounded-md border border-line-soft bg-surface p-7">
             <h2 className="text-[18px] font-bold text-ink">关于这份目录</h2>
             <p className="mt-3 text-[14.5px] text-ink-3 leading-relaxed max-w-[70ch]">
               数据来自{' '}
@@ -244,7 +296,11 @@ export default function Home({ data }) {
                 X 自荐帖
               </a>{' '}
               的全部回复。纯闲聊已剔除；同一产品多条推荐会合并推荐人。点赞榜 / 浏览榜取自原帖回复的
-              public_metrics；缺失标为「—」并排后。推荐人头像来自 X 公开资料，点击可直达关注。每个产品可进详情页，也可回原帖。
+              public_metrics；缺失标为「—」并排后。推荐人头像来自 X 公开资料，点击可直达关注。每个产品可进详情页，也可回原帖。也可以{' '}
+              <Link to="/submit" className="text-ink-2 hover:text-accent font-medium">
+                在线投稿
+              </Link>
+              。
             </p>
           </section>
         </div>

@@ -16,12 +16,12 @@ export default function ProductCard({ product: p, catalogAvatars }) {
   return (
     <article className="min-w-0 flex flex-col group">
       <Link to={href} className="block relative">
-        <div className="relative aspect-[4/3] rounded-md overflow-hidden bg-chip shadow-tile transition-[transform,box-shadow] duration-[280ms] ease-yarrow group-hover:-translate-y-[3px] group-hover:shadow-tile-hover after:content-[''] after:absolute after:inset-0 after:rounded-md after:shadow-[inset_0_0_0_1px_rgba(15,18,25,0.07)] after:pointer-events-none">
+        <div className="relative aspect-[4/3] rounded-md overflow-hidden bg-chip border border-line-soft transition-[border-color] duration-200 ease-yarrow group-hover:border-line after:content-[''] after:absolute after:inset-0 after:rounded-md after:shadow-[inset_0_0_0_1px_rgba(15,18,25,0.04)] after:pointer-events-none">
           <img
             src={img}
             alt=""
             loading="lazy"
-            className="absolute inset-0 w-full h-full object-cover block scale-[1.01] transition-transform duration-[420ms] ease-yarrow group-hover:scale-[1.04]"
+            className="absolute inset-0 w-full h-full object-cover block"
             onError={(e) => {
               e.currentTarget.src = '/images/products/placeholder.svg'
             }}

@@ -33,6 +33,14 @@ npx wrangler deploy --name aicodinghunt
 
 自定义域名 `aicodinghunt.qiaomu.ai` 已绑定。
 
+## 投稿
+
+线上入口：[https://aicodinghunt.qiaomu.ai/submit](https://aicodinghunt.qiaomu.ai/submit)
+
+- 用户提交链接 + 中文描述（可上传图片）
+- Worker `POST /api/submit` 抓取 OG，写入 R2，并创建 GitHub Issue（label: `submission`）
+- 审核通过：`node scripts/promote-submission.mjs --issue <n>`
+
 ## 数据更新
 
 见 `scripts/README.md`：

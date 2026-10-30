@@ -93,7 +93,7 @@ export default function ProductDetail({ data }) {
   const path = `/p/${encodeURIComponent(product.slug)}/`
   const desc =
     product.summary ||
-    `${product.name} — ${CAT_LABELS[product.category] || product.category} · 乔木 AI 工具猎场收录`
+    `${product.name} — ${CAT_LABELS[product.category] || product.category} · AI Coding Hunt 收录`
 
   const jsonLd = {
     '@context': 'https://schema.org',
