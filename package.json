@@ -1,17 +1,19 @@
 {
   "name": "aicodinghunt",
   "private": true,
-  "version": "1.1.0",
+  "version": "1.2.0",
   "type": "module",
-  "description": "乔木 AI 工具猎场 | AI Coding Hunt — catalog from @vista8 community replies",
+  "description": "\u4e54\u6728 AI \u5de5\u5177\u730e\u573a | AI Coding Hunt \u2014 catalog from @vista8 community replies",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && node scripts/generate-seo-pages.mjs",
     "preview": "vite preview",
     "lint": "oxlint",
     "start": "vite preview --port 8787",
     "deploy": "npm run build && node -e \"console.log('Use: set -a; source /home/box/.cf_aitv.env; set +a; npx wrangler deploy --name aicodinghunt')\"",
-    "prebuild": "node scripts/sync-data.mjs"
+    "prebuild": "node scripts/sync-data.mjs",
+    "avatars": "python3 scripts/fetch_avatars.py",
+    "seo": "node scripts/generate-seo-pages.mjs"
   },
   "dependencies": {
     "react": "^19.3.1",

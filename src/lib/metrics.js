@@ -7,6 +7,10 @@ export function metric(p, key) {
     const n = p.impression_count ?? p.impressions
     return n == null || n === '' ? null : Number(n)
   }
+  if (key === 'bookmark_count') {
+    const n = p.bookmarks ?? p.bookmark_count
+    return n == null || n === '' ? null : Number(n)
+  }
   return null
 }
 
@@ -47,7 +51,49 @@ export function sortedForView(list, view) {
   )
 }
 
-export function avatarUrl(handle) {
-  const name = encodeURIComponent(String(handle || 'community').replace(/^@/, ''))
-  return `https://api.dicebear.com/9.x/thumbs/svg?seed=${name}&size=48`
+const PLACEHOLDER = '/images/avatars/_placeholder.svg'
+
+/** Resolve local X avatar path; null if unknown (caller may try catalog map). */
+export function resolveAvatar(handle, map) {
+  const key = String(handle || '').replace(/^@/, '')
+  if (!key || !map) return null
+  return map[key] || null
+}
+
+/** Prefer product.avatars, then catalog avatars map, then placeholder. */
+export function avatarUrl(handle, product, catalogAvatars) {
+  const key = String(handle || 'community').replace(/^@/, '')
+  return (
+    resolveAvatar(key, product?.avatars) ||
+    resolveAvatar(key, catalogAvatars) ||
+    resolveAvatar(key, product?.avatar_map) ||
+    PLACEHOLDER
+  )
+}
+
+export function xProfileUrl(handle) {
+  const key = String(handle || '').replace(/^@/, '').trim()
+  if (!key) return 'https://x.com'
+  return `https://x.com/${encodeURIComponent(key)}`
+}
+
+/** Card blurb: prefer summary ≤40 chars; else compress detail. */
+export function cardSummary(p, limit = 40) {
+  const raw = (p?.summary || '').trim()
+  if (raw && raw.length <= limit) return raw
+  const src = raw || (p?.detail || p?.description || '')
+  const cleaned = String(src)
+    .replace(/https?:\/\/\S+/g, '')
+    .replace(/^求推荐[:：]?\s*/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+  if (cleaned.length <= limit) return cleaned
+  const first = cleaned.split(/[。！？\n]/)[0]?.trim() || cleaned
+  if (first.length >= 8 && first.length <= limit) return first
+  const cut = cleaned.slice(0, limit)
+  for (const sep of ['，', '、', ',', ' ']) {
+    const i = cut.lastIndexOf(sep)
+    if (i >= 16) return cut.slice(0, i).replace(/[，、,\s]+$/, '')
+  }
+  return cut.replace(/[，、,\s]+$/, '') + '…'
 }

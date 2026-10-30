@@ -3,8 +3,8 @@
   "title_zh": "乔木 AI 工具猎场",
   "source_post": "https://x.com/vista8/status/2115318655525523714",
   "source_author": "@vista8",
-  "updated_at": "2026-10-30T09:40:01.395423+08:00",
-  "updated_at_label": "2026-10-30 09:40 Asia/Shanghai",
+  "updated_at": "2026-10-30T09:51:51.002852+08:00",
+  "updated_at_label": "2026-10-30 09:51 Asia/Shanghai",
   "reply_count_reported": 115,
   "posts_fetched": 161,
   "product_count": 78,
@@ -37,7 +37,9 @@
         {
           "url": "https://x.com/CopperForgeAI/status/2115319997832839246",
           "likes": 18,
-          "bookmarks": 30
+          "bookmarks": 30,
+          "impressions": 1673,
+          "created_at": "2026-10-28T05:49:22.000Z"
         }
       ],
       "image": "/images/products/通江-lab-3d-互动课程.jpg",
@@ -61,7 +63,23 @@
       "impressions": 1673,
       "like_count": 18,
       "impression_count": 1673,
-      "updated": "2026-10-30 09:36 Asia/Shanghai"
+      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "avatars": {
+        "CopperForgeAI": "/images/avatars/CopperForgeAI.jpg"
+      },
+      "listed_at": "2026-10-28T05:49:22.000Z",
+      "listed_at_label": "2026-10-28 13:49 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "教师、学生与教育内容创作者",
+      "capabilities": [
+        "3d互动教育课程开源，目前已经可以开源55门",
+        "54 门可交互的高中物理、化学、生物、地理 3D 实验课件，对齐中国课标与人教版教材",
+        "免费、可下载单文件 HTML、断网也能投屏上课",
+        "3d",
+        "biology",
+        "chemistry"
+      ],
+      "summary_full": "开源 3D 互动教育课程，已有 55+ 门可在线体验"
     },
     {
       "id": "26f44d05b3",
@@ -82,10 +100,12 @@
         {
           "url": "https://x.com/LufzzLiz/status/2115322758729216364",
           "likes": 10,
-          "bookmarks": 15
+          "bookmarks": 15,
+          "impressions": 866,
+          "created_at": "2026-10-28T06:00:21.000Z"
         }
       ],
-      "image": "/images/products/quickshot.png",
+      "image": "/images/products/quickshot.jpg",
       "gallery": [
         "/images/products/quickshot-1.png"
       ],
@@ -100,7 +120,21 @@
       "impressions": 866,
       "like_count": 10,
       "impression_count": 866,
-      "updated": "2026-10-30 09:36 Asia/Shanghai"
+      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "avatars": {
+        "LufzzLiz": "/images/avatars/LufzzLiz.jpg"
+      },
+      "listed_at": "2026-10-28T06:00:21.000Z",
+      "listed_at_label": "2026-10-28 14:00 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "需要本地桌面效率工具、截图/剪贴板/窗口类应用的用户",
+      "capabilities": [
+        "quickshot ：一款优雅的截图软件😄",
+        "悬停识别窗口，单击即截",
+        "标注、美化、拼接，全部在你的电脑上完成",
+        "免费开源，支持 macOS 与 Windows"
+      ],
+      "summary_full": "一款优雅的截图软件"
     },
     {
       "id": "8286cde673",
@@ -121,7 +155,9 @@
         {
           "url": "https://x.com/cgnot996/status/2115320074383053047",
           "likes": 13,
-          "bookmarks": 12
+          "bookmarks": 12,
+          "impressions": 1517,
+          "created_at": "2026-10-28T05:49:41.000Z"
         }
       ],
       "image": "/images/products/grok-bot-clipper.jpg",
@@ -139,7 +175,21 @@
       "impressions": 1517,
       "like_count": 13,
       "impression_count": 1517,
-      "updated": "2026-10-30 09:36 Asia/Shanghai"
+      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "avatars": {
+        "cgnot996": "/images/avatars/cgnot996.jpg"
+      },
+      "listed_at": "2026-10-28T05:49:41.000Z",
+      "listed_at_label": "2026-10-28 13:49 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "在 IDE、浏览器或 Agent 里扩展能力的开发者与创作者",
+      "capabilities": [
+        "我开发的 Grok Bot 浏览器插件 你在浏览器看到的内容都可以共享给指定的 Bot",
+        "Grok Bot Clipper 是铁柱AGI 独立开发的非官方第三方扩展",
+        "你可以把网页选区、正文、截图、社媒内容和文件收进材料篮，发给自己的 Grok Bot 并在侧栏查看回复与追问",
+        "支持 Chrome、Edge 与 Firefox，提供实操演示视频和安装包下载"
+      ],
+      "summary_full": "浏览器插件：把网页内容共享给指定 Grok Bot"
     },
     {
       "id": "f09be79acf",
@@ -160,7 +210,9 @@
         {
           "url": "https://x.com/berryxia/status/2115327779327844430",
           "likes": 4,
-          "bookmarks": 12
+          "bookmarks": 12,
+          "impressions": 987,
+          "created_at": "2026-10-28T06:20:18.000Z"
         }
       ],
       "image": "/images/products/digital-human-koubo.jpg",
@@ -179,7 +231,19 @@
       "impressions": 987,
       "like_count": 4,
       "impression_count": 987,
-      "updated": "2026-10-30 09:36 Asia/Shanghai"
+      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "avatars": {
+        "berryxia": "/images/avatars/berryxia.jpg"
+      },
+      "listed_at": "2026-10-28T06:20:18.000Z",
+      "listed_at_label": "2026-10-28 14:20 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "我来一个我这几天比较火热的一键支出数字人口播多种风格和模板直接用，免费开源，欢迎体验和交流：",
+        "TypeScript"
+      ],
+      "summary_full": "一键支出数字人口播，多种风格模板，免费开源"
     },
     {
       "id": "8c8659033f",
@@ -200,7 +264,9 @@
         {
           "url": "https://x.com/vista8/status/2115319209437872246",
           "likes": 11,
-          "bookmarks": 7
+          "bookmarks": 7,
+          "impressions": 3762,
+          "created_at": "2026-10-28T05:46:14.000Z"
         }
       ],
       "image": "/images/products/raycast-ai.jpg",
@@ -216,7 +282,19 @@
       "impressions": 3762,
       "like_count": 11,
       "impression_count": 3762,
-      "updated": "2026-10-30 09:36 Asia/Shanghai"
+      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "avatars": {
+        "vista8": "/images/avatars/vista8.jpg"
+      },
+      "listed_at": "2026-10-28T05:46:14.000Z",
+      "listed_at_label": "2026-10-28 13:46 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "在 IDE、浏览器或 Agent 里扩展能力的开发者与创作者",
+      "capabilities": [
+        "自己先来，订阅了三年的工具 Raycast AI：",
+        "内置几乎所有顶级模型，快捷键对话，比打开 Agent 方便，有丰富的生态，安装了能替代一堆小工具，比如调整窗口、语音转写等"
+      ],
+      "summary_full": "订阅三年的启动器：内置顶级模型、快捷键对话、窗口/语音等丰富扩展生态"
     },
     {
       "id": "ee6be2b605",
@@ -237,10 +315,12 @@
         {
           "url": "https://x.com/mamba0805/status/2115363392219480155",
           "likes": 4,
-          "bookmarks": 4
+          "bookmarks": 4,
+          "impressions": 289,
+          "created_at": "2026-10-28T08:41:48.000Z"
         }
       ],
-      "image": "/images/products/书签管理器.png",
+      "image": "/images/products/书签管理器.jpg",
       "gallery": null,
       "image_note": null,
       "tags": [
@@ -253,7 +333,19 @@
       "impressions": 289,
       "like_count": 4,
       "impression_count": 289,
-      "updated": "2026-10-30 09:36 Asia/Shanghai"
+      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "avatars": {
+        "mamba0805": "/images/avatars/mamba0805.jpg"
+      },
+      "listed_at": "2026-10-28T08:41:48.000Z",
+      "listed_at_label": "2026-10-28 16:41 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "Vibe coding 了一款简单好用的书签管理器",
+        "把 Chrome / Edge 书签变成一页极简书签墙：拼音搜索、弹窗置顶、Chrome 原生书签同步、新标签页开关、网页预览"
+      ],
+      "summary_full": "Vibe coding 的简单好用书签管理器"
     },
     {
       "id": "2bb8c0209e",
@@ -274,12 +366,14 @@
         {
           "url": "https://x.com/bbkirstry/status/2115325767462875539",
           "likes": 5,
-          "bookmarks": 3
+          "bookmarks": 3,
+          "impressions": 451,
+          "created_at": "2026-10-28T06:12:18.000Z"
         }
       ],
-      "image": "/images/products/赛博小晚.svg",
+      "image": "/images/products/赛博小晚.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "插件 / Skill"
       ],
@@ -290,7 +384,16 @@
       "impressions": 451,
       "like_count": 5,
       "impression_count": 451,
-      "updated": "2026-10-30 09:36 Asia/Shanghai"
+      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "avatars": {
+        "bbkirstry": "/images/avatars/bbkirstry.jpg"
+      },
+      "listed_at": "2026-10-28T06:12:18.000Z",
+      "listed_at_label": "2026-10-28 14:12 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "在 IDE、浏览器或 Agent 里扩展能力的开发者与创作者",
+      "capabilities": null,
+      "summary_full": "把思考方式与工作经验蒸馏成 Skill / Grok Bot 人设"
     },
     {
       "id": "729469c54d",
@@ -311,7 +414,9 @@
         {
           "url": "https://x.com/maqibin/status/2115449069435002964",
           "likes": 3,
-          "bookmarks": 4
+          "bookmarks": 4,
+          "impressions": 312,
+          "created_at": "2026-10-28T14:22:15.000Z"
         }
       ],
       "image": "/images/products/wencard.jpg",
@@ -329,7 +434,21 @@
       "impressions": 312,
       "like_count": 3,
       "impression_count": 312,
-      "updated": "2026-10-30 09:36 Asia/Shanghai"
+      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "avatars": {
+        "maqibin": "/images/avatars/maqibin.png"
+      },
+      "listed_at": "2026-10-28T14:22:15.000Z",
+      "listed_at_label": "2026-10-28 22:22 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "专注AI图文，大半年时间做的产品",
+        "输入内容，AI 自动提炼重点并排版成图文",
+        "生成后文字、图片、贴纸与纸张仍可编辑",
+        "适合小红书笔记、公众号配图、知识卡片等内容创作"
+      ],
+      "summary_full": "专注 AI 图文创作的产品，做了大半年"
     },
     {
       "id": "1beab11ca7",
@@ -350,10 +469,12 @@
         {
           "url": "https://x.com/kkkeric_ai/status/2115441448367898834",
           "likes": 0,
-          "bookmarks": 5
+          "bookmarks": 5,
+          "impressions": 96,
+          "created_at": "2026-10-28T13:51:58.000Z"
         }
       ],
-      "image": "/images/products/本地无限画布剪辑-2.png",
+      "image": "/images/products/本地无限画布剪辑.jpg",
       "gallery": null,
       "image_note": null,
       "tags": [
@@ -372,13 +493,29 @@
       "impressions": 96,
       "like_count": 0,
       "impression_count": 96,
-      "updated": "2026-10-30 09:36 Asia/Shanghai"
+      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "avatars": {
+        "kkkeric_ai": "/images/avatars/kkkeric_ai.jpg"
+      },
+      "listed_at": "2026-10-28T13:51:58.000Z",
+      "listed_at_label": "2026-10-28 21:51 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "需要本地桌面效率工具、截图/剪贴板/窗口类应用的用户",
+      "capabilities": [
+        "本地开源版本无限画布，支持根据时间线剪辑，所有资产全部保留在本地便于项目管理",
+        "ai-canvas",
+        "ai-image-generation",
+        "ai-video-generation",
+        "beatapi",
+        "canvas"
+      ],
+      "summary_full": "本地开源无限画布，按时间线剪辑，资产留在本地"
     },
     {
       "id": "03b45db3bd",
       "name": "Vibe 3D 视频引擎",
       "slug": "vibe-3d-视频引擎",
-      "summary": "开源视频生成引擎，融合 Anatomy 与 Hyperframes，Vibe Coding 生成 3D 视频",
+      "summary": "开源视频生成引擎，融合 Anatomy 与 Hyperframes",
       "detail": "开源一个视频生成引擎,深度融合与 Anatomy和Hyperframes两大开源生态，通过Vibe Coding生成3D视频\n\nCompiler-driven isometric video generator powered by HyperFrames &amp; Anatomy. Turn teardown scripts into explainer videos via code, SVGs, and acoustic time-alignment. - laowang5/anatomy-hyperfram...",
       "category": "other",
       "url": "https://github.com/laowang5/anatomy-hyperframes-video",
@@ -393,10 +530,12 @@
         {
           "url": "https://x.com/AgentWangCN/status/2115430989971530180",
           "likes": 2,
-          "bookmarks": 4
+          "bookmarks": 4,
+          "impressions": 316,
+          "created_at": "2026-10-28T13:10:25.000Z"
         }
       ],
-      "image": "/images/products/vibe-3d-视频引擎-1.png",
+      "image": "/images/products/vibe-3d-视频引擎.jpg",
       "gallery": null,
       "image_note": null,
       "tags": [
@@ -415,7 +554,23 @@
       "impressions": 316,
       "like_count": 2,
       "impression_count": 316,
-      "updated": "2026-10-30 09:36 Asia/Shanghai"
+      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "avatars": {
+        "AgentWangCN": "/images/avatars/AgentWangCN.jpg"
+      },
+      "listed_at": "2026-10-28T13:10:25.000Z",
+      "listed_at_label": "2026-10-28 21:10 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "开源一个视频生成引擎,深度融合与 Anatomy和Hyperframes两大开源生态，通过Vibe Coding生成3D视频",
+        "Compiler-driven isometric video generator powered by HyperFrames &amp",
+        "agentic-workflow",
+        "anatomy",
+        "code-to-video",
+        "explainer-video"
+      ],
+      "summary_full": "开源视频生成引擎，融合 Anatomy 与 Hyperframes，Vibe Coding 生成 3D 视频"
     },
     {
       "id": "8a3179ebe1",
@@ -436,10 +591,12 @@
         {
           "url": "https://x.com/CatCatMuse/status/2115371661658927254",
           "likes": 1,
-          "bookmarks": 4
+          "bookmarks": 4,
+          "impressions": 256,
+          "created_at": "2026-10-28T09:14:40.000Z"
         }
       ],
-      "image": "/images/products/摸鱼背单词输入法.png",
+      "image": "/images/products/摸鱼背单词输入法.jpg",
       "gallery": [
         "/images/products/摸鱼背单词输入法-1.png"
       ],
@@ -454,7 +611,18 @@
       "impressions": 256,
       "like_count": 1,
       "impression_count": 256,
-      "updated": "2026-10-30 09:36 Asia/Shanghai"
+      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "avatars": {
+        "CatCatMuse": "/images/avatars/CatCatMuse.jpg"
+      },
+      "listed_at": "2026-10-28T09:14:40.000Z",
+      "listed_at_label": "2026-10-28 17:14 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "教师、学生与教育内容创作者",
+      "capabilities": [
+        "做了款伪装成输入法的摸鱼背单词应用 😎 蹭一下词光的热度，可以把词光雅思的资源导进去学习"
+      ],
+      "summary_full": "伪装成输入法的摸鱼背单词应用，可导入词光雅思资源"
     },
     {
       "id": "c93cc6fe71",
@@ -475,7 +643,9 @@
         {
           "url": "https://x.com/RookieRicardoR/status/2115321099118682120",
           "likes": 3,
-          "bookmarks": 3
+          "bookmarks": 3,
+          "impressions": 1086,
+          "created_at": "2026-10-28T05:53:45.000Z"
         }
       ],
       "image": "/images/products/剪贴板-截图套件.jpg",
@@ -491,7 +661,18 @@
       "impressions": 1086,
       "like_count": 3,
       "impression_count": 1086,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "RookieRicardoR": "/images/avatars/RookieRicardoR.jpg"
+      },
+      "listed_at": "2026-10-28T05:53:45.000Z",
+      "listed_at_label": "2026-10-28 13:53 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "需要本地桌面效率工具、截图/剪贴板/窗口类应用的用户",
+      "capabilities": [
+        "我自己做了一个剪切板和一个截图软件，"
+      ],
+      "summary_full": "自研剪切板与截图软件，截图带自适应居中补偿"
     },
     {
       "id": "c6ed300ef7",
@@ -512,12 +693,14 @@
         {
           "url": "https://x.com/victor_cheng_42/status/2115323803685585120",
           "likes": 2,
-          "bookmarks": 3
+          "bookmarks": 3,
+          "impressions": 334,
+          "created_at": "2026-10-28T06:04:30.000Z"
         }
       ],
-      "image": "/images/products/旅行规划-skill.svg",
+      "image": "/images/products/旅行规划-skill.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "插件 / Skill"
       ],
@@ -528,7 +711,18 @@
       "impressions": 334,
       "like_count": 2,
       "impression_count": 334,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "victor_cheng_42": "/images/avatars/victor_cheng_42.jpg"
+      },
+      "listed_at": "2026-10-28T06:04:30.000Z",
+      "listed_at_label": "2026-10-28 14:04 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "在 IDE、浏览器或 Agent 里扩展能力的开发者与创作者",
+      "capabilities": [
+        "自荐一个skill，补上个人Agent在国内的旅行规划方面的数据获取能力"
+      ],
+      "summary_full": "补上个人 Agent 在国内旅行规划的数据获取能力"
     },
     {
       "id": "e030b5d910",
@@ -549,12 +743,14 @@
         {
           "url": "https://x.com/Zkm211/status/2115335505399435339",
           "likes": 1,
-          "bookmarks": 3
+          "bookmarks": 3,
+          "impressions": 237,
+          "created_at": "2026-10-28T06:51:00.000Z"
         }
       ],
-      "image": "/images/products/ai-健身应用.svg",
+      "image": "/images/products/ai-健身应用.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "其他"
       ],
@@ -565,13 +761,26 @@
       "impressions": 237,
       "like_count": 1,
       "impression_count": 237,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "Zkm211": "/images/avatars/Zkm211.jpg"
+      },
+      "listed_at": "2026-10-28T06:51:00.000Z",
+      "listed_at_label": "2026-10-28 14:51 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "用过的人几乎都付费订阅了",
+        "长文里记录了开发心路历程",
+        "欢迎有在关注AI+薄肌的朋友们试用～"
+      ],
+      "summary_full": "真正的 AI 健身应用，用过的人几乎都付费订阅"
     },
     {
       "id": "0f26d1bd48",
       "name": "DeepSeek Harness 桌面端",
       "slug": "deepseek-harness-桌面端",
-      "summary": "DeepSeek Harness + Grok Bot 协作的 Windows 桌面应用",
+      "summary": "DeepSeek Harness + Grok Bot 协作的 Windows",
       "detail": "老师，那我来介绍一下我最近做的东东，DEEPSEEK版Grok Bot： \n\n == DeepSeek Harness + Grok Bot ！  \n\n 是一款基于 DeepSeek Harness、以 Bot 团队协作为核心的独立 Windows 桌面应用。",
       "category": "desktop",
       "url": "https://katcats.ai/",
@@ -586,12 +795,14 @@
         {
           "url": "https://x.com/katcat_AI/status/2115354326285832473",
           "likes": 2,
-          "bookmarks": 2
+          "bookmarks": 2,
+          "impressions": 451,
+          "created_at": "2026-10-28T08:05:47.000Z"
         }
       ],
-      "image": "/images/products/deepseek-harness-桌面端.svg",
+      "image": "/images/products/deepseek-harness-桌面端.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "桌面应用"
       ],
@@ -602,7 +813,20 @@
       "impressions": 451,
       "like_count": 2,
       "impression_count": 451,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "katcat_AI": "/images/avatars/katcat_AI.jpg"
+      },
+      "listed_at": "2026-10-28T08:05:47.000Z",
+      "listed_at_label": "2026-10-28 16:05 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "需要本地桌面效率工具、截图/剪贴板/窗口类应用的用户",
+      "capabilities": [
+        "老师，那我来介绍一下我最近做的东东，DEEPSEEK版Grok Bot：",
+        "== DeepSeek Harness + Grok Bot ！",
+        "是一款基于 DeepSeek Harness、以 Bot 团队协作为核心的独立 Windows 桌面应用"
+      ],
+      "summary_full": "DeepSeek Harness + Grok Bot 协作的 Windows 桌面应用"
     },
     {
       "id": "4cc49b01b2",
@@ -623,10 +847,12 @@
         {
           "url": "https://x.com/mmlong8/status/2115357752944218381",
           "likes": 1,
-          "bookmarks": 2
+          "bookmarks": 2,
+          "impressions": 228,
+          "created_at": "2026-10-28T08:19:24.000Z"
         }
       ],
-      "image": "/images/products/自用输入法改造.png",
+      "image": "/images/products/自用输入法改造.jpg",
       "gallery": [
         "/images/products/自用输入法改造-1.png"
       ],
@@ -642,7 +868,18 @@
       "impressions": 228,
       "like_count": 1,
       "impression_count": 228,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "mmlong8": "/images/avatars/mmlong8.jpg"
+      },
+      "listed_at": "2026-10-28T08:19:24.000Z",
+      "listed_at_label": "2026-10-28 16:19 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "在 IDE、浏览器或 Agent 里扩展能力的开发者与创作者",
+      "capabilities": [
+        "C++"
+      ],
+      "summary_full": "改造的自用输入法"
     },
     {
       "id": "5cc8b3d3a7",
@@ -663,10 +900,12 @@
         {
           "url": "https://x.com/RainhappyL/status/2115425581139628433",
           "likes": 1,
-          "bookmarks": 2
+          "bookmarks": 2,
+          "impressions": 61,
+          "created_at": "2026-10-28T12:48:55.000Z"
         }
       ],
-      "image": "/images/products/灵感视频工作台.png",
+      "image": "/images/products/灵感视频工作台.jpg",
       "gallery": [
         "/images/products/灵感视频工作台-1.png"
       ],
@@ -682,7 +921,20 @@
       "impressions": 61,
       "like_count": 1,
       "impression_count": 61,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "RainhappyL": "/images/avatars/RainhappyL.jpg"
+      },
+      "listed_at": "2026-10-28T12:48:55.000Z",
+      "listed_at_label": "2026-10-28 20:48 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "专门做的一个视频 agent 工作台，想去简化整个视频制作的过程，目前基本流程是闭环的，有问题欢迎提 issue，",
+        "Inspiration 创作工作台：连接故事、角色、素材、自由画布与剪辑，让灵感成为作品",
+        "Python"
+      ],
+      "summary_full": "视频 Agent 工作台，简化视频制作闭环流程"
     },
     {
       "id": "22bfa1633b",
@@ -703,12 +955,14 @@
         {
           "url": "https://x.com/Alex_Wong1995/status/2115425389992693923",
           "likes": 1,
-          "bookmarks": 2
+          "bookmarks": 2,
+          "impressions": 62,
+          "created_at": "2026-10-28T12:48:10.000Z"
         }
       ],
-      "image": "/images/products/专属提词器.svg",
+      "image": "/images/products/专属提词器.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "桌面应用"
       ],
@@ -719,7 +973,21 @@
       "impressions": 62,
       "like_count": 1,
       "impression_count": 62,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "Alex_Wong1995": "/images/avatars/Alex_Wong1995.jpg"
+      },
+      "listed_at": "2026-10-28T12:48:10.000Z",
+      "listed_at_label": "2026-10-28 20:48 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "需要本地桌面效率工具、截图/剪贴板/窗口类应用的用户",
+      "capabilities": [
+        "爆肝三天 vibe  coding 的 自己的专属提词器",
+        "1.将手机变成wIndows电脑的高",
+        "2.利用本地模型智能滑动提词器",
+        "3.支持连接obs模式或悬浮在原生摄像头上使用的提词器"
+      ],
+      "summary_full": "手机当高清摄像头 + 本地模型智能滑动提词，支持 OBS"
     },
     {
       "id": "652e82fe67",
@@ -740,7 +1008,9 @@
         {
           "url": "https://x.com/lokichris2046/status/2115342572994609537",
           "likes": 1,
-          "bookmarks": 2
+          "bookmarks": 2,
+          "impressions": 409,
+          "created_at": "2026-10-28T07:19:05.000Z"
         }
       ],
       "image": "/images/products/loki-ebook-converter.jpg",
@@ -759,7 +1029,20 @@
       "impressions": 409,
       "like_count": 1,
       "impression_count": 409,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "lokichris2046": "/images/avatars/lokichris2046.jpg"
+      },
+      "listed_at": "2026-10-28T07:19:05.000Z",
+      "listed_at_label": "2026-10-28 15:19 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "需要本地桌面效率工具、截图/剪贴板/窗口类应用的用户",
+      "capabilities": [
+        "一个用 Cola 做的简洁 macOS 电子书格式转换工具，基于 Calibre，支持批量转换、进度显示和自定义保存位置",
+        "loki2046-mao/loki-ebook-converter",
+        "HTML"
+      ],
+      "summary_full": "基于 Calibre 的 macOS 批量电子书格式转换工具"
     },
     {
       "id": "6223aec02c",
@@ -780,10 +1063,12 @@
         {
           "url": "https://x.com/y3uc1en/status/2115388007406797059",
           "likes": 0,
-          "bookmarks": 2
+          "bookmarks": 2,
+          "impressions": 179,
+          "created_at": "2026-10-28T10:19:37.000Z"
         }
       ],
-      "image": "/images/products/mac-刘海灵动岛.png",
+      "image": "/images/products/mac-刘海灵动岛.jpg",
       "gallery": [
         "/images/products/mac-刘海灵动岛-1.png"
       ],
@@ -804,7 +1089,23 @@
       "impressions": 179,
       "like_count": 0,
       "impression_count": 179,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "y3uc1en": "/images/avatars/y3uc1en.jpg"
+      },
+      "listed_at": "2026-10-28T10:19:37.000Z",
+      "listed_at_label": "2026-10-28 18:19 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "需要本地桌面效率工具、截图/剪贴板/窗口类应用的用户",
+      "capabilities": [
+        "Mac刘海灵动岛工具",
+        "clipboard-manager",
+        "drag-and-drop",
+        "go",
+        "macos",
+        "menubar-app"
+      ],
+      "summary_full": "Mac 刘海灵动岛工具"
     },
     {
       "id": "43d2542a92",
@@ -825,7 +1126,9 @@
         {
           "url": "https://x.com/yangsir_ai/status/2115328575335444824",
           "likes": 0,
-          "bookmarks": 2
+          "bookmarks": 2,
+          "impressions": 245,
+          "created_at": "2026-10-28T06:23:27.000Z"
         }
       ],
       "image": "/images/products/horsemd.jpg",
@@ -844,7 +1147,19 @@
       "impressions": 245,
       "like_count": 0,
       "impression_count": 245,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "yangsir_ai": "/images/avatars/yangsir_ai.jpg"
+      },
+      "listed_at": "2026-10-28T06:23:27.000Z",
+      "listed_at_label": "2026-10-28 14:23 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "一个优美的markdown编辑器 多端适配，包括安卓、iOS",
+        "JavaScript"
+      ],
+      "summary_full": "优美的多端 Markdown 编辑器（安卓 / iOS 等）"
     },
     {
       "id": "b2d21e771d",
@@ -865,10 +1180,12 @@
         {
           "url": "https://x.com/AgiRay1015/status/2115324363935453601",
           "likes": 2,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 407,
+          "created_at": "2026-10-28T06:06:43.000Z"
         }
       ],
-      "image": "/images/products/echo.png",
+      "image": "/images/products/echo.jpg",
       "gallery": [
         "/images/products/echo-3.png"
       ],
@@ -884,7 +1201,22 @@
       "impressions": 407,
       "like_count": 2,
       "impression_count": 407,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "AgiRay1015": "/images/avatars/AgiRay1015.jpg"
+      },
+      "listed_at": "2026-10-28T06:06:43.000Z",
+      "listed_at_label": "2026-10-28 14:06 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "需要本地桌面效率工具、截图/剪贴板/窗口类应用的用户",
+      "capabilities": [
+        "感恩乔帮主，自荐 vibe 的 mac 智能剪贴板 APP",
+        "Echo 是一款原生 Mac 菜单栏剪贴板工具，从找回内容，到整理、提问，再到粘贴使用，在同一个面板里完成，目前支持：",
+        "剪贴板历史：自动记录文本、图片和 Finder 文件，快捷键呼出，输入关键词即可查找",
+        "轻量 macOS 剪贴板管理器",
+        "Swift"
+      ],
+      "summary_full": "原生 Mac 菜单栏智能剪贴板：历史检索、整理、提问、粘贴一体"
     },
     {
       "id": "55e4a3dba4",
@@ -905,12 +1237,14 @@
         {
           "url": "https://x.com/Noctropy/status/2115490763861794902",
           "likes": 0,
-          "bookmarks": 2
+          "bookmarks": 2,
+          "impressions": 87,
+          "created_at": "2026-10-28T17:07:56.000Z"
         }
       ],
-      "image": "/images/products/cad-blender-ai-工作台.svg",
+      "image": "/images/products/cad-blender-ai-工作台.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "Coding Agent"
       ],
@@ -921,7 +1255,16 @@
       "impressions": 87,
       "like_count": 0,
       "impression_count": 87,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "Noctropy": "/images/avatars/Noctropy.jpg"
+      },
+      "listed_at": "2026-10-28T17:07:56.000Z",
+      "listed_at_label": "2026-10-29 01:07 Asia/Shanghai",
+      "listed_at_day": "2026-10-29",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": null,
+      "summary_full": "面向设计师的 AI 辅助工作台，研究 CAD 图纸识别到 Blender 建模"
     },
     {
       "id": "282be1c87e",
@@ -942,10 +1285,12 @@
         {
           "url": "https://x.com/rya_nooo/status/2115417767973191754",
           "likes": 0,
-          "bookmarks": 2
+          "bookmarks": 2,
+          "impressions": 145,
+          "created_at": "2026-10-28T12:17:53.000Z"
         }
       ],
-      "image": "/images/products/ai-资产管家-3.png",
+      "image": "/images/products/ai-资产管家.jpg",
       "gallery": null,
       "image_note": null,
       "tags": [
@@ -959,7 +1304,18 @@
       "impressions": 145,
       "like_count": 0,
       "impression_count": 145,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "rya_nooo": "/images/avatars/rya_nooo.jpg"
+      },
+      "listed_at": "2026-10-28T12:17:53.000Z",
+      "listed_at_label": "2026-10-28 20:17 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "Rust"
+      ],
+      "summary_full": "维护 AI 资产：Skill 可见性锁定、跨 CLI/App 会话搜索"
     },
     {
       "id": "384898f304",
@@ -980,10 +1336,12 @@
         {
           "url": "https://x.com/looplj2/status/2115354527809548465",
           "likes": 1,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 257,
+          "created_at": "2026-10-28T08:06:35.000Z"
         }
       ],
-      "image": "/images/products/短剧创作工作台-3.png",
+      "image": "/images/products/短剧创作工作台.jpg",
       "gallery": null,
       "image_note": null,
       "tags": [
@@ -997,7 +1355,20 @@
       "impressions": 257,
       "like_count": 1,
       "impression_count": 257,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "looplj2": "/images/avatars/looplj2.jpg"
+      },
+      "listed_at": "2026-10-28T08:06:35.000Z",
+      "listed_at_label": "2026-10-28 16:06 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "那我也来自荐一下我的项目：",
+        "一站式短剧创作工作台，还在努力进化中，不过自己对这个 性能和UI 还是挺满意的",
+        "Dart"
+      ],
+      "summary_full": "一站式短剧创作工作台，性能与 UI 持续进化"
     },
     {
       "id": "f7a46c2657",
@@ -1018,12 +1389,14 @@
         {
           "url": "https://x.com/canghe/status/2115450231324312019",
           "likes": 3,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 599,
+          "created_at": "2026-10-28T14:26:52.000Z"
         }
       ],
-      "image": "/images/products/wesight.svg",
+      "image": "/images/products/wesight.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "Coding Agent"
       ],
@@ -1034,7 +1407,18 @@
       "impressions": 599,
       "like_count": 3,
       "impression_count": 599,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "canghe": "/images/avatars/canghe.jpg"
+      },
+      "listed_at": "2026-10-28T14:26:52.000Z",
+      "listed_at_label": "2026-10-28 22:26 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "日常创作离不开@wesight_ai 了"
+      ],
+      "summary_full": "苍何的本地 CLI Agent 桌面控制台（日常创作离不开）"
     },
     {
       "id": "a2fd2b0864",
@@ -1055,12 +1439,14 @@
         {
           "url": "https://x.com/jasoninvest7/status/2115344635317076463",
           "likes": 1,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 240,
+          "created_at": "2026-10-28T07:27:16.000Z"
         }
       ],
-      "image": "/images/products/tinycast.svg",
+      "image": "/images/products/tinycast.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "插件 / Skill"
       ],
@@ -1071,7 +1457,18 @@
       "impressions": 240,
       "like_count": 1,
       "impression_count": 240,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "jasoninvest7": "/images/avatars/jasoninvest7.jpg"
+      },
+      "listed_at": "2026-10-28T07:27:16.000Z",
+      "listed_at_label": "2026-10-28 15:27 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "在 IDE、浏览器或 Agent 里扩展能力的开发者与创作者",
+      "capabilities": [
+        "我也是用了三年，今天换成了tinycast，raycast 2.0变得太臃肿了"
+      ],
+      "summary_full": "Raycast 替代选项，更轻量"
     },
     {
       "id": "25ec354009",
@@ -1092,12 +1489,14 @@
         {
           "url": "https://x.com/Last_Lighter/status/2115360151058440432",
           "likes": 1,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 324,
+          "created_at": "2026-10-28T08:28:56.000Z"
         }
       ],
-      "image": "/images/products/imagifly.svg",
+      "image": "/images/products/imagifly.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "其他"
       ],
@@ -1108,7 +1507,16 @@
       "impressions": 324,
       "like_count": 1,
       "impression_count": 324,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "Last_Lighter": "/images/avatars/Last_Lighter.jpg"
+      },
+      "listed_at": "2026-10-28T08:28:56.000Z",
+      "listed_at_label": "2026-10-28 16:28 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": null,
+      "summary_full": "自研生图生视频产品，适合 PPT / Banner / 小红书图"
     },
     {
       "id": "74c70ff266",
@@ -1129,10 +1537,12 @@
         {
           "url": "https://x.com/kouhualin/status/2115321371828052371",
           "likes": 1,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 1052,
+          "created_at": "2026-10-28T05:54:50.000Z"
         }
       ],
-      "image": "/images/products/dsh-mermaid-插件-2.png",
+      "image": "/images/products/dsh-mermaid-插件.jpg",
       "gallery": null,
       "image_note": null,
       "tags": [
@@ -1151,7 +1561,23 @@
       "impressions": 1052,
       "like_count": 1,
       "impression_count": 1052,
-      "updated": "2026-10-30 09:37 Asia/Shanghai"
+      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "avatars": {
+        "kouhualin": "/images/avatars/kouhualin.jpg"
+      },
+      "listed_at": "2026-10-28T05:54:50.000Z",
+      "listed_at_label": "2026-10-28 13:54 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "在 IDE、浏览器或 Agent 里扩展能力的开发者与创作者",
+      "capabilities": [
+        "DSH 插件 会话渲染 mermaid",
+        "deepseek-harness",
+        "diagram",
+        "dsh",
+        "dsh-plugin",
+        "markdown"
+      ],
+      "summary_full": "DSH 插件：会话渲染 Mermaid"
     },
     {
       "id": "f21205e661",
@@ -1172,10 +1598,12 @@
         {
           "url": "https://x.com/LiaoKong2024/status/2115481964073591206",
           "likes": 1,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 218,
+          "created_at": "2026-10-28T16:32:58.000Z"
         }
       ],
-      "image": "/images/products/atlasos-3.png",
+      "image": "/images/products/atlasos.jpg",
       "gallery": null,
       "image_note": null,
       "tags": [
@@ -1193,7 +1621,23 @@
       "impressions": 218,
       "like_count": 1,
       "impression_count": 218,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "LiaoKong2024": "/images/avatars/LiaoKong2024.jpg"
+      },
+      "listed_at": "2026-10-28T16:32:58.000Z",
+      "listed_at_label": "2026-10-29 00:32 Asia/Shanghai",
+      "listed_at_day": "2026-10-29",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "AtlasOS:无限画布开发工作台",
+        "aigc",
+        "cowork",
+        "terminal",
+        "workbench",
+        "TypeScript"
+      ],
+      "summary_full": "无限画布开发工作台"
     },
     {
       "id": "e48b173df2",
@@ -1214,12 +1658,14 @@
         {
           "url": "https://x.com/yubei2025/status/2115335600677273822",
           "likes": 0,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 230,
+          "created_at": "2026-10-28T06:51:22.000Z"
         }
       ],
-      "image": "/images/products/瑞幸取餐码小程序.svg",
+      "image": "/images/products/瑞幸取餐码小程序.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "其他"
       ],
@@ -1230,7 +1676,18 @@
       "impressions": 230,
       "like_count": 0,
       "impression_count": 230,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "yubei2025": "/images/avatars/yubei2025.jpg"
+      },
+      "listed_at": "2026-10-28T06:51:22.000Z",
+      "listed_at_label": "2026-10-28 14:51 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "AI Coding了一个瑞幸取餐码收集小程序"
+      ],
+      "summary_full": "AI Coding 做的瑞幸取餐码收集小程序"
     },
     {
       "id": "14e9ef42c8",
@@ -1251,12 +1708,14 @@
         {
           "url": "https://x.com/jakeybruce/status/2115336999309811933",
           "likes": 0,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 247,
+          "created_at": "2026-10-28T06:56:56.000Z"
         }
       ],
-      "image": "/images/products/灼米漫剧.svg",
+      "image": "/images/products/灼米漫剧.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "其他"
       ],
@@ -1267,7 +1726,18 @@
       "impressions": 247,
       "like_count": 0,
       "impression_count": 247,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "jakeybruce": "/images/avatars/jakeybruce.jpg"
+      },
+      "listed_at": "2026-10-28T06:56:56.000Z",
+      "listed_at_label": "2026-10-28 14:56 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "AI漫剧创作平台，专为漫剧生产企业开发，综合漫剧生产效率提升300%，功能丰富，以及专业的企业管理中台"
+      ],
+      "summary_full": "AI 漫剧创作平台与企业管理中台（不开源）"
     },
     {
       "id": "4fbc30f139",
@@ -1288,10 +1758,12 @@
         {
           "url": "https://x.com/lianthony292788/status/2115356989044015462",
           "likes": 0,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 192,
+          "created_at": "2026-10-28T08:16:22.000Z"
         }
       ],
-      "image": "/images/products/本地-html-编辑站.png",
+      "image": "/images/products/本地-html-编辑站.jpg",
       "gallery": [
         "/images/products/本地-html-编辑站-2.ico"
       ],
@@ -1306,7 +1778,18 @@
       "impressions": 192,
       "like_count": 0,
       "impression_count": 192,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "lianthony292788": "/images/avatars/lianthony292788.jpg"
+      },
+      "listed_at": "2026-10-28T08:16:22.000Z",
+      "listed_at_label": "2026-10-28 16:16 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "那我要推荐一个我自己做的网站  ，可以本地话html 编辑，做ppt 简历 等等"
+      ],
+      "summary_full": "可本地化 HTML 编辑，做 PPT / 简历等"
     },
     {
       "id": "d7f682f858",
@@ -1327,12 +1810,14 @@
         {
           "url": "https://x.com/drmrzhong/status/2115437638203449825",
           "likes": 0,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 182,
+          "created_at": "2026-10-28T13:36:50.000Z"
         }
       ],
-      "image": "/images/products/宝可梦学英语.svg",
+      "image": "/images/products/宝可梦学英语.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "教育"
       ],
@@ -1343,7 +1828,18 @@
       "impressions": 182,
       "like_count": 0,
       "impression_count": 182,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "drmrzhong": "/images/avatars/drmrzhong.jpg"
+      },
+      "listed_at": "2026-10-28T13:36:50.000Z",
+      "listed_at_label": "2026-10-28 21:36 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "教师、学生与教育内容创作者",
+      "capabilities": [
+        "前段时间做的, 给3-6岁宝宝家长用的宝可梦学英语产品, 给喜欢宝可梦的小朋友们实现训练家的愿望, 又能给小朋友磨耳朵"
+      ],
+      "summary_full": "给 3–6 岁宝宝家长的宝可梦学英语产品，磨耳朵 + 训练家愿望"
     },
     {
       "id": "7ef7689a99",
@@ -1364,12 +1860,14 @@
         {
           "url": "https://x.com/maomao000211/status/2115329125217100256",
           "likes": 0,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 196,
+          "created_at": "2026-10-28T06:25:39.000Z"
         }
       ],
-      "image": "/images/products/veil.svg",
+      "image": "/images/products/veil.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "桌面应用"
       ],
@@ -1380,7 +1878,19 @@
       "impressions": 196,
       "like_count": 0,
       "impression_count": 196,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "maomao000211": "/images/avatars/maomao000211.jpg"
+      },
+      "listed_at": "2026-10-28T06:25:39.000Z",
+      "listed_at_label": "2026-10-28 14:25 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "需要本地桌面效率工具、截图/剪贴板/窗口类应用的用户",
+      "capabilities": [
+        "我自己在用的：Veil，Mac 上开会/录屏的时候把后台窗口糊掉，只留当前这一个清楚",
+        "自己写的，天天开会前点一下，比每次手忙脚乱关窗口靠谱多了"
+      ],
+      "summary_full": "Mac 开会/录屏时把后台窗口糊掉，只留当前窗口清楚"
     },
     {
       "id": "83c31c01f9",
@@ -1401,12 +1911,14 @@
         {
           "url": "https://x.com/LauLauzhihao/status/2115342276721528933",
           "likes": 0,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 123,
+          "created_at": "2026-10-28T07:17:54.000Z"
         }
       ],
-      "image": "/images/products/silero-vad-whisper.svg",
+      "image": "/images/products/silero-vad-whisper.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "CLI"
       ],
@@ -1417,7 +1929,19 @@
       "impressions": 123,
       "like_count": 0,
       "impression_count": 123,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "LauLauzhihao": "/images/avatars/LauLauzhihao.jpg"
+      },
+      "listed_at": "2026-10-28T07:17:54.000Z",
+      "listed_at_label": "2026-10-28 15:17 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "习惯终端工作流、需要脚本化与管道组合的开发者",
+      "capabilities": [
+        "推荐silero-vad配Whisper的本地转写工作流",
+        "长播客先切出语音段再转写，适合整理访谈资料"
+      ],
+      "summary_full": "本地转写工作流：长播客先切语音段再转写"
     },
     {
       "id": "7c501e0d2e",
@@ -1438,10 +1962,12 @@
         {
           "url": "https://x.com/AkBanana4/status/2115371644877451627",
           "likes": 0,
-          "bookmarks": 1
+          "bookmarks": 1,
+          "impressions": 129,
+          "created_at": "2026-10-28T09:14:36.000Z"
         }
       ],
-      "image": "/images/products/cursor.png",
+      "image": "/images/products/cursor.jpg",
       "gallery": [
         "/images/products/cursor-1.png"
       ],
@@ -1456,7 +1982,21 @@
       "impressions": 129,
       "like_count": 0,
       "impression_count": 129,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "AkBanana4": "/images/avatars/AkBanana4.jpg"
+      },
+      "listed_at": "2026-10-28T09:14:36.000Z",
+      "listed_at_label": "2026-10-28 17:14 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "Cursor，偶尔配 Claude",
+        "真香的是把开会废话丢给它写成待办，人只用装忙点头",
+        "智能体旨在大幅提升您的工作效率，将创意变成代码",
+        "把任务交给 Cursor，加速开发"
+      ],
+      "summary_full": "主力 AI 编程 IDE；Custom Rules 可当团队规范"
     },
     {
       "id": "e4dd074505",
@@ -1477,7 +2017,9 @@
         {
           "url": "https://x.com/chessunyan/status/2115330323856900115",
           "likes": 1,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 28,
+          "created_at": "2026-10-28T06:30:24.000Z"
         }
       ],
       "image": "/images/products/雷霆小游戏.jpg",
@@ -1495,7 +2037,19 @@
       "impressions": 28,
       "like_count": 1,
       "impression_count": 28,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "chessunyan": "/images/avatars/chessunyan.jpg"
+      },
+      "listed_at": "2026-10-28T06:30:24.000Z",
+      "listed_at_label": "2026-10-28 14:30 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "游戏开发+素材资产 全由AI制作的一个雷霆小游戏哈哈哈哈",
+        "ChatGPT vs Claude vs DeepSeek vs Grok！模型大乱斗，直播间格斗 PK，浏览器打开就能和好友联机"
+      ],
+      "summary_full": "游戏开发+素材资产全由 AI 制作的雷霆小游戏"
     },
     {
       "id": "3f297384fc",
@@ -1516,12 +2070,14 @@
         {
           "url": "https://x.com/itsKairoSolo/status/2115479193219899437",
           "likes": 1,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 41,
+          "created_at": "2026-10-28T16:21:58.000Z"
         }
       ],
-      "image": "/images/products/微信公众号排版.svg",
+      "image": "/images/products/微信公众号排版.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "其他"
       ],
@@ -1532,7 +2088,19 @@
       "impressions": 41,
       "like_count": 1,
       "impression_count": 41,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "itsKairoSolo": "/images/avatars/itsKairoSolo.jpg"
+      },
+      "listed_at": "2026-10-28T16:21:58.000Z",
+      "listed_at_label": "2026-10-29 00:21 Asia/Shanghai",
+      "listed_at_day": "2026-10-29",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "微信公众号排版网站，欢迎各位使用提出意见",
+        "以本地优先方式完成公众号文章排版"
+      ],
+      "summary_full": "微信公众号排版网站"
     },
     {
       "id": "e5aec7471d",
@@ -1553,12 +2121,14 @@
         {
           "url": "https://x.com/SamyeeiYu/status/2115458414726009251",
           "likes": 1,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 142,
+          "created_at": "2026-10-28T14:59:24.000Z"
         }
       ],
-      "image": "/images/products/小爱-codex.svg",
+      "image": "/images/products/小爱-codex.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "Coding Agent"
       ],
@@ -1569,7 +2139,18 @@
       "impressions": 142,
       "like_count": 1,
       "impression_count": 142,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "SamyeeiYu": "/images/avatars/SamyeeiYu.jpg"
+      },
+      "listed_at": "2026-10-28T14:59:24.000Z",
+      "listed_at_label": "2026-10-28 22:59 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "小爱音箱连接codex"
+      ],
+      "summary_full": "小爱音箱连接 Codex，语音推进项目 / 点外卖流程"
     },
     {
       "id": "1c41cb5588",
@@ -1590,12 +2171,14 @@
         {
           "url": "https://x.com/yinpengxuan/status/2115336225070752096",
           "likes": 1,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 134,
+          "created_at": "2026-10-28T06:53:51.000Z"
         }
       ],
-      "image": "/images/products/workbuddy.svg",
+      "image": "/images/products/workbuddy.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "Coding Agent"
       ],
@@ -1606,7 +2189,19 @@
       "impressions": 134,
       "like_count": 1,
       "impression_count": 134,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "yinpengxuan": "/images/avatars/yinpengxuan.jpg"
+      },
+      "listed_at": "2026-10-28T06:53:51.000Z",
+      "listed_at_label": "2026-10-28 14:53 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "翻了一圈评论，剪贴板和截图工具就撞了好几个，大家 vibe coding 先解决的果然都是自己每天被烦到的那几下",
+        "我投 Cursor 和 Grok，WorkBuddy 也用过"
+      ],
+      "summary_full": "社区用过的 WorkBuddy（与 Cursor / Grok 并列）"
     },
     {
       "id": "97c9f04be4",
@@ -1627,10 +2222,12 @@
         {
           "url": "https://x.com/Decemberww12/status/2115378377129599119",
           "likes": 1,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 52,
+          "created_at": "2026-10-28T09:41:21.000Z"
         }
       ],
-      "image": "/images/products/videobee.png",
+      "image": "/images/products/videobee.jpg",
       "gallery": [
         "/images/products/videobee-2.ico"
       ],
@@ -1645,7 +2242,19 @@
       "impressions": 52,
       "like_count": 1,
       "impression_count": 52,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "Decemberww12": "/images/avatars/Decemberww12.jpg"
+      },
+      "listed_at": "2026-10-28T09:41:21.000Z",
+      "listed_at_label": "2026-10-28 17:41 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "分享一个可以先存着的冷门小工具",
+        "VideoBee：、转换格式、裁剪片段，免注册、无水印"
+      ],
+      "summary_full": "在线压缩/转换/裁剪视频，免注册无水印的冷门急救工具"
     },
     {
       "id": "cd43d173d6",
@@ -1666,12 +2275,14 @@
         {
           "url": "https://x.com/LufzzLiz/status/2115612853462073627",
           "likes": 1,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 39,
+          "created_at": "2026-10-29T01:13:05.000Z"
         }
       ],
-      "image": "/images/products/tokei.svg",
+      "image": "/images/products/tokei.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "CLI"
       ],
@@ -1682,7 +2293,18 @@
       "impressions": 39,
       "like_count": 1,
       "impression_count": 39,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "LufzzLiz": "/images/avatars/LufzzLiz.jpg"
+      },
+      "listed_at": "2026-10-29T01:13:05.000Z",
+      "listed_at_label": "2026-10-29 09:13 Asia/Shanghai",
+      "listed_at_day": "2026-10-29",
+      "who_for": "习惯终端工作流、需要脚本化与管道组合的开发者",
+      "capabilities": [
+        "考虑到有些harness会清理，tokei 会备份用户使用token的统计数据，也是在本地"
+      ],
+      "summary_full": "自研 token 用量本地统计工具，可备份 harness 清理前的数据"
     },
     {
       "id": "7a3b56c6a8",
@@ -1703,12 +2325,14 @@
         {
           "url": "https://x.com/dontry018/status/2115325659354665211",
           "likes": 1,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 332,
+          "created_at": "2026-10-28T06:11:52.000Z"
         }
       ],
-      "image": "/images/products/orca-codexbar.svg",
+      "image": "/images/products/orca-codexbar.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "CLI"
       ],
@@ -1719,7 +2343,18 @@
       "impressions": 332,
       "like_count": 1,
       "impression_count": 332,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "dontry018": "/images/avatars/dontry018.jpg"
+      },
+      "listed_at": "2026-10-28T06:11:52.000Z",
+      "listed_at_label": "2026-10-28 14:11 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "习惯终端工作流、需要脚本化与管道组合的开发者",
+      "capabilities": [
+        "orca， codexbar"
+      ],
+      "summary_full": "社区推荐的编码相关工具组合"
     },
     {
       "id": "21a16d41f2",
@@ -1740,12 +2375,14 @@
         {
           "url": "https://x.com/FatsugarD/status/2115338867993874840",
           "likes": 1,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 707,
+          "created_at": "2026-10-28T07:04:21.000Z"
         }
       ],
-      "image": "/images/products/multica.svg",
+      "image": "/images/products/multica.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "其他"
       ],
@@ -1756,13 +2393,22 @@
       "impressions": 707,
       "like_count": 1,
       "impression_count": 707,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "FatsugarD": "/images/avatars/FatsugarD.jpg"
+      },
+      "listed_at": "2026-10-28T07:04:21.000Z",
+      "listed_at_label": "2026-10-28 15:04 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": null,
+      "summary_full": "社区提及的 Multica"
     },
     {
       "id": "f1666c777c",
       "name": "Magpie",
       "slug": "magpie",
-      "summary": "yetone 的本机模型网关，Claude Code / Codex 一键换模型与账号",
+      "summary": "yetone 的本机模型网关，Claude Code / Codex",
       "detail": "«自荐一个我真装真跑过的：yetone 的 Magpie，装在本机的模型网关，Claude Code、Codex 都能一键换模型，额度用完自动切账号。我做了一期「GitHub 真实测」，好用的地方和坑都写清楚了，比如脱敏默认是关的，得手动开👇",
       "category": "cli",
       "url": null,
@@ -1777,12 +2423,14 @@
         {
           "url": "https://x.com/zhengtang364848/status/2115335576073453678",
           "likes": 1,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 374,
+          "created_at": "2026-10-28T06:51:17.000Z"
         }
       ],
-      "image": "/images/products/magpie.svg",
+      "image": "/images/products/magpie.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "CLI"
       ],
@@ -1793,7 +2441,18 @@
       "impressions": 374,
       "like_count": 1,
       "impression_count": 374,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "zhengtang364848": "/images/avatars/zhengtang364848.jpg"
+      },
+      "listed_at": "2026-10-28T06:51:17.000Z",
+      "listed_at_label": "2026-10-28 14:51 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "习惯终端工作流、需要脚本化与管道组合的开发者",
+      "capabilities": [
+        "我做了一期「GitHub 真实测」，好用的地方和坑都写清楚了，比如脱敏默认是关的，得手动开👇"
+      ],
+      "summary_full": "yetone 的本机模型网关，Claude Code / Codex 一键换模型与账号"
     },
     {
       "id": "8901bdfbdf",
@@ -1814,7 +2473,9 @@
         {
           "url": "https://x.com/wen0531/status/2115327677343404305",
           "likes": 1,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 385,
+          "created_at": "2026-10-28T06:19:53.000Z"
         }
       ],
       "image": "/images/products/m5stack-stopwatch-固件.jpg",
@@ -1833,7 +2494,18 @@
       "impressions": 385,
       "like_count": 1,
       "impression_count": 385,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "wen0531": "/images/avatars/wen0531.jpg"
+      },
+      "listed_at": "2026-10-28T06:19:53.000Z",
+      "listed_at_label": "2026-10-28 14:19 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "我的我的 我是关于m5stack stopwatch的固件，关键是用蓝牙连接 手机安装apk,非常省电，基本达到2天不用充电"
+      ],
+      "summary_full": "M5Stack 秒表固件，蓝牙连手机 APK，超省电"
     },
     {
       "id": "15a4b0bf86",
@@ -1854,10 +2526,12 @@
         {
           "url": "https://x.com/randy102488/status/2115452523066892391",
           "likes": 1,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 130,
+          "created_at": "2026-10-28T14:35:59.000Z"
         }
       ],
-      "image": "/images/products/claude-projects.png",
+      "image": "/images/products/claude-projects.jpg",
       "gallery": [
         "/images/products/claude-projects-1.ico"
       ],
@@ -1872,7 +2546,19 @@
       "impressions": 130,
       "like_count": 1,
       "impression_count": 130,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "randy102488": "/images/avatars/randy102488.jpg"
+      },
+      "listed_at": "2026-10-28T14:35:59.000Z",
+      "listed_at_label": "2026-10-28 22:35 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "推荐 Claude 的 Projects 功能:把常用资料和要求一次性放进去,以后每次对话都不用重复交代背景,写周报、改文案特别省事",
+        "我最近在做\"大白话讲 AI\"30 天连更,这个功能会专门写一期实操"
+      ],
+      "summary_full": "把常用资料与要求放进 Projects，少重复交代背景"
     },
     {
       "id": "4c1c3add3e",
@@ -1903,7 +2589,17 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "CopperForgeAI": "/images/avatars/CopperForgeAI.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "整座工厂能一层层拆开，单台设备还能拆成部件"
+      ],
+      "summary_full": "通江作品：车辆/项目库类互动展示"
     },
     {
       "id": "f857214325",
@@ -1919,7 +2615,7 @@
       ],
       "source_reply_urls": [],
       "replies": [],
-      "image": "/images/products/辅导-101.png",
+      "image": "/images/products/辅导-101.jpg",
       "gallery": [
         "/images/products/辅导-101-1.png"
       ],
@@ -1934,7 +2630,17 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "0xPlato": "/images/avatars/0xPlato.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "教师、学生与教育内容创作者",
+      "capabilities": [
+        "从知识点追问，定位薄弱问题，给出学习计划"
+      ],
+      "summary_full": "中小学诊断辅导，动森可爱 UI"
     },
     {
       "id": "ee36c77a6b",
@@ -1971,7 +2677,22 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "0xCoach": "/images/avatars/0xCoach.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "涛声 TaoSheng：用一部安卓手机全天收音 → 转写 → 认人 → AI 整理成待办与记忆",
+        "无需硬件、无需账号，数据只在你手机里",
+        "0xCoach/TaoSheng",
+        "ai",
+        "android",
+        "jetpack-compose"
+      ],
+      "summary_full": "开源项目，用了就知道真好用"
     },
     {
       "id": "2790f20793",
@@ -1992,12 +2713,14 @@
         {
           "url": "https://x.com/DavidChin0110/status/2115853637461463214",
           "likes": 0,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 7,
+          "created_at": "2026-10-29T17:09:52.000Z"
         }
       ],
-      "image": "/images/products/iphone-use.svg",
+      "image": "/images/products/iphone-use.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "其他"
       ],
@@ -2008,7 +2731,18 @@
       "impressions": 7,
       "like_count": 0,
       "impression_count": 7,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "DavidChin0110": "/images/avatars/DavidChin0110.jpg"
+      },
+      "listed_at": "2026-10-29T17:09:52.000Z",
+      "listed_at_label": "2026-10-30 01:09 Asia/Shanghai",
+      "listed_at_day": "2026-10-30",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "iPhone-use，正拿它测手机自动化"
+      ],
+      "summary_full": "用 iPhone-use 测手机自动化"
     },
     {
       "id": "cb0a5509ae",
@@ -2029,10 +2763,12 @@
         {
           "url": "https://x.com/qw0258/status/2115395225413972280",
           "likes": 0,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 8,
+          "created_at": "2026-10-28T10:48:18.000Z"
         }
       ],
-      "image": "/images/products/zigoai-销冠.png",
+      "image": "/images/products/zigoai-销冠.jpg",
       "gallery": null,
       "image_note": null,
       "tags": [
@@ -2045,7 +2781,20 @@
       "impressions": 8,
       "like_count": 0,
       "impression_count": 8,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "qw0258": "/images/avatars/qw0258.jpg"
+      },
+      "listed_at": "2026-10-28T10:48:18.000Z",
+      "listed_at_label": "2026-10-28 18:48 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "基本上4000以内客单价的能直接收款，高客单价的能约到演示环节",
+        "已经自己卖出好多单了",
+        "从新客接待、持续培育到沉睡召回，在报价、逼单、收款等关键节点协同销售推进成交"
+      ],
+      "summary_full": "企微/微版 AI 销售接待与跟进，推进预约试用报价下单"
     },
     {
       "id": "a39079dcb3",
@@ -2077,13 +2826,23 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "bankai_ajar": "/images/avatars/bankai_ajar.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "Python"
+      ],
+      "summary_full": "盯着 X 官方推荐算法仓库，提交变更自动整理说明与证据"
     },
     {
       "id": "14d71dc600",
       "name": "Vibe开发的网站",
       "slug": "vibe开发的网站",
-      "summary": "分享几个自用的Vibe开发的网站 导航工具网站： 设计展示网站： HTML静态托管网站：",
+      "summary": "分享几个自用的Vibe开发的网站 导航工具网站： 设计展示网站：",
       "detail": "分享几个自用的Vibe开发的网站 导航工具网站： 设计展示网站： HTML静态托管网站：\n\n十一创导航，高效聚合优质资源，智能分类与收藏助您快速触达所需。涵盖AI工具、设计资源、开发工具、学习素材等精选网站导航。",
       "category": "coding agent",
       "url": "https://shiyichuang.com/",
@@ -2098,10 +2857,12 @@
         {
           "url": "https://x.com/moumou12131/status/2115329703548719412",
           "likes": 0,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 14,
+          "created_at": "2026-10-28T06:27:56.000Z"
         }
       ],
-      "image": "/images/products/vibe开发的网站.png",
+      "image": "/images/products/vibe开发的网站.jpg",
       "gallery": [
         "/images/products/vibe开发的网站-1.jpg"
       ],
@@ -2116,7 +2877,20 @@
       "impressions": 14,
       "like_count": 0,
       "impression_count": 14,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "moumou12131": "/images/avatars/moumou12131.jpg"
+      },
+      "listed_at": "2026-10-28T06:27:56.000Z",
+      "listed_at_label": "2026-10-28 14:27 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "分享几个自用的Vibe开发的网站 导航工具网站： 设计展示网站： HTML静态托管网站：",
+        "十一创导航，高效聚合优质资源，智能分类与收藏助您快速触达所需",
+        "涵盖AI工具、设计资源、开发工具、学习素材等精选网站导航"
+      ],
+      "summary_full": "分享几个自用的Vibe开发的网站 导航工具网站： 设计展示网站： HTML静态托管网站："
     },
     {
       "id": "b8c687073a",
@@ -2145,7 +2919,15 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": null,
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "在 IDE、浏览器或 Agent 里扩展能力的开发者与创作者",
+      "capabilities": [
+        "全局或按网站规则覆盖浏览器时区"
+      ],
+      "summary_full": "浏览器时区覆盖插件（Chrome / Edge）"
     },
     {
       "id": "2041cc57b8",
@@ -2161,7 +2943,7 @@
       ],
       "source_reply_urls": [],
       "replies": [],
-      "image": "/images/products/superapi.png",
+      "image": "/images/products/superapi.jpg",
       "gallery": [
         "/images/products/superapi-1.png"
       ],
@@ -2176,7 +2958,15 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "XLOOP37": "/images/avatars/XLOOP37.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": null,
+      "summary_full": "Claude 等中转服务，号被封后的稳定备选"
     },
     {
       "id": "554a7a766a",
@@ -2192,9 +2982,9 @@
       ],
       "source_reply_urls": [],
       "replies": [],
-      "image": "/images/products/spotcat.svg",
+      "image": "/images/products/spotcat.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "插件 / Skill"
       ],
@@ -2205,7 +2995,18 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "longhaiqwe123": "/images/avatars/longhaiqwe123.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "在 IDE、浏览器或 Agent 里扩展能力的开发者与创作者",
+      "capabilities": [
+        "按 ⌥Space，输入，回车",
+        "Spotcat 是快速、原生的 macOS 启动器：应用、文件、网页、扩展和 AI，一个输入框搞定"
+      ],
+      "summary_full": "Raycast 类免费快速启动选项，界面更清爽"
     },
     {
       "id": "021e3fffd2",
@@ -2235,7 +3036,16 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": null,
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "本地批量给图片加文件名，支持自动选位、预览和逐张微调",
+        "Python"
+      ],
+      "summary_full": "智能命名/盖章相关开源小工具"
     },
     {
       "id": "5902846e9b",
@@ -2256,12 +3066,14 @@
         {
           "url": "https://x.com/sooooong629/status/2115480529885950339",
           "likes": 0,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 78,
+          "created_at": "2026-10-28T16:27:16.000Z"
         }
       ],
-      "image": "/images/products/qoder-ego-lite.svg",
+      "image": "/images/products/qoder-ego-lite.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "Coding Agent"
       ],
@@ -2272,7 +3084,16 @@
       "impressions": 78,
       "like_count": 0,
       "impression_count": 78,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "sooooong629": "/images/avatars/sooooong629.jpg"
+      },
+      "listed_at": "2026-10-28T16:27:16.000Z",
+      "listed_at_label": "2026-10-29 00:27 Asia/Shanghai",
+      "listed_at_day": "2026-10-29",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": null,
+      "summary_full": "社区点名的 Qoder 与 Ego Lite"
     },
     {
       "id": "4ae1ac47e3",
@@ -2303,7 +3124,15 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "tangpanqing": "/images/avatars/tangpanqing.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": null,
+      "summary_full": "高性价比 AI 视频生成器"
     },
     {
       "id": "5f822c11de",
@@ -2319,7 +3148,7 @@
       ],
       "source_reply_urls": [],
       "replies": [],
-      "image": "/images/products/pi-agent-desktop-2.png",
+      "image": "/images/products/pi-agent-desktop.jpg",
       "gallery": null,
       "image_note": null,
       "tags": [
@@ -2337,7 +3166,21 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:38 Asia/Shanghai"
+      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "avatars": {
+        "wycai": "/images/avatars/wycai.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "需要本地桌面效率工具、截图/剪贴板/窗口类应用的用户",
+      "capabilities": [
+        "ai",
+        "ai-agent",
+        "desktop-app",
+        "pi",
+        "TypeScript"
+      ],
+      "summary_full": "Pi Agent 桌面端，省 token"
     },
     {
       "id": "db4baacb8d",
@@ -2372,7 +3215,20 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": null,
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "app-switcher",
+        "macos",
+        "menu-bar-app",
+        "productivity",
+        "swift",
+        "Swift"
+      ],
+      "summary_full": "开源项目 Orbit"
     },
     {
       "id": "dd040e5965",
@@ -2393,10 +3249,12 @@
         {
           "url": "https://x.com/Anders100M/status/2115444113952977180",
           "likes": 0,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 1,
+          "created_at": "2026-10-28T14:02:34.000Z"
         }
       ],
-      "image": "/images/products/openrouter-rankings.png",
+      "image": "/images/products/openrouter-rankings.jpg",
       "gallery": [
         "/images/products/openrouter-rankings-1.png"
       ],
@@ -2411,7 +3269,21 @@
       "impressions": 1,
       "like_count": 0,
       "impression_count": 1,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "Anders100M": "/images/avatars/Anders100M.jpg"
+      },
+      "listed_at": "2026-10-28T14:02:34.000Z",
+      "listed_at_label": "2026-10-28 22:02 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "推荐 OpenRouter 的 rankings 页面，不算工具，但每次选模型前我都会先看一眼：",
+        "它不看发布会，只看真实用量",
+        "本周用量第一是 DeepSeek V4.1 Flash（37.3T tokens），前十里还有两个免费模型",
+        "开发者用钱投出来的票，比任何测评都诚实"
+      ],
+      "summary_full": "按真实用量看模型排行，选模型前先看一眼"
     },
     {
       "id": "0a07b1b949",
@@ -2448,7 +3320,22 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "jryang1997": "/images/avatars/jryang1997.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "需要本地桌面效率工具、截图/剪贴板/窗口类应用的用户",
+      "capabilities": [
+        "跨端米家与 HA 菜单栏智控中心 - jryang1997/MenuBarMijia",
+        "apple-silicon",
+        "home-assistant",
+        "macos",
+        "menubar",
+        "mijia"
+      ],
+      "summary_full": "Mac 菜单栏米家控制中心，支持预测与按住说话语音控制"
     },
     {
       "id": "00299a408d",
@@ -2469,7 +3356,9 @@
         {
           "url": "https://x.com/GeekRadioLeo/status/2115330917623574759",
           "likes": 0,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 108,
+          "created_at": "2026-10-28T06:32:46.000Z"
         }
       ],
       "image": "/images/products/library.jpg",
@@ -2487,13 +3376,24 @@
       "impressions": 108,
       "like_count": 0,
       "impression_count": 108,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "GeekRadioLeo": "/images/avatars/GeekRadioLeo.jpg"
+      },
+      "listed_at": "2026-10-28T06:32:46.000Z",
+      "listed_at_label": "2026-10-28 14:32 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "自荐一个： 终端里的Z-Library"
+      ],
+      "summary_full": "自荐一个： 终端里的Z-Library"
     },
     {
       "id": "bbc6bf18e0",
       "name": "Larder",
       "slug": "larder",
-      "summary": "统一查看管理 Claude Code / Codex / Cursor 的 Skills、MCP、CLI、Commands",
+      "summary": "统一查看管理 Claude Code / Codex / Cursor 的",
       "detail": "Local-first desktop app for inspecting and safely managing the Skills, MCP servers, CLIs, and instruction files your AI agents use. - 599yongyang/larder",
       "category": "coding agent",
       "url": "https://github.com/599yongyang/larder",
@@ -2524,7 +3424,22 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "aaaaang_y63488": "/images/avatars/aaaaang_y63488.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "ai-agents",
+        "desktop-app",
+        "developer-tools",
+        "local-first",
+        "mcp",
+        "TypeScript"
+      ],
+      "summary_full": "统一查看管理 Claude Code / Codex / Cursor 的 Skills、MCP、CLI、Commands"
     },
     {
       "id": "d3b2292656",
@@ -2555,13 +3470,21 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "dsholys10": "/images/avatars/dsholys10.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "在 IDE、浏览器或 Agent 里扩展能力的开发者与创作者",
+      "capabilities": null,
+      "summary_full": "DeepSeek Harness 插件站，持续更新维护"
     },
     {
       "id": "4a3383c820",
       "name": "Grok Bot 调度流",
       "slug": "grok-bot-调度流",
-      "summary": "Grok Bot 总控 + Mac mini 上 Claude Code 指挥 Codex/Kimi",
+      "summary": "Grok Bot 总控 + Mac mini 上 Claude Code 指挥",
       "detail": "目前主力是 Grok Bot 做总控调度，连着家里的 Mac mini 让 Claude Code 指挥 Codex 和 Kimi 跑开发跟写稿，重活全丢给后台跑，人只管拍板和验收。",
       "category": "coding agent",
       "url": null,
@@ -2576,12 +3499,14 @@
         {
           "url": "https://x.com/leoai_build/status/2115426745767575997",
           "likes": 0,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 96,
+          "created_at": "2026-10-28T12:53:33.000Z"
         }
       ],
-      "image": "/images/products/grok-bot-调度流.svg",
+      "image": "/images/products/grok-bot-调度流.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "Coding Agent"
       ],
@@ -2592,7 +3517,16 @@
       "impressions": 96,
       "like_count": 0,
       "impression_count": 96,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "leoai_build": "/images/avatars/leoai_build.png"
+      },
+      "listed_at": "2026-10-28T12:53:33.000Z",
+      "listed_at_label": "2026-10-28 20:53 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": null,
+      "summary_full": "Grok Bot 总控 + Mac mini 上 Claude Code 指挥 Codex/Kimi"
     },
     {
       "id": "79cfbff692",
@@ -2613,12 +3547,14 @@
         {
           "url": "https://x.com/99daoyou/status/2115470373412294825",
           "likes": 0,
-          "bookmarks": 0
+          "bookmarks": 0,
+          "impressions": 29,
+          "created_at": "2026-10-28T15:46:55.000Z"
         }
       ],
-      "image": "/images/products/gaippt.svg",
+      "image": "/images/products/gaippt.jpg",
       "gallery": null,
-      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "image_note": null,
       "tags": [
         "其他"
       ],
@@ -2629,7 +3565,18 @@
       "impressions": 29,
       "like_count": 0,
       "impression_count": 29,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "99daoyou": "/images/avatars/99daoyou.jpg"
+      },
+      "listed_at": "2026-10-28T15:46:55.000Z",
+      "listed_at_label": "2026-10-28 23:46 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "30万用户的GAIPPT，在线版一键美化PPT软件"
+      ],
+      "summary_full": "在线一键美化 PPT，约 30 万用户"
     },
     {
       "id": "63a67601a2",
@@ -2645,7 +3592,7 @@
       ],
       "source_reply_urls": [],
       "replies": [],
-      "image": "/images/products/creatoros-1.jpg",
+      "image": "/images/products/creatoros.jpg",
       "gallery": null,
       "image_note": null,
       "tags": [
@@ -2658,7 +3605,17 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "zifeiyuooooooo": "/images/avatars/zifeiyuooooooo.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "从热点情报、选题和 AI 写作，到配图、公众号排版、专家评审与推送发布，一条工作流完成"
+      ],
+      "summary_full": "创作者网站与作品集平台"
     },
     {
       "id": "253f95d284",
@@ -2689,7 +3646,15 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "RookieRicardoR": "/images/avatars/RookieRicardoR.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "需要跨会话记忆、知识库或长期上下文的 AI 用户",
+      "capabilities": null,
+      "summary_full": "Markdown AI 知识库 + LLM Wiki，本地无感智能知识库"
     },
     {
       "id": "dff759bd52",
@@ -2720,7 +3685,19 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "RookieRicardoR": "/images/avatars/RookieRicardoR.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": [
+        "基于 TradingView Trading Terminal 的 CME 期货复盘回测台",
+        "限价、止损、括号单按 1 分钟逐根撮合，跳空按真实规则给价",
+        "ES、NQ 覆盖 2016 年至今共 754 万根 1 分钟 K 线，真实成交价口径"
+      ],
+      "summary_full": "给期货交易者用的 K 线回测复盘网站"
     },
     {
       "id": "7246d7f9c8",
@@ -2749,7 +3726,13 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": null,
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "需要跨会话记忆、知识库或长期上下文的 AI 用户",
+      "capabilities": null,
+      "summary_full": "记忆相关产品 / 站点"
     },
     {
       "id": "50c1bd9fa8",
@@ -2785,7 +3768,21 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "md440326799": "/images/avatars/md440326799.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "想用 Agent 写代码、改仓库、自动化开发流程的工程师与独立开发者",
+      "capabilities": [
+        "agent",
+        "agent-orchestration",
+        "ai",
+        "ai-agents",
+        "ai-coding"
+      ],
+      "summary_full": "多 Agent CLI 桌面管理工具，用了半年少开 IDE"
     },
     {
       "id": "21f9873569",
@@ -2816,7 +3813,15 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "lumm256": "/images/avatars/lumm256.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": null,
+      "summary_full": "第一个 AI SaaS 站（视频相关）"
     },
     {
       "id": "a8887fd3ee",
@@ -2853,7 +3858,22 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:39 Asia/Shanghai"
+      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "avatars": {
+        "TaXue2025": "/images/avatars/TaXue2025.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "在 IDE、浏览器或 Agent 里扩展能力的开发者与创作者",
+      "capabilities": [
+        "专门为 agent 打造的开源 agent 搜索工具，具备 200+的搜索源及多语言搜索能力，覆盖中文/英文/学术/代码/购物/金融/新闻/百科",
+        "taxueseek/argo",
+        "academic-search",
+        "agent-tools",
+        "ai-agent",
+        "deep-research"
+      ],
+      "summary_full": "超实用 Agent 搜索 Skill，200+ 搜索源，也支持 dsh 插件"
     },
     {
       "id": "e2a96f8fed",
@@ -2882,12 +3902,92 @@
       "impressions": null,
       "like_count": 0,
       "impression_count": null,
-      "updated": "2026-10-30 09:40 Asia/Shanghai"
+      "updated": "2026-10-30 09:40 Asia/Shanghai",
+      "avatars": {
+        "zifeiyuooooooo": "/images/avatars/zifeiyuooooooo.jpg"
+      },
+      "listed_at": null,
+      "listed_at_label": null,
+      "who_for": "关注 AI Coding / Agent 生态的创作者与极客",
+      "capabilities": null,
+      "summary_full": "AI / GEO 相关游戏化作品"
     }
   ],
   "enrichment": {
     "with_real_image": 52,
     "with_placeholder": 26,
     "with_impressions": 56
-  }
+  },
+  "avatars": {
+    "0xCoach": "/images/avatars/0xCoach.jpg",
+    "0xPlato": "/images/avatars/0xPlato.jpg",
+    "99daoyou": "/images/avatars/99daoyou.jpg",
+    "AgentWangCN": "/images/avatars/AgentWangCN.jpg",
+    "AgiRay1015": "/images/avatars/AgiRay1015.jpg",
+    "AkBanana4": "/images/avatars/AkBanana4.jpg",
+    "Alex_Wong1995": "/images/avatars/Alex_Wong1995.jpg",
+    "Anders100M": "/images/avatars/Anders100M.jpg",
+    "CatCatMuse": "/images/avatars/CatCatMuse.jpg",
+    "CopperForgeAI": "/images/avatars/CopperForgeAI.jpg",
+    "DavidChin0110": "/images/avatars/DavidChin0110.jpg",
+    "Decemberww12": "/images/avatars/Decemberww12.jpg",
+    "FatsugarD": "/images/avatars/FatsugarD.jpg",
+    "GeekRadioLeo": "/images/avatars/GeekRadioLeo.jpg",
+    "Last_Lighter": "/images/avatars/Last_Lighter.jpg",
+    "LauLauzhihao": "/images/avatars/LauLauzhihao.jpg",
+    "LiaoKong2024": "/images/avatars/LiaoKong2024.jpg",
+    "LufzzLiz": "/images/avatars/LufzzLiz.jpg",
+    "Noctropy": "/images/avatars/Noctropy.jpg",
+    "RainhappyL": "/images/avatars/RainhappyL.jpg",
+    "RookieRicardoR": "/images/avatars/RookieRicardoR.jpg",
+    "SamyeeiYu": "/images/avatars/SamyeeiYu.jpg",
+    "TaXue2025": "/images/avatars/TaXue2025.jpg",
+    "XLOOP37": "/images/avatars/XLOOP37.jpg",
+    "Zkm211": "/images/avatars/Zkm211.jpg",
+    "aaaaang_y63488": "/images/avatars/aaaaang_y63488.jpg",
+    "bankai_ajar": "/images/avatars/bankai_ajar.jpg",
+    "bbkirstry": "/images/avatars/bbkirstry.jpg",
+    "berryxia": "/images/avatars/berryxia.jpg",
+    "canghe": "/images/avatars/canghe.jpg",
+    "cgnot996": "/images/avatars/cgnot996.jpg",
+    "chessunyan": "/images/avatars/chessunyan.jpg",
+    "dontry018": "/images/avatars/dontry018.jpg",
+    "drmrzhong": "/images/avatars/drmrzhong.jpg",
+    "dsholys10": "/images/avatars/dsholys10.jpg",
+    "itsKairoSolo": "/images/avatars/itsKairoSolo.jpg",
+    "jakeybruce": "/images/avatars/jakeybruce.jpg",
+    "jasoninvest7": "/images/avatars/jasoninvest7.jpg",
+    "jryang1997": "/images/avatars/jryang1997.jpg",
+    "katcat_AI": "/images/avatars/katcat_AI.jpg",
+    "kkkeric_ai": "/images/avatars/kkkeric_ai.jpg",
+    "kouhualin": "/images/avatars/kouhualin.jpg",
+    "leoai_build": "/images/avatars/leoai_build.png",
+    "lianthony292788": "/images/avatars/lianthony292788.jpg",
+    "lokichris2046": "/images/avatars/lokichris2046.jpg",
+    "longhaiqwe123": "/images/avatars/longhaiqwe123.jpg",
+    "looplj2": "/images/avatars/looplj2.jpg",
+    "lumm256": "/images/avatars/lumm256.jpg",
+    "mamba0805": "/images/avatars/mamba0805.jpg",
+    "maomao000211": "/images/avatars/maomao000211.jpg",
+    "maqibin": "/images/avatars/maqibin.png",
+    "md440326799": "/images/avatars/md440326799.jpg",
+    "mmlong8": "/images/avatars/mmlong8.jpg",
+    "moumou12131": "/images/avatars/moumou12131.jpg",
+    "qw0258": "/images/avatars/qw0258.jpg",
+    "randy102488": "/images/avatars/randy102488.jpg",
+    "rya_nooo": "/images/avatars/rya_nooo.jpg",
+    "sooooong629": "/images/avatars/sooooong629.jpg",
+    "tangpanqing": "/images/avatars/tangpanqing.jpg",
+    "victor_cheng_42": "/images/avatars/victor_cheng_42.jpg",
+    "vista8": "/images/avatars/vista8.jpg",
+    "wen0531": "/images/avatars/wen0531.jpg",
+    "wycai": "/images/avatars/wycai.jpg",
+    "y3uc1en": "/images/avatars/y3uc1en.jpg",
+    "yangsir_ai": "/images/avatars/yangsir_ai.jpg",
+    "yinpengxuan": "/images/avatars/yinpengxuan.jpg",
+    "yubei2025": "/images/avatars/yubei2025.jpg",
+    "zhengtang364848": "/images/avatars/zhengtang364848.jpg",
+    "zifeiyuooooooo": "/images/avatars/zifeiyuooooooo.jpg"
+  },
+  "avatar_count": 69
 }

@@ -8,6 +8,7 @@
 
 - React + Vite + Tailwind CSS v4
 - 数据：`data/products.json` → 构建时复制到 `public/data/`
+- 推荐人 X 真头像：`public/images/avatars/`
 - 部署：Cloudflare Workers Assets（`wrangler.toml` → `[assets] directory = "./dist"`）
 
 ## 本地开发
@@ -18,7 +19,7 @@ npm run dev
 ```
 
 ```bash
-npm run build    # 输出 dist/
+npm run build    # Vite + 详情 SEO HTML → dist/
 npm run preview
 ```
 
@@ -34,11 +35,15 @@ npx wrangler deploy --name aicodinghunt
 
 ## 数据更新
 
-见 `scripts/README.md`：`python3 scripts/enrich_and_build.py` 会刷新 `data/products.json` 与封面图。React 前端直接读取 `public/data/products.json`。
+见 `scripts/README.md`：
+
+- `python3 scripts/fetch_avatars.py` — X 真头像
+- `python3 scripts/enrich_and_build.py` — 封面 / 字段 enrich
+- `python3 scripts/ingest_conversation.py --check` — 会话增量收录检查（conversation `2115318655525523714`）
 
 ## 设计
 
-视觉语言见 `design-tokens.md`（卡片栅格 / 色板 / 圆角 / 阴影）。品牌文案为「AI Coding Hunt / 乔木 AI 工具猎场」。
+视觉语言见 `design-tokens.md`（Yarrow 卡片栅格 / 色板 / 圆角 / 阴影）。品牌文案为「AI Coding Hunt / 乔木 AI 工具猎场」。
 
 ## License
 

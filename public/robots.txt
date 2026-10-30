@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aicodinghunt.qiaomu.ai/sitemap.xml

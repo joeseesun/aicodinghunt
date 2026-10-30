@@ -1,8 +1,14 @@
-export default function EmptyState({ message = '没有匹配的工具。换个关键词或分类试试。' }) {
+export default function EmptyState({ message = '没有匹配的工具。', action }) {
   return (
-    <div className="rounded-md border border-dashed border-line bg-surface px-8 py-16 text-center text-ink-3">
-      <p className="text-[16px] font-medium text-ink-2">{message}</p>
-      <p className="mt-2 text-[14.5px]">试试清空搜索，或切换到「全部」分类。</p>
+    <div className="py-20 px-6 flex flex-col items-center text-center">
+      <div className="w-16 h-16 rounded-md bg-chip border border-line-soft grid place-items-center text-[28px] mb-5 shadow-tile">
+        ⌕
+      </div>
+      <p className="text-[17px] font-semibold text-ink">{message}</p>
+      <p className="mt-2 text-[14.5px] text-ink-3 max-w-[36ch] leading-relaxed">
+        猎场里都是社区自荐的真实在用项目，换个分类或清空筛选再看看。
+      </p>
+      {action ? <div className="mt-6">{action}</div> : null}
     </div>
   )
 }
