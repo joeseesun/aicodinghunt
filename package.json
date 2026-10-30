@@ -1,0 +1,11 @@
+{
+  "name": "aicodinghunt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "乔木 AI 工具猎场 | AI Coding Hunt — catalog from @vista8 community replies",
+  "scripts": {
+    "start": "python3 -m http.server 8787 --directory public",
+    "deploy": "npx wrangler pages deploy public --project-name aicodinghunt --branch main --commit-dirty=true"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,1854 @@
+[
+  {
+    "id": "2115318655525523714",
+    "handle": "vista8",
+    "text": "评论发自己最喜欢用的 AI 工具和项目！ 可以是自己 AI Coding的产品，或一直花钱订阅的AI 工具。 产品可以是网站、App、Skill、插件、开源代码。 点赞人多，测试好用，我会转发帮大家加热。 某次「未来硅世界」直播，网友展示了很多有创造力的产品，但缺传播渠道。 索性来个自荐和推荐活动~",
+    "urls": [],
+    "all_urls": [],
+    "likes": 118,
+    "bookmarks": 145,
+    "reply_url": "https://x.com/vista8/status/2115318655525523714"
+  },
+  {
+    "id": "2115319997832839246",
+    "handle": "CopperForgeAI",
+    "text": "求推荐： 3d互动教育课程开源，目前已经可以开源55门。 🔗 在线用： 🔗 GitHub",
+    "urls": [
+      "https://lab.tongjiang.app",
+      "https://github.com/smithjohn78390/tongjiang-lab"
+    ],
+    "all_urls": [
+      "https://lab.tongjiang.app",
+      "https://github.com/smithjohn78390/tongjiang-lab"
+    ],
+    "likes": 18,
+    "bookmarks": 30,
+    "reply_url": "https://x.com/CopperForgeAI/status/2115319997832839246"
+  },
+  {
+    "id": "2115322758729216364",
+    "handle": "LufzzLiz",
+    "text": "quickshot ：一款优雅的截图软件😄",
+    "urls": [
+      "https://t.co/PcdzIfWp3M",
+      "https://t.co/aJupcy8y8G"
+    ],
+    "all_urls": [
+      "https://t.co/PcdzIfWp3M",
+      "https://t.co/aJupcy8y8G"
+    ],
+    "likes": 10,
+    "bookmarks": 15,
+    "reply_url": "https://x.com/LufzzLiz/status/2115322758729216364"
+  },
+  {
+    "id": "2115320074383053047",
+    "handle": "cgnot996",
+    "text": "我开发的 Grok Bot 浏览器插件 你在浏览器看到的内容都可以共享给指定的 Bot",
+    "urls": [
+      "https://bot.fmcat.top/ecosystem/grok-bot-clipper"
+    ],
+    "all_urls": [
+      "https://bot.fmcat.top/ecosystem/grok-bot-clipper"
+    ],
+    "likes": 13,
+    "bookmarks": 12,
+    "reply_url": "https://x.com/cgnot996/status/2115320074383053047"
+  },
+  {
+    "id": "2115324444394897806",
+    "handle": "jryang1997",
+    "text": "我自己 vibe coding 的时候，想调一下灯光和空调，用小爱同学一来一回太烦了，用手机米家每次要解锁-找 app-找设备-点击，也很麻烦。就手搓了个 Mac 菜单栏控制中心。后来觉得手点也麻烦，又加了 jev 预测 和按住说话的语音控制，用下来真的蛮方便，推荐大家试试看！开源的：",
+    "urls": [
+      "https://github.com/jryang1997/MenuBarMijia"
+    ],
+    "all_urls": [
+      "https://github.com/jryang1997/MenuBarMijia"
+    ],
+    "likes": 11,
+    "bookmarks": 10,
+    "reply_url": "https://x.com/jryang1997/status/2115324444394897806"
+  },
+  {
+    "id": "2115327779327844430",
+    "handle": "berryxia",
+    "text": "我来一个我这几天比较火热的一键支出数字人口播多种风格和模板直接用，免费开源，欢迎体验和交流：",
+    "urls": [
+      "https://github.com/andyhuo520/digital-human-koubo"
+    ],
+    "all_urls": [
+      "https://github.com/andyhuo520/digital-human-koubo"
+    ],
+    "likes": 4,
+    "bookmarks": 12,
+    "reply_url": "https://x.com/berryxia/status/2115327779327844430"
+  },
+  {
+    "id": "2115321901216325810",
+    "handle": "vista8",
+    "text": "实用工具，可以看看这个库 Obsidian CEO 刚弄的，也支持 mermaid 渲染，速度更快，而且支持样式设置，响应式布局。 感觉可以融合进去。",
+    "urls": [
+      "https://t.co/59qbTzzxS5"
+    ],
+    "all_urls": [
+      "https://t.co/59qbTzzxS5"
+    ],
+    "likes": 4,
+    "bookmarks": 12,
+    "reply_url": "https://x.com/vista8/status/2115321901216325810"
+  },
+  {
+    "id": "2115319209437872246",
+    "handle": "vista8",
+    "text": "自己先来，订阅了三年的工具 Raycast AI： 内置几乎所有顶级模型，快捷键对话，比打开 Agent 方便，有丰富的生态，安装了能替代一堆小工具，比如调整窗口、语音转写等。",
+    "urls": [
+      "https://raycast.com/?via=joe-seesun"
+    ],
+    "all_urls": [
+      "https://raycast.com/?via=joe-seesun"
+    ],
+    "likes": 11,
+    "bookmarks": 7,
+    "reply_url": "https://x.com/vista8/status/2115319209437872246"
+  },
+  {
+    "id": "2115325496175239245",
+    "handle": "RookieRicardoR",
+    "text": "还有第三款软件 ，纯粹的 markdown ai 知识库软件 +llm wiki 的形式，理念就是无感智能知识库，带 AI 功能 自动识别 本地的 Claude code 内置了一个 pi，这款软件我至少做了 8 个月，花费超过 5000 美金以上额度，一直没发布，以前总感觉达不到我想要的效果，兼容",
+    "urls": [
+      "https://cortext.app"
+    ],
+    "all_urls": [
+      "https://cortext.app"
+    ],
+    "likes": 6,
+    "bookmarks": 8,
+    "reply_url": "https://x.com/RookieRicardoR/status/2115325496175239245"
+  },
+  {
+    "id": "2115322251549774111",
+    "handle": "LufzzLiz",
+    "text": "自研的tokei 内部不少使用的朋友点赞，后续会增加更多功能😄",
+    "urls": [
+      "https://t.co/0I52YwTbo6",
+      "https://t.co/DITGWWNfpQ"
+    ],
+    "all_urls": [
+      "https://t.co/0I52YwTbo6",
+      "https://t.co/DITGWWNfpQ"
+    ],
+    "likes": 8,
+    "bookmarks": 7,
+    "reply_url": "https://x.com/LufzzLiz/status/2115322251549774111"
+  },
+  {
+    "id": "2115325671669133410",
+    "handle": "TaXue2025",
+    "text": "我做了一个超实用的 agent 搜索 skill 还支持 dsh 插件。200+的搜索源功能丰富，开箱即用，也可以自己调整设置",
+    "urls": [
+      "https://github.com/taxueseek/argo"
+    ],
+    "all_urls": [
+      "https://github.com/taxueseek/argo",
+      "https://x.com/TaXue2025/status/2115325671669133410/photo/1"
+    ],
+    "likes": 1,
+    "bookmarks": 6,
+    "reply_url": "https://x.com/TaXue2025/status/2115325671669133410"
+  },
+  {
+    "id": "2115363392219480155",
+    "handle": "mamba0805",
+    "text": "Vibe coding 了一款简单好用的书签管理器",
+    "urls": [
+      "https://ma2ong.github.io/bookmark-manager-site/"
+    ],
+    "all_urls": [
+      "https://ma2ong.github.io/bookmark-manager-site/"
+    ],
+    "likes": 4,
+    "bookmarks": 4,
+    "reply_url": "https://x.com/mamba0805/status/2115363392219480155"
+  },
+  {
+    "id": "2115320137557680582",
+    "handle": "CopperForgeAI",
+    "text": "分享我的心头好：",
+    "urls": [
+      "https://tongjiang.app/works/car-base/overview/"
+    ],
+    "all_urls": [
+      "https://tongjiang.app/works/car-base/overview/"
+    ],
+    "likes": 2,
+    "bookmarks": 5,
+    "reply_url": "https://x.com/CopperForgeAI/status/2115320137557680582"
+  },
+  {
+    "id": "2115449069435002964",
+    "handle": "maqibin",
+    "text": "专注AI图文，大半年时间做的产品",
+    "urls": [
+      "https://wencard.com/"
+    ],
+    "all_urls": [
+      "https://wencard.com/"
+    ],
+    "likes": 3,
+    "bookmarks": 4,
+    "reply_url": "https://x.com/maqibin/status/2115449069435002964"
+  },
+  {
+    "id": "2115325767462875539",
+    "handle": "bbkirstry",
+    "text": "老师看看赛博小晚！ 我把自己的思考方式+判断逻辑+工作经验蒸馏了做成一个 skill，然后铁柱老师把它做成了一个 Grok bot 里面的 bot，现在被很多朋友当成主 bot 来使用🍻",
+    "urls": [],
+    "all_urls": [
+      "https://x.com/bbkirstry/status/2112836743183716497?a=cS5-Y-6QkncmzOleabg&s=20"
+    ],
+    "likes": 5,
+    "bookmarks": 3,
+    "reply_url": "https://x.com/bbkirstry/status/2115325767462875539"
+  },
+  {
+    "id": "2115441448367898834",
+    "handle": "kkkeric_ai",
+    "text": "本地开源版本无限画布，支持根据时间线剪辑，所有资产全部保留在本地便于项目管理",
+    "urls": [
+      "https://t.co/xcbf4aWt1f"
+    ],
+    "all_urls": [
+      "https://t.co/xcbf4aWt1f"
+    ],
+    "likes": 0,
+    "bookmarks": 5,
+    "reply_url": "https://x.com/kkkeric_ai/status/2115441448367898834"
+  },
+  {
+    "id": "2115430989971530180",
+    "handle": "AgentWangCN",
+    "text": "开源一个视频生成引擎,深度融合与 Anatomy和Hyperframes两大开源生态，通过Vibe Coding生成3D视频",
+    "urls": [
+      "https://t.co/l2kmuM8HIp"
+    ],
+    "all_urls": [
+      "https://t.co/l2kmuM8HIp"
+    ],
+    "likes": 2,
+    "bookmarks": 4,
+    "reply_url": "https://x.com/AgentWangCN/status/2115430989971530180"
+  },
+  {
+    "id": "2115371661658927254",
+    "handle": "CatCatMuse",
+    "text": "做了款伪装成输入法的摸鱼背单词应用 😎 蹭一下词光的热度，可以把词光雅思的资源导进去学习。",
+    "urls": [
+      "https://t.co/FAeaFELaGG",
+      "https://t.co/7BLPYZWeeR"
+    ],
+    "all_urls": [
+      "https://t.co/FAeaFELaGG",
+      "https://t.co/7BLPYZWeeR"
+    ],
+    "likes": 1,
+    "bookmarks": 4,
+    "reply_url": "https://x.com/CatCatMuse/status/2115371661658927254"
+  },
+  {
+    "id": "2115321099118682120",
+    "handle": "RookieRicardoR",
+    "text": "我自己做了一个剪切板和一个截图软件，",
+    "urls": [
+      "https://t.co/9zyjN6rOYr",
+      "https://t.co/Z7GjWIoAWE"
+    ],
+    "all_urls": [
+      "https://t.co/9zyjN6rOYr",
+      "https://t.co/Z7GjWIoAWE"
+    ],
+    "likes": 3,
+    "bookmarks": 3,
+    "reply_url": "https://x.com/RookieRicardoR/status/2115321099118682120"
+  },
+  {
+    "id": "2115319062976930145",
+    "handle": "longhaiqwe123",
+    "text": "乔木老师发福利，那必须用起来，我做的产品可真不少 😄：",
+    "urls": [],
+    "all_urls": [
+      "https://x.com/longhaiqwe123/status/2113192539679510927"
+    ],
+    "likes": 1,
+    "bookmarks": 4,
+    "reply_url": "https://x.com/longhaiqwe123/status/2115319062976930145"
+  },
+  {
+    "id": "2115323803685585120",
+    "handle": "victor_cheng_42",
+    "text": "自荐一个skill，补上个人Agent在国内的旅行规划方面的数据获取能力",
+    "urls": [
+      "https://t.co/nrifWCVBCg"
+    ],
+    "all_urls": [
+      "https://t.co/nrifWCVBCg"
+    ],
+    "likes": 2,
+    "bookmarks": 3,
+    "reply_url": "https://x.com/victor_cheng_42/status/2115323803685585120"
+  },
+  {
+    "id": "2115335505399435339",
+    "handle": "Zkm211",
+    "text": "来吧！ 真正的AI健身应用 用过的人几乎都付费订阅了 长文里记录了开发心路历程 欢迎有在关注AI+薄肌的朋友们试用～",
+    "urls": [],
+    "all_urls": [
+      "https://x.com/Zkm211/status/2110036886303740201?a=rjjapR94KXj63AnxAT8&s=20"
+    ],
+    "likes": 1,
+    "bookmarks": 3,
+    "reply_url": "https://x.com/Zkm211/status/2115335505399435339"
+  },
+  {
+    "id": "2115354326285832473",
+    "handle": "katcat_AI",
+    "text": "老师，那我来介绍一下我最近做的东东，DEEPSEEK版Grok Bot： == DeepSeek Harness + Grok Bot ！ 是一款基于 DeepSeek Harness、以 Bot 团队协作为核心的独立 Windows 桌面应用。",
+    "urls": [
+      "https://t.co/oDiEWkNort",
+      "https://t.co/oDiEWkNort",
+      "https://t.co/oDiEWkNort",
+      "https://t.co/m3wxo6hlA5"
+    ],
+    "all_urls": [
+      "https://t.co/oDiEWkNort",
+      "https://t.co/oDiEWkNort",
+      "https://t.co/oDiEWkNort",
+      "https://t.co/m3wxo6hlA5"
+    ],
+    "likes": 2,
+    "bookmarks": 2,
+    "reply_url": "https://x.com/katcat_AI/status/2115354326285832473"
+  },
+  {
+    "id": "2115425581139628433",
+    "handle": "RainhappyL",
+    "text": "求推荐： 灵感视频工作台 🔗 在线用： 🔗 GitHub 专门做的一个视频 agent 工作台，想去简化整个视频制作的过程，目前基本流程是闭环的，有问题欢迎提 issue，",
+    "urls": [
+      "https://t.co/XIBBjKzF99",
+      "https://t.co/x6xsTvIgNZ"
+    ],
+    "all_urls": [
+      "https://t.co/XIBBjKzF99",
+      "https://t.co/x6xsTvIgNZ"
+    ],
+    "likes": 1,
+    "bookmarks": 2,
+    "reply_url": "https://x.com/RainhappyL/status/2115425581139628433"
+  },
+  {
+    "id": "2115425389992693923",
+    "handle": "Alex_Wong1995",
+    "text": "爆肝三天 vibe coding 的 自己的专属提词器 1.将手机变成wIndows电脑的高 清摄像头 2.利用本地模型智能滑动提词器 3.支持连接obs模式或悬浮在原生摄像头上使用的提词器 这里也分享给和我一样还在坚守android 和 windows 阵营 的自媒体小伙伴，",
+    "urls": [
+      "https://t.co/j2fvhjFjaY",
+      "https://t.co/xP20aZeRz5"
+    ],
+    "all_urls": [
+      "https://t.co/j2fvhjFjaY",
+      "https://t.co/xP20aZeRz5"
+    ],
+    "likes": 1,
+    "bookmarks": 2,
+    "reply_url": "https://x.com/Alex_Wong1995/status/2115425389992693923"
+  },
+  {
+    "id": "2115357752944218381",
+    "handle": "mmlong8",
+    "text": "改造的自用输入法",
+    "urls": [
+      "https://t.co/Es0k9Xat80"
+    ],
+    "all_urls": [
+      "https://t.co/Es0k9Xat80"
+    ],
+    "likes": 1,
+    "bookmarks": 2,
+    "reply_url": "https://x.com/mmlong8/status/2115357752944218381"
+  },
+  {
+    "id": "2115342572994609537",
+    "handle": "lokichris2046",
+    "text": "基于 Calibre 做了个 macOS 上的批量电子书格式转换小工具，支持批量、看进度、自定义保存位置： 之前看到乔木老师最近也在搞 Kindle，感觉也许能用上。",
+    "urls": [
+      "https://github.com/loki2046-mao/loki-ebook-converter"
+    ],
+    "all_urls": [
+      "https://github.com/loki2046-mao/loki-ebook-converter"
+    ],
+    "likes": 1,
+    "bookmarks": 2,
+    "reply_url": "https://x.com/lokichris2046/status/2115342572994609537"
+  },
+  {
+    "id": "2115325309449031946",
+    "handle": "vista8",
+    "text": "感觉这个技术含量高，我家里装了小爱音箱控制空调、电灯，试试这个。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 3,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/vista8/status/2115325309449031946"
+  },
+  {
+    "id": "2115321055342682493",
+    "handle": "longhaiqwe123",
+    "text": "给大家也补充个免费选项：老师的 ，我反正切过去了（主要是我基本只用快速启动选项，逗比老师的好像更清爽）",
+    "urls": [
+      "https://spotcat.ai/zh"
+    ],
+    "all_urls": [
+      "https://spotcat.ai/zh"
+    ],
+    "likes": 1,
+    "bookmarks": 2,
+    "reply_url": "https://x.com/longhaiqwe123/status/2115321055342682493"
+  },
+  {
+    "id": "2115587624048206141",
+    "handle": "0xCoach",
+    "text": "必须是 用了就知道，真好用！",
+    "urls": [
+      "https://github.com/0xcoach/taosheng"
+    ],
+    "all_urls": [
+      "https://github.com/0xcoach/taosheng"
+    ],
+    "likes": 0,
+    "bookmarks": 2,
+    "reply_url": "https://x.com/0xCoach/status/2115587624048206141"
+  },
+  {
+    "id": "2115490763861794902",
+    "handle": "Noctropy",
+    "text": "我做了一个面向设计师和设计团队的Ai辅助工作台，最近一直在研究cad图纸的识别算法，目标是接入国内的大部分模型也能够精确的从cad平面图纸- blender精准建模",
+    "urls": [],
+    "all_urls": [
+      "https://x.com/Noctropy/status/2115490763861794902/video/1"
+    ],
+    "likes": 0,
+    "bookmarks": 2,
+    "reply_url": "https://x.com/Noctropy/status/2115490763861794902"
+  },
+  {
+    "id": "2115417767973191754",
+    "handle": "rya_nooo",
+    "text": "发一个自己的， 主要是用来维护一些自己的 AI 资产，两个我很喜欢的功能 1. 可以设置 skill 的可见性并且锁定住，防止 lark cli 这种每次更新下崽的情况 2. 可以搜索会话内容并且对应的 cli 和 app 里打开，也支持 archive 和 subagent 会话的搜索",
+    "urls": [
+      "https://t.co/OR362u7pq0",
+      "https://t.co/ZSMgGUc6Dp"
+    ],
+    "all_urls": [
+      "https://t.co/OR362u7pq0",
+      "https://t.co/ZSMgGUc6Dp"
+    ],
+    "likes": 0,
+    "bookmarks": 2,
+    "reply_url": "https://x.com/rya_nooo/status/2115417767973191754"
+  },
+  {
+    "id": "2115388007406797059",
+    "handle": "y3uc1en",
+    "text": "Mac刘海灵动岛工具",
+    "urls": [
+      "https://t.co/oP7fEJK3M7"
+    ],
+    "all_urls": [
+      "https://t.co/oP7fEJK3M7"
+    ],
+    "likes": 0,
+    "bookmarks": 2,
+    "reply_url": "https://x.com/y3uc1en/status/2115388007406797059"
+  },
+  {
+    "id": "2115330060236599438",
+    "handle": "dsholys10",
+    "text": "我开发的 deepseek harness 插件站。一直在在更新维护",
+    "urls": [
+      "https://harnesscatalog.com/"
+    ],
+    "all_urls": [
+      "https://harnesscatalog.com/"
+    ],
+    "likes": 2,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/dsholys10/status/2115330060236599438"
+  },
+  {
+    "id": "2115328575335444824",
+    "handle": "yangsir_ai",
+    "text": "一个优美的markdown编辑器 多端适配，包括安卓、iOS",
+    "urls": [
+      "https://github.com/BND-1/horseMD"
+    ],
+    "all_urls": [
+      "https://github.com/BND-1/horseMD"
+    ],
+    "likes": 0,
+    "bookmarks": 2,
+    "reply_url": "https://x.com/yangsir_ai/status/2115328575335444824"
+  },
+  {
+    "id": "2115324363935453601",
+    "handle": "AgiRay1015",
+    "text": "感恩乔帮主，自荐 vibe 的 mac 智能剪贴板 APP ---- Echo 是一款原生 Mac 菜单栏剪贴板工具，从找回内容，到整理、提问，再到粘贴使用，在同一个面板里完成，目前支持： - 剪贴板历史：自动记录文本、图片和 Finder 文件，快捷键呼出，输入关键词即可查找。 - Markdown",
+    "urls": [
+      "https://github.com/akira82-ai/echo-app"
+    ],
+    "all_urls": [
+      "https://github.com/akira82-ai/echo-app"
+    ],
+    "likes": 2,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/AgiRay1015/status/2115324363935453601"
+  },
+  {
+    "id": "2115481964073591206",
+    "handle": "LiaoKong2024",
+    "text": "AtlasOS:无限画布开发工作台",
+    "urls": [
+      "https://t.co/ai29lNlQbb",
+      "https://t.co/3vkKiiVNCd"
+    ],
+    "all_urls": [
+      "https://t.co/ai29lNlQbb",
+      "https://t.co/3vkKiiVNCd"
+    ],
+    "likes": 1,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/LiaoKong2024/status/2115481964073591206"
+  },
+  {
+    "id": "2115450231324312019",
+    "handle": "canghe",
+    "text": "日常创作离不开了",
+    "urls": [],
+    "all_urls": [],
+    "likes": 3,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/canghe/status/2115450231324312019"
+  },
+  {
+    "id": "2115377995322216808",
+    "handle": "Decemberww12",
+    "text": "分享一个可以先存着的冷门小工具。VideoBee：、转换格式、裁剪片段，免注册、无水印。它不是什么能让你一夜暴富的 AI 黑科技，但属于那种「早知道就不用折腾半天」的网站。工具不在多，能在关键时刻救命就行。",
+    "urls": [
+      "https://t.co/XmZlb8io7X在线压缩视频"
+    ],
+    "all_urls": [
+      "https://t.co/XmZlb8io7X在线压缩视频"
+    ],
+    "likes": 1,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/Decemberww12/status/2115377995322216808"
+  },
+  {
+    "id": "2115360490188857643",
+    "handle": "wycai",
+    "text": "巨好有，还省token",
+    "urls": [
+      "https://github.com/abcwyc/pi-agent-desktop"
+    ],
+    "all_urls": [
+      "https://github.com/abcwyc/pi-agent-desktop"
+    ],
+    "likes": 1,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/wycai/status/2115360490188857643"
+  },
+  {
+    "id": "2115360151058440432",
+    "handle": "Last_Lighter",
+    "text": "我目前使用比较多的是我自己的生图生视频产品 Imagifly： 用来做PPT， banner， 小红书图片都不错， 关键是自己维护的，想怎么改就怎么改，也有一定的用户规模撑起每月成本。",
+    "urls": [
+      "https://t.co/9x5Dx638g5"
+    ],
+    "all_urls": [
+      "https://t.co/9x5Dx638g5"
+    ],
+    "likes": 1,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/Last_Lighter/status/2115360151058440432"
+  },
+  {
+    "id": "2115354527809548465",
+    "handle": "looplj2",
+    "text": "那我也来自荐一下我的项目： 一站式短剧创作工作台，还在努力进化中，不过自己对这个 性能和UI 还是挺满意的",
+    "urls": [
+      "https://t.co/NNsXwcra4p"
+    ],
+    "all_urls": [
+      "https://t.co/NNsXwcra4p"
+    ],
+    "likes": 1,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/looplj2/status/2115354527809548465"
+  },
+  {
+    "id": "2115344635317076463",
+    "handle": "jasoninvest7",
+    "text": "我也是用了三年，今天换成了tinycast，raycast 2.0变得太臃肿了。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/jasoninvest7/status/2115344635317076463"
+  },
+  {
+    "id": "2115341575341654436",
+    "handle": "lumm256",
+    "text": "虽然感觉拿不出手，但这毕竟是我做的第一个 AI SaaS 站",
+    "urls": [
+      "https://blinkpop.video"
+    ],
+    "all_urls": [
+      "https://blinkpop.video"
+    ],
+    "likes": 1,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/lumm256/status/2115341575341654436"
+  },
+  {
+    "id": "2115336812055146856",
+    "handle": "bankai_ajar",
+    "text": "自荐一个自己做的小东西：盯着 X 官方推荐算法仓库，每次有提交就自动整理改了什么、证据在哪，不用自己读代码。",
+    "urls": [
+      "https://github.com/loonslo/x-algo-watch"
+    ],
+    "all_urls": [
+      "https://github.com/loonslo/x-algo-watch"
+    ],
+    "likes": 1,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/bankai_ajar/status/2115336812055146856"
+  },
+  {
+    "id": "2115332617600196705",
+    "handle": "app_sail",
+    "text": "当下很多人的刚需啊 VPS",
+    "urls": [],
+    "all_urls": [
+      "https://x.com/app_sail/status/2115126953825185925"
+    ],
+    "likes": 1,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/app_sail/status/2115332617600196705"
+  },
+  {
+    "id": "2115331478037118976",
+    "handle": "RookieRicardoR",
+    "text": "我还有第四款软件，是一款给期货交易者用的 K 线回测复盘网站， 这个做的很快，上周六已经上线了，到今天五天有两百多个用户，上线第一天 cloudflare",
+    "urls": [
+      "https://chartsreplay.app"
+    ],
+    "all_urls": [
+      "https://chartsreplay.app"
+    ],
+    "likes": 3,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/RookieRicardoR/status/2115331478037118976"
+  },
+  {
+    "id": "2115324947354804285",
+    "handle": "zifeiyuooooooo",
+    "text": "来了乔木老师，我投递一下自己的网站和作品，欢迎互换～",
+    "urls": [
+      "https://creatoros.com.cn",
+      "https://aigeo.games",
+      "https://www.lizhe.work"
+    ],
+    "all_urls": [
+      "https://creatoros.com.cn",
+      "https://aigeo.games",
+      "https://www.lizhe.work"
+    ],
+    "likes": 1,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/zifeiyuooooooo/status/2115324947354804285"
+  },
+  {
+    "id": "2115322750474850765",
+    "handle": "vista8",
+    "text": "我去，竟然还有游戏化成就系统 hhhh",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/vista8/status/2115322750474850765"
+  },
+  {
+    "id": "2115321371828052371",
+    "handle": "kouhualin",
+    "text": "DSH 插件 会话渲染 mermaid",
+    "urls": [
+      "https://t.co/Bi48LbPJ6P"
+    ],
+    "all_urls": [
+      "https://t.co/Bi48LbPJ6P"
+    ],
+    "likes": 1,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/kouhualin/status/2115321371828052371"
+  },
+  {
+    "id": "2115614821836354015",
+    "handle": "0xPlato",
+    "text": "前些天基于开源项目做的中小学诊断辅导：，给外甥女用的 源项目做的挺好的，我主要就是UI弄的动森可爱UI，改了源项目一些错题。",
+    "urls": [
+      "https://fudao101.com"
+    ],
+    "all_urls": [
+      "https://fudao101.com"
+    ],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/0xPlato/status/2115614821836354015"
+  },
+  {
+    "id": "2115590206757982330",
+    "handle": "md440326799",
+    "text": "多agent cli 桌面管理工具，大佬可以体验一波，给提提改进意见，自己已经用了半年，小细节迭代了很多，基本不用打开idea了",
+    "urls": [
+      "https://github.com/yy36295238/caravel-agent"
+    ],
+    "all_urls": [
+      "https://github.com/yy36295238/caravel-agent"
+    ],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/md440326799/status/2115590206757982330"
+  },
+  {
+    "id": "2115437638203449825",
+    "handle": "drmrzhong",
+    "text": "前段时间做的, 给3-6岁宝宝家长用的宝可梦学英语产品, 给喜欢宝可梦的小朋友们实现训练家的愿望, 又能给小朋友磨耳朵",
+    "urls": [
+      "https://t.co/UHSgcM7zf5"
+    ],
+    "all_urls": [
+      "https://t.co/UHSgcM7zf5"
+    ],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/drmrzhong/status/2115437638203449825"
+  },
+  {
+    "id": "2115371644877451627",
+    "handle": "AkBanana4",
+    "text": "Cursor，偶尔配 Claude。真香的是把开会废话丢给它写成待办，人只用装忙点头。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/AkBanana4/status/2115371644877451627"
+  },
+  {
+    "id": "2115356989044015462",
+    "handle": "lianthony292788",
+    "text": "那我要推荐一个我自己做的网站 ，可以本地话html 编辑，做ppt 简历 等等",
+    "urls": [
+      "https://t.co/A506UyZpe5"
+    ],
+    "all_urls": [
+      "https://t.co/A506UyZpe5"
+    ],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/lianthony292788/status/2115356989044015462"
+  },
+  {
+    "id": "2115342403532210202",
+    "handle": "FatsugarD",
+    "text": "agent 调度很稳，这点确实不错。时间跨度大的项目除了 issue，还需要一个很好的计划管理，现在的 gantt 有不少 bug。没有计划，issue 多了很难把控。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/FatsugarD/status/2115342403532210202"
+  },
+  {
+    "id": "2115342276721528933",
+    "handle": "LauLauzhihao",
+    "text": "推荐silero-vad配Whisper的本地转写工作流。长播客先切出语音段再转写，适合整理访谈资料。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/LauLauzhihao/status/2115342276721528933"
+  },
+  {
+    "id": "2115339541855035845",
+    "handle": "vista8",
+    "text": "我转告 jianyuan，确实产品不赖。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/vista8/status/2115339541855035845"
+  },
+  {
+    "id": "2115336999309811933",
+    "handle": "jakeybruce",
+    "text": "AI漫剧创作平台，专为漫剧生产企业开发，综合漫剧生产效率提升300%，功能丰富，以及专业的企业管理中台。不开源。网址：",
+    "urls": [
+      "https://zhuomi.cc/"
+    ],
+    "all_urls": [
+      "https://zhuomi.cc/",
+      "https://x.com/jakeybruce/status/2115336999309811933/photo/1"
+    ],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/jakeybruce/status/2115336999309811933"
+  },
+  {
+    "id": "2115335600677273822",
+    "handle": "yubei2025",
+    "text": "AI Coding了一个瑞幸取餐码收集小程序",
+    "urls": [],
+    "all_urls": [
+      "https://x.com/yubei2025/status/2115335600677273822/photo/1"
+    ],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/yubei2025/status/2115335600677273822"
+  },
+  {
+    "id": "2115329125217100256",
+    "handle": "maomao000211",
+    "text": "我自己在用的：Veil，Mac 上开会/录屏的时候把后台窗口糊掉，只留当前这一个清楚。自己写的，天天开会前点一下，比每次手忙脚乱关窗口靠谱多了。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/maomao000211/status/2115329125217100256"
+  },
+  {
+    "id": "2115329118720147835",
+    "handle": "XLOOP37",
+    "text": "用了些日子的中转服务，主要是用 Claude。 自己的号被封了之后，这位大佬的提供了最稳定的服务。",
+    "urls": [
+      "https://superapi.store/register?aff=KJ3DN47JXH2J"
+    ],
+    "all_urls": [
+      "https://superapi.store/register?aff=KJ3DN47JXH2J"
+    ],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/XLOOP37/status/2115329118720147835"
+  },
+  {
+    "id": "2115328685842763914",
+    "handle": "yangsir_ai",
+    "text": "官网在",
+    "urls": [
+      "https://Horsemd.yangsir.net"
+    ],
+    "all_urls": [
+      "https://Horsemd.yangsir.net"
+    ],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/yangsir_ai/status/2115328685842763914"
+  },
+  {
+    "id": "2115324139141783633",
+    "handle": "yuqingjz",
+    "text": "Raycast订了三年，快捷键是真省事，模型额度还是各家单独算。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/yuqingjz/status/2115324139141783633"
+  },
+  {
+    "id": "2115323656352186529",
+    "handle": "muse999us",
+    "text": "推荐 Cursor 的 Custom Rules（项目根目录放 .cursorrules）。我把它当团队的 AI 编程规范用：代码风格、提交格式、单测要求全写在里面，新同事拉完仓库，AI 直接就知道这套项目的规矩，不用在对话框里反复交代。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 1,
+    "reply_url": "https://x.com/muse999us/status/2115323656352186529"
+  },
+  {
+    "id": "2115323024526499904",
+    "handle": "RookieRicardoR",
+    "text": "我做这个剪切板纯粹是做个足够简单有用的东西，网上下载的功能太多了， 第二个截图有点特色，除了截图壳子还加了自适应算法 截图的时候自动补偿居中，大部分情况下能帮你修掉随手一截时候的内容左右或者上下间距的不对称。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 2,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/RookieRicardoR/status/2115323024526499904"
+  },
+  {
+    "id": "2115612853462073627",
+    "handle": "LufzzLiz",
+    "text": "本地统计。考虑到有些harness会清理，tokei 会备份用户使用token的统计数据，也是在本地",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/LufzzLiz/status/2115612853462073627"
+  },
+  {
+    "id": "2115479193219899437",
+    "handle": "itsKairoSolo",
+    "text": "微信公众号排版网站，欢迎各位使用提出意见",
+    "urls": [
+      "https://t.co/4aNPW6HbSs"
+    ],
+    "all_urls": [
+      "https://t.co/4aNPW6HbSs"
+    ],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/itsKairoSolo/status/2115479193219899437"
+  },
+  {
+    "id": "2115458414726009251",
+    "handle": "SamyeeiYu",
+    "text": "小爱音箱连接codex",
+    "urls": [
+      "https://t.co/J5FTiDtAF0"
+    ],
+    "all_urls": [
+      "https://t.co/J5FTiDtAF0"
+    ],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/SamyeeiYu/status/2115458414726009251"
+  },
+  {
+    "id": "2115452523066892391",
+    "handle": "randy102488",
+    "text": "推荐 Claude 的 Projects 功能:把常用资料和要求一次性放进去,以后每次对话都不用重复交代背景,写周报、改文案特别省事。我最近在做\"大白话讲 AI\"30 天连更,这个功能会专门写一期实操。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/randy102488/status/2115452523066892391"
+  },
+  {
+    "id": "2115378377129599119",
+    "handle": "Decemberww12",
+    "text": "分享一个可以先存着的冷门小工具。VideoBee：、转换格式、裁剪片段，免注册、无水印。",
+    "urls": [
+      "https://t.co/XmZlb8io7X在线压缩视频"
+    ],
+    "all_urls": [
+      "https://t.co/XmZlb8io7X在线压缩视频"
+    ],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Decemberww12/status/2115378377129599119"
+  },
+  {
+    "id": "2115343072351678643",
+    "handle": "aaaaang_y63488",
+    "text": "统一查看和管理 Claude Code、Codex、Cursor 等 Agent 的 Skills、MCP、CLI、指令和 Commands",
+    "urls": [
+      "https://github.com/599yongyang/larder"
+    ],
+    "all_urls": [
+      "https://github.com/599yongyang/larder",
+      "https://x.com/aaaaang_y63488/status/2115343072351678643/photo/1"
+    ],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/aaaaang_y63488/status/2115343072351678643"
+  },
+  {
+    "id": "2115338867993874840",
+    "handle": "FatsugarD",
+    "text": "Multica。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/FatsugarD/status/2115338867993874840"
+  },
+  {
+    "id": "2115336225070752096",
+    "handle": "yinpengxuan",
+    "text": "翻了一圈评论，剪贴板和截图工具就撞了好几个，大家 vibe coding 先解决的果然都是自己每天被烦到的那几下。我投 Cursor 和 Grok，WorkBuddy 也用过。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/yinpengxuan/status/2115336225070752096"
+  },
+  {
+    "id": "2115335576073453678",
+    "handle": "zhengtang364848",
+    "text": "«自荐一个我真装真跑过的：yetone 的 Magpie，装在本机的模型网关，Claude Code、Codex 都能一键换模型，额度用完自动切账号。我做了一期「GitHub 真实测」，好用的地方和坑都写清楚了，比如脱敏默认是关的，得手动开👇",
+    "urls": [
+      "https://twitter.com/zhengtang364848/status/2114622442714911083"
+    ],
+    "all_urls": [
+      "https://twitter.com/zhengtang364848/status/2114622442714911083"
+    ],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/zhengtang364848/status/2115335576073453678"
+  },
+  {
+    "id": "2115334632262820245",
+    "handle": "Pixelxzen",
+    "text": "这是新版的「观猹」模式。😄",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Pixelxzen/status/2115334632262820245"
+  },
+  {
+    "id": "2115330323856900115",
+    "handle": "chessunyan",
+    "text": "游戏开发+素材资产 全由AI制作的一个雷霆小游戏哈哈哈哈",
+    "urls": [
+      "https://aimodelpk.site/"
+    ],
+    "all_urls": [
+      "https://aimodelpk.site/"
+    ],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/chessunyan/status/2115330323856900115"
+  },
+  {
+    "id": "2115329824407634290",
+    "handle": "tangpanqing",
+    "text": "求推荐 最具性价比的AI视频生成器 👉",
+    "urls": [
+      "https://PixStag.com"
+    ],
+    "all_urls": [
+      "https://PixStag.com"
+    ],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/tangpanqing/status/2115329824407634290"
+  },
+  {
+    "id": "2115327677343404305",
+    "handle": "wen0531",
+    "text": "我的我的 我是关于m5stack stopwatch的固件，关键是用蓝牙连接 手机安装apk,非常省电，基本达到2天不用充电",
+    "urls": [
+      "https://github.com/wen0531/m5stack-qiuqiu"
+    ],
+    "all_urls": [
+      "https://github.com/wen0531/m5stack-qiuqiu"
+    ],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/wen0531/status/2115327677343404305"
+  },
+  {
+    "id": "2115325659354665211",
+    "handle": "dontry018",
+    "text": "orca， codexbar",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/dontry018/status/2115325659354665211"
+  },
+  {
+    "id": "2115324192010727873",
+    "handle": "hyz1464269",
+    "text": "Cursor 和 Grok Bot 这两天用得最多，一个写代码一个盯运营，都舍不得停订阅",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/hyz1464269/status/2115324192010727873"
+  },
+  {
+    "id": "2115321169167761859",
+    "handle": "longhaiqwe123",
+    "text": "铁柱老师神作！",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/longhaiqwe123/status/2115321169167761859"
+  },
+  {
+    "id": "2115320546246398028",
+    "handle": "vista8",
+    "text": "看起来不错，给 grok 提供上下文，实用。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/vista8/status/2115320546246398028"
+  },
+  {
+    "id": "2115320283582312845",
+    "handle": "pingmin12789",
+    "text": "凡是点赞高的，我收录进我的14个AI导航网址；",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/pingmin12789/status/2115320283582312845"
+  },
+  {
+    "id": "2115319431425564723",
+    "handle": "AINoSleep",
+    "text": "目前还没有拿得出手的，但这个注意好👍",
+    "urls": [],
+    "all_urls": [],
+    "likes": 1,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/AINoSleep/status/2115319431425564723"
+  },
+  {
+    "id": "2115954801330758091",
+    "handle": "liguozzz",
+    "text": "“缺传播渠道”这点我看法不太一样，工具真正卡住的多半是留存和付费转化，渠道只是放大器。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/liguozzz/status/2115954801330758091"
+  },
+  {
+    "id": "2115853637461463214",
+    "handle": "DavidChin0110",
+    "text": "iPhone-use，正拿它测手机自动化",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/DavidChin0110/status/2115853637461463214"
+  },
+  {
+    "id": "2115668441847976401",
+    "handle": "MuweiCallisto",
+    "text": "来了 chrome store edge store 顺便吐槽: edge 审核太慢了，一周也过不了，chrome 半天就过了",
+    "urls": [
+      "https://chromewebstore.google.com/detail/timezone-override/hecgaoajefgkcnmmmolmofcfioknelog",
+      "https://microsoftedge.microsoft.com/addons/detail/timezone-override/aioacidgmnjpdcmlmhelhgmecpmljobg"
+    ],
+    "all_urls": [
+      "https://x.com/MuweiCallisto/status/2106273531738706052?a=ezcs28sjvLPGsr2Dbc4&s=20",
+      "https://chromewebstore.google.com/detail/timezone-override/hecgaoajefgkcnmmmolmofcfioknelog",
+      "https://microsoftedge.microsoft.com/addons/detail/timezone-override/aioacidgmnjpdcmlmhelhgmecpmljobg"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/MuweiCallisto/status/2115668441847976401"
+  },
+  {
+    "id": "2115658389590270236",
+    "handle": "Ikue6666",
+    "text": "我做了一个 Obsidian 插件，叫 Multi-Version Notes，想让同一篇笔记的不同版本都能保留下来，方便切换和管理。",
+    "urls": [],
+    "all_urls": [
+      "https://x.com/Ikue6666/status/2115658389590270236/video/1"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Ikue6666/status/2115658389590270236"
+  },
+  {
+    "id": "2115629446212559226",
+    "handle": "maqibin",
+    "text": "免费可以试用一些，不能跟大厂比，每个token 都是要个人买单的。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/maqibin/status/2115629446212559226"
+  },
+  {
+    "id": "2115626332080263290",
+    "handle": "xiao20896430178",
+    "text": "想请教你的实际体验：Pi 相比 LangGraph/PydanticAI，最大的维护优势具体是什么——状态/流程代码更少、工具与会话更简单，还是别的原因？如果项目重来一次，你还会选 Pi 吗？什么情况下会改选 LangGraph？",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/xiao20896430178/status/2115626332080263290"
+  },
+  {
+    "id": "2115619834579063117",
+    "handle": "Zeyu_J",
+    "text": "",
+    "urls": [
+      "https://centricmem.com"
+    ],
+    "all_urls": [
+      "https://centricmem.com"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Zeyu_J/status/2115619834579063117"
+  },
+  {
+    "id": "2115619670594330926",
+    "handle": "Zeyu_J",
+    "text": "自己开发的跨设备跨环境的多agent 记忆层，十月内注册送一年会员，欢迎尝试",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Zeyu_J/status/2115619670594330926"
+  },
+  {
+    "id": "2115616104488038610",
+    "handle": "huaguoshanxia",
+    "text": "不错，体验一下。可以考虑做个简单持久化或备份导入导出，既然有成就，那大家就想持续累积，换设备或者卸载软件数据不丢失，个人想法，见笑了🤭。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/huaguoshanxia/status/2115616104488038610"
+  },
+  {
+    "id": "2115612016429908271",
+    "handle": "ai_funs",
+    "text": "先来评论区抄作业了😂 希望挖到几个小众但真好用的工具。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/ai_funs/status/2115612016429908271"
+  },
+  {
+    "id": "2115609110846849176",
+    "handle": "huaguoshanxia",
+    "text": "数据是来自agent 本地数据统计的吗？ 因为我本人习惯过段时间就将历史对话数据让AI 清理一下。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/huaguoshanxia/status/2115609110846849176"
+  },
+  {
+    "id": "2115606222150029730",
+    "handle": "RookieRicardoR",
+    "text": "mac 版本好调试 因为我自己电脑是 mac",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/RookieRicardoR/status/2115606222150029730"
+  },
+  {
+    "id": "2115603097775169893",
+    "handle": "yc04bq",
+    "text": "Mac快捷窗口启动器 每次找画面找的心烦 这个是真的用爽了给我",
+    "urls": [
+      "https://github.com/ycl-2004/Orbit"
+    ],
+    "all_urls": [
+      "https://github.com/ycl-2004/Orbit"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/yc04bq/status/2115603097775169893"
+  },
+  {
+    "id": "2115591797795946769",
+    "handle": "md440326799",
+    "text": "免费or付费",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/md440326799/status/2115591797795946769"
+  },
+  {
+    "id": "2115583606773223626",
+    "handle": "dohewater",
+    "text": "magpie",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/dohewater/status/2115583606773223626"
+  },
+  {
+    "id": "2115582414147973420",
+    "handle": "Lyzone2025",
+    "text": "怎么都只有mac版本的",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Lyzone2025/status/2115582414147973420"
+  },
+  {
+    "id": "2115529232172679312",
+    "handle": "GloriaXiongY",
+    "text": "我在用 Grok Bot 搭了一组 bot：社媒、独立站、外贸实务、投资各管一摊，还有一个指挥官派活。最有用的不是哪个 bot，是交接都落到同一个文件里，不靠它们互相传话。 还有 Grok Bot + Codex 搭配：Grok Bot 当长期助理管记忆和例程，量大的整理、改网页交给 Codex 后台跑，跑完写报告再验收。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/GloriaXiongY/status/2115529232172679312"
+  },
+  {
+    "id": "2115512906293051741",
+    "handle": "Rosy413520",
+    "text": "同一个工具大家用法差别很大。选AI工具订阅时，你们最看重速度、价格还是产出的稳定性？",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Rosy413520/status/2115512906293051741"
+  },
+  {
+    "id": "2115491084042387831",
+    "handle": "Noctropy",
+    "text": "程序还在优化，刚来X，希望大家能给我点点关注，谢谢各位",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Noctropy/status/2115491084042387831"
+  },
+  {
+    "id": "2115480529885950339",
+    "handle": "sooooong629",
+    "text": "qoder ego lite",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/sooooong629/status/2115480529885950339"
+  },
+  {
+    "id": "2115470373412294825",
+    "handle": "99daoyou",
+    "text": "30万用户的GAIPPT，在线版一键美化PPT软件",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/99daoyou/status/2115470373412294825"
+  },
+  {
+    "id": "2115444113952977180",
+    "handle": "Anders100M",
+    "text": "推荐 OpenRouter 的 rankings 页面，不算工具，但每次选模型前我都会先看一眼： 它不看发布会，只看真实用量。本周用量第一是 DeepSeek V4.1 Flash（37.3T tokens），前十里还有两个免费模型。 开发者用钱投出来的票，比任何测评都诚实。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Anders100M/status/2115444113952977180"
+  },
+  {
+    "id": "2115429612629204995",
+    "handle": "hillrun01",
+    "text": "今天换成了 tinycast，我最希望且常用的两个功能是快捷 ai 调用和 ai 翻译，我已经订阅了 gpt 所以理论上完全可以使用自己的模型，但是 raycast 不订阅连对应界面都打不开",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/hillrun01/status/2115429612629204995"
+  },
+  {
+    "id": "2115426745767575997",
+    "handle": "leoai_build",
+    "text": "目前主力是 Grok Bot 做总控调度，连着家里的 Mac mini 让 Claude Code 指挥 Codex 和 Kimi 跑开发跟写稿，重活全丢给后台跑，人只管拍板和验收。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/leoai_build/status/2115426745767575997"
+  },
+  {
+    "id": "2115395225413972280",
+    "handle": "qw0258",
+    "text": "我们做了个微和企微版的ZigoAI销冠 🚀 让 AI 自动接待客户、挖掘需求、持续跟进，把沉默客户重新聊活，把有意向的客户一步步推进到预约、试用、报价、下单。 基本上4000以内客单价的能直接收款，高客单价的能约到演示环节。已经自己卖出好多单了。",
+    "urls": [
+      "https://t.co/nZfIqcHiOM",
+      "https://t.co/XtXtaOKJCa"
+    ],
+    "all_urls": [
+      "https://t.co/nZfIqcHiOM",
+      "https://t.co/XtXtaOKJCa"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/qw0258/status/2115395225413972280"
+  },
+  {
+    "id": "2115383514170589265",
+    "handle": "vince_gotomoon",
+    "text": "自己为了学英语做的",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/vince_gotomoon/status/2115383514170589265"
+  },
+  {
+    "id": "2115383352522166717",
+    "handle": "vince_gotomoon",
+    "text": "大佬看看我的",
+    "urls": [
+      "https://t.co/3WcugLJyyU"
+    ],
+    "all_urls": [
+      "https://t.co/3WcugLJyyU"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/vince_gotomoon/status/2115383352522166717"
+  },
+  {
+    "id": "2115382113902203386",
+    "handle": "An_zuoan",
+    "text": "我的比较简单，脑海有一种想要的风格，不知道怎么跟AI说。或者说的是一个大类，想AI生成更加准确一点。 那么你就需要 AI 风格手册",
+    "urls": [
+      "https://t.co/xLHP1e4nmX",
+      "https://t.co/UVBHFpfoRj"
+    ],
+    "all_urls": [
+      "https://t.co/xLHP1e4nmX",
+      "https://t.co/UVBHFpfoRj"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/An_zuoan/status/2115382113902203386"
+  },
+  {
+    "id": "2115379496589340691",
+    "handle": "lianthony292788",
+    "text": "在线编辑 完全免费",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/lianthony292788/status/2115379496589340691"
+  },
+  {
+    "id": "2115359508101026118",
+    "handle": "katcat_AI",
+    "text": "原来铁柱老师东东，实用，支持！",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/katcat_AI/status/2115359508101026118"
+  },
+  {
+    "id": "2115356012312228108",
+    "handle": "_ExploreAI",
+    "text": "AI工具推荐帖，怎么选题？",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/_ExploreAI/status/2115356012312228108"
+  },
+  {
+    "id": "2115354022228172883",
+    "handle": "waterxig",
+    "text": "哈哈，一开始是为了管理信用卡而code的工具，后来给身边这几年创业失败的朋友使用，管理零散的网贷与债务。 用着用着，我还在里面搞了个财务记账的系统，一句话把你每天的各个流水、收支都记下。 好吧，功能越来越多了，感觉要拆开了。",
+    "urls": [
+      "https://t.co/ZOwO2VIRHy"
+    ],
+    "all_urls": [
+      "https://t.co/ZOwO2VIRHy"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/waterxig/status/2115354022228172883"
+  },
+  {
+    "id": "2115353153877205050",
+    "handle": "ervintrust",
+    "text": "新上的网站，欢迎开源项目提交",
+    "urls": [
+      "https://t.co/N1C7iAvdWP"
+    ],
+    "all_urls": [
+      "https://t.co/N1C7iAvdWP"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/ervintrust/status/2115353153877205050"
+  },
+  {
+    "id": "2115348691167150345",
+    "handle": "AIBrewClub",
+    "text": "自荐下，帮助孩子背诵理解诗歌：",
+    "urls": [
+      "https://t.co/QIzLeSxy7Q",
+      "https://t.co/jVoisvBssh"
+    ],
+    "all_urls": [
+      "https://t.co/QIzLeSxy7Q",
+      "https://t.co/jVoisvBssh"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/AIBrewClub/status/2115348691167150345"
+  },
+  {
+    "id": "2115348602793103693",
+    "handle": "btc2030100w",
+    "text": "最爱用的还是会自己改代码的Agent😅 你们评论里有啥宝藏工具？",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/btc2030100w/status/2115348602793103693"
+  },
+  {
+    "id": "2115348559453208590",
+    "handle": "han8jrp",
+    "text": "这种自荐池挺好，刷评论比瞎找靠谱。我最近离不开的还是本地 harness 配几个稳的 skill，比堆一堆新玩具实用。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/han8jrp/status/2115348559453208590"
+  },
+  {
+    "id": "2115348377500319793",
+    "handle": "Connorclaw",
+    "text": "分享一下我做的数字花园。欢迎各位来逛逛。就是免费的，让人放松的公园，用来提醒我要记得休息。",
+    "urls": [
+      "https://t.co/TImjB9XJsb"
+    ],
+    "all_urls": [
+      "https://t.co/TImjB9XJsb"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Connorclaw/status/2115348377500319793"
+  },
+  {
+    "id": "2115345082396406035",
+    "handle": "RookieRicardoR",
+    "text": "没有 只做了 Mac 版本",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/RookieRicardoR/status/2115345082396406035"
+  },
+  {
+    "id": "2115342708021813631",
+    "handle": "lokichris2046",
+    "text": "之前帮同事做的：本地批量给图片打上文件名当简单说明，方便直播时直接展示。自动选位，也能预览和逐张微调： 看大家有没有能用上的。",
+    "urls": [
+      "https://github.com/loki2046-mao/smart-name-stamp"
+    ],
+    "all_urls": [
+      "https://github.com/loki2046-mao/smart-name-stamp"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/lokichris2046/status/2115342708021813631"
+  },
+  {
+    "id": "2115340923437547542",
+    "handle": "whb0821",
+    "text": "传播能力也正在成为产品竞争力的一部分",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/whb0821/status/2115340923437547542"
+  },
+  {
+    "id": "2115340030634004635",
+    "handle": "AIstar3271",
+    "text": "我之前就卡在这：给了设计图，AI 连结构都没还原对。这个插件是只看截图，还是会读取原站的布局信息？",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/AIstar3271/status/2115340030634004635"
+  },
+  {
+    "id": "2115340025902813584",
+    "handle": "Baoge_AI_",
+    "text": "自己采访自己，手机素材助手 1、钉钉机器人发送采访问题，自己用语音回答； 2、云端存储原始语音和转换后的文字作为素材； 3、AI根据回答追问下一个问题； 4、存储下来的素材用来生成自媒体视频稿和音频素材； 5、云端存储+GLM API，电脑关机不影响使用； 6、电脑开机后可以设置云端数据同步到本地。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Baoge_AI_/status/2115340025902813584"
+  },
+  {
+    "id": "2115340017023541473",
+    "handle": "ZJL20373362",
+    "text": "没有win版的吗",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/ZJL20373362/status/2115340017023541473"
+  },
+  {
+    "id": "2115339706397532498",
+    "handle": "lin_tyrion",
+    "text": "最近在复刻老游戏，画面这块没什么惊喜的，Remix用Suno直接惊到了，霸王大陆原版Midi 丢进去Remix出来首首经典，并且对比了eleventlabs，stable之类，根本不是一个档次，Suno在Remix这块断档的强",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/lin_tyrion/status/2115339706397532498"
+  },
+  {
+    "id": "2115339589615542359",
+    "handle": "tiandidadacqqx",
+    "text": "我在 Windows 上用 Codex 当编程助手。初中毕业、英语接近零，7 月才开始自学 Python。 提个小建议：大家推荐的时候，能不能顺手标一下有没有中文界面？很多好工具，新手卡在全英文这一步就放弃了。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/tiandidadacqqx/status/2115339589615542359"
+  },
+  {
+    "id": "2115335178880999535",
+    "handle": "94PengGe",
+    "text": "工具自荐刷屏时 我先问这玩意能不能拦住手痒 你最舍不得卸哪个",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/94PengGe/status/2115335178880999535"
+  },
+  {
+    "id": "2115334252950876253",
+    "handle": "lyounthzzz",
+    "text": "在做轻健康笔记 App「Bodi」🫧，原生 iOS，三人小队晚抛光。 记身体状态用可爱 emoji Bodi，刻意砍掉『看起来聪明、实际没人点』的入口。 上线后会公开打 ASO，欢迎拍砖。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/lyounthzzz/status/2115334252950876253"
+  },
+  {
+    "id": "2115331433585922454",
+    "handle": "vb_zhai",
+    "text": "",
+    "urls": [],
+    "all_urls": [
+      "https://x.com/vb_zhai/status/2115331433585922454/photo/1"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/vb_zhai/status/2115331433585922454"
+  },
+  {
+    "id": "2115330917623574759",
+    "handle": "GeekRadioLeo",
+    "text": "自荐一个： 终端里的Z-Library",
+    "urls": [
+      "https://zlib.heartleo.dev/"
+    ],
+    "all_urls": [
+      "https://zlib.heartleo.dev/"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/GeekRadioLeo/status/2115330917623574759"
+  },
+  {
+    "id": "2115329703548719412",
+    "handle": "moumou12131",
+    "text": "分享几个自用的Vibe开发的网站 导航工具网站： 设计展示网站： HTML静态托管网站：",
+    "urls": [
+      "https://shiyichuang.com/",
+      "https://jianwei.appmiaoda.com/",
+      "https://html.shiyichuang.com/"
+    ],
+    "all_urls": [
+      "https://shiyichuang.com/",
+      "https://jianwei.appmiaoda.com/",
+      "https://html.shiyichuang.com/"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/moumou12131/status/2115329703548719412"
+  },
+  {
+    "id": "2115329564326936613",
+    "handle": "Michael_AI_Hu",
+    "text": "我挑这类工具会看权限被收回后怎么处理。 接真实设备，最怕界面说执行了，空调却没动。能把失败状态反馈清楚、让人少确认一次，比聊天窗口多几个功能更实用。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Michael_AI_Hu/status/2115329564326936613"
+  },
+  {
+    "id": "2115328682567086360",
+    "handle": "MasterXueZ",
+    "text": "大家的成果都挺有意思啊",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/MasterXueZ/status/2115328682567086360"
+  },
+  {
+    "id": "2115326295751942321",
+    "handle": "linghuzengzeng",
+    "text": "评论区很快会变成 AI 工具相亲角，个个说能改变世界，点进去一半还卡在等候名单。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/linghuzengzeng/status/2115326295751942321"
+  },
+  {
+    "id": "2115324596891316537",
+    "handle": "AgiRay1015",
+    "text": "附几张动图",
+    "urls": [],
+    "all_urls": [
+      "https://x.com/AgiRay1015/status/2115324596891316537/photo/1"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/AgiRay1015/status/2115324596891316537"
+  },
+  {
+    "id": "2115323293599404314",
+    "handle": "404latitude",
+    "text": "三年这个点很真实，我最离不开的其实是快捷键那一下，不用切窗口就能对话，比单独打开 Agent 省事；窗口调整和语音转写被它吃掉之后，Dock 上确实干净不少。好奇你这三年主力模型换过几次，还是固定一个用到底？",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/404latitude/status/2115323293599404314"
+  },
+  {
+    "id": "2115322430537470113",
+    "handle": "kouhualin",
+    "text": "这个不错！我开发 DSH 插件都是，主任务在跑，然后开一个新会话做插件解闷，顺便可以发泄下使用 DSH 时自己的体验问题",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/kouhualin/status/2115322430537470113"
+  },
+  {
+    "id": "2115322297750106392",
+    "handle": "GaoQianALi",
+    "text": "我补一个标准：能长期续费的工具，基本都满足“每天顺手开3次以上”。Raycast AI就是入口型工具，省的是切换摩擦。另一票给剪贴板、截图小工具：不拼模型，拼零摩擦。你们挑工具先看模型数，还是先看能否嵌进工作流？",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/GaoQianALi/status/2115322297750106392"
+  },
+  {
+    "id": "2115322004530511997",
+    "handle": "CopperForgeAI",
+    "text": "哈哈，我是光荣的工人😂",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/CopperForgeAI/status/2115322004530511997"
+  },
+  {
+    "id": "2115321907134464419",
+    "handle": "kouhualin",
+    "text": "DSH 插件 session cmd+K 浮窗会话列表，搜索，打标签，类似 vs-code 这个我最推荐",
+    "urls": [
+      "https://t.co/9MXQ78OmHN"
+    ],
+    "all_urls": [
+      "https://t.co/9MXQ78OmHN"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/kouhualin/status/2115321907134464419"
+  },
+  {
+    "id": "2115321563402904053",
+    "handle": "kouhualin",
+    "text": "DSH 插件 会话 turn 结束显示使用的 provider/model 标识",
+    "urls": [
+      "https://t.co/2FVEm1EgLW"
+    ],
+    "all_urls": [
+      "https://t.co/2FVEm1EgLW"
+    ],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/kouhualin/status/2115321563402904053"
+  },
+  {
+    "id": "2115321469727281222",
+    "handle": "vista8",
+    "text": "剪贴板这个有意思啊，自动对媒体类型分类。之前在 PH 看到过一个类似工具，没想到你也开发了一个。",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/vista8/status/2115321469727281222"
+  },
+  {
+    "id": "2115321279188517205",
+    "handle": "LonglinX",
+    "text": "我天天用的还是那几个 说多了像托",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/LonglinX/status/2115321279188517205"
+  },
+  {
+    "id": "2115321157717303382",
+    "handle": "vista8",
+    "text": "好奇你的职业了，难不成是老师 哈哈哈",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/vista8/status/2115321157717303382"
+  },
+  {
+    "id": "2115320791613235243",
+    "handle": "cgnot996",
+    "text": "是的， 让 Grok Bot 走进更多场景",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/cgnot996/status/2115320791613235243"
+  },
+  {
+    "id": "2115320400725069857",
+    "handle": "pingmin12789",
+    "text": "收录进我的AI导航站了14个网站，同步收录；",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/pingmin12789/status/2115320400725069857"
+  },
+  {
+    "id": "2115319655388610754",
+    "handle": "Younik4we",
+    "text": "我这种懒人最离不开的是WPS灵犀 一句话甩过去直接出一套能改的PPT 体验版每月800智点够白嫖好一阵 写小脚本就扔给Claude Code 省老命了 就是订阅贵到肉疼 笑死",
+    "urls": [],
+    "all_urls": [],
+    "likes": 0,
+    "bookmarks": 0,
+    "reply_url": "https://x.com/Younik4we/status/2115319655388610754"
+  }
+]

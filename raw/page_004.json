@@ -1,0 +1,1740 @@
+{
+  "data": [
+    {
+      "author_id": "2054292218199027712",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:27:16.000Z",
+      "edit_history_tweet_ids": [
+        "2115344635317076463"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115344635317076463",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 240,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115319209437872246",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 我也是用了三年，今天换成了tinycast，raycast 2.0变得太臃肿了。",
+      "url": "https://x.com/jasoninvest7/status/2115344635317076463"
+    },
+    {
+      "author_id": "1726981174038532096",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:21:04.000Z",
+      "edit_history_tweet_ids": [
+        "2115343072351678643"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Local-first desktop app for inspecting and safely managing the Skills, MCP servers, CLIs, and instruction files your AI agents use. - 599yongyang/larder",
+            "display_url": "github.com/599yongyang/la…",
+            "end": 102,
+            "expanded_url": "https://github.com/599yongyang/larder",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2114746410424057856/Vg5S4G4A?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2114746410424057856/Vg5S4G4A?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 79,
+            "status": 200,
+            "title": "GitHub - 599yongyang/larder: Local-first desktop app for inspecting and safely managing the Skills, MCP servers, CLIs, and instruction files your AI agents use.",
+            "unwound_url": "https://github.com/599yongyang/larder",
+            "url": "https://t.co/RrBgnBAVAY"
+          },
+          {
+            "display_url": "pic.x.com/P38rDAUTG0",
+            "end": 126,
+            "expanded_url": "https://x.com/aaaaang_y63488/status/2115343072351678643/photo/1",
+            "media_key": "3_2115343006920478720",
+            "start": 103,
+            "url": "https://t.co/P38rDAUTG0"
+          }
+        ]
+      },
+      "id": "2115343072351678643",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 168,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 统一查看和管理 Claude Code、Codex、Cursor 等 Agent 的 Skills、MCP、CLI、指令和 Commands\nhttps://t.co/RrBgnBAVAY https://t.co/P38rDAUTG0",
+      "url": "https://x.com/aaaaang_y63488/status/2115343072351678643"
+    },
+    {
+      "author_id": "1892445190830637056",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:19:37.000Z",
+      "edit_history_tweet_ids": [
+        "2115342708021813631"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "本地批量给图片加文件名，支持自动选位、预览和逐张微调。Local batch image captioning with per-image controls. - loki2046-mao/smart-name-stamp",
+            "display_url": "github.com/loki2046-mao/s…",
+            "end": 82,
+            "expanded_url": "https://github.com/loki2046-mao/smart-name-stamp",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2115342711486394368/Ojj5NoeQ?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115342711486394368/Ojj5NoeQ?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 59,
+            "status": 200,
+            "title": "GitHub - loki2046-mao/smart-name-stamp: 本地批量给图片加文件名，支持自动选位、预览和逐张微调。Local batch image captioning with per-image controls.",
+            "unwound_url": "https://github.com/loki2046-mao/smart-name-stamp",
+            "url": "https://t.co/wnnP8SqVyQ"
+          }
+        ]
+      },
+      "id": "2115342708021813631",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 162,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 之前帮同事做的：本地批量给图片打上文件名当简单说明，方便直播时直接展示。自动选位，也能预览和逐张微调：https://t.co/wnnP8SqVyQ\n看大家有没有能用上的。",
+      "url": "https://x.com/lokichris2046/status/2115342708021813631"
+    },
+    {
+      "author_id": "1892445190830637056",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:19:05.000Z",
+      "edit_history_tweet_ids": [
+        "2115342572994609537"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "一个用 Cola 做的简洁 macOS 电子书格式转换工具，基于 Calibre，支持批量转换、进度显示和自定义保存位置。 - loki2046-mao/loki-ebook-converter",
+            "display_url": "github.com/loki2046-mao/l…",
+            "end": 84,
+            "expanded_url": "https://github.com/loki2046-mao/loki-ebook-converter",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2115342573879570432/HYXiQxqe?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115342573879570432/HYXiQxqe?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 61,
+            "status": 200,
+            "title": "GitHub - loki2046-mao/loki-ebook-converter: 一个用 Cola 做的简洁 macOS 电子书格式转换工具，基于 Calibre，支持批量转换、进度显示和自定义保存位置。",
+            "unwound_url": "https://github.com/loki2046-mao/loki-ebook-converter",
+            "url": "https://t.co/geSHztBXWV"
+          }
+        ]
+      },
+      "id": "2115342572994609537",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 409,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 基于 Calibre 做了个 macOS 上的批量电子书格式转换小工具，支持批量、看进度、自定义保存位置：https://t.co/geSHztBXWV\n之前看到乔木老师最近也在搞 Kindle，感觉也许能用上。",
+      "url": "https://x.com/lokichris2046/status/2115342572994609537"
+    },
+    {
+      "author_id": "1453896737324613636",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:18:24.000Z",
+      "edit_history_tweet_ids": [
+        "2115342403532210202"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115342403532210202",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 69,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115339541855035845",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 agent 调度很稳，这点确实不错。时间跨度大的项目除了 issue，还需要一个很好的计划管理，现在的 gantt 有不少 bug。没有计划，issue 多了很难把控。",
+      "url": "https://x.com/FatsugarD/status/2115342403532210202"
+    },
+    {
+      "author_id": "4716346122",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:17:54.000Z",
+      "edit_history_tweet_ids": [
+        "2115342276721528933"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115342276721528933",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 123,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 推荐silero-vad配Whisper的本地转写工作流。长播客先切出语音段再转写，适合整理访谈资料。",
+      "url": "https://x.com/LauLauzhihao/status/2115342276721528933"
+    },
+    {
+      "author_id": "1661680339729932295",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:15:07.000Z",
+      "edit_history_tweet_ids": [
+        "2115341575341654436"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "AI video effects from one photo: make the videos trending on TikTok, like Flying Broom, Ceiling Fan Transition, AI Arrest. Vertical clips with sound, ready in minutes.",
+            "display_url": "blinkpop.video",
+            "end": 62,
+            "expanded_url": "https://blinkpop.video",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2115341580123136000/fU0u4G0d?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115341580123136000/fU0u4G0d?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 39,
+            "status": 200,
+            "title": "Trending AI Video Effects From One Photo | BlinkPop",
+            "unwound_url": "https://blinkpop.video",
+            "url": "https://t.co/mUDAT0sybl"
+          }
+        ]
+      },
+      "id": "2115341575341654436",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 150,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 虽然感觉拿不出手，但这毕竟是我做的第一个 AI SaaS 站 https://t.co/mUDAT0sybl",
+      "url": "https://x.com/lumm256/status/2115341575341654436"
+    },
+    {
+      "author_id": "1707322478",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:12:31.000Z",
+      "edit_history_tweet_ids": [
+        "2115340923437547542"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115340923437547542",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 104,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 传播能力也正在成为产品竞争力的一部分",
+      "url": "https://x.com/whb0821/status/2115340923437547542"
+    },
+    {
+      "author_id": "1923350866624729088",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:08:59.000Z",
+      "edit_history_tweet_ids": [
+        "2115340030634004635"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115340030634004635",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 188,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115319209437872246",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 我之前就卡在这：给了设计图，AI 连结构都没还原对。这个插件是只看截图，还是会读取原站的布局信息？",
+      "url": "https://x.com/AIstar3271/status/2115340030634004635"
+    },
+    {
+      "author_id": "308301306",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:08:57.000Z",
+      "edit_history_tweet_ids": [
+        "2115340025902813584"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115340025902813584",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 155,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 自己采访自己，手机素材助手\n1、钉钉机器人发送采访问题，自己用语音回答；\n2、云端存储原始语音和转换后的文字作为素材；\n3、AI根据回答追问下一个问题；\n4、存储下来的素材用来生成自媒体视频稿和音频素材；\n5、云端存储+GLM API，电脑关机不影响使用；\n6、电脑开机后可以设置云端数据同步到本地。",
+      "url": "https://x.com/Baoge_AI_/status/2115340025902813584"
+    },
+    {
+      "author_id": "1031175155098107905",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:08:55.000Z",
+      "edit_history_tweet_ids": [
+        "2115340017023541473"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1497795331488055296",
+            "start": 0,
+            "username": "RookieRicardoR"
+          },
+          {
+            "end": 23,
+            "id": "6690032",
+            "start": 16,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115340017023541473",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 68,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115325496175239245",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@RookieRicardoR @vista8 没有win版的吗",
+      "url": "https://x.com/ZJL20373362/status/2115340017023541473"
+    },
+    {
+      "author_id": "1571250933161676801",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:07:41.000Z",
+      "edit_history_tweet_ids": [
+        "2115339706397532498"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115339706397532498",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 125,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 最近在复刻老游戏，画面这块没什么惊喜的，Remix用Suno直接惊到了，霸王大陆原版Midi 丢进去Remix出来首首经典，并且对比了eleventlabs，stable之类，根本不是一个档次，Suno在Remix这块断档的强",
+      "url": "https://x.com/lin_tyrion/status/2115339706397532498"
+    },
+    {
+      "author_id": "2078125254615212033",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:07:13.000Z",
+      "edit_history_tweet_ids": [
+        "2115339589615542359"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115339589615542359",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 125,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 我在 Windows 上用 Codex 当编程助手。初中毕业、英语接近零，7 月才开始自学 Python。\n提个小建议：大家推荐的时候，能不能顺手标一下有没有中文界面？很多好工具，新手卡在全英文这一步就放弃了。",
+      "url": "https://x.com/tiandidadacqqx/status/2115339589615542359"
+    },
+    {
+      "author_id": "6690032",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:07:02.000Z",
+      "edit_history_tweet_ids": [
+        "2115339541855035845"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1453896737324613636",
+            "start": 0,
+            "username": "FatsugarD"
+          }
+        ]
+      },
+      "id": "2115339541855035845",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 732,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115338867993874840",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@FatsugarD 我转告 jianyuan，确实产品不赖。",
+      "url": "https://x.com/vista8/status/2115339541855035845"
+    },
+    {
+      "author_id": "1453896737324613636",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T07:04:21.000Z",
+      "edit_history_tweet_ids": [
+        "2115338867993874840"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115338867993874840",
+      "lang": "es",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 707,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 Multica。",
+      "url": "https://x.com/FatsugarD/status/2115338867993874840"
+    },
+    {
+      "author_id": "790386246556131328",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:56:56.000Z",
+      "edit_history_tweet_ids": [
+        "2115336999309811933"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "zhuomi.cc",
+            "end": 90,
+            "expanded_url": "https://zhuomi.cc/",
+            "start": 67,
+            "status": 200,
+            "title": "啄米 AI",
+            "unwound_url": "https://zhuomi.cc/",
+            "url": "https://t.co/bh7JE2NOi0"
+          },
+          {
+            "display_url": "pic.x.com/y4KJ0sE9UX",
+            "end": 114,
+            "expanded_url": "https://x.com/jakeybruce/status/2115336999309811933/photo/1",
+            "media_key": "3_2115336240795095041",
+            "start": 91,
+            "url": "https://t.co/y4KJ0sE9UX"
+          }
+        ]
+      },
+      "id": "2115336999309811933",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 247,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 AI漫剧创作平台，专为漫剧生产企业开发，综合漫剧生产效率提升300%，功能丰富，以及专业的企业管理中台。不开源。网址：https://t.co/bh7JE2NOi0 https://t.co/y4KJ0sE9UX",
+      "url": "https://x.com/jakeybruce/status/2115336999309811933"
+    },
+    {
+      "author_id": "1763122830378696704",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:56:11.000Z",
+      "edit_history_tweet_ids": [
+        "2115336812055146856"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Independent public-source X algorithm change monitoring with evidence and human-reviewed digests - loonslo/x-algo-watch",
+            "display_url": "github.com/loonslo/x-algo…",
+            "end": 87,
+            "expanded_url": "https://github.com/loonslo/x-algo-watch",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2113583829332164608/R-IEcVA5?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2113583829332164608/R-IEcVA5?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 64,
+            "status": 200,
+            "title": "GitHub - loonslo/x-algo-watch: Independent public-source X algorithm change monitoring with evidence and human-reviewed digests",
+            "unwound_url": "https://github.com/loonslo/x-algo-watch",
+            "url": "https://t.co/yPSg66kbCR"
+          }
+        ]
+      },
+      "id": "2115336812055146856",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 198,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 自荐一个自己做的小东西：盯着 X 官方推荐算法仓库，每次有提交就自动整理改了什么、证据在哪，不用自己读代码。\n\nhttps://t.co/yPSg66kbCR",
+      "url": "https://x.com/bankai_ajar/status/2115336812055146856"
+    },
+    {
+      "author_id": "477752809",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:53:51.000Z",
+      "edit_history_tweet_ids": [
+        "2115336225070752096"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115336225070752096",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 134,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 翻了一圈评论，剪贴板和截图工具就撞了好几个，大家 vibe coding 先解决的果然都是自己每天被烦到的那几下。我投 Cursor 和 Grok，WorkBuddy 也用过。",
+      "url": "https://x.com/yinpengxuan/status/2115336225070752096"
+    },
+    {
+      "author_id": "1910124297294856192",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:51:22.000Z",
+      "edit_history_tweet_ids": [
+        "2115335600677273822"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/hfVdWIb81Z",
+            "end": 54,
+            "expanded_url": "https://x.com/yubei2025/status/2115335600677273822/photo/1",
+            "media_key": "3_2115335353896992768",
+            "start": 31,
+            "url": "https://t.co/hfVdWIb81Z"
+          }
+        ]
+      },
+      "id": "2115335600677273822",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 230,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 AI Coding了一个瑞幸取餐码收集小程序 https://t.co/hfVdWIb81Z",
+      "url": "https://x.com/yubei2025/status/2115335600677273822"
+    },
+    {
+      "author_id": "1722989263980285952",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:51:17.000Z",
+      "edit_history_tweet_ids": [
+        "2115335576073453678"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/zhengtang36484…",
+            "end": 153,
+            "expanded_url": "https://twitter.com/zhengtang364848/status/2114622442714911083",
+            "start": 130,
+            "url": "https://t.co/6AIlcn9KeT"
+          }
+        ]
+      },
+      "id": "2115335576073453678",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 374,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114622442714911083",
+          "type": "quoted"
+        },
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 «自荐一个我真装真跑过的：yetone 的 Magpie，装在本机的模型网关，Claude Code、Codex 都能一键换模型，额度用完自动切账号。我做了一期「GitHub 真实测」，好用的地方和坑都写清楚了，比如脱敏默认是关的，得手动开👇 https://t.co/6AIlcn9KeT",
+      "url": "https://x.com/zhengtang364848/status/2115335576073453678"
+    },
+    {
+      "author_id": "1791131699042267136",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:51:00.000Z",
+      "edit_history_tweet_ids": [
+        "2115335505399435339"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/Zkm211/status/…",
+            "end": 96,
+            "expanded_url": "https://x.com/Zkm211/status/2110036886303740201?a=rjjapR94KXj63AnxAT8&s=20",
+            "start": 73,
+            "url": "https://t.co/IDciPU3amX"
+          }
+        ]
+      },
+      "id": "2115335505399435339",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 237,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110036886303740201",
+          "type": "quoted"
+        },
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 来吧！\n\n真正的AI健身应用 \n\n用过的人几乎都付费订阅了\n\n长文里记录了开发心路历程 \n\n欢迎有在关注AI+薄肌的朋友们试用～\nhttps://t.co/IDciPU3amX",
+      "url": "https://x.com/Zkm211/status/2115335505399435339"
+    },
+    {
+      "author_id": "2059776904568487936",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:49:42.000Z",
+      "edit_history_tweet_ids": [
+        "2115335178880999535"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115335178880999535",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 149,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 工具自荐刷屏时\n我先问这玩意能不能拦住手痒\n你最舍不得卸哪个",
+      "url": "https://x.com/94PengGe/status/2115335178880999535"
+    },
+    {
+      "author_id": "200932519",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:47:32.000Z",
+      "edit_history_tweet_ids": [
+        "2115334632262820245"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115334632262820245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 247,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 这是新版的「观猹」模式。😄",
+      "url": "https://x.com/Pixelxzen/status/2115334632262820245"
+    },
+    {
+      "author_id": "1514784737403236354",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:46:01.000Z",
+      "edit_history_tweet_ids": [
+        "2115334252950876253"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115334252950876253",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 124,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 在做轻健康笔记 App「Bodi」🫧，原生 iOS，三人小队晚抛光。\n记身体状态用可爱 emoji Bodi，刻意砍掉『看起来聪明、实际没人点』的入口。\n上线后会公开打 ASO，欢迎拍砖。",
+      "url": "https://x.com/lyounthzzz/status/2115334252950876253"
+    },
+    {
+      "author_id": "3151608288",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:39:31.000Z",
+      "edit_history_tweet_ids": [
+        "2115332617600196705"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/app_sail/statu…",
+            "end": 45,
+            "expanded_url": "https://x.com/app_sail/status/2115126953825185925",
+            "start": 22,
+            "url": "https://t.co/RymHCIcqEa"
+          }
+        ]
+      },
+      "id": "2115332617600196705",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 508,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115126953825185925",
+          "type": "quoted"
+        },
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 当下很多人的刚需啊 VPS\nhttps://t.co/RymHCIcqEa",
+      "url": "https://x.com/app_sail/status/2115332617600196705"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "6690032",
+        "conversation_id": "2115318655525523714",
+        "created_at": "2026-10-28T05:46:14.000Z",
+        "edit_history_tweet_ids": [
+          "2115319209437872246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A collection of powerful productivity tools all within an extendable launcher.",
+              "display_url": "raycast.com/?via=joe-seesun",
+              "end": 114,
+              "expanded_url": "https://raycast.com/?via=joe-seesun",
+              "start": 91,
+              "status": 200,
+              "title": "Raycast - Your shortcut to everything",
+              "unwound_url": "https://www.raycast.com/?via=joe-seesun",
+              "url": "https://t.co/BWoXPixwml"
+            }
+          ]
+        },
+        "id": "2115319209437872246",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3762,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115318655525523714",
+            "type": "replied_to"
+          }
+        ],
+        "text": "自己先来，订阅了三年的工具 Raycast AI：\n\n内置几乎所有顶级模型，快捷键对话，比打开 Agent 方便，有丰富的生态，安装了能替代一堆小工具，比如调整窗口、语音转写等。\n\nhttps://t.co/BWoXPixwml"
+      },
+      {
+        "author_id": "6690032",
+        "conversation_id": "2115318655525523714",
+        "created_at": "2026-10-28T05:44:02.000Z",
+        "edit_history_tweet_ids": [
+          "2115318655525523714"
+        ],
+        "id": "2115318655525523714",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 23190,
+          "like_count": 118,
+          "quote_count": 4,
+          "reply_count": 115,
+          "retweet_count": 17
+        },
+        "text": "评论发自己最喜欢用的 AI 工具和项目！\n\n可以是自己 AI Coding的产品，或一直花钱订阅的AI 工具。\n\n产品可以是网站、App、Skill、插件、开源代码。\n\n点赞人多，测试好用，我会转发帮大家加热。\n\n某次「未来硅世界」直播，网友展示了很多有创造力的产品，但缺传播渠道。\n\n索性来个自荐和推荐活动~"
+      },
+      {
+        "author_id": "6690032",
+        "conversation_id": "2115318655525523714",
+        "created_at": "2026-10-28T07:07:02.000Z",
+        "edit_history_tweet_ids": [
+          "2115339541855035845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1453896737324613636",
+              "start": 0,
+              "username": "FatsugarD"
+            }
+          ]
+        },
+        "id": "2115339541855035845",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 732,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115338867993874840",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@FatsugarD 我转告 jianyuan，确实产品不赖。"
+      },
+      {
+        "author_id": "1497795331488055296",
+        "conversation_id": "2115318655525523714",
+        "created_at": "2026-10-28T06:11:13.000Z",
+        "edit_history_tweet_ids": [
+          "2115325496175239245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Cortext combines AI with your local Markdown knowledge base, building a local Wiki-style network and memory from files, edits, and conversations.",
+              "display_url": "cortext.app",
+              "end": 40,
+              "expanded_url": "https://cortext.app",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2113143910700916736/FH32Y8Fw?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2113143910700916736/FH32Y8Fw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Cortext - AI for your local Markdown workspace",
+              "unwound_url": "https://cortext.app",
+              "url": "https://t.co/UpWLyCNpFf"
+            }
+          ]
+        },
+        "id": "2115325496175239245",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1075,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115318655525523714",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@vista8 还有第三款软件  https://t.co/UpWLyCNpFf，纯粹的 markdown ai 知识库软件 +llm wiki 的形式，理念就是无感智能知识库，带 AI 功能 自动识别 本地的 Claude code 内置了一个 pi，这款软件我至少做了 8 个月，花费超过 5000 美金以上额度，一直没发布，以前总感觉达不到我想要的效果，兼容"
+      },
+      {
+        "author_id": "1453896737324613636",
+        "conversation_id": "2115318655525523714",
+        "created_at": "2026-10-28T07:04:21.000Z",
+        "edit_history_tweet_ids": [
+          "2115338867993874840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ]
+        },
+        "id": "2115338867993874840",
+        "lang": "es",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 707,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115318655525523714",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@vista8 Multica。"
+      },
+      {
+        "author_id": "1722989263980285952",
+        "conversation_id": "2114622442714911083",
+        "created_at": "2026-10-26T07:37:32.000Z",
+        "edit_history_tweet_ids": [
+          "2114622442714911083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1EX0Yyw3I",
+              "end": 195,
+              "expanded_url": "https://x.com/zhengtang364848/status/2114622442714911083/photo/1",
+              "media_key": "3_2114622439741124608",
+              "start": 172,
+              "url": "https://t.co/A1EX0Yyw3I"
+            }
+          ]
+        },
+        "id": "2114622442714911083",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5973,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "text": "GitHub 真实测 #02：magpie\n\n一个本地模型网关：Claude Code、Codex、Gemini CLI 这些编程 agent 统一换模型，额度用完换账号，提示词里的密钥在本地打码。2.17 万星，MIT 协议，可以商用。\n\n我在 Docker 里实测了一遍，只接了一个 DeepSeek key 和一个 MiniMax 包年 https://t.co/A1EX0Yyw3I"
+      },
+      {
+        "article": {
+          "title": "《零推广做到近 12% 订阅率，我可能做出了第一个真正意义上的 AI 健身教练》"
+        },
+        "author_id": "1791131699042267136",
+        "conversation_id": "2110036886303740201",
+        "created_at": "2026-10-13T15:56:10.000Z",
+        "edit_history_tweet_ids": [
+          "2110036886303740201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2110…",
+              "end": 146,
+              "expanded_url": "https://x.com/i/article/2110021030656016384",
+              "start": 123,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2110021030656016384",
+              "url": "https://t.co/KH0iIikdRd"
+            }
+          ]
+        },
+        "id": "2110036886303740201",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 936,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "耗时45天，我从0~1独立开发了「练境」健身App。在几乎没有做推广的情况下，订阅率达到12%，也有了真实付费用户。\n这篇文章记录了我从健身小白到做出产品的心路历程，包括需求怎么来、AI开发踩过的坑、第一次上架的经历，以及为什么决定认真做营销。 https://t.co/KH0iIikdRd"
+      },
+      {
+        "author_id": "3151608288",
+        "conversation_id": "2115126953825185925",
+        "created_at": "2026-10-27T17:02:17.000Z",
+        "edit_history_tweet_ids": [
+          "2115126953825185925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ktZ4sIoiPa",
+              "end": 188,
+              "expanded_url": "https://x.com/app_sail/status/2115126953825185925/photo/1",
+              "media_key": "3_2115125661853757440",
+              "start": 165,
+              "url": "https://t.co/ktZ4sIoiPa"
+            },
+            {
+              "display_url": "pic.x.com/ktZ4sIoiPa",
+              "end": 188,
+              "expanded_url": "https://x.com/app_sail/status/2115126953825185925/photo/1",
+              "media_key": "3_2115125894612451328",
+              "start": 165,
+              "url": "https://t.co/ktZ4sIoiPa"
+            }
+          ]
+        },
+        "id": "2115126953825185925",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 30934,
+          "like_count": 172,
+          "quote_count": 6,
+          "reply_count": 29,
+          "retweet_count": 21
+        },
+        "text": "最近 𝕏 上很多关于 DMIT、搬瓦工 被封禁、掉线的讨论，再加上 Claude 封号越来越频繁，整个中推圈一片鬼哭狼嚎 😂\n\n你可能需要一台合适的 VPS ！\n\n正好我前段时间也在折腾 VPS，订阅 Claude、安装 Claude Code。一开始选的机器延迟太高，严重影响使用体验，来回折腾了不少时间。\n\n折腾下来发现，选 https://t.co/ktZ4sIoiPa"
+      }
+    ],
+    "users": [
+      {
+        "description": "Ex-Bytedance; Keep learning\nhttps://t.co/kHl850kIfU\nhttps://t.co/bDZnZdpw3q",
+        "id": "2054292218199027712",
+        "name": "JC",
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 144,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "username": "jasoninvest7"
+      },
+      {
+        "description": "",
+        "id": "1726981174038532096",
+        "name": "yongyang",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 54,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "username": "aaaaang_y63488"
+      },
+      {
+        "description": "K12视频人｜白天改排期，晚上跟 Codex 和 Cola 干活｜实测工具坑点，少踩雷｜公众号：赛博小熊猫Loki",
+        "id": "1892445190830637056",
+        "name": "赛博小熊猫Loki",
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 19,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 219
+        },
+        "username": "lokichris2046"
+      },
+      {
+        "description": "不止于代码\n在技术与思考之间，记录关于 AI、软件工程、系统架构与数字世界的探索。分享实践，也分享观点。",
+        "id": "1453896737324613636",
+        "name": "Kain",
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 10,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 85
+        },
+        "username": "FatsugarD"
+      },
+      {
+        "description": "让AI agent替我做英文YouTube频道，火柴人科普。\n播放数难看也照发，这次我要死磕到底。",
+        "id": "4716346122",
+        "name": "老记号",
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 1075,
+          "like_count": 156,
+          "listed_count": 3,
+          "media_count": 210,
+          "tweet_count": 1947
+        },
+        "username": "LauLauzhihao"
+      },
+      {
+        "description": "前端 · 做了4个广告站，80$/m；AI SaaS 站 1 个，0$/m。\n出海建站 / 美卡 / 美股 —— 赚美元 / 薅美元 / 存美元。",
+        "id": "1661680339729932295",
+        "name": "路漫漫",
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 2104,
+          "like_count": 259,
+          "listed_count": 5,
+          "media_count": 49,
+          "tweet_count": 425
+        },
+        "username": "lumm256"
+      },
+      {
+        "description": "营销、金融、智能体与流量分发。\n\n关注AI如何带来增长、收入与新机会。",
+        "id": "1707322478",
+        "name": "景哥｜AI商业应用",
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 1320,
+          "like_count": 1887,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 8501
+        },
+        "username": "whb0821"
+      },
+      {
+        "description": "",
+        "id": "1923350866624729088",
+        "name": "AIstar",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 28,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "AIstar3271"
+      },
+      {
+        "description": "宝哥 | AI讲师教练 (TTT) CCTV 财经频道采访讲师 8个月打造 AI 课程，变现18万（我做到了） 专注帮你把 AI 技能变成课 ：1、课程设计（把“你会的”变“别人想学的”） 2、 授课交付（把“干货”讲“明白”） 👇 不懂做课？来评论区问我",
+        "id": "308301306",
+        "name": "宝哥 | 培训师",
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 159,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 167
+        },
+        "username": "Baoge_AI_"
+      },
+      {
+        "description": "",
+        "id": "1031175155098107905",
+        "name": "麦辣鸡腿堡大人",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 33,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "ZJL20373362"
+      },
+      {
+        "description": "",
+        "id": "1571250933161676801",
+        "name": "tyrion lin",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 44,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 12
+        },
+        "username": "lin_tyrion"
+      },
+      {
+        "description": "用 AI 做真实产品｜记录工具实测、开发过程与踩坑｜从想法到可运行项目",
+        "id": "2078125254615212033",
+        "name": "俯仰｜AI 独立开发",
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 112,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 233
+        },
+        "username": "tiandidadacqqx"
+      },
+      {
+        "description": "喜欢摇滚乐、爱钓鱼的PM\n第二届GEO大会报名-11-21/22日-深圳南山\nhttps://t.co/N75cblhK9R",
+        "id": "6690032",
+        "name": "向阳乔木",
+        "public_metrics": {
+          "followers_count": 133913,
+          "following_count": 1682,
+          "like_count": 12394,
+          "listed_count": 2251,
+          "media_count": 3471,
+          "tweet_count": 10717
+        },
+        "username": "vista8"
+      },
+      {
+        "description": "资深 AI 魔法师 🪄\n\n专注 AI 短剧与 AI 视觉创作，\nAI 编程实战派｜多项 AI 产品已上线\n不只研究 AI 能做什么，更关心怎么把 AI 真正做成内容、工作流和产品。",
+        "id": "790386246556131328",
+        "name": "开发者/创作者Bruce",
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 495,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 1163
+        },
+        "username": "jakeybruce"
+      },
+      {
+        "description": "🤖 一个正在学AI的街溜子\n🎮 Game Design → Android → QA → AI\n📈 定投标普、纳指中\n🤝 利人即利己",
+        "id": "1763122830378696704",
+        "name": "半開",
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 1723,
+          "like_count": 2136,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1408
+        },
+        "username": "bankai_ajar"
+      },
+      {
+        "description": "A Chinese guy who speaks Urdu. Ex-CRI Urdu journalist · Ex-Lenovo ZUK camera PM · now Xiaomi PM, obsessed with AI. AI · Pakistan · Photography in EN · 中文 · Urdu",
+        "id": "477752809",
+        "name": "鹏轩 | Peng | Faraz Cheen",
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 1084,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 574
+        },
+        "username": "yinpengxuan"
+      },
+      {
+        "description": "8年程序开发经验，VibeCoding全栈开发工程师，万人社群AI编程教练",
+        "id": "1910124297294856192",
+        "name": "予贝AI",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "yubei2025"
+      },
+      {
+        "description": "🤖 AI 技术探索者 | 捣鼓不同prompt | 记录研究、实验与作品 | Agent克星 \n🆔 持续研究 AI 生图领域 励志ai生图作为输出日常 持续输出，质量各异prompt\n🎭 拆解，分享",
+        "id": "1722989263980285952",
+        "name": "秋/十三",
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 128,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 566
+        },
+        "username": "zhengtang364848"
+      },
+      {
+        "description": "🚀 AI技术探索者｜效率工具测评｜终身学习实践者\n🎯 独立开发者｜产品：练境-AI 健身教练 已上架 AppStore，欢迎体验\n💡 学到什么，分享什么",
+        "id": "1791131699042267136",
+        "name": "Km",
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 252,
+          "like_count": 696,
+          "listed_count": 7,
+          "media_count": 254,
+          "tweet_count": 940
+        },
+        "username": "Zkm211"
+      },
+      {
+        "description": "AI加金融 地狱都不敢收的人\n十五岁当兵 八年自媒体 现在带十几个AI bot干活\n人自由了 钱还在路上",
+        "id": "2059776904568487936",
+        "name": "反应堆",
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 118,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 206
+        },
+        "username": "94PengGe"
+      },
+      {
+        "description": "独立动画导演 & FDE全栈创作人",
+        "id": "200932519",
+        "name": "紫苏子ACG",
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 7500,
+          "like_count": 34834,
+          "listed_count": 15,
+          "media_count": 177,
+          "tweet_count": 1880
+        },
+        "username": "Pixelxzen"
+      },
+      {
+        "description": "后端架构师｜AI Agent 工程师\n三人团队，做轻健康笔记 App「Bodi」🫧\n公开记录：原生 iOS · 设计 Taste · 上线后 ASO/SEO",
+        "id": "1514784737403236354",
+        "name": "阳葱头头",
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 635,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 238
+        },
+        "username": "lyounthzzz"
+      },
+      {
+        "description": "Partner @chuhaiqu @tuttihq  ex-Zhihu\nAI Builder · LLM Agent · Developer\nX Growth & Marketing · Brand Partnerships→DM\n#Payments Expert\nLove 🛹 🏂 🏄  Born Free",
+        "id": "3151608288",
+        "name": "Asa",
+        "public_metrics": {
+          "followers_count": 33565,
+          "following_count": 2777,
+          "like_count": 17358,
+          "listed_count": 250,
+          "media_count": 660,
+          "tweet_count": 11539
+        },
+        "username": "app_sail"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2115344635317076463",
+    "next_token": "b26v89c19zqg8o3juzlxo08ykxn76t6u0cyj6mdnlp7r1",
+    "oldest_id": "2115332617600196705",
+    "result_count": 25
+  }
+}

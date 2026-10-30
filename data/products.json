@@ -1,0 +1,1364 @@
+{
+  "title": "AI Coding Hunt",
+  "title_zh": "乔木 AI 工具猎场",
+  "source_post": "https://x.com/vista8/status/2115318655525523714",
+  "source_author": "@vista8",
+  "updated_at": "2026-10-30T08:12:16.571187+08:00",
+  "updated_at_label": "2026-10-30 08:12 Asia/Shanghai",
+  "reply_count_reported": 115,
+  "posts_fetched": 161,
+  "product_count": 78,
+  "categories": {
+    "education": 4,
+    "desktop": 11,
+    "plugin": 11,
+    "other": 30,
+    "coding agent": 16,
+    "cli": 4,
+    "memory": 2
+  },
+  "products": [
+    {
+      "id": "a31873f1cd",
+      "name": "通江 Lab 3D 互动课程",
+      "description": "开源 3D 互动教育课程，已有 55+ 门可在线体验",
+      "category": "education",
+      "url": "https://lab.tongjiang.app",
+      "recommenders": [
+        "CopperForgeAI"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/CopperForgeAI/status/2115319997832839246",
+          "likes": 18,
+          "bookmarks": 30
+        }
+      ],
+      "likes": 18,
+      "bookmarks": 30
+    },
+    {
+      "id": "26f44d05b3",
+      "name": "QuickShot",
+      "description": "一款优雅的截图软件",
+      "category": "desktop",
+      "url": "https://t.co/PcdzIfWp3M",
+      "recommenders": [
+        "LufzzLiz"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/LufzzLiz/status/2115322758729216364",
+          "likes": 10,
+          "bookmarks": 15
+        }
+      ],
+      "likes": 10,
+      "bookmarks": 15
+    },
+    {
+      "id": "8286cde673",
+      "name": "Grok Bot Clipper",
+      "description": "浏览器插件：把网页内容共享给指定 Grok Bot",
+      "category": "plugin",
+      "url": "https://bot.fmcat.top/ecosystem/grok-bot-clipper",
+      "recommenders": [
+        "cgnot996"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/cgnot996/status/2115320074383053047",
+          "likes": 13,
+          "bookmarks": 12
+        }
+      ],
+      "likes": 13,
+      "bookmarks": 12
+    },
+    {
+      "id": "f09be79acf",
+      "name": "Digital Human Koubo",
+      "description": "一键支出数字人口播，多种风格模板，免费开源",
+      "category": "other",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "recommenders": [
+        "berryxia"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/berryxia/status/2115327779327844430",
+          "likes": 4,
+          "bookmarks": 12
+        }
+      ],
+      "likes": 4,
+      "bookmarks": 12
+    },
+    {
+      "id": "8c8659033f",
+      "name": "Raycast AI",
+      "description": "订阅三年的启动器：内置顶级模型、快捷键对话、窗口/语音等丰富扩展生态",
+      "category": "plugin",
+      "url": "https://raycast.com/?via=joe-seesun",
+      "recommenders": [
+        "vista8"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/vista8/status/2115319209437872246",
+          "likes": 11,
+          "bookmarks": 7
+        }
+      ],
+      "likes": 11,
+      "bookmarks": 7
+    },
+    {
+      "id": "ee6be2b605",
+      "name": "书签管理器",
+      "description": "Vibe coding 的简单好用书签管理器",
+      "category": "other",
+      "url": "https://ma2ong.github.io/bookmark-manager-site/",
+      "recommenders": [
+        "mamba0805"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/mamba0805/status/2115363392219480155",
+          "likes": 4,
+          "bookmarks": 4
+        }
+      ],
+      "likes": 4,
+      "bookmarks": 4
+    },
+    {
+      "id": "2bb8c0209e",
+      "name": "赛博小晚",
+      "description": "把思考方式与工作经验蒸馏成 Skill / Grok Bot 人设",
+      "category": "plugin",
+      "url": "https://x.com/bbkirstry/status/2112836743183716497?a=cS5-Y-6QkncmzOleabg&s=20",
+      "recommenders": [
+        "bbkirstry"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/bbkirstry/status/2115325767462875539",
+          "likes": 5,
+          "bookmarks": 3
+        }
+      ],
+      "likes": 5,
+      "bookmarks": 3
+    },
+    {
+      "id": "729469c54d",
+      "name": "WenCard",
+      "description": "专注 AI 图文创作的产品，做了大半年",
+      "category": "other",
+      "url": "https://wencard.com/",
+      "recommenders": [
+        "maqibin"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/maqibin/status/2115449069435002964",
+          "likes": 3,
+          "bookmarks": 4
+        }
+      ],
+      "likes": 3,
+      "bookmarks": 4
+    },
+    {
+      "id": "1beab11ca7",
+      "name": "本地无限画布剪辑",
+      "description": "本地开源无限画布，按时间线剪辑，资产留在本地",
+      "category": "desktop",
+      "url": "https://t.co/xcbf4aWt1f",
+      "recommenders": [
+        "kkkeric_ai"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/kkkeric_ai/status/2115441448367898834",
+          "likes": 0,
+          "bookmarks": 5
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 5
+    },
+    {
+      "id": "03b45db3bd",
+      "name": "Vibe 3D 视频引擎",
+      "description": "开源视频生成引擎，融合 Anatomy 与 Hyperframes，Vibe Coding 生成 3D 视频",
+      "category": "other",
+      "url": "https://t.co/l2kmuM8HIp",
+      "recommenders": [
+        "AgentWangCN"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/AgentWangCN/status/2115430989971530180",
+          "likes": 2,
+          "bookmarks": 4
+        }
+      ],
+      "likes": 2,
+      "bookmarks": 4
+    },
+    {
+      "id": "8a3179ebe1",
+      "name": "摸鱼背单词输入法",
+      "description": "伪装成输入法的摸鱼背单词应用，可导入词光雅思资源",
+      "category": "education",
+      "url": "https://t.co/FAeaFELaGG",
+      "recommenders": [
+        "CatCatMuse"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/CatCatMuse/status/2115371661658927254",
+          "likes": 1,
+          "bookmarks": 4
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 4
+    },
+    {
+      "id": "c93cc6fe71",
+      "name": "剪贴板 + 截图套件",
+      "description": "自研剪切板与截图软件，截图带自适应居中补偿",
+      "category": "desktop",
+      "url": "https://t.co/9zyjN6rOYr",
+      "recommenders": [
+        "RookieRicardoR"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/RookieRicardoR/status/2115321099118682120",
+          "likes": 3,
+          "bookmarks": 3
+        }
+      ],
+      "likes": 3,
+      "bookmarks": 3
+    },
+    {
+      "id": "c6ed300ef7",
+      "name": "旅行规划 Skill",
+      "description": "补上个人 Agent 在国内旅行规划的数据获取能力",
+      "category": "plugin",
+      "url": "https://t.co/nrifWCVBCg",
+      "recommenders": [
+        "victor_cheng_42"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/victor_cheng_42/status/2115323803685585120",
+          "likes": 2,
+          "bookmarks": 3
+        }
+      ],
+      "likes": 2,
+      "bookmarks": 3
+    },
+    {
+      "id": "e030b5d910",
+      "name": "AI 健身应用",
+      "description": "真正的 AI 健身应用，用过的人几乎都付费订阅",
+      "category": "other",
+      "url": "https://x.com/Zkm211/status/2110036886303740201?a=rjjapR94KXj63AnxAT8&s=20",
+      "recommenders": [
+        "Zkm211"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/Zkm211/status/2115335505399435339",
+          "likes": 1,
+          "bookmarks": 3
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 3
+    },
+    {
+      "id": "0f26d1bd48",
+      "name": "DeepSeek Harness 桌面端",
+      "description": "DeepSeek Harness + Grok Bot 协作的 Windows 桌面应用",
+      "category": "desktop",
+      "url": "https://t.co/oDiEWkNort",
+      "recommenders": [
+        "katcat_AI"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/katcat_AI/status/2115354326285832473",
+          "likes": 2,
+          "bookmarks": 2
+        }
+      ],
+      "likes": 2,
+      "bookmarks": 2
+    },
+    {
+      "id": "4cc49b01b2",
+      "name": "自用输入法改造",
+      "description": "改造的自用输入法",
+      "category": "plugin",
+      "url": "https://t.co/Es0k9Xat80",
+      "recommenders": [
+        "mmlong8"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/mmlong8/status/2115357752944218381",
+          "likes": 1,
+          "bookmarks": 2
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 2
+    },
+    {
+      "id": "5cc8b3d3a7",
+      "name": "灵感视频工作台",
+      "description": "视频 Agent 工作台，简化视频制作闭环流程",
+      "category": "coding agent",
+      "url": "https://t.co/XIBBjKzF99",
+      "recommenders": [
+        "RainhappyL"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/RainhappyL/status/2115425581139628433",
+          "likes": 1,
+          "bookmarks": 2
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 2
+    },
+    {
+      "id": "22bfa1633b",
+      "name": "专属提词器",
+      "description": "手机当高清摄像头 + 本地模型智能滑动提词，支持 OBS",
+      "category": "desktop",
+      "url": "https://t.co/j2fvhjFjaY",
+      "recommenders": [
+        "Alex_Wong1995"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/Alex_Wong1995/status/2115425389992693923",
+          "likes": 1,
+          "bookmarks": 2
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 2
+    },
+    {
+      "id": "652e82fe67",
+      "name": "Loki Ebook Converter",
+      "description": "基于 Calibre 的 macOS 批量电子书格式转换工具",
+      "category": "desktop",
+      "url": "https://github.com/loki2046-mao/loki-ebook-converter",
+      "recommenders": [
+        "lokichris2046"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/lokichris2046/status/2115342572994609537",
+          "likes": 1,
+          "bookmarks": 2
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 2
+    },
+    {
+      "id": "6223aec02c",
+      "name": "Mac 刘海灵动岛",
+      "description": "Mac 刘海灵动岛工具",
+      "category": "desktop",
+      "url": "https://t.co/oP7fEJK3M7",
+      "recommenders": [
+        "y3uc1en"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/y3uc1en/status/2115388007406797059",
+          "likes": 0,
+          "bookmarks": 2
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 2
+    },
+    {
+      "id": "43d2542a92",
+      "name": "HorseMD",
+      "description": "优美的多端 Markdown 编辑器（安卓 / iOS 等）",
+      "category": "other",
+      "url": "https://Horsemd.yangsir.net",
+      "recommenders": [
+        "yangsir_ai"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/yangsir_ai/status/2115328575335444824",
+          "likes": 0,
+          "bookmarks": 2
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 2
+    },
+    {
+      "id": "b2d21e771d",
+      "name": "Echo",
+      "description": "原生 Mac 菜单栏智能剪贴板：历史检索、整理、提问、粘贴一体",
+      "category": "desktop",
+      "url": "https://github.com/akira82-ai/echo-app",
+      "recommenders": [
+        "AgiRay1015"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/AgiRay1015/status/2115324363935453601",
+          "likes": 2,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 2,
+      "bookmarks": 1
+    },
+    {
+      "id": "55e4a3dba4",
+      "name": "CAD→Blender AI 工作台",
+      "description": "面向设计师的 AI 辅助工作台，研究 CAD 图纸识别到 Blender 建模",
+      "category": "coding agent",
+      "url": "https://x.com/Noctropy/status/2115490763861794902/video/1",
+      "recommenders": [
+        "Noctropy"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/Noctropy/status/2115490763861794902",
+          "likes": 0,
+          "bookmarks": 2
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 2
+    },
+    {
+      "id": "282be1c87e",
+      "name": "AI 资产管家",
+      "description": "维护 AI 资产：Skill 可见性锁定、跨 CLI/App 会话搜索",
+      "category": "coding agent",
+      "url": "https://t.co/OR362u7pq0",
+      "recommenders": [
+        "rya_nooo"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/rya_nooo/status/2115417767973191754",
+          "likes": 0,
+          "bookmarks": 2
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 2
+    },
+    {
+      "id": "384898f304",
+      "name": "短剧创作工作台",
+      "description": "一站式短剧创作工作台，性能与 UI 持续进化",
+      "category": "coding agent",
+      "url": "https://t.co/NNsXwcra4p",
+      "recommenders": [
+        "looplj2"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/looplj2/status/2115354527809548465",
+          "likes": 1,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 1
+    },
+    {
+      "id": "f7a46c2657",
+      "name": "WeSight",
+      "description": "苍何的本地 CLI Agent 桌面控制台（日常创作离不开）",
+      "category": "coding agent",
+      "url": "",
+      "recommenders": [
+        "canghe"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/canghe/status/2115450231324312019",
+          "likes": 3,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 3,
+      "bookmarks": 0
+    },
+    {
+      "id": "a2fd2b0864",
+      "name": "TinyCast",
+      "description": "Raycast 替代选项，更轻量",
+      "category": "plugin",
+      "url": "",
+      "recommenders": [
+        "jasoninvest7"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/jasoninvest7/status/2115344635317076463",
+          "likes": 1,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 1
+    },
+    {
+      "id": "25ec354009",
+      "name": "Imagifly",
+      "description": "自研生图生视频产品，适合 PPT / Banner / 小红书图",
+      "category": "other",
+      "url": "https://t.co/9x5Dx638g5",
+      "recommenders": [
+        "Last_Lighter"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/Last_Lighter/status/2115360151058440432",
+          "likes": 1,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 1
+    },
+    {
+      "id": "74c70ff266",
+      "name": "DSH Mermaid 插件",
+      "description": "DSH 插件：会话渲染 Mermaid",
+      "category": "plugin",
+      "url": "https://t.co/Bi48LbPJ6P",
+      "recommenders": [
+        "kouhualin"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/kouhualin/status/2115321371828052371",
+          "likes": 1,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 1
+    },
+    {
+      "id": "f21205e661",
+      "name": "AtlasOS",
+      "description": "无限画布开发工作台",
+      "category": "coding agent",
+      "url": "https://t.co/ai29lNlQbb",
+      "recommenders": [
+        "LiaoKong2024"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/LiaoKong2024/status/2115481964073591206",
+          "likes": 1,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 1
+    },
+    {
+      "id": "e48b173df2",
+      "name": "瑞幸取餐码小程序",
+      "description": "AI Coding 做的瑞幸取餐码收集小程序",
+      "category": "other",
+      "url": "https://x.com/yubei2025/status/2115335600677273822/photo/1",
+      "recommenders": [
+        "yubei2025"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/yubei2025/status/2115335600677273822",
+          "likes": 0,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 1
+    },
+    {
+      "id": "14e9ef42c8",
+      "name": "灼米漫剧",
+      "description": "AI 漫剧创作平台与企业管理中台（不开源）",
+      "category": "other",
+      "url": "https://zhuomi.cc/",
+      "recommenders": [
+        "jakeybruce"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/jakeybruce/status/2115336999309811933",
+          "likes": 0,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 1
+    },
+    {
+      "id": "4fbc30f139",
+      "name": "本地 HTML 编辑站",
+      "description": "可本地化 HTML 编辑，做 PPT / 简历等",
+      "category": "other",
+      "url": "https://t.co/A506UyZpe5",
+      "recommenders": [
+        "lianthony292788"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/lianthony292788/status/2115356989044015462",
+          "likes": 0,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 1
+    },
+    {
+      "id": "d7f682f858",
+      "name": "宝可梦学英语",
+      "description": "给 3–6 岁宝宝家长的宝可梦学英语产品，磨耳朵 + 训练家愿望",
+      "category": "education",
+      "url": "https://t.co/UHSgcM7zf5",
+      "recommenders": [
+        "drmrzhong"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/drmrzhong/status/2115437638203449825",
+          "likes": 0,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 1
+    },
+    {
+      "id": "7ef7689a99",
+      "name": "Veil",
+      "description": "Mac 开会/录屏时把后台窗口糊掉，只留当前窗口清楚",
+      "category": "desktop",
+      "url": "",
+      "recommenders": [
+        "maomao000211"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/maomao000211/status/2115329125217100256",
+          "likes": 0,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 1
+    },
+    {
+      "id": "83c31c01f9",
+      "name": "Silero-VAD + Whisper",
+      "description": "本地转写工作流：长播客先切语音段再转写",
+      "category": "cli",
+      "url": "",
+      "recommenders": [
+        "LauLauzhihao"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/LauLauzhihao/status/2115342276721528933",
+          "likes": 0,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 1
+    },
+    {
+      "id": "7c501e0d2e",
+      "name": "Cursor",
+      "description": "主力 AI 编程 IDE；Custom Rules 可当团队规范",
+      "category": "coding agent",
+      "url": "https://cursor.com",
+      "recommenders": [
+        "AkBanana4"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/AkBanana4/status/2115371644877451627",
+          "likes": 0,
+          "bookmarks": 1
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 1
+    },
+    {
+      "id": "e4dd074505",
+      "name": "雷霆小游戏",
+      "description": "游戏开发+素材资产全由 AI 制作的雷霆小游戏",
+      "category": "other",
+      "url": "https://aimodelpk.site/",
+      "recommenders": [
+        "chessunyan"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/chessunyan/status/2115330323856900115",
+          "likes": 1,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 0
+    },
+    {
+      "id": "3f297384fc",
+      "name": "微信公众号排版",
+      "description": "微信公众号排版网站",
+      "category": "other",
+      "url": "https://t.co/4aNPW6HbSs",
+      "recommenders": [
+        "itsKairoSolo"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/itsKairoSolo/status/2115479193219899437",
+          "likes": 1,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 0
+    },
+    {
+      "id": "e5aec7471d",
+      "name": "小爱 + Codex",
+      "description": "小爱音箱连接 Codex，语音推进项目 / 点外卖流程",
+      "category": "coding agent",
+      "url": "https://t.co/J5FTiDtAF0",
+      "recommenders": [
+        "SamyeeiYu"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/SamyeeiYu/status/2115458414726009251",
+          "likes": 1,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 0
+    },
+    {
+      "id": "1c41cb5588",
+      "name": "WorkBuddy",
+      "description": "社区用过的 WorkBuddy（与 Cursor / Grok 并列）",
+      "category": "coding agent",
+      "url": "",
+      "recommenders": [
+        "yinpengxuan"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/yinpengxuan/status/2115336225070752096",
+          "likes": 1,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 0
+    },
+    {
+      "id": "97c9f04be4",
+      "name": "VideoBee",
+      "description": "在线压缩/转换/裁剪视频，免注册无水印的冷门急救工具",
+      "category": "other",
+      "url": "https://t.co/XmZlb8io7X在线压缩视频",
+      "recommenders": [
+        "Decemberww12"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/Decemberww12/status/2115378377129599119",
+          "likes": 1,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 0
+    },
+    {
+      "id": "cd43d173d6",
+      "name": "Tokei",
+      "description": "自研 token 用量本地统计工具，可备份 harness 清理前的数据",
+      "category": "cli",
+      "url": "",
+      "recommenders": [
+        "LufzzLiz"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/LufzzLiz/status/2115612853462073627",
+          "likes": 1,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 0
+    },
+    {
+      "id": "7a3b56c6a8",
+      "name": "Orca / CodexBar",
+      "description": "社区推荐的编码相关工具组合",
+      "category": "cli",
+      "url": "",
+      "recommenders": [
+        "dontry018"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/dontry018/status/2115325659354665211",
+          "likes": 1,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 0
+    },
+    {
+      "id": "21a16d41f2",
+      "name": "Multica",
+      "description": "社区提及的 Multica",
+      "category": "other",
+      "url": "",
+      "recommenders": [
+        "FatsugarD"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/FatsugarD/status/2115338867993874840",
+          "likes": 1,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 0
+    },
+    {
+      "id": "f1666c777c",
+      "name": "Magpie",
+      "description": "yetone 的本机模型网关，Claude Code / Codex 一键换模型与账号",
+      "category": "cli",
+      "url": "https://twitter.com/zhengtang364848/status/2114622442714911083",
+      "recommenders": [
+        "zhengtang364848"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/zhengtang364848/status/2115335576073453678",
+          "likes": 1,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 0
+    },
+    {
+      "id": "8901bdfbdf",
+      "name": "M5Stack Stopwatch 固件",
+      "description": "M5Stack 秒表固件，蓝牙连手机 APK，超省电",
+      "category": "other",
+      "url": "https://github.com/wen0531/m5stack-qiuqiu",
+      "recommenders": [
+        "wen0531"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/wen0531/status/2115327677343404305",
+          "likes": 1,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 0
+    },
+    {
+      "id": "15a4b0bf86",
+      "name": "Claude Projects",
+      "description": "把常用资料与要求放进 Projects，少重复交代背景",
+      "category": "coding agent",
+      "url": "https://claude.ai",
+      "recommenders": [
+        "randy102488"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/randy102488/status/2115452523066892391",
+          "likes": 1,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 1,
+      "bookmarks": 0
+    },
+    {
+      "id": "4c1c3add3e",
+      "name": "通江 Car Base",
+      "description": "通江作品：车辆/项目库类互动展示",
+      "category": "other",
+      "url": "https://tongjiang.app/works/car-base/overview/",
+      "recommenders": [
+        "CopperForgeAI"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "f857214325",
+      "name": "辅导 101",
+      "description": "中小学诊断辅导，动森可爱 UI",
+      "category": "education",
+      "url": "https://fudao101.com",
+      "recommenders": [
+        "0xPlato"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "ee36c77a6b",
+      "name": "淘生 Taosheng",
+      "description": "开源项目，用了就知道真好用",
+      "category": "coding agent",
+      "url": "https://github.com/0xcoach/taosheng",
+      "recommenders": [
+        "0xCoach"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "2790f20793",
+      "name": "iPhone-use",
+      "description": "用 iPhone-use 测手机自动化",
+      "category": "other",
+      "url": "",
+      "recommenders": [
+        "DavidChin0110"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/DavidChin0110/status/2115853637461463214",
+          "likes": 0,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "cb0a5509ae",
+      "name": "ZigoAI 销冠",
+      "description": "企微/微版 AI 销售接待与跟进，推进预约试用报价下单",
+      "category": "other",
+      "url": "https://t.co/nZfIqcHiOM",
+      "recommenders": [
+        "qw0258"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/qw0258/status/2115395225413972280",
+          "likes": 0,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "a39079dcb3",
+      "name": "X Algo Watch",
+      "description": "盯着 X 官方推荐算法仓库，提交变更自动整理说明与证据",
+      "category": "other",
+      "url": "https://github.com/loonslo/x-algo-watch",
+      "recommenders": [
+        "bankai_ajar"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "14d71dc600",
+      "name": "Vibe开发的网站",
+      "description": "分享几个自用的Vibe开发的网站 导航工具网站： 设计展示网站： HTML静态托管网站：",
+      "category": "coding agent",
+      "url": "https://shiyichuang.com/",
+      "recommenders": [
+        "moumou12131"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/moumou12131/status/2115329703548719412",
+          "likes": 0,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "b8c687073a",
+      "name": "Timezone Override",
+      "description": "浏览器时区覆盖插件（Chrome / Edge）",
+      "category": "plugin",
+      "url": "https://chromewebstore.google.com/detail/timezone-override/hecgaoajefgkcnmmmolmofcfioknelog",
+      "recommenders": [],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "2041cc57b8",
+      "name": "SuperAPI",
+      "description": "Claude 等中转服务，号被封后的稳定备选",
+      "category": "other",
+      "url": "https://superapi.store",
+      "recommenders": [
+        "XLOOP37"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "554a7a766a",
+      "name": "SpotCat",
+      "description": "Raycast 类免费快速启动选项，界面更清爽",
+      "category": "plugin",
+      "url": "https://spotcat.ai/zh",
+      "recommenders": [
+        "longhaiqwe123"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "021e3fffd2",
+      "name": "Smart Name Stamp",
+      "description": "智能命名/盖章相关开源小工具",
+      "category": "other",
+      "url": "https://github.com/loki2046-mao/smart-name-stamp",
+      "recommenders": [],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "5902846e9b",
+      "name": "Qoder / Ego Lite",
+      "description": "社区点名的 Qoder 与 Ego Lite",
+      "category": "coding agent",
+      "url": "",
+      "recommenders": [
+        "sooooong629"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/sooooong629/status/2115480529885950339",
+          "likes": 0,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "4ae1ac47e3",
+      "name": "PixStag",
+      "description": "高性价比 AI 视频生成器",
+      "category": "other",
+      "url": "https://PixStag.com",
+      "recommenders": [
+        "tangpanqing"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "5f822c11de",
+      "name": "Pi Agent Desktop",
+      "description": "Pi Agent 桌面端，省 token",
+      "category": "desktop",
+      "url": "https://github.com/abcwyc/pi-agent-desktop",
+      "recommenders": [
+        "wycai"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "db4baacb8d",
+      "name": "Orbit",
+      "description": "开源项目 Orbit",
+      "category": "other",
+      "url": "https://github.com/ycl-2004/Orbit",
+      "recommenders": [],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "dd040e5965",
+      "name": "OpenRouter Rankings",
+      "description": "按真实用量看模型排行，选模型前先看一眼",
+      "category": "other",
+      "url": "https://openrouter.ai/rankings",
+      "recommenders": [
+        "Anders100M"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/Anders100M/status/2115444113952977180",
+          "likes": 0,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "0a07b1b949",
+      "name": "MenuBarMijia",
+      "description": "Mac 菜单栏米家控制中心，支持预测与按住说话语音控制",
+      "category": "desktop",
+      "url": "https://github.com/jryang1997/MenuBarMijia",
+      "recommenders": [
+        "jryang1997"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "00299a408d",
+      "name": "Library",
+      "description": "自荐一个： 终端里的Z-Library",
+      "category": "other",
+      "url": "https://zlib.heartleo.dev/",
+      "recommenders": [
+        "GeekRadioLeo"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/GeekRadioLeo/status/2115330917623574759",
+          "likes": 0,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "bbc6bf18e0",
+      "name": "Larder",
+      "description": "统一查看管理 Claude Code / Codex / Cursor 的 Skills、MCP、CLI、Commands",
+      "category": "coding agent",
+      "url": "https://github.com/599yongyang/larder",
+      "recommenders": [
+        "aaaaang_y63488"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "d3b2292656",
+      "name": "Harness Catalog",
+      "description": "DeepSeek Harness 插件站，持续更新维护",
+      "category": "plugin",
+      "url": "https://harnesscatalog.com/",
+      "recommenders": [
+        "dsholys10"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "4a3383c820",
+      "name": "Grok Bot 调度流",
+      "description": "Grok Bot 总控 + Mac mini 上 Claude Code 指挥 Codex/Kimi",
+      "category": "coding agent",
+      "url": "",
+      "recommenders": [
+        "leoai_build"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/leoai_build/status/2115426745767575997",
+          "likes": 0,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "79cfbff692",
+      "name": "GAIPPT",
+      "description": "在线一键美化 PPT，约 30 万用户",
+      "category": "other",
+      "url": "",
+      "recommenders": [
+        "99daoyou"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/99daoyou/status/2115470373412294825",
+          "likes": 0,
+          "bookmarks": 0
+        }
+      ],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "63a67601a2",
+      "name": "CreatorOS",
+      "description": "创作者网站与作品集平台",
+      "category": "other",
+      "url": "https://creatoros.com.cn",
+      "recommenders": [
+        "zifeiyuooooooo"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "253f95d284",
+      "name": "Cortext",
+      "description": "Markdown AI 知识库 + LLM Wiki，本地无感智能知识库",
+      "category": "memory",
+      "url": "https://cortext.app",
+      "recommenders": [
+        "RookieRicardoR"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "dff759bd52",
+      "name": "ChartsReplay",
+      "description": "给期货交易者用的 K 线回测复盘网站",
+      "category": "other",
+      "url": "https://chartsreplay.app",
+      "recommenders": [
+        "RookieRicardoR"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "7246d7f9c8",
+      "name": "CentricMem",
+      "description": "记忆相关产品 / 站点",
+      "category": "memory",
+      "url": "https://centricmem.com",
+      "recommenders": [],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "50c1bd9fa8",
+      "name": "Caravel Agent",
+      "description": "多 Agent CLI 桌面管理工具，用了半年少开 IDE",
+      "category": "coding agent",
+      "url": "https://github.com/yy36295238/caravel-agent",
+      "recommenders": [
+        "md440326799"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "21f9873569",
+      "name": "BlinkPop",
+      "description": "第一个 AI SaaS 站（视频相关）",
+      "category": "other",
+      "url": "https://blinkpop.video",
+      "recommenders": [
+        "lumm256"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "a8887fd3ee",
+      "name": "Argo Search Skill",
+      "description": "超实用 Agent 搜索 Skill，200+ 搜索源，也支持 dsh 插件",
+      "category": "plugin",
+      "url": "https://github.com/taxueseek/argo",
+      "recommenders": [
+        "TaXue2025"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "e2a96f8fed",
+      "name": "AIGeo Games",
+      "description": "AI / GEO 相关游戏化作品",
+      "category": "other",
+      "url": "https://aigeo.games",
+      "recommenders": [
+        "zifeiyuooooooo"
+      ],
+      "replies": [],
+      "likes": 0,
+      "bookmarks": 0
+    }
+  ]
+}
