@@ -1,11 +1,7 @@
 name = "aicodinghunt"
 compatibility_date = "2026-10-01"
+workers_dev = true
 
-# Preferred production deploy: Workers assets (see scripts/README.md)
-# workers_dev = true
-# [assets]
-# directory = "./public"
-# not_found_handling = "single-page-application"
-
-# Optional Pages deploy:
-pages_build_output_dir = "public"
+[assets]
+directory = "./dist"
+not_found_handling = "single-page-application"

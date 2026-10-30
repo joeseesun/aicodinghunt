@@ -1,11 +1,31 @@
 {
   "name": "aicodinghunt",
-  "version": "1.0.0",
   "private": true,
+  "version": "1.1.0",
+  "type": "module",
   "description": "乔木 AI 工具猎场 | AI Coding Hunt — catalog from @vista8 community replies",
   "scripts": {
-    "start": "python3 -m http.server 8787 --directory public",
-    "deploy": "npx wrangler pages deploy public --project-name aicodinghunt --branch main --commit-dirty=true"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "oxlint",
+    "start": "vite preview --port 8787",
+    "deploy": "npm run build && node -e \"console.log('Use: set -a; source /home/box/.cf_aitv.env; set +a; npx wrangler deploy --name aicodinghunt')\"",
+    "prebuild": "node scripts/sync-data.mjs"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "oxlint": "^1.90.0",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.5"
   },
   "license": "MIT"
 }
