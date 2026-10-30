@@ -7,12 +7,14 @@ import RankList from '../components/RankList'
 import SeoHead, { SITE } from '../components/SeoHead'
 import { CAT_LABELS, CAT_ORDER } from '../lib/categories'
 import { sortedForView } from '../lib/metrics'
+import { useSiteMetrics } from '../lib/siteMetrics'
 import { IconBolt, IconChevron, IconFilters, IconSearch } from '../lib/icons'
 
 const VIEWS = [
   { id: 'cards', label: '卡片' },
-  { id: 'likes', label: '点赞榜' },
-  { id: 'impressions', label: '浏览榜' },
+  { id: 'site', label: '本站点赞榜' },
+  { id: 'likes', label: '社区点赞榜' },
+  { id: 'impressions', label: '社区浏览榜' },
 ]
 
 export default function Home({ data }) {
@@ -20,6 +22,7 @@ export default function Home({ data }) {
   const [cat, setCat] = useState('all')
   const [view, setView] = useState('cards')
   const [hotOnly, setHotOnly] = useState(false)
+  const { metrics: siteMetrics } = useSiteMetrics()
 
   const categories = useMemo(() => {
     const counts = data?.categories || {}
@@ -60,7 +63,10 @@ export default function Home({ data }) {
     })
   }, [data, q, cat, hotOnly])
 
-  const list = useMemo(() => sortedForView(filtered, view), [filtered, view])
+  const list = useMemo(
+    () => sortedForView(filtered, view, siteMetrics),
+    [filtered, view, siteMetrics],
+  )
 
   const jsonLd = useMemo(() => {
     if (!data?.products) return null
@@ -295,8 +301,7 @@ export default function Home({ data }) {
               >
                 X 自荐帖
               </a>{' '}
-              的全部回复。纯闲聊已剔除；同一产品多条推荐会合并推荐人。点赞榜 / 浏览榜取自原帖回复的
-              public_metrics；缺失标为「—」并排后。推荐人头像来自 X 公开资料，点击可直达关注。每个产品可进详情页，也可回原帖。也可以{' '}
+              的全部回复。本站另有独立的「本站点赞 / 本站浏览」（访客 UUID + IP 回退去重，与 X 社区点赞分开）。卡片默认按本站点赞排序；也可切到社区点赞榜 / 社区浏览榜。推荐人头像来自 X 公开资料。也可以{' '}
               <Link to="/submit" className="text-ink-2 hover:text-accent font-medium">
                 在线投稿
               </Link>

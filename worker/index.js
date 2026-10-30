@@ -1,5 +1,7 @@
+import { handleMetricsApi, ProductMetrics } from './metrics.js'
+export { ProductMetrics }
 /**
- * AI Coding Hunt Worker — static assets + POST /api/submit
+ * AI Coding Hunt Worker — assets + submit + site metrics (view/upvote)
  */
 const REPO = 'joeseesun/aicodinghunt'
 const MAX_IMAGE = 4 * 1024 * 1024
@@ -16,7 +18,21 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url)
 
-    if (url.pathname === '/api/submit') {
+    const path = url.pathname.replace(/\/$/, '') || url.pathname
+    if (
+      path === '/api/view' ||
+      path === '/api/upvote' ||
+      path === '/api/metrics' ||
+      path.startsWith('/api/metrics/')
+    ) {
+      try {
+        return cors(await handleMetricsApi(request, env, url))
+      } catch (err) {
+        return cors(json({ error: err.message || String(err) }, 500))
+      }
+    }
+
+    if (url.pathname === '/api/submit' || path === '/api/submit') {
       if (request.method === 'OPTIONS') return cors(new Response(null, { status: 204 }))
       if (request.method !== 'POST') {
         return cors(json({ error: 'Method not allowed' }, 405))

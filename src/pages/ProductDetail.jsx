@@ -1,12 +1,14 @@
 import { Link, useParams } from 'react-router-dom'
-import { useMemo } from 'react'
+import { useEffect, useMemo } from 'react'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
 import ProductCard from '../components/ProductCard'
 import SeoHead, { SITE } from '../components/SeoHead'
+import UpvoteButton from '../components/UpvoteButton'
 import { XHandleList } from '../components/XHandle'
 import { CAT_LABELS } from '../lib/categories'
 import { formatNum, metric } from '../lib/metrics'
+import { useSiteMetrics } from '../lib/siteMetrics'
 import { IconExternal } from '../lib/icons'
 
 function paragraphs(text) {
@@ -27,11 +29,12 @@ function Section({ title, children, className = '' }) {
   )
 }
 
-function Stat({ label, value }) {
+function Stat({ label, value, hint }) {
   return (
     <div className="rounded-md bg-chip/80 border border-line-soft px-4 py-3 min-w-[7.5rem]">
       <div className="text-[12px] font-semibold tracking-[0.06em] text-ink-4 uppercase">{label}</div>
       <div className="mt-1 text-[18px] font-bold tabular-nums text-ink">{value}</div>
+      {hint ? <div className="mt-1 text-[11px] text-ink-4">{hint}</div> : null}
     </div>
   )
 }
@@ -39,23 +42,34 @@ function Stat({ label, value }) {
 export default function ProductDetail({ data }) {
   const { slug } = useParams()
   const decoded = decodeURIComponent(slug || '')
+  const { get, recordView, metrics } = useSiteMetrics()
 
   const product = useMemo(() => {
     if (!data?.products) return null
     return data.products.find((p) => p.slug === decoded) || null
   }, [data, decoded])
 
+  useEffect(() => {
+    if (product?.slug) recordView(product.slug)
+  }, [product?.slug, recordView])
+
+  const site = product ? get(product.slug) : { site_views: 0, site_upvotes: 0, voted: false }
+
   const related = useMemo(() => {
     if (!product || !data?.products) return []
     return data.products
       .filter((p) => p.category === product.category && p.slug !== product.slug)
-      .sort(
-        (a, b) =>
+      .sort((a, b) => {
+        const au = metrics[a.slug]?.site_upvotes || 0
+        const bu = metrics[b.slug]?.site_upvotes || 0
+        return (
+          bu - au ||
           (metric(b, 'like_count') || 0) - (metric(a, 'like_count') || 0) ||
-          (metric(b, 'impression_count') || 0) - (metric(a, 'impression_count') || 0),
-      )
+          (metric(b, 'impression_count') || 0) - (metric(a, 'impression_count') || 0)
+        )
+      })
       .slice(0, 4)
-  }, [data, product])
+  }, [data, product, metrics])
 
   if (!data) {
     return (
@@ -166,78 +180,89 @@ export default function ProductDetail({ data }) {
             </div>
 
             <div>
-              <div className="flex flex-wrap items-center gap-2 mb-3">
-                <span className="px-2.5 py-1 rounded-[5px] bg-chip text-ink-3 text-[11px] font-[750] tracking-[0.07em]">
-                  {CAT_LABELS[product.category] || product.category}
-                </span>
-                {product.pricing ? (
-                  <span className="px-2.5 py-1 rounded-[5px] bg-accent/10 text-accent text-[11px] font-[750] tracking-[0.04em]">
-                    {product.pricing}
-                  </span>
-                ) : null}
-              </div>
-
-              <h1 className="text-[30px] sm:text-[34px] font-[750] tracking-[-0.025em] leading-[1.18] text-ink">
-                {product.name}
-              </h1>
-              <p className="mt-3 text-[16.5px] text-ink-2 leading-relaxed">{product.summary}</p>
-
-              <div className="mt-6">
-                <div className="text-[12.5px] font-semibold tracking-[0.06em] uppercase text-ink-4 mb-2">
-                  推荐人
+              <div className="flex items-start gap-4">
+                <div className="hidden sm:block sticky top-6 shrink-0">
+                  <UpvoteButton slug={product.slug} variant="sticky" />
                 </div>
-                <XHandleList
-                  handles={product.recommenders}
-                  product={product}
-                  catalogAvatars={data.avatars}
-                  size={32}
-                />
-              </div>
-
-              {(product.tags || []).length > 0 ? (
-                <div className="flex flex-wrap gap-2 mt-5">
-                  {product.tags.map((t) => (
-                    <span
-                      key={t}
-                      className="px-[14px] py-[7px] rounded-pill border border-line bg-surface text-[13.5px] text-ink-2"
-                    >
-                      {t}
+                <div className="min-w-0 flex-1">
+                  <div className="flex flex-wrap items-center gap-2 mb-3">
+                    <span className="px-2.5 py-1 rounded-[5px] bg-chip text-ink-3 text-[11px] font-[750] tracking-[0.07em]">
+                      {CAT_LABELS[product.category] || product.category}
                     </span>
-                  ))}
-                </div>
-              ) : null}
+                    {product.pricing ? (
+                      <span className="px-2.5 py-1 rounded-[5px] bg-accent/10 text-accent text-[11px] font-[750] tracking-[0.04em]">
+                        {product.pricing}
+                      </span>
+                    ) : null}
+                  </div>
 
-              <div className="flex flex-wrap gap-3 mt-7">
-                {product.url ? (
-                  <a
-                    href={product.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 h-12 px-6 rounded-pill bg-accent text-white font-semibold transition-[background,transform] duration-200 ease-yarrow hover:bg-accent-hi active:scale-[0.98]"
-                  >
-                    访问官网 <IconExternal />
-                  </a>
-                ) : null}
-                {product.repo_url ? (
-                  <a
-                    href={product.repo_url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 h-12 px-6 rounded-pill border border-line bg-surface font-semibold text-ink transition-[background,border-color] duration-200 ease-yarrow hover:bg-chip hover:border-[#c8cedb]"
-                  >
-                    GitHub{product.stars != null ? ` · ★ ${formatNum(product.stars)}` : ''}
-                  </a>
-                ) : null}
-                {(product.source_reply_urls || [])[0] ? (
-                  <a
-                    href={product.source_reply_urls[0]}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 h-12 px-6 rounded-pill border border-line bg-surface font-semibold text-ink-2 transition-[background,border-color] duration-200 ease-yarrow hover:bg-chip"
-                  >
-                    原帖
-                  </a>
-                ) : null}
+                  <h1 className="text-[30px] sm:text-[34px] font-[750] tracking-[-0.025em] leading-[1.18] text-ink">
+                    {product.name}
+                  </h1>
+                  <p className="mt-3 text-[16.5px] text-ink-2 leading-relaxed">{product.summary}</p>
+
+                  <div className="sm:hidden mt-4">
+                    <UpvoteButton slug={product.slug} variant="detail" />
+                  </div>
+
+                  <div className="mt-6">
+                    <div className="text-[12.5px] font-semibold tracking-[0.06em] uppercase text-ink-4 mb-2">
+                      Maker / 推荐人
+                    </div>
+                    <XHandleList
+                      handles={product.recommenders}
+                      product={product}
+                      catalogAvatars={data.avatars}
+                      size={32}
+                    />
+                  </div>
+
+                  {(product.tags || []).length > 0 ? (
+                    <div className="flex flex-wrap gap-2 mt-5">
+                      {product.tags.map((t) => (
+                        <span
+                          key={t}
+                          className="px-[14px] py-[7px] rounded-pill border border-line bg-surface text-[13.5px] text-ink-2"
+                        >
+                          {t}
+                        </span>
+                      ))}
+                    </div>
+                  ) : null}
+
+                  <div className="flex flex-wrap gap-3 mt-7">
+                    {product.url ? (
+                      <a
+                        href={product.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-2 h-12 px-6 rounded-pill bg-accent text-white font-semibold transition-[background,transform] duration-200 ease-yarrow hover:bg-accent-hi active:scale-[0.98]"
+                      >
+                        Try it · 试用 <IconExternal />
+                      </a>
+                    ) : null}
+                    {product.repo_url ? (
+                      <a
+                        href={product.repo_url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-2 h-12 px-6 rounded-pill border border-line bg-surface font-semibold text-ink transition-[background,border-color] duration-200 ease-yarrow hover:bg-chip hover:border-[#c8cedb]"
+                      >
+                        GitHub{product.stars != null ? ` · ★ ${formatNum(product.stars)}` : ''}
+                      </a>
+                    ) : null}
+                    {(product.source_reply_urls || [])[0] ? (
+                      <a
+                        href={product.source_reply_urls[0]}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-2 h-12 px-6 rounded-pill border border-line bg-surface font-semibold text-ink-2 transition-[background,border-color] duration-200 ease-yarrow hover:bg-chip"
+                      >
+                        讨论 / 原帖
+                      </a>
+                    ) : null}
+                  </div>
+                </div>
               </div>
 
               <Section title="这是什么">
@@ -276,9 +301,19 @@ export default function ProductDetail({ data }) {
 
               <Section title="数据">
                 <div className="flex flex-wrap gap-2.5">
-                  <Stat label="点赞" value={likes != null ? formatNum(likes) : '—'} />
-                  <Stat label="浏览" value={imps != null ? formatNum(imps) : '—'} />
-                  <Stat label="收藏" value={bookmarks != null ? formatNum(bookmarks) : '—'} />
+                  <Stat
+                    label="本站点赞"
+                    value={formatNum(site.site_upvotes || 0)}
+                    hint="访客终身一票 · 可取消"
+                  />
+                  <Stat
+                    label="本站浏览"
+                    value={formatNum(site.site_views || 0)}
+                    hint="每访客每天计一次"
+                  />
+                  <Stat label="社区点赞" value={likes != null ? formatNum(likes) : '—'} hint="来自 X" />
+                  <Stat label="社区浏览" value={imps != null ? formatNum(imps) : '—'} hint="来自 X" />
+                  <Stat label="社区收藏" value={bookmarks != null ? formatNum(bookmarks) : '—'} hint="来自 X" />
                   {product.stars != null ? (
                     <Stat label="GitHub ★" value={formatNum(product.stars)} />
                   ) : null}
@@ -326,7 +361,7 @@ export default function ProductDetail({ data }) {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        {i === 0 ? '原帖' : `原帖 ${i + 1}`} · {u}
+                        {i === 0 ? '讨论 / 原帖' : `原帖 ${i + 1}`} · {u}
                       </a>
                     </li>
                   ))}
@@ -350,6 +385,28 @@ export default function ProductDetail({ data }) {
           ) : null}
         </div>
       </main>
+
+      {/* Mobile sticky vote + CTA bar */}
+      <div className="sm:hidden fixed bottom-0 inset-x-0 z-40 border-t border-line bg-surface/95 backdrop-blur-md px-4 py-3 pb-[max(0.75rem,env(safe-area-inset-bottom))]">
+        <div className="flex items-center gap-3 max-w-shell mx-auto">
+          <UpvoteButton slug={product.slug} variant="list" />
+          {product.url ? (
+            <a
+              href={product.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-1 inline-flex items-center justify-center h-11 rounded-pill bg-accent text-white font-semibold"
+            >
+              Try it · 试用
+            </a>
+          ) : (
+            <Link to="/" className="flex-1 inline-flex items-center justify-center h-11 rounded-pill border border-line font-semibold">
+              返回猎场
+            </Link>
+          )}
+        </div>
+      </div>
+      <div className="sm:hidden h-20" aria-hidden />
 
       <Footer />
     </div>

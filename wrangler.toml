@@ -12,3 +12,15 @@ run_worker_first = ["/api/*"]
 [[r2_buckets]]
 binding = "SUBMISSIONS"
 bucket_name = "aicodinghunt-submissions"
+
+[[kv_namespaces]]
+binding = "METRICS"
+id = "d61823874b994bd0a4c87d45f9977468"
+
+[[durable_objects.bindings]]
+name = "PRODUCT_METRICS"
+class_name = "ProductMetrics"
+
+[[migrations]]
+tag = "v1-product-metrics"
+new_sqlite_classes = ["ProductMetrics"]

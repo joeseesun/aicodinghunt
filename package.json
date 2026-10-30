@@ -1,9 +1,9 @@
 {
   "name": "aicodinghunt",
   "private": true,
-  "version": "1.2.0",
+  "version": "1.3.0",
   "type": "module",
-  "description": "\u4e54\u6728 AI \u5de5\u5177\u730e\u573a | AI Coding Hunt \u2014 catalog from @vista8 community replies",
+  "description": "乔木 AI 工具猎场 | AI Coding Hunt — catalog from @vista8 community replies",
   "scripts": {
     "dev": "vite",
     "build": "vite build && node scripts/generate-seo-pages.mjs",

@@ -11,6 +11,14 @@ export function metric(p, key) {
     const n = p.bookmarks ?? p.bookmark_count
     return n == null || n === '' ? null : Number(n)
   }
+  if (key === 'site_upvotes') {
+    const n = p.site_upvotes
+    return n == null || n === '' ? null : Number(n)
+  }
+  if (key === 'site_views') {
+    const n = p.site_views
+    return n == null || n === '' ? null : Number(n)
+  }
   return null
 }
 
@@ -25,7 +33,26 @@ export function isHot(p) {
   return (likes != null && likes >= 10) || (imps != null && imps >= 2000)
 }
 
-export function sortedForView(list, view) {
+export function sortedForView(list, view, siteMetricsMap) {
+  const siteU = (p) => {
+    const fromMap = siteMetricsMap?.[p.slug]?.site_upvotes
+    if (fromMap != null) return Number(fromMap) || 0
+    return metric(p, 'site_upvotes') || 0
+  }
+  const siteV = (p) => {
+    const fromMap = siteMetricsMap?.[p.slug]?.site_views
+    if (fromMap != null) return Number(fromMap) || 0
+    return metric(p, 'site_views') || 0
+  }
+
+  if (view === 'site') {
+    return [...list].sort(
+      (a, b) =>
+        siteU(b) - siteU(a) ||
+        siteV(b) - siteV(a) ||
+        (metric(b, 'like_count') || 0) - (metric(a, 'like_count') || 0),
+    )
+  }
   if (view === 'likes') {
     return [...list].sort((a, b) => {
       const av = metric(a, 'like_count')
@@ -46,8 +73,11 @@ export function sortedForView(list, view) {
       return bv - av || (metric(b, 'like_count') || 0) - (metric(a, 'like_count') || 0)
     })
   }
+  // default cards: prefer site upvotes then community likes
   return [...list].sort(
-    (a, b) => (metric(b, 'like_count') || 0) - (metric(a, 'like_count') || 0),
+    (a, b) =>
+      siteU(b) - siteU(a) ||
+      (metric(b, 'like_count') || 0) - (metric(a, 'like_count') || 0),
   )
 }
 

@@ -1,8 +1,9 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import ProductDetail from './pages/ProductDetail'
 import Submit from './pages/Submit'
+import { SiteMetricsProvider } from './lib/siteMetrics'
 
 export default function App() {
   const [data, setData] = useState(null)
@@ -18,6 +19,11 @@ export default function App() {
       .catch((e) => setError(e.message || String(e)))
   }, [])
 
+  const slugs = useMemo(
+    () => (data?.products || []).map((p) => p.slug).filter(Boolean),
+    [data],
+  )
+
   if (error) {
     return (
       <div className="min-h-screen grid place-items-center text-ink-2 p-8">
@@ -30,15 +36,17 @@ export default function App() {
   }
 
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Home data={data} />} />
-        <Route path="/submit" element={<Submit />} />
-        <Route path="/submit/" element={<Submit />} />
-        <Route path="/p/:slug/" element={<ProductDetail data={data} />} />
-        <Route path="/p/:slug" element={<ProductDetail data={data} />} />
-        <Route path="*" element={<Navigate to="/" replace />} />
-      </Routes>
-    </BrowserRouter>
+    <SiteMetricsProvider slugs={slugs}>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home data={data} />} />
+          <Route path="/submit" element={<Submit />} />
+          <Route path="/submit/" element={<Submit />} />
+          <Route path="/p/:slug/" element={<ProductDetail data={data} />} />
+          <Route path="/p/:slug" element={<ProductDetail data={data} />} />
+          <Route path="*" element={<Navigate to="/" replace />} />
+        </Routes>
+      </BrowserRouter>
+    </SiteMetricsProvider>
   )
 }
