@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="description" content="改造的自用输入法" />
+  <meta property="og:title" content="自用输入法改造 · AI Coding Hunt" />
+  <meta property="og:description" content="改造的自用输入法" />
+  <meta property="og:image" content="/images/products/自用输入法改造.png" />
+  <meta property="og:type" content="article" />
+  <title>自用输入法改造 · 乔木 AI 工具猎场</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700&family=Noto+Sans+SC:wght@400;500;600&display=swap" rel="stylesheet" />
+  <script>
+    try {
+      const t = localStorage.getItem('theme');
+      if (t === 'dark' || t === 'light') document.documentElement.dataset.theme = t;
+    } catch {}
+  </script>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <div class="page detail-page">
+    <header class="topbar">
+      <a class="brand" href="/">向阳乔木 · AI Coding Hunt</a>
+      <nav class="nav">
+        <a href="/">← 猎场首页</a>
+        <a href="https://github.com/joeseesun/aicodinghunt" target="_blank" rel="noopener">GitHub</a>
+        <button type="button" class="theme-toggle" id="themeToggle" aria-label="切换深浅色">◐</button>
+      </nav>
+    </header>
+    <main>
+      <p class="crumb"><a href="/">猎场</a> / <span>插件 / Skill</span> / <span>自用输入法改造</span></p>
+      <article class="detail">
+        <div class="hero-media">
+          <img src="/images/products/自用输入法改造.png" alt="自用输入法改造" />
+          
+        </div>
+        <div class="detail-body">
+          <div class="detail-top">
+            <span class="cat">插件 / Skill</span>
+            <span class="stats">♥ 1 赞 · 👁 228 浏览 · 🔖 2 · 免费 / 开源倾向</span>
+          </div>
+          <h1>自用输入法改造</h1>
+          <p class="summary">改造的自用输入法</p>
+          <div class="tags"><span class="tag">插件 / Skill</span><span class="tag">C++</span></div>
+          <div class="actions"><a class="btn primary" href="https://github.com/mmlong818/iris-ime" target="_blank" rel="noopener">官网</a> <a class="btn ghost" href="https://x.com/mmlong8/status/2115357752944218381" target="_blank" rel="noopener">原帖</a></div>
+          <section class="writeup">
+            <h2>详情</h2>
+            <p>改造的自用输入法</p><p>自研拼音输入法: 词格 Viterbi 整句解码 + 神经重排序 + 全局钩子客户端 (Windows) | 鸢尾主题 - mmlong818/iris-ime</p>
+          </section>
+          <p class="recs-line">推荐人：@mmlong8</p>
+          <p class="meta">更新 2026-10-30 09:37 Asia/Shanghai</p>
+          <div class="gallery"><img src="/images/products/自用输入法改造-1.png" alt="" loading="lazy" /></div>
+        </div>
+      </article>
+      <section class="related"><h2>相关产品</h2><div class="related-grid"><a class="related-card" href="/p/grok-bot-clipper/">
+                <img src="/images/products/grok-bot-clipper.jpg" alt="" loading="lazy" />
+                <div><strong>Grok Bot Clipper</strong><span>浏览器插件：把网页内容共享给指定 Grok Bot</span></div>
+                </a><a class="related-card" href="/p/raycast-ai/">
+                <img src="/images/products/raycast-ai.jpg" alt="" loading="lazy" />
+                <div><strong>Raycast AI</strong><span>订阅三年的启动器：内置顶级模型、快捷键对话、窗口/语音等丰富扩展生态</span></div>
+                </a><a class="related-card" href="/p/赛博小晚/">
+                <img src="/images/products/赛博小晚.svg" alt="" loading="lazy" />
+                <div><strong>赛博小晚</strong><span>把思考方式与工作经验蒸馏成 Skill / Grok Bot 人设</span></div>
+                </a><a class="related-card" href="/p/旅行规划-skill/">
+                <img src="/images/products/旅行规划-skill.svg" alt="" loading="lazy" />
+                <div><strong>旅行规划 Skill</strong><span>补上个人 Agent 在国内旅行规划的数据获取能力</span></div>
+                </a></div></section>
+    </main>
+    <footer class="footer">
+      <p>向阳乔木 · <a href="https://www.qiaomu.ai/">qiaomu.ai</a> · <a href="https://x.com/vista8">@vista8</a></p>
+      <p class="small">开源 MIT · 内容来自社区自荐，非官方测评</p>
+    </footer>
+  </div>
+  <script>
+    document.getElementById('themeToggle')?.addEventListener('click', () => {
+      const cur = document.documentElement.dataset.theme;
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const nowDark = cur ? cur === 'dark' : prefersDark;
+      const next = nowDark ? 'light' : 'dark';
+      document.documentElement.dataset.theme = next;
+      try { localStorage.setItem('theme', next); } catch {}
+    });
+  </script>
+</body>
+</html>

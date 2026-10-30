@@ -42,13 +42,18 @@
         <h1>乔木 <em>AI 工具猎场</em></h1>
         <p class="lede">
           来自 <a href="https://x.com/vista8" target="_blank" rel="noopener">@vista8</a> 的自荐帖：
-          把评论区里大家真正在用、在做的 AI 工具与项目，整理成一张可检索的目录。
-          不追口号，只收录能点开、能试用、能继续挖的东西。
+          把评论区里大家真正在用、在做的 AI 工具与项目，整理成一张可检索、可排序的图文目录。
+          每个产品都有详情页；榜单按原帖点赞与浏览量排列。
         </p>
         <div class="proof" id="proofStrip">加载中…</div>
       </section>
 
       <section class="controls" aria-label="筛选">
+        <div class="view-tabs" id="viewTabs" role="tablist">
+          <button type="button" class="tab active" data-view="cards" role="tab" aria-selected="true">全部卡片</button>
+          <button type="button" class="tab" data-view="likes" role="tab" aria-selected="false">点赞榜</button>
+          <button type="button" class="tab" data-view="impressions" role="tab" aria-selected="false">浏览榜</button>
+        </div>
         <div class="search-wrap">
           <input id="search" type="search" placeholder="搜索名称、描述、推荐人…" autocomplete="off" />
         </div>
@@ -56,6 +61,7 @@
       </section>
 
       <section class="grid" id="grid" aria-live="polite"></section>
+      <section class="rank-list hidden" id="rankList" aria-live="polite"></section>
 
       <section class="note">
         <h2>关于这份目录</h2>
@@ -63,7 +69,8 @@
           数据来自
           <a href="https://x.com/vista8/status/2115318655525523714" target="_blank" rel="noopener">X 自荐帖</a>
           的全部回复。纯闲聊已剔除；同一产品多条推荐会合并推荐人。
-          链接优先展开为正式网址；个别仍可能是短链。时间以 Asia/Shanghai 标注。
+          点赞榜 / 浏览榜取自原帖回复的 public_metrics（like_count、impression_count）；缺失标为「—」并排后。
+          每个产品可进详情页，也可回原帖。
         </p>
         <p class="meta" id="updatedMeta"></p>
       </section>
