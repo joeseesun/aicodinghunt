@@ -1,0 +1,536 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Yarrow — Results for stationery</title>
+<style>
+  :root{
+    --ink:#0f1219;
+    --ink-2:#39404d;
+    --ink-3:#6b727f;
+    --ink-4:#8f96a3;
+
+    --line:#d9dfea;
+    --line-soft:#e3e8f2;
+    --canvas:#f5f7fc;
+    --surface:#fbfcff;
+    --chip:#e6ebf4;
+    --chip-hover:#dbe1ec;
+
+    --accent:#c0492f;
+    --accent-hi:#d0573b;
+    --accent-soft:#e8effc;
+    --live:#4f9a6a;
+    --bolt:#d79a2b;
+
+    --r-sm:8px;
+    --r-md:12px;
+    --r-pill:999px;
+
+    --ease:cubic-bezier(0.16,1,0.3,1);
+    --sh-tile:0 1px 2px rgba(15,18,25,.05), 0 14px 30px -20px rgba(15,18,25,.35);
+
+    --gutter:38px;
+    --gap:22px;
+  }
+
+  *,*::before,*::after{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--canvas);
+    color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size:15px;line-height:1.45;
+    -webkit-font-smoothing:antialiased;
+    text-rendering:optimizeLegibility;
+  }
+  button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;}
+  a{color:inherit;text-decoration:none;}
+  h1,h2,h3{margin:0;}
+  ul{margin:0;padding:0;list-style:none;}
+  img{max-width:100%;}
+
+  .shell{max-width:1440px;margin:0 auto;padding:0 var(--gutter);}
+
+  /* ================= top nav ================= */
+  .nav{
+    background:var(--surface);
+    border-bottom:1px solid var(--line-soft);
+  }
+  .nav-inner{
+    height:88px;
+    display:flex;align-items:center;gap:26px;min-width:0;
+  }
+
+  .wordmark{
+    display:flex;align-items:center;gap:9px;flex:none;
+    font-size:25px;font-weight:750;letter-spacing:-.03em;
+    color:var(--ink);
+  }
+  .wordmark svg{color:var(--accent);flex:none;}
+
+  /* search */
+  .search{
+    flex:1 1 auto;min-width:0;max-width:470px;
+    display:flex;align-items:center;gap:10px;
+    height:56px;padding:0 8px 0 22px;
+    background:var(--chip);
+    border-radius:var(--r-pill);
+    border:1px solid transparent;
+    transition:background .2s var(--ease),border-color .2s var(--ease);
+  }
+  .search:hover{background:var(--chip-hover);}
+  .search-q{
+    flex:1 1 auto;min-width:0;
+    font-size:15.5px;color:var(--ink);
+    overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+  }
+  .search-scope{
+    display:flex;align-items:center;gap:6px;flex:none;
+    font-size:15px;font-weight:600;color:var(--ink-2);
+    padding-right:6px;
+    transition:color .18s var(--ease);
+  }
+  .search-scope:hover{color:var(--ink);}
+  .search-go{
+    width:42px;height:42px;flex:none;border-radius:var(--r-pill);
+    background:var(--accent);color:#fff;
+    display:grid;place-items:center;
+    transition:background .2s var(--ease),transform .2s var(--ease);
+  }
+  .search-go:hover{background:var(--accent-hi);}
+  .search-go:active{transform:scale(.95);}
+
+  .nav-links{display:flex;align-items:center;gap:4px;flex:none;margin-left:2px;}
+  .nav-links button{
+    display:flex;align-items:center;gap:6px;
+    padding:9px 12px;border-radius:var(--r-sm);
+    font-size:15px;font-weight:600;color:var(--ink-2);
+    transition:color .18s var(--ease),background .18s var(--ease);
+  }
+  .nav-links button:hover{color:var(--ink);background:var(--chip);}
+
+  .nav-right{display:flex;align-items:center;gap:12px;flex:none;margin-left:auto;}
+  .btn-ghost{
+    display:inline-flex;align-items:center;gap:8px;
+    height:44px;padding:0 20px;border-radius:var(--r-pill);
+    border:1px solid var(--line);
+    font-size:15px;font-weight:600;color:var(--ink);
+    background:var(--surface);
+    transition:border-color .2s var(--ease),background .2s var(--ease),transform .2s var(--ease);
+  }
+  .btn-ghost:hover{border-color:#c4cad7;background:var(--chip);}
+  .btn-ghost:active{transform:translateY(1px);}
+  .nav-icon{
+    width:38px;height:38px;border-radius:var(--r-pill);
+    display:grid;place-items:center;color:var(--ink-2);
+    transition:background .18s var(--ease),color .18s var(--ease);
+  }
+  .nav-icon:hover{background:var(--chip);color:var(--ink);}
+  .me{position:relative;flex:none;width:42px;height:42px;margin-left:2px;}
+  .me img{
+    width:42px;height:42px;border-radius:var(--r-pill);
+    object-fit:cover;object-position:50% 26%;
+    background:var(--chip);
+    border:1px solid var(--line);
+    display:block;
+  }
+  .me .dot{
+    position:absolute;right:0;bottom:1px;
+    width:11px;height:11px;border-radius:var(--r-pill);
+    background:var(--live);border:2px solid var(--surface);
+  }
+
+  /* ================= results header ================= */
+  .head{padding-top:44px;}
+  .head h1{font-size:31px;font-weight:450;letter-spacing:-.022em;color:var(--ink-2);}
+  .head h1 strong{font-weight:750;color:var(--ink);}
+  .head p{margin:9px 0 0;font-size:15.5px;color:var(--ink-3);max-width:62ch;}
+
+  .popular{
+    display:flex;align-items:center;flex-wrap:wrap;gap:10px;
+    padding-top:34px;padding-bottom:26px;min-width:0;
+  }
+  .popular .lead{font-size:14.5px;color:var(--ink-3);margin-right:4px;flex:none;}
+  .chip{
+    padding:9px 17px;border-radius:var(--r-pill);
+    border:1px solid var(--line);
+    font-size:14.5px;color:var(--ink-2);
+    background:var(--surface);
+    white-space:nowrap;
+    transition:border-color .18s var(--ease),background .18s var(--ease),color .18s var(--ease),transform .18s var(--ease);
+  }
+  .chip:hover{background:var(--chip);border-color:#c8cedb;color:var(--ink);transform:translateY(-1px);}
+
+  .rule{height:1px;background:var(--line-soft);}
+
+  /* ================= filters ================= */
+  .filters{
+    display:flex;align-items:center;flex-wrap:wrap;gap:12px;
+    padding-top:22px;padding-bottom:30px;min-width:0;
+  }
+  .filter-toggle{
+    width:44px;height:44px;flex:none;border-radius:var(--r-pill);
+    border:1px solid var(--line);color:var(--ink-2);
+    display:grid;place-items:center;background:var(--surface);
+    transition:border-color .18s var(--ease),background .18s var(--ease);
+  }
+  .filter-toggle:hover{background:var(--chip);border-color:#c8cedb;}
+  .drop{
+    display:inline-flex;align-items:center;gap:9px;
+    height:44px;padding:0 16px;border-radius:var(--r-pill);
+    border:1px solid var(--line);background:var(--surface);
+    font-size:14.5px;font-weight:600;color:var(--ink-2);
+    transition:border-color .18s var(--ease),background .18s var(--ease),color .18s var(--ease);
+  }
+  .drop:hover{background:var(--chip);border-color:#c8cedb;color:var(--ink);}
+  .drop svg{color:var(--ink-3);flex:none;}
+
+  .quick{display:flex;align-items:center;gap:10px;margin-left:14px;flex:none;}
+  .switch{
+    width:46px;height:26px;flex:none;border-radius:var(--r-pill);
+    background:#ccd2df;position:relative;
+    transition:background .22s var(--ease);
+  }
+  .switch::after{
+    content:"";position:absolute;top:3px;left:3px;
+    width:20px;height:20px;border-radius:var(--r-pill);
+    background:var(--surface);
+    box-shadow:0 1px 3px rgba(15,18,25,.28);
+    transition:transform .22s var(--ease);
+  }
+  .switch:hover{background:#c1c8d5;}
+  .quick .label{
+    display:flex;align-items:center;gap:7px;
+    font-size:15px;font-weight:600;color:var(--ink);
+  }
+  .bolt{color:var(--bolt);flex:none;}
+
+  /* ================= results grid ================= */
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(4,minmax(0,1fr));
+    gap:44px var(--gap);
+    padding-bottom:64px;
+  }
+  .item{min-width:0;display:flex;flex-direction:column;}
+  .tile{
+    position:relative;
+    aspect-ratio:4/3;
+    border-radius:var(--r-md);
+    overflow:hidden;
+    background:var(--chip);
+    box-shadow:var(--sh-tile);
+    transition:transform .28s var(--ease),box-shadow .28s var(--ease);
+  }
+  .tile::after{
+    content:"";position:absolute;inset:0;
+    border-radius:var(--r-md);
+    box-shadow:inset 0 0 0 1px rgba(15,18,25,.07);
+    pointer-events:none;
+  }
+  .tile img{
+    position:absolute;inset:0;
+    width:100%;height:100%;
+    object-fit:cover;display:block;
+  }
+  .item:hover .tile{
+    transform:translateY(-3px);
+    box-shadow:0 2px 4px rgba(15,18,25,.06), 0 22px 38px -22px rgba(15,18,25,.45);
+  }
+
+  .item h3{
+    margin:15px 0 0;
+    font-size:17px;font-weight:700;letter-spacing:-.015em;line-height:1.3;
+    color:var(--ink);
+    min-width:0;
+  }
+  .by{display:flex;align-items:center;gap:9px;margin-top:10px;min-width:0;}
+  .by img{
+    width:24px;height:24px;flex:none;border-radius:var(--r-pill);
+    object-fit:cover;object-position:50% 26%;
+    background:var(--chip);display:block;
+    border:1px solid var(--line);
+  }
+  .by .name{
+    font-size:14px;color:var(--ink-2);
+    min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+  }
+  .pro{
+    flex:none;padding:2px 8px;border-radius:5px;
+    background:var(--chip);color:var(--ink-3);
+    font-size:11px;font-weight:750;letter-spacing:.07em;
+  }
+  .price{
+    display:flex;align-items:center;gap:7px;margin-top:12px;
+    font-size:15px;font-weight:700;color:var(--ink);
+    font-variant-numeric:tabular-nums;
+  }
+
+  /* ================= floating help ================= */
+  .helper{
+    position:fixed;right:28px;bottom:28px;z-index:5;
+    width:54px;height:54px;border-radius:var(--r-pill);
+    background:var(--accent);color:#fff;
+    display:grid;place-items:center;
+    box-shadow:0 12px 26px -10px rgba(15,18,25,.5);
+    transition:transform .24s var(--ease),background .24s var(--ease);
+  }
+  .helper:hover{transform:translateY(-2px) scale(1.03);background:var(--accent-hi);}
+
+  :focus-visible{outline:2px solid var(--accent-hi);outline-offset:2px;border-radius:6px;}
+
+  @media (max-width:1280px){
+    .grid{grid-template-columns:repeat(3,minmax(0,1fr));}
+    .nav-links{display:none;}
+  }
+  @media (max-width:900px){
+    .grid{grid-template-columns:repeat(2,minmax(0,1fr));}
+  }
+  @media (max-width:560px){
+    .grid{grid-template-columns:minmax(0,1fr);}
+    :root{--gutter:20px;}
+  }
+</style>
+</head>
+<body>
+
+<!-- ===================== nav ===================== -->
+<header class="nav">
+  <div class="shell nav-inner">
+    <a class="wordmark" href="#">
+      <svg width="27" height="27" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <path d="M12 2.6c1.9 2.5 2.6 4.6 2.2 6.4 1.4-1.2 3.2-1.7 5.4-1.5-1.2 2.2-2.8 3.5-4.7 4 1.9.5 3.3 1.7 4.3 3.7-2.4.5-4.3.2-5.7-.9.5 1.9.2 4-1 6.3-1.9-1.7-2.8-3.6-2.8-5.6-1.2 1.5-3 2.5-5.4 3 .1-2.5 1-4.3 2.6-5.5-1.9-.3-3.6-1.4-5-3.3 2.3-1 4.3-1 5.9-.2C6.7 7.4 6.4 5.4 7 3.2c2.1.8 3.6 2 4.4 3.6.1-1.4.3-2.8.6-4.2Z" fill="currentColor"/>
+        <circle cx="12" cy="12.6" r="1.9" fill="#fafbfd"/>
+      </svg>
+      Yarrow
+    </a>
+
+    <div class="search">
+      <span class="search-q">stationery</span>
+      <button class="search-scope">
+        Services
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="m6 9.5 6 6 6-6"/>
+        </svg>
+      </button>
+      <button class="search-go" aria-label="Search">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true">
+          <circle cx="10.8" cy="10.8" r="6.6"/><path d="m15.8 15.8 4 4"/>
+        </svg>
+      </button>
+    </div>
+
+    <nav class="nav-links" aria-label="Main">
+      <button>Discover
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9.5 6 6 6-6"/></svg>
+      </button>
+      <button>Hire Designers
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9.5 6 6 6-6"/></svg>
+      </button>
+      <button>Find Work
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9.5 6 6 6-6"/></svg>
+      </button>
+      <button>Guilds
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9.5 6 6 6-6"/></svg>
+      </button>
+    </nav>
+
+    <div class="nav-right">
+      <button class="btn-ghost">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" aria-hidden="true">
+          <path d="M12 5.4v13.2M5.4 12h13.2"/>
+        </svg>
+        Post a Brief
+      </button>
+      <button class="nav-icon" aria-label="Messages">
+        <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M20.6 11.6c0 3.9-3.9 7-8.6 7-.9 0-1.8-.1-2.6-.35L4.2 20l1.5-3.5a6.7 6.7 0 0 1-2.3-4.9c0-3.9 3.9-7 8.6-7s8.6 3.1 8.6 7Z"/>
+          <path d="M8.8 10.6h6.4M8.8 13.4h4"/>
+        </svg>
+      </button>
+      <button class="nav-icon" aria-label="Notifications">
+        <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M18 9.4a6 6 0 1 0-12 0c0 5-2.1 6.4-2.1 6.4h16.2S18 14.4 18 9.4Z"/>
+          <path d="M13.6 19.2a1.9 1.9 0 0 1-3.2 0"/>
+        </svg>
+      </button>
+      <span class="me">
+        <img src="https://images.pexels.com/photos/37862665/pexels-photo-37862665.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=160" alt="Your profile — portrait by Ben Khatry on Pexels">
+        <span class="dot" aria-label="Online"></span>
+      </span>
+    </div>
+  </div>
+</header>
+
+<!-- ===================== results ===================== -->
+<main>
+  <div class="shell head">
+    <h1>Results for <strong>stationery</strong></h1>
+    <p>Hire designers offering stationery and print work for your next project.</p>
+  </div>
+
+  <div class="shell popular">
+    <span class="lead">Popular:</span>
+    <button class="chip">packaging</button>
+    <button class="chip">logo suite</button>
+    <button class="chip">app icons</button>
+    <button class="chip">site design</button>
+    <button class="chip">front-end build</button>
+    <button class="chip">brand identity</button>
+    <button class="chip">ad creative</button>
+    <button class="chip">storefront</button>
+    <button class="chip">illustration</button>
+    <button class="chip">motion</button>
+  </div>
+
+  <div class="shell"><div class="rule"></div></div>
+
+  <div class="shell filters">
+    <button class="filter-toggle" aria-label="All filters">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true">
+        <path d="M3.6 7.4h4.2M12.6 7.4h7.8M3.6 16.6h7.8M15.6 16.6h4.8"/>
+        <circle cx="10.2" cy="7.4" r="2.4"/><circle cx="13.8" cy="16.6" r="2.4"/>
+      </svg>
+    </button>
+    <button class="drop">Category
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9.5 6 6 6-6"/></svg>
+    </button>
+    <button class="drop">Style tags
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9.5 6 6 6-6"/></svg>
+    </button>
+    <button class="drop">Budget
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9.5 6 6 6-6"/></svg>
+    </button>
+    <button class="drop">Turnaround
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9.5 6 6 6-6"/></svg>
+    </button>
+    <button class="drop">Designer level
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9.5 6 6 6-6"/></svg>
+    </button>
+
+    <span class="quick">
+      <button class="switch" role="switch" aria-checked="false" aria-label="Same-week booking"></button>
+      <span class="label">
+        <svg class="bolt" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M13.6 2.4 5.2 13.6h5l-1.4 8 8.6-11.4h-5.2l1.4-7.8Z"/>
+        </svg>
+        Same-week booking
+      </span>
+    </span>
+  </div>
+
+  <div class="shell">
+    <section class="grid">
+
+      <article class="item">
+        <div class="tile"><img src="https://images.pexels.com/photos/4140919/pexels-photo-4140919.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=660" alt="Wooden letterpress type in a printer's drawer — photo by Erik Mclean on Pexels"></div>
+        <h3>Letterpress Card Suite</h3>
+        <div class="by">
+          <img src="https://images.pexels.com/photos/20051635/pexels-photo-20051635.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=120" alt="Nadia Braun — portrait by Thanh Xuan Nguyen Ly on Pexels">
+          <span class="name">Nadia Braun</span>
+        </div>
+        <div class="price">$65
+          <svg class="bolt" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.6 2.4 5.2 13.6h5l-1.4 8 8.6-11.4h-5.2l1.4-7.8Z"/></svg>
+        </div>
+      </article>
+
+      <article class="item">
+        <div class="tile"><img src="https://images.pexels.com/photos/5706016/pexels-photo-5706016.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=660" alt="Blank stationery sheets on a warm sand background — photo by Kaboompics.com on Pexels"></div>
+        <h3>Minimal Stationery Kit</h3>
+        <div class="by">
+          <img src="https://images.pexels.com/photos/20249686/pexels-photo-20249686.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=120" alt="Teo Vasquez — portrait by Korede Adenola on Pexels">
+          <span class="name">Teo Vasquez</span>
+        </div>
+        <div class="price">$28
+          <svg class="bolt" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.6 2.4 5.2 13.6h5l-1.4 8 8.6-11.4h-5.2l1.4-7.8Z"/></svg>
+        </div>
+      </article>
+
+      <article class="item">
+        <div class="tile"><img src="https://images.pexels.com/photos/6621012/pexels-photo-6621012.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=660" alt="Hands setting metal type over a cutting mat — photo by AI25.Studio on Pexels"></div>
+        <h3>Foil-Stamped Card Set</h3>
+        <div class="by">
+          <img src="https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&amp;w=120" alt="Hana Ito — portrait by Jake Nackos on Unsplash">
+          <span class="name">Hana Ito</span>
+          <span class="pro">PRO</span>
+        </div>
+        <div class="price">$140
+          <svg class="bolt" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.6 2.4 5.2 13.6h5l-1.4 8 8.6-11.4h-5.2l1.4-7.8Z"/></svg>
+        </div>
+      </article>
+
+      <article class="item">
+        <div class="tile"><img src="https://images.pexels.com/photos/5706033/pexels-photo-5706033.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=660" alt="Blank card and letterhead mockups on a pastel background — photo by Kaboompics.com on Pexels"></div>
+        <h3>Full Identity + Print Collateral</h3>
+        <div class="by">
+          <img src="https://images.pexels.com/photos/37862665/pexels-photo-37862665.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=120" alt="Ruben Alcaraz — portrait by Ben Khatry on Pexels">
+          <span class="name">Ruben Alcaraz</span>
+        </div>
+        <div class="price">$315
+          <svg class="bolt" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.6 2.4 5.2 13.6h5l-1.4 8 8.6-11.4h-5.2l1.4-7.8Z"/></svg>
+        </div>
+      </article>
+
+      <article class="item">
+        <div class="tile"><img src="https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJwYXBlcl9jb2xvcmZ1bF9yYWluYm93X2NvbG9yLWltYWdlLWt5YmN6bmhyLmpwZw.jpg" alt="Fanned sheets of coloured card stock — Rawpixel via Openverse, CC0"></div>
+        <h3>Risograph Poster Series</h3>
+        <div class="by">
+          <img src="https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&amp;w=120" alt="Miriam Odule — portrait by Jake Nackos on Unsplash">
+          <span class="name">Miriam Odule</span>
+        </div>
+        <div class="price">$95
+          <svg class="bolt" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.6 2.4 5.2 13.6h5l-1.4 8 8.6-11.4h-5.2l1.4-7.8Z"/></svg>
+        </div>
+      </article>
+
+      <article class="item">
+        <div class="tile"><img src="https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvaXMxNjAzOC1pbWFnZS1rd3Z5ZmgwZC5qcGc.jpg" alt="Pastel envelopes scattered on a white surface — Rawpixel via Openverse, CC0"></div>
+        <h3>Wedding Invitation Suite</h3>
+        <div class="by">
+          <img src="https://images.pexels.com/photos/10816007/pexels-photo-10816007.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=120" alt="Kes Lindqvist — portrait by Prince on Pexels">
+          <span class="name">Kes Lindqvist</span>
+        </div>
+        <div class="price">$182
+          <svg class="bolt" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.6 2.4 5.2 13.6h5l-1.4 8 8.6-11.4h-5.2l1.4-7.8Z"/></svg>
+        </div>
+      </article>
+
+      <article class="item">
+        <div class="tile"><img src="https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJ2aW50YWdlX25vdGVib29rX2V4ZXJjaXNlX2Jvb2staW1hZ2Uta3liY2Z4YXAuanBn.jpg" alt="An open notebook with blank ruled pages — Rawpixel via Openverse, CC0"></div>
+        <h3>Notebook &amp; Journal Covers</h3>
+        <div class="by">
+          <img src="https://images.pexels.com/photos/20051635/pexels-photo-20051635.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=120" alt="Priya Raghavan — portrait by Thanh Xuan Nguyen Ly on Pexels">
+          <span class="name">Priya Raghavan</span>
+        </div>
+        <div class="price">$42
+          <svg class="bolt" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.6 2.4 5.2 13.6h5l-1.4 8 8.6-11.4h-5.2l1.4-7.8Z"/></svg>
+        </div>
+      </article>
+
+      <article class="item">
+        <div class="tile"><img src="https://images.pexels.com/photos/1440501/pexels-photo-1440501.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=660" alt="A printer arranging type blocks at a press — photo by Wendelin Jacober on Pexels"></div>
+        <h3>Print Production &amp; Proofing</h3>
+        <div class="by">
+          <img src="https://images.pexels.com/photos/20249686/pexels-photo-20249686.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=120" alt="Otto Meier — portrait by Korede Adenola on Pexels">
+          <span class="name">Otto Meier</span>
+        </div>
+        <div class="price">$260
+          <svg class="bolt" width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.6 2.4 5.2 13.6h5l-1.4 8 8.6-11.4h-5.2l1.4-7.8Z"/></svg>
+        </div>
+      </article>
+
+    </section>
+  </div>
+</main>
+
+<button class="helper" aria-label="Support">
+  <svg width="23" height="23" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M20.8 11.6c0 4-3.9 7.2-8.8 7.2-1 0-1.9-.12-2.8-.35L4 20.8l1.6-3.8a6.9 6.9 0 0 1-2.4-5.4c0-4 3.9-7.2 8.8-7.2s8.8 3.2 8.8 7.2Z"/>
+    <path d="M9.8 9.6a2.3 2.3 0 1 1 3.1 2.2c-.6.24-.9.75-.9 1.4v.3M12 16.1h.01"/>
+  </svg>
+</button>
+
+</body>
+</html>

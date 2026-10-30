@@ -12,23 +12,20 @@ Enrich `data/products.json` from `raw/` replies + live product/GitHub pages, dow
 python3 scripts/enrich_and_build.py
 ```
 
+## Frontend (React + Vite)
+
+```bash
+npm install
+npm run build   # → dist/
+```
+
 ## Deploy (Workers assets — verified)
 
 ```bash
-source /home/box/.cf_aitv.env
-rm -rf /tmp/aicodinghunt-worker && mkdir -p /tmp/aicodinghunt-worker
-cp -a public /tmp/aicodinghunt-worker/
-cat > /tmp/aicodinghunt-worker/wrangler.toml <<'TOML'
-name = "aicodinghunt"
-compatibility_date = "2026-10-01"
-workers_dev = true
-[assets]
-directory = "./public"
-not_found_handling = "single-page-application"
-TOML
-cd /tmp/aicodinghunt-worker && npx wrangler deploy
+set -a; source /home/box/.cf_aitv.env; set +a
+# wrangler.toml: [assets] directory = "./dist"; NO pages_build_output_dir
+npx wrangler deploy --name aicodinghunt
 ```
 
 Custom domain `aicodinghunt.qiaomu.ai` is already attached.
 
-`build_worker_upload.py` — emergency embedded Worker multipart upload if Pages/Workers permissions are missing.
