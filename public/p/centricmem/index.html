@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="description" content="记忆相关产品 / 站点" />
+  <meta property="og:title" content="CentricMem · AI Coding Hunt" />
+  <meta property="og:description" content="记忆相关产品 / 站点" />
+  <meta property="og:image" content="/images/products/centricmem.jpg" />
+  <meta property="og:type" content="article" />
+  <title>CentricMem · 乔木 AI 工具猎场</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700&family=Noto+Sans+SC:wght@400;500;600&display=swap" rel="stylesheet" />
+  <script>
+    try {
+      const t = localStorage.getItem('theme');
+      if (t === 'dark' || t === 'light') document.documentElement.dataset.theme = t;
+    } catch {}
+  </script>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <div class="page detail-page">
+    <header class="topbar">
+      <a class="brand" href="/">向阳乔木 · AI Coding Hunt</a>
+      <nav class="nav">
+        <a href="/">← 猎场首页</a>
+        <a href="https://github.com/joeseesun/aicodinghunt" target="_blank" rel="noopener">GitHub</a>
+        <button type="button" class="theme-toggle" id="themeToggle" aria-label="切换深浅色">◐</button>
+      </nav>
+    </header>
+    <main>
+      <p class="crumb"><a href="/">猎场</a> / <span>记忆</span> / <span>CentricMem</span></p>
+      <article class="detail">
+        <div class="hero-media">
+          <img src="/images/products/centricmem.jpg" alt="CentricMem" />
+          
+        </div>
+        <div class="detail-body">
+          <div class="detail-top">
+            <span class="cat">记忆</span>
+            <span class="stats">含付费选项（见官网）</span>
+          </div>
+          <h1>CentricMem</h1>
+          <p class="summary">记忆相关产品 / 站点</p>
+          <div class="tags"><span class="tag">记忆</span></div>
+          <div class="actions"><a class="btn primary" href="https://centricmem.com" target="_blank" rel="noopener">官网</a></div>
+          <section class="writeup">
+            <h2>详情</h2>
+            <p>Shared AI agent memory as Markdown cards on a hosted librarian. Agents in Cursor, Claude Code, Codex, and 19+ hosts file and cite via MCP. Deterministic BM25 search — not a third-party vector API.</p>
+          </section>
+          <p class="recs-line">推荐人：社区推荐</p>
+          <p class="meta">更新 2026-10-30 09:39 Asia/Shanghai</p>
+          <div class="gallery"><img src="/images/products/centricmem-1.jpg" alt="" loading="lazy" /></div>
+        </div>
+      </article>
+      <section class="related"><h2>相关产品</h2><div class="related-grid"><a class="related-card" href="/p/cortext/">
+                <img src="/images/products/cortext.jpg" alt="" loading="lazy" />
+                <div><strong>Cortext</strong><span>Markdown AI 知识库 + LLM Wiki，本地无感智能知识库</span></div>
+                </a></div></section>
+    </main>
+    <footer class="footer">
+      <p>向阳乔木 · <a href="https://www.qiaomu.ai/">qiaomu.ai</a> · <a href="https://x.com/vista8">@vista8</a></p>
+      <p class="small">开源 MIT · 内容来自社区自荐，非官方测评</p>
+    </footer>
+  </div>
+  <script>
+    document.getElementById('themeToggle')?.addEventListener('click', () => {
+      const cur = document.documentElement.dataset.theme;
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const nowDark = cur ? cur === 'dark' : prefersDark;
+      const next = nowDark ? 'light' : 'dark';
+      document.documentElement.dataset.theme = next;
+      try { localStorage.setItem('theme', next); } catch {}
+    });
+  </script>
+</body>
+</html>

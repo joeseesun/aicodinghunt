@@ -1,12 +1,11 @@
 name = "aicodinghunt"
 compatibility_date = "2026-10-01"
 
-# Cloudflare Pages: npx wrangler pages deploy public --project-name aicodinghunt
-# Or Workers assets:
+# Preferred production deploy: Workers assets (see scripts/README.md)
 # workers_dev = true
 # [assets]
 # directory = "./public"
 # not_found_handling = "single-page-application"
-# routes = [{ pattern = "aicodinghunt.qiaomu.ai", custom_domain = true }]
 
+# Optional Pages deploy:
 pages_build_output_dir = "public"

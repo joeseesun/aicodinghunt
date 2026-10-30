@@ -3,8 +3,8 @@
   "title_zh": "乔木 AI 工具猎场",
   "source_post": "https://x.com/vista8/status/2115318655525523714",
   "source_author": "@vista8",
-  "updated_at": "2026-10-30T08:12:16.571187+08:00",
-  "updated_at_label": "2026-10-30 08:12 Asia/Shanghai",
+  "updated_at": "2026-10-30T09:40:01.395423+08:00",
+  "updated_at_label": "2026-10-30 09:40 Asia/Shanghai",
   "reply_count_reported": 115,
   "posts_fetched": 161,
   "product_count": 78,
@@ -21,11 +21,17 @@
     {
       "id": "a31873f1cd",
       "name": "通江 Lab 3D 互动课程",
-      "description": "开源 3D 互动教育课程，已有 55+ 门可在线体验",
+      "slug": "通江-lab-3d-互动课程",
+      "summary": "开源 3D 互动教育课程，已有 55+ 门可在线体验",
+      "detail": "求推荐：\n3d互动教育课程开源，目前已经可以开源55门。  \n🔗 在线用：\n🔗 GitHub\n\n54 门可交互的高中物理、化学、生物、地理 3D 实验课件，对齐中国课标与人教版教材。免费、可下载单文件 HTML、断网也能投屏上课。",
       "category": "education",
       "url": "https://lab.tongjiang.app",
+      "repo_url": "https://github.com/smithjohn78390/tongjiang-lab",
       "recommenders": [
         "CopperForgeAI"
+      ],
+      "source_reply_urls": [
+        "https://x.com/CopperForgeAI/status/2115319997832839246"
       ],
       "replies": [
         {
@@ -34,17 +40,43 @@
           "bookmarks": 30
         }
       ],
+      "image": "/images/products/通江-lab-3d-互动课程.jpg",
+      "gallery": [
+        "/images/products/通江-lab-3d-互动课程-1.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "教育",
+        "3d",
+        "biology",
+        "chemistry",
+        "education",
+        "geography",
+        "HTML"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 950,
       "likes": 18,
-      "bookmarks": 30
+      "bookmarks": 30,
+      "impressions": 1673,
+      "like_count": 18,
+      "impression_count": 1673,
+      "updated": "2026-10-30 09:36 Asia/Shanghai"
     },
     {
       "id": "26f44d05b3",
       "name": "QuickShot",
-      "description": "一款优雅的截图软件",
+      "slug": "quickshot",
+      "summary": "一款优雅的截图软件",
+      "detail": "quickshot ：一款优雅的截图软件😄\n\n悬停识别窗口，单击即截。标注、美化、拼接，全部在你的电脑上完成。免费开源，支持 macOS 与 Windows。",
       "category": "desktop",
       "url": "https://t.co/PcdzIfWp3M",
+      "repo_url": null,
       "recommenders": [
         "LufzzLiz"
+      ],
+      "source_reply_urls": [
+        "https://x.com/LufzzLiz/status/2115322758729216364"
       ],
       "replies": [
         {
@@ -53,17 +85,37 @@
           "bookmarks": 15
         }
       ],
+      "image": "/images/products/quickshot.png",
+      "gallery": [
+        "/images/products/quickshot-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "桌面应用"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 10,
-      "bookmarks": 15
+      "bookmarks": 15,
+      "impressions": 866,
+      "like_count": 10,
+      "impression_count": 866,
+      "updated": "2026-10-30 09:36 Asia/Shanghai"
     },
     {
       "id": "8286cde673",
       "name": "Grok Bot Clipper",
-      "description": "浏览器插件：把网页内容共享给指定 Grok Bot",
+      "slug": "grok-bot-clipper",
+      "summary": "浏览器插件：把网页内容共享给指定 Grok Bot",
+      "detail": "我开发的 Grok Bot 浏览器插件 你在浏览器看到的内容都可以共享给指定的 Bot\n\nGrok Bot Clipper 是铁柱AGI 独立开发的非官方第三方扩展。你可以把网页选区、正文、截图、社媒内容和文件收进材料篮，发给自己的 Grok Bot 并在侧栏查看回复与追问。支持 Chrome、Edge 与 Firefox，提供实操演示视频和安装包下载。",
       "category": "plugin",
       "url": "https://bot.fmcat.top/ecosystem/grok-bot-clipper",
+      "repo_url": null,
       "recommenders": [
         "cgnot996"
+      ],
+      "source_reply_urls": [
+        "https://x.com/cgnot996/status/2115320074383053047"
       ],
       "replies": [
         {
@@ -72,17 +124,37 @@
           "bookmarks": 12
         }
       ],
+      "image": "/images/products/grok-bot-clipper.jpg",
+      "gallery": [
+        "/images/products/grok-bot-clipper-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "插件 / Skill"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 13,
-      "bookmarks": 12
+      "bookmarks": 12,
+      "impressions": 1517,
+      "like_count": 13,
+      "impression_count": 1517,
+      "updated": "2026-10-30 09:36 Asia/Shanghai"
     },
     {
       "id": "f09be79acf",
       "name": "Digital Human Koubo",
-      "description": "一键支出数字人口播，多种风格模板，免费开源",
+      "slug": "digital-human-koubo",
+      "summary": "一键支出数字人口播，多种风格模板，免费开源",
+      "detail": "我来一个我这几天比较火热的一键支出数字人口播多种风格和模板直接用，免费开源，欢迎体验和交流：\n\nAI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy … ...",
       "category": "other",
       "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "repo_url": "https://github.com/andyhuo520/digital-human-koubo",
       "recommenders": [
         "berryxia"
+      ],
+      "source_reply_urls": [
+        "https://x.com/berryxia/status/2115327779327844430"
       ],
       "replies": [
         {
@@ -91,17 +163,38 @@
           "bookmarks": 12
         }
       ],
+      "image": "/images/products/digital-human-koubo.jpg",
+      "gallery": [
+        "/images/products/digital-human-koubo-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他",
+        "TypeScript"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 1472,
       "likes": 4,
-      "bookmarks": 12
+      "bookmarks": 12,
+      "impressions": 987,
+      "like_count": 4,
+      "impression_count": 987,
+      "updated": "2026-10-30 09:36 Asia/Shanghai"
     },
     {
       "id": "8c8659033f",
       "name": "Raycast AI",
-      "description": "订阅三年的启动器：内置顶级模型、快捷键对话、窗口/语音等丰富扩展生态",
+      "slug": "raycast-ai",
+      "summary": "订阅三年的启动器：内置顶级模型、快捷键对话、窗口/语音等丰富扩展生态",
+      "detail": "自己先来，订阅了三年的工具 Raycast AI：\n\n内置几乎所有顶级模型，快捷键对话，比打开 Agent 方便，有丰富的生态，安装了能替代一堆小工具，比如调整窗口、语音转写等。\n\nA collection of powerful productivity tools all within an extendable launcher.",
       "category": "plugin",
       "url": "https://raycast.com/?via=joe-seesun",
+      "repo_url": null,
       "recommenders": [
         "vista8"
+      ],
+      "source_reply_urls": [
+        "https://x.com/vista8/status/2115319209437872246"
       ],
       "replies": [
         {
@@ -110,17 +203,35 @@
           "bookmarks": 7
         }
       ],
+      "image": "/images/products/raycast-ai.jpg",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "插件 / Skill"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 11,
-      "bookmarks": 7
+      "bookmarks": 7,
+      "impressions": 3762,
+      "like_count": 11,
+      "impression_count": 3762,
+      "updated": "2026-10-30 09:36 Asia/Shanghai"
     },
     {
       "id": "ee6be2b605",
       "name": "书签管理器",
-      "description": "Vibe coding 的简单好用书签管理器",
+      "slug": "书签管理器",
+      "summary": "Vibe coding 的简单好用书签管理器",
+      "detail": "Vibe coding 了一款简单好用的书签管理器\n\n把 Chrome / Edge 书签变成一页极简书签墙：拼音搜索、弹窗置顶、Chrome 原生书签同步、新标签页开关、网页预览。免费、本地、无账号。",
       "category": "other",
       "url": "https://ma2ong.github.io/bookmark-manager-site/",
+      "repo_url": null,
       "recommenders": [
         "mamba0805"
+      ],
+      "source_reply_urls": [
+        "https://x.com/mamba0805/status/2115363392219480155"
       ],
       "replies": [
         {
@@ -129,17 +240,35 @@
           "bookmarks": 4
         }
       ],
+      "image": "/images/products/书签管理器.png",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 4,
-      "bookmarks": 4
+      "bookmarks": 4,
+      "impressions": 289,
+      "like_count": 4,
+      "impression_count": 289,
+      "updated": "2026-10-30 09:36 Asia/Shanghai"
     },
     {
       "id": "2bb8c0209e",
       "name": "赛博小晚",
-      "description": "把思考方式与工作经验蒸馏成 Skill / Grok Bot 人设",
+      "slug": "赛博小晚",
+      "summary": "把思考方式与工作经验蒸馏成 Skill / Grok Bot 人设",
+      "detail": "老师看看赛博小晚！\n\n我把自己的思考方式+判断逻辑+工作经验蒸馏了做成一个 skill，然后铁柱老师把它做成了一个 Grok bot 里面的 bot，现在被很多朋友当成主 bot 来使用🍻",
       "category": "plugin",
-      "url": "https://x.com/bbkirstry/status/2112836743183716497?a=cS5-Y-6QkncmzOleabg&s=20",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "bbkirstry"
+      ],
+      "source_reply_urls": [
+        "https://x.com/bbkirstry/status/2115325767462875539"
       ],
       "replies": [
         {
@@ -148,17 +277,35 @@
           "bookmarks": 3
         }
       ],
+      "image": "/images/products/赛博小晚.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "插件 / Skill"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 5,
-      "bookmarks": 3
+      "bookmarks": 3,
+      "impressions": 451,
+      "like_count": 5,
+      "impression_count": 451,
+      "updated": "2026-10-30 09:36 Asia/Shanghai"
     },
     {
       "id": "729469c54d",
       "name": "WenCard",
-      "description": "专注 AI 图文创作的产品，做了大半年",
+      "slug": "wencard",
+      "summary": "专注 AI 图文创作的产品，做了大半年",
+      "detail": "专注AI图文，大半年时间做的产品\n\n输入内容，AI 自动提炼重点并排版成图文；生成后文字、图片、贴纸与纸张仍可编辑。适合小红书笔记、公众号配图、知识卡片等内容创作。",
       "category": "other",
       "url": "https://wencard.com/",
+      "repo_url": null,
       "recommenders": [
         "maqibin"
+      ],
+      "source_reply_urls": [
+        "https://x.com/maqibin/status/2115449069435002964"
       ],
       "replies": [
         {
@@ -167,17 +314,37 @@
           "bookmarks": 4
         }
       ],
+      "image": "/images/products/wencard.jpg",
+      "gallery": [
+        "/images/products/wencard-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 3,
-      "bookmarks": 4
+      "bookmarks": 4,
+      "impressions": 312,
+      "like_count": 3,
+      "impression_count": 312,
+      "updated": "2026-10-30 09:36 Asia/Shanghai"
     },
     {
       "id": "1beab11ca7",
       "name": "本地无限画布剪辑",
-      "description": "本地开源无限画布，按时间线剪辑，资产留在本地",
+      "slug": "本地无限画布剪辑",
+      "summary": "本地开源无限画布，按时间线剪辑，资产留在本地",
+      "detail": "本地开源版本无限画布，支持根据时间线剪辑，所有资产全部保留在本地便于项目管理\n\nLocal-first AI canvas and timeline. Any MCP agent. Open-source alternative to Higgsfield. - BeatAPI/BeatDesign",
       "category": "desktop",
-      "url": "https://t.co/xcbf4aWt1f",
+      "url": "https://github.com/BeatAPI/BeatDesign",
+      "repo_url": "https://github.com/BeatAPI/BeatDesign",
       "recommenders": [
         "kkkeric_ai"
+      ],
+      "source_reply_urls": [
+        "https://x.com/kkkeric_ai/status/2115441448367898834"
       ],
       "replies": [
         {
@@ -186,17 +353,41 @@
           "bookmarks": 5
         }
       ],
+      "image": "/images/products/本地无限画布剪辑-2.png",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "桌面应用",
+        "ai-canvas",
+        "ai-image-generation",
+        "ai-video-generation",
+        "beatapi",
+        "canvas",
+        "TypeScript"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 278,
       "likes": 0,
-      "bookmarks": 5
+      "bookmarks": 5,
+      "impressions": 96,
+      "like_count": 0,
+      "impression_count": 96,
+      "updated": "2026-10-30 09:36 Asia/Shanghai"
     },
     {
       "id": "03b45db3bd",
       "name": "Vibe 3D 视频引擎",
-      "description": "开源视频生成引擎，融合 Anatomy 与 Hyperframes，Vibe Coding 生成 3D 视频",
+      "slug": "vibe-3d-视频引擎",
+      "summary": "开源视频生成引擎，融合 Anatomy 与 Hyperframes，Vibe Coding 生成 3D 视频",
+      "detail": "开源一个视频生成引擎,深度融合与 Anatomy和Hyperframes两大开源生态，通过Vibe Coding生成3D视频\n\nCompiler-driven isometric video generator powered by HyperFrames &amp; Anatomy. Turn teardown scripts into explainer videos via code, SVGs, and acoustic time-alignment. - laowang5/anatomy-hyperfram...",
       "category": "other",
-      "url": "https://t.co/l2kmuM8HIp",
+      "url": "https://github.com/laowang5/anatomy-hyperframes-video",
+      "repo_url": "https://github.com/laowang5/anatomy-hyperframes-video",
       "recommenders": [
         "AgentWangCN"
+      ],
+      "source_reply_urls": [
+        "https://x.com/AgentWangCN/status/2115430989971530180"
       ],
       "replies": [
         {
@@ -205,17 +396,41 @@
           "bookmarks": 4
         }
       ],
+      "image": "/images/products/vibe-3d-视频引擎-1.png",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "其他",
+        "agentic-workflow",
+        "anatomy",
+        "code-to-video",
+        "explainer-video",
+        "hyperframes",
+        "HTML"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 2,
       "likes": 2,
-      "bookmarks": 4
+      "bookmarks": 4,
+      "impressions": 316,
+      "like_count": 2,
+      "impression_count": 316,
+      "updated": "2026-10-30 09:36 Asia/Shanghai"
     },
     {
       "id": "8a3179ebe1",
       "name": "摸鱼背单词输入法",
-      "description": "伪装成输入法的摸鱼背单词应用，可导入词光雅思资源",
+      "slug": "摸鱼背单词输入法",
+      "summary": "伪装成输入法的摸鱼背单词应用，可导入词光雅思资源",
+      "detail": "做了款伪装成输入法的摸鱼背单词应用 😎 蹭一下词光的热度，可以把词光雅思的资源导进去学习。\n\nMOYU for macOS 官方下载、版本更新与问题反馈. Contribute to CatMuse/MOYU development by creating an account on GitHub.",
       "category": "education",
-      "url": "https://t.co/FAeaFELaGG",
+      "url": "https://github.com/CatMuse/MOYU",
+      "repo_url": "https://github.com/CatMuse/MOYU",
       "recommenders": [
         "CatCatMuse"
+      ],
+      "source_reply_urls": [
+        "https://x.com/CatCatMuse/status/2115371661658927254"
       ],
       "replies": [
         {
@@ -224,17 +439,37 @@
           "bookmarks": 4
         }
       ],
+      "image": "/images/products/摸鱼背单词输入法.png",
+      "gallery": [
+        "/images/products/摸鱼背单词输入法-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "教育"
+      ],
+      "pricing": "含付费选项（见官网）",
+      "stars": 1,
       "likes": 1,
-      "bookmarks": 4
+      "bookmarks": 4,
+      "impressions": 256,
+      "like_count": 1,
+      "impression_count": 256,
+      "updated": "2026-10-30 09:36 Asia/Shanghai"
     },
     {
       "id": "c93cc6fe71",
       "name": "剪贴板 + 截图套件",
-      "description": "自研剪切板与截图软件，截图带自适应居中补偿",
+      "slug": "剪贴板-截图套件",
+      "summary": "自研剪切板与截图软件，截图带自适应居中补偿",
+      "detail": "我自己做了一个剪切板和一个截图软件，\n\nEverything you copy is still there. A tiny native macOS clipboard app: press ⌘⇧V, pick a clip, it pastes itself.",
       "category": "desktop",
-      "url": "https://t.co/9zyjN6rOYr",
+      "url": "https://clipdot.erduo.dev",
+      "repo_url": null,
       "recommenders": [
         "RookieRicardoR"
+      ],
+      "source_reply_urls": [
+        "https://x.com/RookieRicardoR/status/2115321099118682120"
       ],
       "replies": [
         {
@@ -243,17 +478,35 @@
           "bookmarks": 3
         }
       ],
+      "image": "/images/products/剪贴板-截图套件.jpg",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "桌面应用"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 3,
-      "bookmarks": 3
+      "bookmarks": 3,
+      "impressions": 1086,
+      "like_count": 3,
+      "impression_count": 1086,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "c6ed300ef7",
       "name": "旅行规划 Skill",
-      "description": "补上个人 Agent 在国内旅行规划的数据获取能力",
+      "slug": "旅行规划-skill",
+      "summary": "补上个人 Agent 在国内旅行规划的数据获取能力",
+      "detail": "自荐一个skill，补上个人Agent在国内的旅行规划方面的数据获取能力",
       "category": "plugin",
-      "url": "https://t.co/nrifWCVBCg",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "victor_cheng_42"
+      ],
+      "source_reply_urls": [
+        "https://x.com/victor_cheng_42/status/2115323803685585120"
       ],
       "replies": [
         {
@@ -262,17 +515,35 @@
           "bookmarks": 3
         }
       ],
+      "image": "/images/products/旅行规划-skill.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "插件 / Skill"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 2,
-      "bookmarks": 3
+      "bookmarks": 3,
+      "impressions": 334,
+      "like_count": 2,
+      "impression_count": 334,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "e030b5d910",
       "name": "AI 健身应用",
-      "description": "真正的 AI 健身应用，用过的人几乎都付费订阅",
+      "slug": "ai-健身应用",
+      "summary": "真正的 AI 健身应用，用过的人几乎都付费订阅",
+      "detail": "来吧！\n\n真正的AI健身应用 \n\n用过的人几乎都付费订阅了\n\n长文里记录了开发心路历程 \n\n欢迎有在关注AI+薄肌的朋友们试用～",
       "category": "other",
-      "url": "https://x.com/Zkm211/status/2110036886303740201?a=rjjapR94KXj63AnxAT8&s=20",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "Zkm211"
+      ],
+      "source_reply_urls": [
+        "https://x.com/Zkm211/status/2115335505399435339"
       ],
       "replies": [
         {
@@ -281,17 +552,35 @@
           "bookmarks": 3
         }
       ],
+      "image": "/images/products/ai-健身应用.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 1,
-      "bookmarks": 3
+      "bookmarks": 3,
+      "impressions": 237,
+      "like_count": 1,
+      "impression_count": 237,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "0f26d1bd48",
       "name": "DeepSeek Harness 桌面端",
-      "description": "DeepSeek Harness + Grok Bot 协作的 Windows 桌面应用",
+      "slug": "deepseek-harness-桌面端",
+      "summary": "DeepSeek Harness + Grok Bot 协作的 Windows 桌面应用",
+      "detail": "老师，那我来介绍一下我最近做的东东，DEEPSEEK版Grok Bot： \n\n == DeepSeek Harness + Grok Bot ！  \n\n 是一款基于 DeepSeek Harness、以 Bot 团队协作为核心的独立 Windows 桌面应用。",
       "category": "desktop",
-      "url": "https://t.co/oDiEWkNort",
+      "url": "https://katcats.ai/",
+      "repo_url": null,
       "recommenders": [
         "katcat_AI"
+      ],
+      "source_reply_urls": [
+        "https://x.com/katcat_AI/status/2115354326285832473"
       ],
       "replies": [
         {
@@ -300,17 +589,35 @@
           "bookmarks": 2
         }
       ],
+      "image": "/images/products/deepseek-harness-桌面端.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "桌面应用"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 2,
-      "bookmarks": 2
+      "bookmarks": 2,
+      "impressions": 451,
+      "like_count": 2,
+      "impression_count": 451,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "4cc49b01b2",
       "name": "自用输入法改造",
-      "description": "改造的自用输入法",
+      "slug": "自用输入法改造",
+      "summary": "改造的自用输入法",
+      "detail": "改造的自用输入法\n\n自研拼音输入法: 词格 Viterbi 整句解码 + 神经重排序 + 全局钩子客户端 (Windows) | 鸢尾主题 - mmlong818/iris-ime",
       "category": "plugin",
-      "url": "https://t.co/Es0k9Xat80",
+      "url": "https://github.com/mmlong818/iris-ime",
+      "repo_url": "https://github.com/mmlong818/iris-ime",
       "recommenders": [
         "mmlong8"
+      ],
+      "source_reply_urls": [
+        "https://x.com/mmlong8/status/2115357752944218381"
       ],
       "replies": [
         {
@@ -319,17 +626,38 @@
           "bookmarks": 2
         }
       ],
+      "image": "/images/products/自用输入法改造.png",
+      "gallery": [
+        "/images/products/自用输入法改造-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "插件 / Skill",
+        "C++"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 1,
-      "bookmarks": 2
+      "bookmarks": 2,
+      "impressions": 228,
+      "like_count": 1,
+      "impression_count": 228,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "5cc8b3d3a7",
       "name": "灵感视频工作台",
-      "description": "视频 Agent 工作台，简化视频制作闭环流程",
+      "slug": "灵感视频工作台",
+      "summary": "视频 Agent 工作台，简化视频制作闭环流程",
+      "detail": "求推荐：\n灵感视频工作台\n🔗 在线用：\n🔗 GitHub  \n\n专门做的一个视频 agent 工作台，想去简化整个视频制作的过程，目前基本流程是闭环的，有问题欢迎提 issue，\n\nInspiration 创作工作台：连接故事、角色、素材、自由画布与剪辑，让灵感成为作品。",
       "category": "coding agent",
-      "url": "https://t.co/XIBBjKzF99",
+      "url": "https://coinisi.com/",
+      "repo_url": "https://github.com/Coinsi/inspiration",
       "recommenders": [
         "RainhappyL"
+      ],
+      "source_reply_urls": [
+        "https://x.com/RainhappyL/status/2115425581139628433"
       ],
       "replies": [
         {
@@ -338,17 +666,38 @@
           "bookmarks": 2
         }
       ],
+      "image": "/images/products/灵感视频工作台.png",
+      "gallery": [
+        "/images/products/灵感视频工作台-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "Coding Agent",
+        "Python"
+      ],
+      "pricing": "开源",
+      "stars": 20,
       "likes": 1,
-      "bookmarks": 2
+      "bookmarks": 2,
+      "impressions": 61,
+      "like_count": 1,
+      "impression_count": 61,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "22bfa1633b",
       "name": "专属提词器",
-      "description": "手机当高清摄像头 + 本地模型智能滑动提词，支持 OBS",
+      "slug": "专属提词器",
+      "summary": "手机当高清摄像头 + 本地模型智能滑动提词，支持 OBS",
+      "detail": "爆肝三天 vibe  coding 的 自己的专属提词器\n1.将手机变成wIndows电脑的高\n清摄像头\n2.利用本地模型智能滑动提词器\n3.支持连接obs模式或悬浮在原生摄像头上使用的提词器\n这里也分享给和我一样还在坚守android 和 windows 阵营 的自媒体小伙伴，\n\n手机画面送进 OBS，台词只留在手机屏幕；也能悬浮在原厂相机上，离线听你读到哪里。",
       "category": "desktop",
-      "url": "https://t.co/j2fvhjFjaY",
+      "url": "https://blackjuly.github.io/FlyLens/index.html",
+      "repo_url": null,
       "recommenders": [
         "Alex_Wong1995"
+      ],
+      "source_reply_urls": [
+        "https://x.com/Alex_Wong1995/status/2115425389992693923"
       ],
       "replies": [
         {
@@ -357,17 +706,35 @@
           "bookmarks": 2
         }
       ],
+      "image": "/images/products/专属提词器.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "桌面应用"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 1,
-      "bookmarks": 2
+      "bookmarks": 2,
+      "impressions": 62,
+      "like_count": 1,
+      "impression_count": 62,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "652e82fe67",
       "name": "Loki Ebook Converter",
-      "description": "基于 Calibre 的 macOS 批量电子书格式转换工具",
+      "slug": "loki-ebook-converter",
+      "summary": "基于 Calibre 的 macOS 批量电子书格式转换工具",
+      "detail": "基于 Calibre 做了个 macOS 上的批量电子书格式转换小工具，支持批量、看进度、自定义保存位置： 之前看到乔木老师最近也在搞 Kindle，感觉也许能用上。\n\n一个用 Cola 做的简洁 macOS 电子书格式转换工具，基于 Calibre，支持批量转换、进度显示和自定义保存位置。 - loki2046-mao/loki-ebook-converter",
       "category": "desktop",
       "url": "https://github.com/loki2046-mao/loki-ebook-converter",
+      "repo_url": "https://github.com/loki2046-mao/loki-ebook-converter",
       "recommenders": [
         "lokichris2046"
+      ],
+      "source_reply_urls": [
+        "https://x.com/lokichris2046/status/2115342572994609537"
       ],
       "replies": [
         {
@@ -376,17 +743,38 @@
           "bookmarks": 2
         }
       ],
+      "image": "/images/products/loki-ebook-converter.jpg",
+      "gallery": [
+        "/images/products/loki-ebook-converter-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "桌面应用",
+        "HTML"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 1,
-      "bookmarks": 2
+      "bookmarks": 2,
+      "impressions": 409,
+      "like_count": 1,
+      "impression_count": 409,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "6223aec02c",
       "name": "Mac 刘海灵动岛",
-      "description": "Mac 刘海灵动岛工具",
+      "slug": "mac-刘海灵动岛",
+      "summary": "Mac 刘海灵动岛工具",
+      "detail": "Mac刘海灵动岛工具\n\nA notch tool for the Mac: tray, clipboard history, live activities and quick tools that grow out of the notch. Native, built in Go. - henryyu333/shelfu",
       "category": "desktop",
-      "url": "https://t.co/oP7fEJK3M7",
+      "url": "https://github.com/henryyu333/shelfu",
+      "repo_url": "https://github.com/henryyu333/shelfu",
       "recommenders": [
         "y3uc1en"
+      ],
+      "source_reply_urls": [
+        "https://x.com/y3uc1en/status/2115388007406797059"
       ],
       "replies": [
         {
@@ -395,17 +783,43 @@
           "bookmarks": 2
         }
       ],
+      "image": "/images/products/mac-刘海灵动岛.png",
+      "gallery": [
+        "/images/products/mac-刘海灵动岛-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "桌面应用",
+        "clipboard-manager",
+        "drag-and-drop",
+        "go",
+        "macos",
+        "menubar-app",
+        "Go"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 102,
       "likes": 0,
-      "bookmarks": 2
+      "bookmarks": 2,
+      "impressions": 179,
+      "like_count": 0,
+      "impression_count": 179,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "43d2542a92",
       "name": "HorseMD",
-      "description": "优美的多端 Markdown 编辑器（安卓 / iOS 等）",
+      "slug": "horsemd",
+      "summary": "优美的多端 Markdown 编辑器（安卓 / iOS 等）",
+      "detail": "一个优美的markdown编辑器 多端适配，包括安卓、iOS\n\nA free Typora alternative with tabs and a file-tree workspace. Open source, for Windows, macOS, Linux and Android.",
       "category": "other",
       "url": "https://Horsemd.yangsir.net",
+      "repo_url": "https://github.com/BND-1/horseMD",
       "recommenders": [
         "yangsir_ai"
+      ],
+      "source_reply_urls": [
+        "https://x.com/yangsir_ai/status/2115328575335444824"
       ],
       "replies": [
         {
@@ -414,17 +828,38 @@
           "bookmarks": 2
         }
       ],
+      "image": "/images/products/horsemd.jpg",
+      "gallery": [
+        "/images/products/horsemd-1.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他",
+        "JavaScript"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 576,
       "likes": 0,
-      "bookmarks": 2
+      "bookmarks": 2,
+      "impressions": 245,
+      "like_count": 0,
+      "impression_count": 245,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "b2d21e771d",
       "name": "Echo",
-      "description": "原生 Mac 菜单栏智能剪贴板：历史检索、整理、提问、粘贴一体",
+      "slug": "echo",
+      "summary": "原生 Mac 菜单栏智能剪贴板：历史检索、整理、提问、粘贴一体",
+      "detail": "感恩乔帮主，自荐 vibe 的 mac 智能剪贴板 APP\n\n----\nEcho 是一款原生 Mac 菜单栏剪贴板工具，从找回内容，到整理、提问，再到粘贴使用，在同一个面板里完成，目前支持：\n- 剪贴板历史：自动记录文本、图片和 Finder 文件，快捷键呼出，输入关键词即可查找。\n- Markdown\n\n轻量 macOS 剪贴板管理器 · 智能查找 / 秒级检索 / 一键粘贴. Contribute to akira82-ai/echo-app development by creating an account on GitHub.",
       "category": "desktop",
       "url": "https://github.com/akira82-ai/echo-app",
+      "repo_url": "https://github.com/akira82-ai/echo-app",
       "recommenders": [
         "AgiRay1015"
+      ],
+      "source_reply_urls": [
+        "https://x.com/AgiRay1015/status/2115324363935453601"
       ],
       "replies": [
         {
@@ -433,17 +868,38 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/echo.png",
+      "gallery": [
+        "/images/products/echo-3.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "桌面应用",
+        "Swift"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 13,
       "likes": 2,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 407,
+      "like_count": 2,
+      "impression_count": 407,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "55e4a3dba4",
       "name": "CAD→Blender AI 工作台",
-      "description": "面向设计师的 AI 辅助工作台，研究 CAD 图纸识别到 Blender 建模",
+      "slug": "cad-blender-ai-工作台",
+      "summary": "面向设计师的 AI 辅助工作台，研究 CAD 图纸识别到 Blender 建模",
+      "detail": "我做了一个面向设计师和设计团队的Ai辅助工作台，最近一直在研究cad图纸的识别算法，目标是接入国内的大部分模型也能够精确的从cad平面图纸- blender精准建模",
       "category": "coding agent",
-      "url": "https://x.com/Noctropy/status/2115490763861794902/video/1",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "Noctropy"
+      ],
+      "source_reply_urls": [
+        "https://x.com/Noctropy/status/2115490763861794902"
       ],
       "replies": [
         {
@@ -452,17 +908,35 @@
           "bookmarks": 2
         }
       ],
+      "image": "/images/products/cad-blender-ai-工作台.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "Coding Agent"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 2
+      "bookmarks": 2,
+      "impressions": 87,
+      "like_count": 0,
+      "impression_count": 87,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "282be1c87e",
       "name": "AI 资产管家",
-      "description": "维护 AI 资产：Skill 可见性锁定、跨 CLI/App 会话搜索",
+      "slug": "ai-资产管家",
+      "summary": "维护 AI 资产：Skill 可见性锁定、跨 CLI/App 会话搜索",
+      "detail": "发一个自己的， 主要是用来维护一些自己的 AI 资产，两个我很喜欢的功能 1. 可以设置 skill 的可见性并且锁定住，防止 lark cli 这种每次更新下崽的情况 2. 可以搜索会话内容并且对应的 cli 和 app 里打开，也支持 archive 和 subagent 会话的搜索\n\nTendi desktop control plane. Contribute to rhinoc/tendi development by creating an account on GitHub.",
       "category": "coding agent",
-      "url": "https://t.co/OR362u7pq0",
+      "url": "https://github.com/rhinoc/tendi",
+      "repo_url": "https://github.com/rhinoc/tendi",
       "recommenders": [
         "rya_nooo"
+      ],
+      "source_reply_urls": [
+        "https://x.com/rya_nooo/status/2115417767973191754"
       ],
       "replies": [
         {
@@ -471,17 +945,36 @@
           "bookmarks": 2
         }
       ],
+      "image": "/images/products/ai-资产管家-3.png",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "Coding Agent",
+        "Rust"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 2,
       "likes": 0,
-      "bookmarks": 2
+      "bookmarks": 2,
+      "impressions": 145,
+      "like_count": 0,
+      "impression_count": 145,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "384898f304",
       "name": "短剧创作工作台",
-      "description": "一站式短剧创作工作台，性能与 UI 持续进化",
+      "slug": "短剧创作工作台",
+      "summary": "一站式短剧创作工作台，性能与 UI 持续进化",
+      "detail": "那我也来自荐一下我的项目： \n一站式短剧创作工作台，还在努力进化中，不过自己对这个 性能和UI 还是挺满意的\n\nAgent Native 一站式 AI 小说，短剧桌面创作工作台. Contribute to looplj/reveric development by creating an account on GitHub.",
       "category": "coding agent",
-      "url": "https://t.co/NNsXwcra4p",
+      "url": "https://github.com/looplj/reveric",
+      "repo_url": "https://github.com/looplj/reveric",
       "recommenders": [
         "looplj2"
+      ],
+      "source_reply_urls": [
+        "https://x.com/looplj2/status/2115354527809548465"
       ],
       "replies": [
         {
@@ -490,17 +983,36 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/短剧创作工作台-3.png",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "Coding Agent",
+        "Dart"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 313,
       "likes": 1,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 257,
+      "like_count": 1,
+      "impression_count": 257,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "f7a46c2657",
       "name": "WeSight",
-      "description": "苍何的本地 CLI Agent 桌面控制台（日常创作离不开）",
+      "slug": "wesight",
+      "summary": "苍何的本地 CLI Agent 桌面控制台（日常创作离不开）",
+      "detail": "日常创作离不开@wesight_ai 了",
       "category": "coding agent",
-      "url": "",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "canghe"
+      ],
+      "source_reply_urls": [
+        "https://x.com/canghe/status/2115450231324312019"
       ],
       "replies": [
         {
@@ -509,17 +1021,35 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/wesight.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "Coding Agent"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 3,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 599,
+      "like_count": 3,
+      "impression_count": 599,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "a2fd2b0864",
       "name": "TinyCast",
-      "description": "Raycast 替代选项，更轻量",
+      "slug": "tinycast",
+      "summary": "Raycast 替代选项，更轻量",
+      "detail": "我也是用了三年，今天换成了tinycast，raycast 2.0变得太臃肿了。",
       "category": "plugin",
-      "url": "",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "jasoninvest7"
+      ],
+      "source_reply_urls": [
+        "https://x.com/jasoninvest7/status/2115344635317076463"
       ],
       "replies": [
         {
@@ -528,17 +1058,35 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/tinycast.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "插件 / Skill"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 1,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 240,
+      "like_count": 1,
+      "impression_count": 240,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "25ec354009",
       "name": "Imagifly",
-      "description": "自研生图生视频产品，适合 PPT / Banner / 小红书图",
+      "slug": "imagifly",
+      "summary": "自研生图生视频产品，适合 PPT / Banner / 小红书图",
+      "detail": "我目前使用比较多的是我自己的生图生视频产品 Imagifly： 用来做PPT， banner， 小红书图片都不错， 关键是自己维护的，想怎么改就怎么改，也有一定的用户规模撑起每月成本。",
       "category": "other",
-      "url": "https://t.co/9x5Dx638g5",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "Last_Lighter"
+      ],
+      "source_reply_urls": [
+        "https://x.com/Last_Lighter/status/2115360151058440432"
       ],
       "replies": [
         {
@@ -547,17 +1095,35 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/imagifly.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 1,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 324,
+      "like_count": 1,
+      "impression_count": 324,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "74c70ff266",
       "name": "DSH Mermaid 插件",
-      "description": "DSH 插件：会话渲染 Mermaid",
+      "slug": "dsh-mermaid-插件",
+      "summary": "DSH 插件：会话渲染 Mermaid",
+      "detail": "DSH 插件 会话渲染 mermaid\n\nDraws mermaid code blocks in DSH replies as diagrams, including while the reply is still streaming. - kjx-talesofai/dsh-plugin-mermaid",
       "category": "plugin",
-      "url": "https://t.co/Bi48LbPJ6P",
+      "url": "https://github.com/kjx-talesofai/dsh-plugin-mermaid",
+      "repo_url": "https://github.com/kjx-talesofai/dsh-plugin-mermaid",
       "recommenders": [
         "kouhualin"
+      ],
+      "source_reply_urls": [
+        "https://x.com/kouhualin/status/2115321371828052371"
       ],
       "replies": [
         {
@@ -566,17 +1132,41 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/dsh-mermaid-插件-2.png",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "插件 / Skill",
+        "deepseek-harness",
+        "diagram",
+        "dsh",
+        "dsh-plugin",
+        "markdown",
+        "JavaScript"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 1,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 1052,
+      "like_count": 1,
+      "impression_count": 1052,
+      "updated": "2026-10-30 09:37 Asia/Shanghai"
     },
     {
       "id": "f21205e661",
       "name": "AtlasOS",
-      "description": "无限画布开发工作台",
+      "slug": "atlasos",
+      "summary": "无限画布开发工作台",
+      "detail": "AtlasOS:无限画布开发工作台\n\nCompose your code. Command your world. Contribute to liaokongVFX/AtlasOS development by creating an account on GitHub.",
       "category": "coding agent",
-      "url": "https://t.co/ai29lNlQbb",
+      "url": "https://github.com/liaokongVFX/AtlasOS",
+      "repo_url": "https://github.com/liaokongVFX/AtlasOS",
       "recommenders": [
         "LiaoKong2024"
+      ],
+      "source_reply_urls": [
+        "https://x.com/LiaoKong2024/status/2115481964073591206"
       ],
       "replies": [
         {
@@ -585,17 +1175,40 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/atlasos-3.png",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "Coding Agent",
+        "aigc",
+        "cowork",
+        "terminal",
+        "workbench",
+        "TypeScript"
+      ],
+      "pricing": "含付费选项（见官网）",
+      "stars": 12,
       "likes": 1,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 218,
+      "like_count": 1,
+      "impression_count": 218,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "e48b173df2",
       "name": "瑞幸取餐码小程序",
-      "description": "AI Coding 做的瑞幸取餐码收集小程序",
+      "slug": "瑞幸取餐码小程序",
+      "summary": "AI Coding 做的瑞幸取餐码收集小程序",
+      "detail": "AI Coding了一个瑞幸取餐码收集小程序",
       "category": "other",
-      "url": "https://x.com/yubei2025/status/2115335600677273822/photo/1",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "yubei2025"
+      ],
+      "source_reply_urls": [
+        "https://x.com/yubei2025/status/2115335600677273822"
       ],
       "replies": [
         {
@@ -604,17 +1217,35 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/瑞幸取餐码小程序.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 230,
+      "like_count": 0,
+      "impression_count": 230,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "14e9ef42c8",
       "name": "灼米漫剧",
-      "description": "AI 漫剧创作平台与企业管理中台（不开源）",
+      "slug": "灼米漫剧",
+      "summary": "AI 漫剧创作平台与企业管理中台（不开源）",
+      "detail": "AI漫剧创作平台，专为漫剧生产企业开发，综合漫剧生产效率提升300%，功能丰富，以及专业的企业管理中台。不开源。网址：",
       "category": "other",
       "url": "https://zhuomi.cc/",
+      "repo_url": null,
       "recommenders": [
         "jakeybruce"
+      ],
+      "source_reply_urls": [
+        "https://x.com/jakeybruce/status/2115336999309811933"
       ],
       "replies": [
         {
@@ -623,17 +1254,35 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/灼米漫剧.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 247,
+      "like_count": 0,
+      "impression_count": 247,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "4fbc30f139",
       "name": "本地 HTML 编辑站",
-      "description": "可本地化 HTML 编辑，做 PPT / 简历等",
+      "slug": "本地-html-编辑站",
+      "summary": "可本地化 HTML 编辑，做 PPT / 简历等",
+      "detail": "那我要推荐一个我自己做的网站  ，可以本地话html 编辑，做ppt 简历 等等\n\nPageOn is a visual editor for AI-generated HTML. Edit pages created by ChatGPT, Claude, Codex and other AI tools, then download your HTML and keep building anywhere.",
       "category": "other",
-      "url": "https://t.co/A506UyZpe5",
+      "url": "https://pageon.cc/",
+      "repo_url": null,
       "recommenders": [
         "lianthony292788"
+      ],
+      "source_reply_urls": [
+        "https://x.com/lianthony292788/status/2115356989044015462"
       ],
       "replies": [
         {
@@ -642,17 +1291,37 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/本地-html-编辑站.png",
+      "gallery": [
+        "/images/products/本地-html-编辑站-2.ico"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 192,
+      "like_count": 0,
+      "impression_count": 192,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "d7f682f858",
       "name": "宝可梦学英语",
-      "description": "给 3–6 岁宝宝家长的宝可梦学英语产品，磨耳朵 + 训练家愿望",
+      "slug": "宝可梦学英语",
+      "summary": "给 3–6 岁宝宝家长的宝可梦学英语产品，磨耳朵 + 训练家愿望",
+      "detail": "前段时间做的, 给3-6岁宝宝家长用的宝可梦学英语产品, 给喜欢宝可梦的小朋友们实现训练家的愿望, 又能给小朋友磨耳朵",
       "category": "education",
-      "url": "https://t.co/UHSgcM7zf5",
+      "url": "https://pokepal-online.pages.dev/",
+      "repo_url": null,
       "recommenders": [
         "drmrzhong"
+      ],
+      "source_reply_urls": [
+        "https://x.com/drmrzhong/status/2115437638203449825"
       ],
       "replies": [
         {
@@ -661,17 +1330,35 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/宝可梦学英语.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "教育"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 182,
+      "like_count": 0,
+      "impression_count": 182,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "7ef7689a99",
       "name": "Veil",
-      "description": "Mac 开会/录屏时把后台窗口糊掉，只留当前窗口清楚",
+      "slug": "veil",
+      "summary": "Mac 开会/录屏时把后台窗口糊掉，只留当前窗口清楚",
+      "detail": "我自己在用的：Veil，Mac 上开会/录屏的时候把后台窗口糊掉，只留当前这一个清楚。自己写的，天天开会前点一下，比每次手忙脚乱关窗口靠谱多了。",
       "category": "desktop",
-      "url": "",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "maomao000211"
+      ],
+      "source_reply_urls": [
+        "https://x.com/maomao000211/status/2115329125217100256"
       ],
       "replies": [
         {
@@ -680,17 +1367,35 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/veil.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "桌面应用"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 196,
+      "like_count": 0,
+      "impression_count": 196,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "83c31c01f9",
       "name": "Silero-VAD + Whisper",
-      "description": "本地转写工作流：长播客先切语音段再转写",
+      "slug": "silero-vad-whisper",
+      "summary": "本地转写工作流：长播客先切语音段再转写",
+      "detail": "推荐silero-vad配Whisper的本地转写工作流。长播客先切出语音段再转写，适合整理访谈资料。",
       "category": "cli",
-      "url": "",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "LauLauzhihao"
+      ],
+      "source_reply_urls": [
+        "https://x.com/LauLauzhihao/status/2115342276721528933"
       ],
       "replies": [
         {
@@ -699,17 +1404,35 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/silero-vad-whisper.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "CLI"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 123,
+      "like_count": 0,
+      "impression_count": 123,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "7c501e0d2e",
       "name": "Cursor",
-      "description": "主力 AI 编程 IDE；Custom Rules 可当团队规范",
+      "slug": "cursor",
+      "summary": "主力 AI 编程 IDE；Custom Rules 可当团队规范",
+      "detail": "Cursor，偶尔配 Claude。真香的是把开会废话丢给它写成待办，人只用装忙点头。\n\n智能体旨在大幅提升您的工作效率，将创意变成代码。把任务交给 Cursor，加速开发。",
       "category": "coding agent",
       "url": "https://cursor.com",
+      "repo_url": null,
       "recommenders": [
         "AkBanana4"
+      ],
+      "source_reply_urls": [
+        "https://x.com/AkBanana4/status/2115371644877451627"
       ],
       "replies": [
         {
@@ -718,17 +1441,37 @@
           "bookmarks": 1
         }
       ],
+      "image": "/images/products/cursor.png",
+      "gallery": [
+        "/images/products/cursor-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "Coding Agent"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 1
+      "bookmarks": 1,
+      "impressions": 129,
+      "like_count": 0,
+      "impression_count": 129,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "e4dd074505",
       "name": "雷霆小游戏",
-      "description": "游戏开发+素材资产全由 AI 制作的雷霆小游戏",
+      "slug": "雷霆小游戏",
+      "summary": "游戏开发+素材资产全由 AI 制作的雷霆小游戏",
+      "detail": "游戏开发+素材资产 全由AI制作的一个雷霆小游戏哈哈哈哈\n\nChatGPT vs Claude vs DeepSeek vs Grok！模型大乱斗，直播间格斗 PK，浏览器打开就能和好友联机。",
       "category": "other",
       "url": "https://aimodelpk.site/",
+      "repo_url": null,
       "recommenders": [
         "chessunyan"
+      ],
+      "source_reply_urls": [
+        "https://x.com/chessunyan/status/2115330323856900115"
       ],
       "replies": [
         {
@@ -737,17 +1480,37 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/雷霆小游戏.jpg",
+      "gallery": [
+        "/images/products/雷霆小游戏-1.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 1,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 28,
+      "like_count": 1,
+      "impression_count": 28,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "3f297384fc",
       "name": "微信公众号排版",
-      "description": "微信公众号排版网站",
+      "slug": "微信公众号排版",
+      "summary": "微信公众号排版网站",
+      "detail": "微信公众号排版网站，欢迎各位使用提出意见\n\n以本地优先方式完成公众号文章排版",
       "category": "other",
-      "url": "https://t.co/4aNPW6HbSs",
+      "url": "https://kaipai.itskairo.com/",
+      "repo_url": null,
       "recommenders": [
         "itsKairoSolo"
+      ],
+      "source_reply_urls": [
+        "https://x.com/itsKairoSolo/status/2115479193219899437"
       ],
       "replies": [
         {
@@ -756,17 +1519,35 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/微信公众号排版.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "其他"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 1,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 41,
+      "like_count": 1,
+      "impression_count": 41,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "e5aec7471d",
       "name": "小爱 + Codex",
-      "description": "小爱音箱连接 Codex，语音推进项目 / 点外卖流程",
+      "slug": "小爱-codex",
+      "summary": "小爱音箱连接 Codex，语音推进项目 / 点外卖流程",
+      "detail": "小爱音箱连接codex",
       "category": "coding agent",
-      "url": "https://t.co/J5FTiDtAF0",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "SamyeeiYu"
+      ],
+      "source_reply_urls": [
+        "https://x.com/SamyeeiYu/status/2115458414726009251"
       ],
       "replies": [
         {
@@ -775,17 +1556,35 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/小爱-codex.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "Coding Agent"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 1,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 142,
+      "like_count": 1,
+      "impression_count": 142,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "1c41cb5588",
       "name": "WorkBuddy",
-      "description": "社区用过的 WorkBuddy（与 Cursor / Grok 并列）",
+      "slug": "workbuddy",
+      "summary": "社区用过的 WorkBuddy（与 Cursor / Grok 并列）",
+      "detail": "翻了一圈评论，剪贴板和截图工具就撞了好几个，大家 vibe coding 先解决的果然都是自己每天被烦到的那几下。我投 Cursor 和 Grok，WorkBuddy 也用过。",
       "category": "coding agent",
-      "url": "",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "yinpengxuan"
+      ],
+      "source_reply_urls": [
+        "https://x.com/yinpengxuan/status/2115336225070752096"
       ],
       "replies": [
         {
@@ -794,17 +1593,35 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/workbuddy.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "Coding Agent"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 1,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 134,
+      "like_count": 1,
+      "impression_count": 134,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "97c9f04be4",
       "name": "VideoBee",
-      "description": "在线压缩/转换/裁剪视频，免注册无水印的冷门急救工具",
+      "slug": "videobee",
+      "summary": "在线压缩/转换/裁剪视频，免注册无水印的冷门急救工具",
+      "detail": "分享一个可以先存着的冷门小工具。VideoBee：、转换格式、裁剪片段，免注册、无水印。\n\nVideoBee is a free online video toolkit: AI-powered compression up to 10 GB, convert to 19 formats, or cut video to what you need. No sign-up, no watermark.",
       "category": "other",
-      "url": "https://t.co/XmZlb8io7X在线压缩视频",
+      "url": "https://videobee.ai/",
+      "repo_url": null,
       "recommenders": [
         "Decemberww12"
+      ],
+      "source_reply_urls": [
+        "https://x.com/Decemberww12/status/2115378377129599119"
       ],
       "replies": [
         {
@@ -813,17 +1630,37 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/videobee.png",
+      "gallery": [
+        "/images/products/videobee-2.ico"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 1,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 52,
+      "like_count": 1,
+      "impression_count": 52,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "cd43d173d6",
       "name": "Tokei",
-      "description": "自研 token 用量本地统计工具，可备份 harness 清理前的数据",
+      "slug": "tokei",
+      "summary": "自研 token 用量本地统计工具，可备份 harness 清理前的数据",
+      "detail": "本地统计。考虑到有些harness会清理，tokei 会备份用户使用token的统计数据，也是在本地",
       "category": "cli",
-      "url": "",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "LufzzLiz"
+      ],
+      "source_reply_urls": [
+        "https://x.com/LufzzLiz/status/2115612853462073627"
       ],
       "replies": [
         {
@@ -832,17 +1669,35 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/tokei.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "CLI"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 1,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 39,
+      "like_count": 1,
+      "impression_count": 39,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "7a3b56c6a8",
       "name": "Orca / CodexBar",
-      "description": "社区推荐的编码相关工具组合",
+      "slug": "orca-codexbar",
+      "summary": "社区推荐的编码相关工具组合",
+      "detail": "orca， codexbar",
       "category": "cli",
-      "url": "",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "dontry018"
+      ],
+      "source_reply_urls": [
+        "https://x.com/dontry018/status/2115325659354665211"
       ],
       "replies": [
         {
@@ -851,17 +1706,35 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/orca-codexbar.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "CLI"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 1,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 332,
+      "like_count": 1,
+      "impression_count": 332,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "21a16d41f2",
       "name": "Multica",
-      "description": "社区提及的 Multica",
+      "slug": "multica",
+      "summary": "社区提及的 Multica",
+      "detail": "Multica。",
       "category": "other",
-      "url": "",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "FatsugarD"
+      ],
+      "source_reply_urls": [
+        "https://x.com/FatsugarD/status/2115338867993874840"
       ],
       "replies": [
         {
@@ -870,17 +1743,35 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/multica.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 1,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 707,
+      "like_count": 1,
+      "impression_count": 707,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "f1666c777c",
       "name": "Magpie",
-      "description": "yetone 的本机模型网关，Claude Code / Codex 一键换模型与账号",
+      "slug": "magpie",
+      "summary": "yetone 的本机模型网关，Claude Code / Codex 一键换模型与账号",
+      "detail": "«自荐一个我真装真跑过的：yetone 的 Magpie，装在本机的模型网关，Claude Code、Codex 都能一键换模型，额度用完自动切账号。我做了一期「GitHub 真实测」，好用的地方和坑都写清楚了，比如脱敏默认是关的，得手动开👇",
       "category": "cli",
-      "url": "https://twitter.com/zhengtang364848/status/2114622442714911083",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "zhengtang364848"
+      ],
+      "source_reply_urls": [
+        "https://x.com/zhengtang364848/status/2115335576073453678"
       ],
       "replies": [
         {
@@ -889,17 +1780,35 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/magpie.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "CLI"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 1,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 374,
+      "like_count": 1,
+      "impression_count": 374,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "8901bdfbdf",
       "name": "M5Stack Stopwatch 固件",
-      "description": "M5Stack 秒表固件，蓝牙连手机 APK，超省电",
+      "slug": "m5stack-stopwatch-固件",
+      "summary": "M5Stack 秒表固件，蓝牙连手机 APK，超省电",
+      "detail": "我的我的 我是关于m5stack stopwatch的固件，关键是用蓝牙连接 手机安装apk,非常省电，基本达到2天不用充电\n\nContribute to wen0531/m5stack-qiuqiu development by creating an account on GitHub.",
       "category": "other",
       "url": "https://github.com/wen0531/m5stack-qiuqiu",
+      "repo_url": "https://github.com/wen0531/m5stack-qiuqiu",
       "recommenders": [
         "wen0531"
+      ],
+      "source_reply_urls": [
+        "https://x.com/wen0531/status/2115327677343404305"
       ],
       "replies": [
         {
@@ -908,17 +1817,38 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/m5stack-stopwatch-固件.jpg",
+      "gallery": [
+        "/images/products/m5stack-stopwatch-固件-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他",
+        "C"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 1,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 385,
+      "like_count": 1,
+      "impression_count": 385,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "15a4b0bf86",
       "name": "Claude Projects",
-      "description": "把常用资料与要求放进 Projects，少重复交代背景",
+      "slug": "claude-projects",
+      "summary": "把常用资料与要求放进 Projects，少重复交代背景",
+      "detail": "推荐 Claude 的 Projects 功能:把常用资料和要求一次性放进去,以后每次对话都不用重复交代背景,写周报、改文案特别省事。我最近在做\"大白话讲 AI\"30 天连更,这个功能会专门写一期实操。",
       "category": "coding agent",
       "url": "https://claude.ai",
+      "repo_url": null,
       "recommenders": [
         "randy102488"
+      ],
+      "source_reply_urls": [
+        "https://x.com/randy102488/status/2115452523066892391"
       ],
       "replies": [
         {
@@ -927,56 +1857,136 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/claude-projects.png",
+      "gallery": [
+        "/images/products/claude-projects-1.ico"
+      ],
+      "image_note": null,
+      "tags": [
+        "Coding Agent"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 1,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 130,
+      "like_count": 1,
+      "impression_count": 130,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "4c1c3add3e",
       "name": "通江 Car Base",
-      "description": "通江作品：车辆/项目库类互动展示",
+      "slug": "通江-car-base",
+      "summary": "通江作品：车辆/项目库类互动展示",
+      "detail": "铜匠汽车 · 整车制造基地：按生产顺序看冲压车间、压铸车间、焊装车间、涂装车间、电池 PACK 装配车间、总装车间，每个都有动态片段、作品介绍和 3D 交互入口；整座工厂能一层层拆开，单台设备还能拆成部件。",
       "category": "other",
       "url": "https://tongjiang.app/works/car-base/overview/",
+      "repo_url": null,
       "recommenders": [
         "CopperForgeAI"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/通江-car-base.jpg",
+      "gallery": [
+        "/images/products/通江-car-base-1.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "f857214325",
       "name": "辅导 101",
-      "description": "中小学诊断辅导，动森可爱 UI",
+      "slug": "辅导-101",
+      "summary": "中小学诊断辅导，动森可爱 UI",
+      "detail": "从知识点追问，定位薄弱问题，给出学习计划。",
       "category": "education",
       "url": "https://fudao101.com",
+      "repo_url": null,
       "recommenders": [
         "0xPlato"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/辅导-101.png",
+      "gallery": [
+        "/images/products/辅导-101-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "教育"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "ee36c77a6b",
       "name": "淘生 Taosheng",
-      "description": "开源项目，用了就知道真好用",
+      "slug": "淘生-taosheng",
+      "summary": "开源项目，用了就知道真好用",
+      "detail": "涛声 TaoSheng：用一部安卓手机全天收音 → 转写 → 认人 → AI 整理成待办与记忆。无需硬件、无需账号，数据只在你手机里。 - 0xCoach/TaoSheng",
       "category": "coding agent",
       "url": "https://github.com/0xcoach/taosheng",
+      "repo_url": "https://github.com/0xcoach/taosheng",
       "recommenders": [
         "0xCoach"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/淘生-taosheng.jpg",
+      "gallery": [
+        "/images/products/淘生-taosheng-4.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "Coding Agent",
+        "ai",
+        "android",
+        "jetpack-compose",
+        "kotlin",
+        "lifelog",
+        "Kotlin"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 18,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "2790f20793",
       "name": "iPhone-use",
-      "description": "用 iPhone-use 测手机自动化",
+      "slug": "iphone-use",
+      "summary": "用 iPhone-use 测手机自动化",
+      "detail": "iPhone-use，正拿它测手机自动化",
       "category": "other",
-      "url": "",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "DavidChin0110"
+      ],
+      "source_reply_urls": [
+        "https://x.com/DavidChin0110/status/2115853637461463214"
       ],
       "replies": [
         {
@@ -985,17 +1995,35 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/iphone-use.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 7,
+      "like_count": 0,
+      "impression_count": 7,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "cb0a5509ae",
       "name": "ZigoAI 销冠",
-      "description": "企微/微版 AI 销售接待与跟进，推进预约试用报价下单",
+      "slug": "zigoai-销冠",
+      "summary": "企微/微版 AI 销售接待与跟进，推进预约试用报价下单",
+      "detail": "我们做了个微和企微版的ZigoAI销冠 🚀 让 AI 自动接待客户、挖掘需求、持续跟进，把沉默客户重新聊活，把有意向的客户一步步推进到预约、试用、报价、下单。 基本上4000以内客单价的能直接收款，高客单价的能约到演示环节。已经自己卖出好多单了。\n\n从新客接待、持续培育到沉睡召回，在报价、逼单、收款等关键节点协同销售推进成交。",
       "category": "other",
-      "url": "https://t.co/nZfIqcHiOM",
+      "url": "https://www.aixiaoguan.net/",
+      "repo_url": null,
       "recommenders": [
         "qw0258"
+      ],
+      "source_reply_urls": [
+        "https://x.com/qw0258/status/2115395225413972280"
       ],
       "replies": [
         {
@@ -1004,30 +2032,67 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/zigoai-销冠.png",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": "含付费选项（见官网）",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 8,
+      "like_count": 0,
+      "impression_count": 8,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "a39079dcb3",
       "name": "X Algo Watch",
-      "description": "盯着 X 官方推荐算法仓库，提交变更自动整理说明与证据",
+      "slug": "x-algo-watch",
+      "summary": "盯着 X 官方推荐算法仓库，提交变更自动整理说明与证据",
+      "detail": "Independent public-source X algorithm change monitoring with evidence and human-reviewed digests - loonslo/x-algo-watch",
       "category": "other",
       "url": "https://github.com/loonslo/x-algo-watch",
+      "repo_url": "https://github.com/loonslo/x-algo-watch",
       "recommenders": [
         "bankai_ajar"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/x-algo-watch.jpg",
+      "gallery": [
+        "/images/products/x-algo-watch-4.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他",
+        "Python"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "14d71dc600",
       "name": "Vibe开发的网站",
-      "description": "分享几个自用的Vibe开发的网站 导航工具网站： 设计展示网站： HTML静态托管网站：",
+      "slug": "vibe开发的网站",
+      "summary": "分享几个自用的Vibe开发的网站 导航工具网站： 设计展示网站： HTML静态托管网站：",
+      "detail": "分享几个自用的Vibe开发的网站 导航工具网站： 设计展示网站： HTML静态托管网站：\n\n十一创导航，高效聚合优质资源，智能分类与收藏助您快速触达所需。涵盖AI工具、设计资源、开发工具、学习素材等精选网站导航。",
       "category": "coding agent",
       "url": "https://shiyichuang.com/",
+      "repo_url": null,
       "recommenders": [
         "moumou12131"
+      ],
+      "source_reply_urls": [
+        "https://x.com/moumou12131/status/2115329703548719412"
       ],
       "replies": [
         {
@@ -1036,65 +2101,156 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/vibe开发的网站.png",
+      "gallery": [
+        "/images/products/vibe开发的网站-1.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "Coding Agent"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 14,
+      "like_count": 0,
+      "impression_count": 14,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "b8c687073a",
       "name": "Timezone Override",
-      "description": "浏览器时区覆盖插件（Chrome / Edge）",
+      "slug": "timezone-override",
+      "summary": "浏览器时区覆盖插件（Chrome / Edge）",
+      "detail": "全局或按网站规则覆盖浏览器时区。",
       "category": "plugin",
       "url": "https://chromewebstore.google.com/detail/timezone-override/hecgaoajefgkcnmmmolmofcfioknelog",
+      "repo_url": null,
       "recommenders": [],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/timezone-override.jpg",
+      "gallery": [
+        "/images/products/timezone-override-1.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "插件 / Skill"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "2041cc57b8",
       "name": "SuperAPI",
-      "description": "Claude 等中转服务，号被封后的稳定备选",
+      "slug": "superapi",
+      "summary": "Claude 等中转服务，号被封后的稳定备选",
+      "detail": "SuperAPI 是 AI API 服务平台：一个密钥统一接入 Claude、GPT、Gemini 和国产模型，兼容 OpenAI 与 Anthropic 接口，支持 Claude Code、Codex、OpenCode，统一管理密钥、用量与费用。",
       "category": "other",
       "url": "https://superapi.store",
+      "repo_url": null,
       "recommenders": [
         "XLOOP37"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/superapi.png",
+      "gallery": [
+        "/images/products/superapi-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "554a7a766a",
       "name": "SpotCat",
-      "description": "Raycast 类免费快速启动选项，界面更清爽",
+      "slug": "spotcat",
+      "summary": "Raycast 类免费快速启动选项，界面更清爽",
+      "detail": "按 ⌥Space，输入，回车。Spotcat 是快速、原生的 macOS 启动器：应用、文件、网页、扩展和 AI，一个输入框搞定。免费且开源。",
       "category": "plugin",
       "url": "https://spotcat.ai/zh",
+      "repo_url": null,
       "recommenders": [
         "longhaiqwe123"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/spotcat.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "插件 / Skill"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "021e3fffd2",
       "name": "Smart Name Stamp",
-      "description": "智能命名/盖章相关开源小工具",
+      "slug": "smart-name-stamp",
+      "summary": "智能命名/盖章相关开源小工具",
+      "detail": "本地批量给图片加文件名，支持自动选位、预览和逐张微调。Local batch image captioning with per-image controls. - loki2046-mao/smart-name-stamp",
       "category": "other",
       "url": "https://github.com/loki2046-mao/smart-name-stamp",
+      "repo_url": "https://github.com/loki2046-mao/smart-name-stamp",
       "recommenders": [],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/smart-name-stamp.jpg",
+      "gallery": [
+        "/images/products/smart-name-stamp-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他",
+        "Python"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 1,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "5902846e9b",
       "name": "Qoder / Ego Lite",
-      "description": "社区点名的 Qoder 与 Ego Lite",
+      "slug": "qoder-ego-lite",
+      "summary": "社区点名的 Qoder 与 Ego Lite",
+      "detail": "qoder  \nego lite",
       "category": "coding agent",
-      "url": "",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "sooooong629"
+      ],
+      "source_reply_urls": [
+        "https://x.com/sooooong629/status/2115480529885950339"
       ],
       "replies": [
         {
@@ -1103,54 +2259,135 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/qoder-ego-lite.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "Coding Agent"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 78,
+      "like_count": 0,
+      "impression_count": 78,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "4ae1ac47e3",
       "name": "PixStag",
-      "description": "高性价比 AI 视频生成器",
+      "slug": "pixstag",
+      "summary": "高性价比 AI 视频生成器",
+      "detail": "PixStag｜AI Video Generator - 720P from just $0.015/sec, ready in 3 minutes",
       "category": "other",
       "url": "https://PixStag.com",
+      "repo_url": null,
       "recommenders": [
         "tangpanqing"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/pixstag.jpg",
+      "gallery": [
+        "/images/products/pixstag-1.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "5f822c11de",
       "name": "Pi Agent Desktop",
-      "description": "Pi Agent 桌面端，省 token",
+      "slug": "pi-agent-desktop",
+      "summary": "Pi Agent 桌面端，省 token",
+      "detail": "Pi — A cross-platform AI coding agent, bringing the Claude Code experience to your desktop. No environment setup, no terminal commands. Download and start coding right away. - abcwyc/pi-agent-desktop",
       "category": "desktop",
       "url": "https://github.com/abcwyc/pi-agent-desktop",
+      "repo_url": "https://github.com/abcwyc/pi-agent-desktop",
       "recommenders": [
         "wycai"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/pi-agent-desktop-2.png",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "桌面应用",
+        "ai",
+        "ai-agent",
+        "desktop-app",
+        "pi",
+        "TypeScript"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 868,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:38 Asia/Shanghai"
     },
     {
       "id": "db4baacb8d",
       "name": "Orbit",
-      "description": "开源项目 Orbit",
+      "slug": "orbit",
+      "summary": "开源项目 Orbit",
+      "detail": "A native macOS app switcher for people who want faster window switching — radial, gesture-first, fully on-device. - ycl-2004/Orbit",
       "category": "other",
       "url": "https://github.com/ycl-2004/Orbit",
+      "repo_url": "https://github.com/ycl-2004/Orbit",
       "recommenders": [],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/orbit.jpg",
+      "gallery": [
+        "/images/products/orbit-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他",
+        "app-switcher",
+        "macos",
+        "menu-bar-app",
+        "productivity",
+        "swift",
+        "Swift"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 175,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "dd040e5965",
       "name": "OpenRouter Rankings",
-      "description": "按真实用量看模型排行，选模型前先看一眼",
+      "slug": "openrouter-rankings",
+      "summary": "按真实用量看模型排行，选模型前先看一眼",
+      "detail": "推荐 OpenRouter 的 rankings 页面，不算工具，但每次选模型前我都会先看一眼：\n\n它不看发布会，只看真实用量。本周用量第一是 DeepSeek V4.1 Flash（37.3T tokens），前十里还有两个免费模型。\n\n开发者用钱投出来的票，比任何测评都诚实。\n\nLLM rankings and AI leaderboard by real-world usage, ranked by tokens processed through the OpenRouter API. See which AI models developers actually use.",
       "category": "other",
       "url": "https://openrouter.ai/rankings",
+      "repo_url": null,
       "recommenders": [
         "Anders100M"
+      ],
+      "source_reply_urls": [
+        "https://x.com/Anders100M/status/2115444113952977180"
       ],
       "replies": [
         {
@@ -1159,30 +2396,74 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/openrouter-rankings.png",
+      "gallery": [
+        "/images/products/openrouter-rankings-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 1,
+      "like_count": 0,
+      "impression_count": 1,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "0a07b1b949",
       "name": "MenuBarMijia",
-      "description": "Mac 菜单栏米家控制中心，支持预测与按住说话语音控制",
+      "slug": "menubarmijia",
+      "summary": "Mac 菜单栏米家控制中心，支持预测与按住说话语音控制",
+      "detail": "Native macOS (Swift 6 + SwiftUI) & Windows 11 (Tauri v2) menu-bar/tray controller for Xiaomi Mijia & Home Assistant with hold-to-talk voice control · 跨端米家与 HA 菜单栏智控中心 - jryang1997/MenuBarMijia",
       "category": "desktop",
       "url": "https://github.com/jryang1997/MenuBarMijia",
+      "repo_url": "https://github.com/jryang1997/MenuBarMijia",
       "recommenders": [
         "jryang1997"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/menubarmijia.jpg",
+      "gallery": [
+        "/images/products/menubarmijia-4.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "桌面应用",
+        "apple-silicon",
+        "home-assistant",
+        "macos",
+        "menubar",
+        "mijia",
+        "Swift"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 114,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "00299a408d",
       "name": "Library",
-      "description": "自荐一个： 终端里的Z-Library",
+      "slug": "library",
+      "summary": "自荐一个： 终端里的Z-Library",
+      "detail": "自荐一个： 终端里的Z-Library\n\nSearch, download, and send books to Kindle from the terminal, or hand the same binary to Claude Code or Codex.",
       "category": "other",
       "url": "https://zlib.heartleo.dev/",
+      "repo_url": null,
       "recommenders": [
         "GeekRadioLeo"
+      ],
+      "source_reply_urls": [
+        "https://x.com/GeekRadioLeo/status/2115330917623574759"
       ],
       "replies": [
         {
@@ -1191,43 +2472,105 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/library.jpg",
+      "gallery": [
+        "/images/products/library-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 108,
+      "like_count": 0,
+      "impression_count": 108,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "bbc6bf18e0",
       "name": "Larder",
-      "description": "统一查看管理 Claude Code / Codex / Cursor 的 Skills、MCP、CLI、Commands",
+      "slug": "larder",
+      "summary": "统一查看管理 Claude Code / Codex / Cursor 的 Skills、MCP、CLI、Commands",
+      "detail": "Local-first desktop app for inspecting and safely managing the Skills, MCP servers, CLIs, and instruction files your AI agents use. - 599yongyang/larder",
       "category": "coding agent",
       "url": "https://github.com/599yongyang/larder",
+      "repo_url": "https://github.com/599yongyang/larder",
       "recommenders": [
         "aaaaang_y63488"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/larder.jpg",
+      "gallery": [
+        "/images/products/larder-4.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "Coding Agent",
+        "ai-agents",
+        "desktop-app",
+        "developer-tools",
+        "local-first",
+        "mcp",
+        "TypeScript"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 8,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "d3b2292656",
       "name": "Harness Catalog",
-      "description": "DeepSeek Harness 插件站，持续更新维护",
+      "slug": "harness-catalog",
+      "summary": "DeepSeek Harness 插件站，持续更新维护",
+      "detail": "76 DeepSeek Harness (dsh) plugins, each with an honest review, the real install command, and clear advice on when it",
       "category": "plugin",
       "url": "https://harnesscatalog.com/",
+      "repo_url": null,
       "recommenders": [
         "dsholys10"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/harness-catalog.jpg",
+      "gallery": [
+        "/images/products/harness-catalog-1.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "插件 / Skill"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "4a3383c820",
       "name": "Grok Bot 调度流",
-      "description": "Grok Bot 总控 + Mac mini 上 Claude Code 指挥 Codex/Kimi",
+      "slug": "grok-bot-调度流",
+      "summary": "Grok Bot 总控 + Mac mini 上 Claude Code 指挥 Codex/Kimi",
+      "detail": "目前主力是 Grok Bot 做总控调度，连着家里的 Mac mini 让 Claude Code 指挥 Codex 和 Kimi 跑开发跟写稿，重活全丢给后台跑，人只管拍板和验收。",
       "category": "coding agent",
-      "url": "",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "leoai_build"
+      ],
+      "source_reply_urls": [
+        "https://x.com/leoai_build/status/2115426745767575997"
       ],
       "replies": [
         {
@@ -1236,17 +2579,35 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/grok-bot-调度流.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "Coding Agent"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 96,
+      "like_count": 0,
+      "impression_count": 96,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "79cfbff692",
       "name": "GAIPPT",
-      "description": "在线一键美化 PPT，约 30 万用户",
+      "slug": "gaippt",
+      "summary": "在线一键美化 PPT，约 30 万用户",
+      "detail": "30万用户的GAIPPT，在线版一键美化PPT软件",
       "category": "other",
-      "url": "",
+      "url": null,
+      "repo_url": null,
       "recommenders": [
         "99daoyou"
+      ],
+      "source_reply_urls": [
+        "https://x.com/99daoyou/status/2115470373412294825"
       ],
       "replies": [
         {
@@ -1255,110 +2616,278 @@
           "bookmarks": 0
         }
       ],
+      "image": "/images/products/gaippt.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": 29,
+      "like_count": 0,
+      "impression_count": 29,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "63a67601a2",
       "name": "CreatorOS",
-      "description": "创作者网站与作品集平台",
+      "slug": "creatoros",
+      "summary": "创作者网站与作品集平台",
+      "detail": "从热点情报、选题和 AI 写作，到配图、公众号排版、专家评审与推送发布，一条工作流完成。",
       "category": "other",
       "url": "https://creatoros.com.cn",
+      "repo_url": null,
       "recommenders": [
         "zifeiyuooooooo"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/creatoros-1.jpg",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "253f95d284",
       "name": "Cortext",
-      "description": "Markdown AI 知识库 + LLM Wiki，本地无感智能知识库",
+      "slug": "cortext",
+      "summary": "Markdown AI 知识库 + LLM Wiki，本地无感智能知识库",
+      "detail": "Cortext is a native macOS Markdown app with an AI agent that works on your local notes. Bring your own models, keep files on disk, and grow a linked LLM wiki.",
       "category": "memory",
       "url": "https://cortext.app",
+      "repo_url": null,
       "recommenders": [
         "RookieRicardoR"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/cortext.jpg",
+      "gallery": [
+        "/images/products/cortext-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "记忆"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "dff759bd52",
       "name": "ChartsReplay",
-      "description": "给期货交易者用的 K 线回测复盘网站",
+      "slug": "chartsreplay",
+      "summary": "给期货交易者用的 K 线回测复盘网站",
+      "detail": "基于 TradingView Trading Terminal 的 CME 期货复盘回测台。限价、止损、括号单按 1 分钟逐根撮合，跳空按真实规则给价。ES、NQ 覆盖 2016 年至今共 754 万根 1 分钟 K 线，真实成交价口径。",
       "category": "other",
       "url": "https://chartsreplay.app",
+      "repo_url": null,
       "recommenders": [
         "RookieRicardoR"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/chartsreplay.jpg",
+      "gallery": [
+        "/images/products/chartsreplay-1.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": "含付费选项（见官网）",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "7246d7f9c8",
       "name": "CentricMem",
-      "description": "记忆相关产品 / 站点",
+      "slug": "centricmem",
+      "summary": "记忆相关产品 / 站点",
+      "detail": "Shared AI agent memory as Markdown cards on a hosted librarian. Agents in Cursor, Claude Code, Codex, and 19+ hosts file and cite via MCP. Deterministic BM25 search — not a third-party vector API.",
       "category": "memory",
       "url": "https://centricmem.com",
+      "repo_url": null,
       "recommenders": [],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/centricmem.jpg",
+      "gallery": [
+        "/images/products/centricmem-1.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "记忆"
+      ],
+      "pricing": "含付费选项（见官网）",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "50c1bd9fa8",
       "name": "Caravel Agent",
-      "description": "多 Agent CLI 桌面管理工具，用了半年少开 IDE",
+      "slug": "caravel-agent",
+      "summary": "多 Agent CLI 桌面管理工具，用了半年少开 IDE",
+      "detail": "Caravel — a local-first workspace for AI coding agents. Delegate tasks, follow progress, and review code across projects. - yy36295238/caravel-agent",
       "category": "coding agent",
       "url": "https://github.com/yy36295238/caravel-agent",
+      "repo_url": "https://github.com/yy36295238/caravel-agent",
       "recommenders": [
         "md440326799"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/caravel-agent.jpg",
+      "gallery": [
+        "/images/products/caravel-agent-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "Coding Agent",
+        "agent",
+        "agent-orchestration",
+        "ai",
+        "ai-agents",
+        "ai-coding"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 29,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "21f9873569",
       "name": "BlinkPop",
-      "description": "第一个 AI SaaS 站（视频相关）",
+      "slug": "blinkpop",
+      "summary": "第一个 AI SaaS 站（视频相关）",
+      "detail": "AI video effects from one photo: make the videos trending on TikTok, like Flying Broom, Tiny Desk, Ceiling Fan Transition. Vertical clips with sound, ready in minutes.",
       "category": "other",
       "url": "https://blinkpop.video",
+      "repo_url": null,
       "recommenders": [
         "lumm256"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/blinkpop.jpg",
+      "gallery": [
+        "/images/products/blinkpop-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": "含付费选项（见官网）",
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "a8887fd3ee",
       "name": "Argo Search Skill",
-      "description": "超实用 Agent 搜索 Skill，200+ 搜索源，也支持 dsh 插件",
+      "slug": "argo-search-skill",
+      "summary": "超实用 Agent 搜索 Skill，200+ 搜索源，也支持 dsh 插件",
+      "detail": "专门为 agent 打造的开源 agent 搜索工具，具备 200+的搜索源及多语言搜索能力，覆盖中文/英文/学术/代码/购物/金融/新闻/百科。 - taxueseek/argo",
       "category": "plugin",
       "url": "https://github.com/taxueseek/argo",
+      "repo_url": "https://github.com/taxueseek/argo",
       "recommenders": [
         "TaXue2025"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/argo-search-skill.jpg",
+      "gallery": [
+        "/images/products/argo-search-skill-4.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "插件 / Skill",
+        "academic-search",
+        "agent-tools",
+        "ai-agent",
+        "deep-research",
+        "dsh-ecosystem",
+        "Python"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": 216,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:39 Asia/Shanghai"
     },
     {
       "id": "e2a96f8fed",
       "name": "AIGeo Games",
-      "description": "AI / GEO 相关游戏化作品",
+      "slug": "aigeo-games",
+      "summary": "AI / GEO 相关游戏化作品",
+      "detail": "天行GEO由李哲主理，集中发布中文GEO、SEO与AI搜索优化的原创研究、实操方法与可核查证据，帮助搜索引擎和大模型准确理解李哲的专业方向、方法边界与持续实践。",
       "category": "other",
       "url": "https://aigeo.games",
+      "repo_url": null,
       "recommenders": [
         "zifeiyuooooooo"
       ],
+      "source_reply_urls": [],
       "replies": [],
+      "image": "/images/products/aigeo-games.jpg",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
       "likes": 0,
-      "bookmarks": 0
+      "bookmarks": 0,
+      "impressions": null,
+      "like_count": 0,
+      "impression_count": null,
+      "updated": "2026-10-30 09:40 Asia/Shanghai"
     }
-  ]
+  ],
+  "enrichment": {
+    "with_real_image": 52,
+    "with_placeholder": 26,
+    "with_impressions": 56
+  }
 }

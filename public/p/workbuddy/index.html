@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="description" content="社区用过的 WorkBuddy（与 Cursor / Grok 并列）" />
+  <meta property="og:title" content="WorkBuddy · AI Coding Hunt" />
+  <meta property="og:description" content="社区用过的 WorkBuddy（与 Cursor / Grok 并列）" />
+  <meta property="og:image" content="/images/products/workbuddy.svg" />
+  <meta property="og:type" content="article" />
+  <title>WorkBuddy · 乔木 AI 工具猎场</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700&family=Noto+Sans+SC:wght@400;500;600&display=swap" rel="stylesheet" />
+  <script>
+    try {
+      const t = localStorage.getItem('theme');
+      if (t === 'dark' || t === 'light') document.documentElement.dataset.theme = t;
+    } catch {}
+  </script>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <div class="page detail-page">
+    <header class="topbar">
+      <a class="brand" href="/">向阳乔木 · AI Coding Hunt</a>
+      <nav class="nav">
+        <a href="/">← 猎场首页</a>
+        <a href="https://github.com/joeseesun/aicodinghunt" target="_blank" rel="noopener">GitHub</a>
+        <button type="button" class="theme-toggle" id="themeToggle" aria-label="切换深浅色">◐</button>
+      </nav>
+    </header>
+    <main>
+      <p class="crumb"><a href="/">猎场</a> / <span>Coding Agent</span> / <span>WorkBuddy</span></p>
+      <article class="detail">
+        <div class="hero-media">
+          <img src="/images/products/workbuddy.svg" alt="WorkBuddy" />
+          <p class="image-note">未能抓取到官网/仓库封面，已使用占位图。</p>
+        </div>
+        <div class="detail-body">
+          <div class="detail-top">
+            <span class="cat">Coding Agent</span>
+            <span class="stats">♥ 1 赞 · 👁 134 浏览</span>
+          </div>
+          <h1>WorkBuddy</h1>
+          <p class="summary">社区用过的 WorkBuddy（与 Cursor / Grok 并列）</p>
+          <div class="tags"><span class="tag">Coding Agent</span></div>
+          <div class="actions"><a class="btn ghost" href="https://x.com/yinpengxuan/status/2115336225070752096" target="_blank" rel="noopener">原帖</a></div>
+          <section class="writeup">
+            <h2>详情</h2>
+            <p>翻了一圈评论，剪贴板和截图工具就撞了好几个，大家 vibe coding 先解决的果然都是自己每天被烦到的那几下。我投 Cursor 和 Grok，WorkBuddy 也用过。</p>
+          </section>
+          <p class="recs-line">推荐人：@yinpengxuan</p>
+          <p class="meta">更新 2026-10-30 09:38 Asia/Shanghai</p>
+          
+        </div>
+      </article>
+      <section class="related"><h2>相关产品</h2><div class="related-grid"><a class="related-card" href="/p/wesight/">
+                <img src="/images/products/wesight.svg" alt="" loading="lazy" />
+                <div><strong>WeSight</strong><span>苍何的本地 CLI Agent 桌面控制台（日常创作离不开）</span></div>
+                </a><a class="related-card" href="/p/短剧创作工作台/">
+                <img src="/images/products/短剧创作工作台-3.png" alt="" loading="lazy" />
+                <div><strong>短剧创作工作台</strong><span>一站式短剧创作工作台，性能与 UI 持续进化</span></div>
+                </a><a class="related-card" href="/p/atlasos/">
+                <img src="/images/products/atlasos-3.png" alt="" loading="lazy" />
+                <div><strong>AtlasOS</strong><span>无限画布开发工作台</span></div>
+                </a><a class="related-card" href="/p/小爱-codex/">
+                <img src="/images/products/小爱-codex.svg" alt="" loading="lazy" />
+                <div><strong>小爱 + Codex</strong><span>小爱音箱连接 Codex，语音推进项目 / 点外卖流程</span></div>
+                </a></div></section>
+    </main>
+    <footer class="footer">
+      <p>向阳乔木 · <a href="https://www.qiaomu.ai/">qiaomu.ai</a> · <a href="https://x.com/vista8">@vista8</a></p>
+      <p class="small">开源 MIT · 内容来自社区自荐，非官方测评</p>
+    </footer>
+  </div>
+  <script>
+    document.getElementById('themeToggle')?.addEventListener('click', () => {
+      const cur = document.documentElement.dataset.theme;
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const nowDark = cur ? cur === 'dark' : prefersDark;
+      const next = nowDark ? 'light' : 'dark';
+      document.documentElement.dataset.theme = next;
+      try { localStorage.setItem('theme', next); } catch {}
+    });
+  </script>
+</body>
+</html>
