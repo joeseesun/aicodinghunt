@@ -3,21 +3,1045 @@
   "title_zh": "乔木 AI 工具猎场",
   "source_post": "https://x.com/vista8/status/2115318655525523714",
   "source_author": "@vista8",
-  "updated_at": "2026-10-30T09:51:51.002852+08:00",
-  "updated_at_label": "2026-10-30 09:51 Asia/Shanghai",
-  "reply_count_reported": 115,
-  "posts_fetched": 161,
-  "product_count": 78,
+  "updated_at": "2026-11-02T10:14:54.934456+08:00",
+  "updated_at_label": "2026-11-02 10:14 Asia/Shanghai",
+  "reply_count_reported": 129,
+  "posts_fetched": 189,
+  "product_count": 98,
   "categories": {
-    "education": 4,
-    "desktop": 11,
-    "plugin": 11,
-    "other": 30,
+    "desktop": 15,
+    "other": 41,
+    "plugin": 15,
+    "education": 5,
     "coding agent": 16,
     "cli": 4,
     "memory": 2
   },
   "products": [
+    {
+      "id": "b8f1f94988",
+      "name": "PastePlus",
+      "slug": "pasteplus",
+      "summary": "macOS 原生免费剪贴板：历史/收藏/截图 OCR/录屏/主题",
+      "detail": "MacOS原生、免费的剪贴板工具  &lt;5mb\n\n剪贴板历史，可收藏，可转待办，可生成二维码\n截图，支持标注、贴图、OCR、翻译、自动吸附框选元素\n录屏（mp4、gif），支持mp4导出时自动运镜\n主题，六款主题可选，复刻了前一阵很火的晾衣架风格",
+      "category": "desktop",
+      "url": "https://akang.store/apps/pasteplus/",
+      "repo_url": null,
+      "recommenders": [
+        "jinx0629"
+      ],
+      "source_reply_urls": [
+        "https://x.com/jinx0629/status/2116720575599304954"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/jinx0629/status/2116720575599304954",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 4,
+          "created_at": "2026-11-01T02:34:46.000Z"
+        }
+      ],
+      "image": "/images/products/pasteplus.png",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "桌面应用"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 4,
+      "like_count": 0,
+      "impression_count": 4,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "jinx0629": "/images/avatars/jinx0629.jpg"
+      },
+      "listed_at": "2026-11-01T02:34:46.000Z",
+      "listed_at_label": "2026-11-01 10:34 Asia/Shanghai",
+      "listed_at_day": "2026-11-01",
+      "who_for": null,
+      "capabilities": [
+        "macOS 原生免费剪贴板：历史/收藏/截图 OCR/录屏/主题"
+      ],
+      "summary_full": "macOS 原生免费剪贴板：历史/收藏/截图 OCR/录屏/主题"
+    },
+    {
+      "id": "87eace6943",
+      "name": "filedev 复盘迭代工具",
+      "slug": "filedev-复盘迭代工具",
+      "summary": "产品复盘迭代工具",
+      "detail": "还有一个项目（产品）复盘迭代工具",
+      "category": "other",
+      "url": "https://filedev.dev/",
+      "repo_url": null,
+      "recommenders": [
+        "yscai101"
+      ],
+      "source_reply_urls": [
+        "https://x.com/yscai101/status/2116224527411921267"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/yscai101/status/2116224527411921267",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 15,
+          "created_at": "2026-10-30T17:43:39.000Z"
+        }
+      ],
+      "image": "/images/products/filedev-复盘迭代工具.png",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 15,
+      "like_count": 0,
+      "impression_count": 15,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "yscai101": "/images/avatars/yscai101.jpg"
+      },
+      "listed_at": "2026-10-30T17:43:39.000Z",
+      "listed_at_label": "2026-10-31 01:43 Asia/Shanghai",
+      "listed_at_day": "2026-10-31",
+      "who_for": null,
+      "capabilities": [
+        "产品复盘迭代工具"
+      ],
+      "summary_full": "产品复盘迭代工具"
+    },
+    {
+      "id": "1c28be27e5",
+      "name": "留痕 · AI 日记",
+      "slug": "留痕-ai-日记",
+      "summary": "类剪存 Chrome 插件，AI 日记",
+      "detail": "先分享一个类剪存插件吧，",
+      "category": "plugin",
+      "url": "https://chromewebstore.google.com/detail/%e7%95%99%e7%97%95-%c2%b7-ai-%e6%97%a5%e8%ae%b0/hbhhlinpobccpfbgpkfkgefacmnmldgd",
+      "repo_url": null,
+      "recommenders": [
+        "yscai101"
+      ],
+      "source_reply_urls": [
+        "https://x.com/yscai101/status/2116224202957262850"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/yscai101/status/2116224202957262850",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 16,
+          "created_at": "2026-10-30T17:42:22.000Z"
+        }
+      ],
+      "image": "/images/products/留痕-ai-日记.jpg",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "插件 / Skill"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 16,
+      "like_count": 0,
+      "impression_count": 16,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "yscai101": "/images/avatars/yscai101.jpg"
+      },
+      "listed_at": "2026-10-30T17:42:22.000Z",
+      "listed_at_label": "2026-10-31 01:42 Asia/Shanghai",
+      "listed_at_day": "2026-10-31",
+      "who_for": null,
+      "capabilities": [
+        "类剪存 Chrome 插件，AI 日记"
+      ],
+      "summary_full": "类剪存 Chrome 插件，AI 日记"
+    },
+    {
+      "id": "69c55197ca",
+      "name": "昼星",
+      "slug": "昼星",
+      "summary": "昼星个人网站 / AI 内容主页",
+      "detail": "我自己的个人网站",
+      "category": "other",
+      "url": "https://zhouxingai.com/",
+      "repo_url": null,
+      "recommenders": [
+        "zhouxingai"
+      ],
+      "source_reply_urls": [
+        "https://x.com/zhouxingai/status/2116190240906088583"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/zhouxingai/status/2116190240906088583",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 6,
+          "created_at": "2026-10-30T15:27:25.000Z"
+        }
+      ],
+      "image": "/images/products/昼星.webp",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 6,
+      "like_count": 0,
+      "impression_count": 6,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "zhouxingai": "/images/avatars/zhouxingai.jpg"
+      },
+      "listed_at": "2026-10-30T15:27:25.000Z",
+      "listed_at_label": "2026-10-30 23:27 Asia/Shanghai",
+      "listed_at_day": "2026-10-30",
+      "who_for": null,
+      "capabilities": [
+        "昼星个人网站 / AI 内容主页"
+      ],
+      "summary_full": "昼星个人网站 / AI 内容主页"
+    },
+    {
+      "id": "1d913cc605",
+      "name": "Lexi",
+      "slug": "lexi",
+      "summary": "PopClip + 剪贴板 + Note + AI 快捷工具 + 启动器",
+      "detail": "一开始只想做个英语翻译生词本。后来扩展成popclip+粘贴板+Note+AI 快捷工具+右键增强+启动器。每个功能都做的很简单，自己用着顺手",
+      "category": "desktop",
+      "url": "https://github.com/seascheng/lexi",
+      "repo_url": "https://github.com/seascheng/lexi",
+      "recommenders": [
+        "SeacCheng"
+      ],
+      "source_reply_urls": [
+        "https://x.com/SeacCheng/status/2116154176770335072"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/SeacCheng/status/2116154176770335072",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 31,
+          "created_at": "2026-10-30T13:04:06.000Z"
+        }
+      ],
+      "image": "/images/products/lexi.png",
+      "gallery": [
+        "/images/products/lexi-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "桌面应用"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 31,
+      "like_count": 0,
+      "impression_count": 31,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "SeacCheng": "/images/avatars/SeacCheng.jpg"
+      },
+      "listed_at": "2026-10-30T13:04:06.000Z",
+      "listed_at_label": "2026-10-30 21:04 Asia/Shanghai",
+      "listed_at_day": "2026-10-30",
+      "who_for": null,
+      "capabilities": [
+        "PopClip + 剪贴板 + Note + AI 快捷工具 + 启动器"
+      ],
+      "summary_full": "PopClip + 剪贴板 + Note + AI 快捷工具 + 启动器"
+    },
+    {
+      "id": "c1798dc781",
+      "name": "AI 活动追踪",
+      "slug": "ai-活动追踪",
+      "summary": "每日 LLM 筛选 AI/科技活动并整理进日历，免费",
+      "detail": "自荐一个独立开发的国内AI活动追踪工具：\n\n每日会用LLM筛选和AI&amp;科技相关的活动，从原文里整理出时间、地点、嘉宾和日程排进日历，已收纳400+场AI活动，完全免费！\n\n核心能力：\n· 城市、类型、时间筛选\n· 关键词搜索\n· 活动详情展示\n· 收藏+日历导入\n· 订阅每日简报",
+      "category": "other",
+      "url": "https://antonailog.com/more/ai-events/",
+      "repo_url": null,
+      "recommenders": [
+        "antonailog"
+      ],
+      "source_reply_urls": [
+        "https://x.com/antonailog/status/2116084717565116872"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/antonailog/status/2116084717565116872",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 3,
+          "created_at": "2026-10-30T08:28:06.000Z"
+        }
+      ],
+      "image": "/images/products/ai-活动追踪.jpg",
+      "gallery": [
+        "/images/products/ai-活动追踪-2.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 3,
+      "like_count": 0,
+      "impression_count": 3,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "antonailog": "/images/avatars/antonailog.jpg"
+      },
+      "listed_at": "2026-10-30T08:28:06.000Z",
+      "listed_at_label": "2026-10-30 16:28 Asia/Shanghai",
+      "listed_at_day": "2026-10-30",
+      "who_for": null,
+      "capabilities": [
+        "每日 LLM 筛选 AI/科技活动并整理进日历，免费"
+      ],
+      "summary_full": "每日 LLM 筛选 AI/科技活动并整理进日历，免费"
+    },
+    {
+      "id": "787fa7c6bc",
+      "name": "Atlasnote Pro",
+      "slug": "atlasnote-pro",
+      "summary": "本地知识库 + AI 工作台（Apple Silicon Mac）",
+      "detail": "自荐一下我独立开发的 Atlasnote Pro，一个本地知识库 + AI 工作台。\n\n把文档、网页、音视频收进知识库，让 AI 结合自己的资料做研究、写文章、处理文件，让收藏的知识真正用起来。\n\n资料本地保存，自选模型，也支持 Skills 和定时任务。目前支持 Apple Silicon Mac。",
+      "category": "desktop",
+      "url": "https://atlasnote.ai/en",
+      "repo_url": null,
+      "recommenders": [
+        "Tao100086"
+      ],
+      "source_reply_urls": [
+        "https://x.com/Tao100086/status/2116082980410298793"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/Tao100086/status/2116082980410298793",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 132,
+          "created_at": "2026-10-30T08:21:12.000Z"
+        }
+      ],
+      "image": "/images/products/atlasnote-pro.jpg",
+      "gallery": null,
+      "image_note": null,
+      "tags": [
+        "桌面应用"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 132,
+      "like_count": 0,
+      "impression_count": 132,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "Tao100086": "/images/avatars/Tao100086.jpg"
+      },
+      "listed_at": "2026-10-30T08:21:12.000Z",
+      "listed_at_label": "2026-10-30 16:21 Asia/Shanghai",
+      "listed_at_day": "2026-10-30",
+      "who_for": null,
+      "capabilities": [
+        "本地知识库 + AI 工作台（Apple Silicon Mac）"
+      ],
+      "summary_full": "本地知识库 + AI 工作台（Apple Silicon Mac）"
+    },
+    {
+      "id": "8806a9111e",
+      "name": "Lumno",
+      "slug": "lumno",
+      "summary": "Lumno is an open-source browser command bar for tabs, bookmarks, history, and site search, plus a minimalist new tab for",
+      "detail": "来了！",
+      "category": "other",
+      "url": "https://lumno.kubai.design/en/",
+      "repo_url": null,
+      "recommenders": [
+        "Kubai087"
+      ],
+      "source_reply_urls": [
+        "https://x.com/Kubai087/status/2116022454900687156"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/Kubai087/status/2116022454900687156",
+          "likes": 1,
+          "bookmarks": 0,
+          "impressions": 146,
+          "created_at": "2026-10-30T04:20:41.000Z"
+        }
+      ],
+      "image": "/images/products/lumno.png",
+      "gallery": [
+        "/images/products/lumno-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 1,
+      "bookmarks": 0,
+      "impressions": 146,
+      "like_count": 1,
+      "impression_count": 146,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "Kubai087": "/images/avatars/Kubai087.jpg"
+      },
+      "listed_at": "2026-10-30T04:20:41.000Z",
+      "listed_at_label": "2026-10-30 12:20 Asia/Shanghai",
+      "listed_at_day": "2026-10-30",
+      "who_for": null,
+      "capabilities": [
+        "社区自荐的 Lumno 产品"
+      ],
+      "summary_full": "Lumno is an open-source browser command bar for tabs, bookmarks, history, and site search, plus a minimalist new tab for"
+    },
+    {
+      "id": "ed7b054c46",
+      "name": "宇宙尺度缩放站",
+      "slug": "宇宙尺度缩放站",
+      "summary": "宇宙最小到最大尺度无极缩放网站",
+      "detail": "。终于把 “宇宙最小到最大尺度” 无极缩放网站给做出来了。 用 Opus 5.5 和 GPT 交错着修改网页。",
+      "category": "other",
+      "url": "https://scale.rockeymen.xyz/",
+      "repo_url": null,
+      "recommenders": [
+        "rockeymen"
+      ],
+      "source_reply_urls": [
+        "https://x.com/rockeymen/status/2116008299065975175"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/rockeymen/status/2116008299065975175",
+          "likes": 1,
+          "bookmarks": 0,
+          "impressions": 69,
+          "created_at": "2026-10-30T03:24:26.000Z"
+        }
+      ],
+      "image": "/images/products/宇宙尺度缩放站.png",
+      "gallery": [
+        "/images/products/宇宙尺度缩放站-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 1,
+      "bookmarks": 0,
+      "impressions": 69,
+      "like_count": 1,
+      "impression_count": 69,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "rockeymen": "/images/avatars/rockeymen.jpg"
+      },
+      "listed_at": "2026-10-30T03:24:26.000Z",
+      "listed_at_label": "2026-10-30 11:24 Asia/Shanghai",
+      "listed_at_day": "2026-10-30",
+      "who_for": null,
+      "capabilities": [
+        "宇宙最小到最大尺度无极缩放网站"
+      ],
+      "summary_full": "宇宙最小到最大尺度无极缩放网站"
+    },
+    {
+      "id": "c8d02d6482",
+      "name": "财经科技日报",
+      "slug": "财经科技日报",
+      "summary": "财经科技日报",
+      "detail": "撸了一个财经科技日报",
+      "category": "other",
+      "url": "https://news.chaoshen.io/",
+      "repo_url": null,
+      "recommenders": [
+        "chaoshentouzi"
+      ],
+      "source_reply_urls": [
+        "https://x.com/chaoshentouzi/status/2116004688529354808"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/chaoshentouzi/status/2116004688529354808",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 1,
+          "created_at": "2026-10-30T03:10:05.000Z"
+        }
+      ],
+      "image": "/images/products/财经科技日报.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 1,
+      "like_count": 0,
+      "impression_count": 1,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "chaoshentouzi": "/images/avatars/chaoshentouzi.jpg"
+      },
+      "listed_at": "2026-10-30T03:10:05.000Z",
+      "listed_at_label": "2026-10-30 11:10 Asia/Shanghai",
+      "listed_at_day": "2026-10-30",
+      "who_for": null,
+      "capabilities": [
+        "财经科技日报"
+      ],
+      "summary_full": "财经科技日报"
+    },
+    {
+      "id": "fa83c42dfb",
+      "name": "yovoice",
+      "slug": "yovoice",
+      "summary": "开源跨平台声音与音乐创作工作台，支持多模型语音/音乐/音效",
+      "detail": "yovoice 是一款适用于 macOS、Windows 和 Linux 的开源声音与音乐创作工作台。\n大佬之前帮忙推荐过，最近根据大家的反馈又做了很多更新，加入了更多的模型支持，除了语音生成还有音乐/音效生成，同做了性能优化。",
+      "category": "desktop",
+      "url": "https://github.com/leemysw/yovoice",
+      "repo_url": "https://github.com/leemysw/yovoice",
+      "recommenders": [
+        "leemysw"
+      ],
+      "source_reply_urls": [
+        "https://x.com/leemysw/status/2115997079592132841"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/leemysw/status/2115997079592132841",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 48,
+          "created_at": "2026-10-30T02:39:51.000Z"
+        }
+      ],
+      "image": "/images/products/yovoice.png",
+      "gallery": [
+        "/images/products/yovoice-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "桌面应用"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 48,
+      "like_count": 0,
+      "impression_count": 48,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "leemysw": "/images/avatars/leemysw.jpg"
+      },
+      "listed_at": "2026-10-30T02:39:51.000Z",
+      "listed_at_label": "2026-10-30 10:39 Asia/Shanghai",
+      "listed_at_day": "2026-10-30",
+      "who_for": null,
+      "capabilities": [
+        "开源跨平台声音与音乐创作工作台，支持多模型语音/音乐/音效"
+      ],
+      "summary_full": "开源跨平台声音与音乐创作工作台，支持多模型语音/音乐/音效"
+    },
+    {
+      "id": "d46382b692",
+      "name": "ChillListen",
+      "slug": "chilllisten",
+      "summary": "沉浸式英语自习空间，与全球创作者的真实内容同步学习。",
+      "detail": "大佬看看我的",
+      "category": "other",
+      "url": "https://www.chilllisten.com",
+      "repo_url": null,
+      "recommenders": [
+        "vince_gotomoon"
+      ],
+      "source_reply_urls": [
+        "https://x.com/vince_gotomoon/status/2115383352522166717"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/vince_gotomoon/status/2115383352522166717",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 118,
+          "created_at": "2026-10-28T10:01:07.000Z"
+        }
+      ],
+      "image": "/images/products/chilllisten.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 118,
+      "like_count": 0,
+      "impression_count": 118,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "vince_gotomoon": "/images/avatars/vince_gotomoon.jpg"
+      },
+      "listed_at": "2026-10-28T10:01:07.000Z",
+      "listed_at_label": "2026-10-28 18:01 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": null,
+      "capabilities": [
+        "社区自荐 ChillListen"
+      ],
+      "summary_full": "沉浸式英语自习空间，与全球创作者的真实内容同步学习。"
+    },
+    {
+      "id": "310848ecdf",
+      "name": "AI 风格手册",
+      "slug": "ai-风格手册",
+      "summary": "帮你把脑海风格翻译成更精准的 AI 提示",
+      "detail": "我的比较简单，脑海有一种想要的风格，不知道怎么跟AI说。或者说的是一个大类，想AI生成更加准确一点。\n\n那么你就需要 AI 风格手册",
+      "category": "other",
+      "url": "https://aistylebook.com",
+      "repo_url": null,
+      "recommenders": [
+        "An_zuoan"
+      ],
+      "source_reply_urls": [
+        "https://x.com/An_zuoan/status/2115382113902203386"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/An_zuoan/status/2115382113902203386",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 18,
+          "created_at": "2026-10-28T09:56:12.000Z"
+        }
+      ],
+      "image": "/images/products/ai-风格手册.jpg",
+      "gallery": [
+        "/images/products/ai-风格手册-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 18,
+      "like_count": 0,
+      "impression_count": 18,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "An_zuoan": "/images/avatars/An_zuoan.jpg"
+      },
+      "listed_at": "2026-10-28T09:56:12.000Z",
+      "listed_at_label": "2026-10-28 17:56 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": null,
+      "capabilities": [
+        "帮你把脑海风格翻译成更精准的 AI 提示"
+      ],
+      "summary_full": "帮你把脑海风格翻译成更精准的 AI 提示"
+    },
+    {
+      "id": "e3669c1766",
+      "name": "MyDebt",
+      "slug": "mydebt",
+      "summary": "债务/网贷管理与一句话记账工具",
+      "detail": "哈哈，一开始是为了管理信用卡而code的工具，后来给身边这几年创业失败的朋友使用，管理零散的网贷与债务。\n用着用着，我还在里面搞了个财务记账的系统，一句话把你每天的各个流水、收支都记下。\n好吧，功能越来越多了，感觉要拆开了。",
+      "category": "other",
+      "url": "https://mydebt.pro/",
+      "repo_url": null,
+      "recommenders": [
+        "waterxig"
+      ],
+      "source_reply_urls": [
+        "https://x.com/waterxig/status/2115354022228172883"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/waterxig/status/2115354022228172883",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 14,
+          "created_at": "2026-10-28T08:04:34.000Z"
+        }
+      ],
+      "image": "/images/products/mydebt.jpg",
+      "gallery": [
+        "/images/products/mydebt-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 14,
+      "like_count": 0,
+      "impression_count": 14,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "waterxig": "/images/avatars/waterxig.jpg"
+      },
+      "listed_at": "2026-10-28T08:04:34.000Z",
+      "listed_at_label": "2026-10-28 16:04 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": null,
+      "capabilities": [
+        "债务/网贷管理与一句话记账工具"
+      ],
+      "summary_full": "债务/网贷管理与一句话记账工具"
+    },
+    {
+      "id": "bb0010516f",
+      "name": "Pingti",
+      "slug": "pingti",
+      "summary": "平替指南收录经过筛选的免费与开源软件、网站和工具替代方案，覆盖隐私、人工智能、影音、下载、开发与移动应用，并持续核验更新。",
+      "detail": "新上的网站，欢迎开源项目提交",
+      "category": "other",
+      "url": "https://pingti.org",
+      "repo_url": null,
+      "recommenders": [
+        "ervintrust"
+      ],
+      "source_reply_urls": [
+        "https://x.com/ervintrust/status/2115353153877205050"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/ervintrust/status/2115353153877205050",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 64,
+          "created_at": "2026-10-28T08:01:07.000Z"
+        }
+      ],
+      "image": "/images/products/pingti.png",
+      "gallery": [
+        "/images/products/pingti-2.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 64,
+      "like_count": 0,
+      "impression_count": 64,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "ervintrust": "/images/avatars/ervintrust.jpg"
+      },
+      "listed_at": "2026-10-28T08:01:07.000Z",
+      "listed_at_label": "2026-10-28 16:01 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": null,
+      "capabilities": [
+        "开源项目提交与展示站点"
+      ],
+      "summary_full": "平替指南收录经过筛选的免费与开源软件、网站和工具替代方案，覆盖隐私、人工智能、影音、下载、开发与移动应用，并持续核验更新。"
+    },
+    {
+      "id": "2127ec06cf",
+      "name": "NanoAsk 诗歌学习",
+      "slug": "nanoask-诗歌学习",
+      "summary": "跟着诗人游山河，在地图和历史长卷里遇见127首诗。",
+      "detail": "自荐下，帮助孩子背诵理解诗歌：",
+      "category": "education",
+      "url": "https://learn.nanoask.com/",
+      "repo_url": null,
+      "recommenders": [
+        "AIBrewClub"
+      ],
+      "source_reply_urls": [
+        "https://x.com/AIBrewClub/status/2115348691167150345"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/AIBrewClub/status/2115348691167150345",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 13,
+          "created_at": "2026-10-28T07:43:23.000Z"
+        }
+      ],
+      "image": "/images/products/nanoask-诗歌学习.svg",
+      "gallery": null,
+      "image_note": "未能抓取到官网/仓库封面，已使用占位图。",
+      "tags": [
+        "教育"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 13,
+      "like_count": 0,
+      "impression_count": 13,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "AIBrewClub": "/images/avatars/AIBrewClub.jpg"
+      },
+      "listed_at": "2026-10-28T07:43:23.000Z",
+      "listed_at_label": "2026-10-28 15:43 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": null,
+      "capabilities": [
+        "帮助孩子背诵理解诗歌"
+      ],
+      "summary_full": "跟着诗人游山河，在地图和历史长卷里遇见127首诗。"
+    },
+    {
+      "id": "79780c2b15",
+      "name": "Digital Garden",
+      "slug": "digital-garden",
+      "summary": "免费数字花园，提醒休息的放松空间",
+      "detail": "分享一下我做的数字花园。欢迎各位来逛逛。就是免费的，让人放松的公园，用来提醒我要记得休息。",
+      "category": "other",
+      "url": "https://digitalgarden.si/",
+      "repo_url": null,
+      "recommenders": [
+        "Connorclaw"
+      ],
+      "source_reply_urls": [
+        "https://x.com/Connorclaw/status/2115348377500319793"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/Connorclaw/status/2115348377500319793",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 68,
+          "created_at": "2026-10-28T07:42:09.000Z"
+        }
+      ],
+      "image": "/images/products/digital-garden.jpg",
+      "gallery": [
+        "/images/products/digital-garden-2.jpg"
+      ],
+      "image_note": null,
+      "tags": [
+        "其他"
+      ],
+      "pricing": null,
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 68,
+      "like_count": 0,
+      "impression_count": 68,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "Connorclaw": "/images/avatars/Connorclaw.jpg"
+      },
+      "listed_at": "2026-10-28T07:42:09.000Z",
+      "listed_at_label": "2026-10-28 15:42 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": null,
+      "capabilities": [
+        "免费数字花园，提醒休息的放松空间"
+      ],
+      "summary_full": "免费数字花园，提醒休息的放松空间"
+    },
+    {
+      "id": "909d98feb4",
+      "name": "DSH Session Palette",
+      "slug": "dsh-session-palette",
+      "summary": "DSH 插件：Cmd+K 浮窗会话列表，搜索与打标签",
+      "detail": "DSH 插件 session cmd+K 浮窗会话列表，搜索，打标签，类似 vs-code  这个我最推荐",
+      "category": "plugin",
+      "url": "https://github.com/kjx-talesofai/dsh-plugin-session-palette",
+      "repo_url": "https://github.com/kjx-talesofai/dsh-plugin-session-palette",
+      "recommenders": [
+        "kouhualin"
+      ],
+      "source_reply_urls": [
+        "https://x.com/kouhualin/status/2115321907134464419"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/kouhualin/status/2115321907134464419",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 42,
+          "created_at": "2026-10-28T05:56:58.000Z"
+        }
+      ],
+      "image": "/images/products/dsh-session-palette.png",
+      "gallery": [
+        "/images/products/dsh-session-palette-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "插件 / Skill"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 42,
+      "like_count": 0,
+      "impression_count": 42,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "kouhualin": "/images/avatars/kouhualin.jpg"
+      },
+      "listed_at": "2026-10-28T05:56:58.000Z",
+      "listed_at_label": "2026-10-28 13:56 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": null,
+      "capabilities": [
+        "DSH 插件：Cmd+K 浮窗会话列表，搜索与打标签"
+      ],
+      "summary_full": "DSH 插件：Cmd+K 浮窗会话列表，搜索与打标签"
+    },
+    {
+      "id": "78b89dc775",
+      "name": "Pele",
+      "slug": "pele",
+      "summary": "Obsidian CEO 出品的 Mermaid 渲染库，更快且支持样式/响应式",
+      "detail": "实用工具，可以看看这个库 \n\nObsidian CEO 刚弄的，也支持 mermaid 渲染，速度更快，而且支持样式设置，响应式布局。\n\n感觉可以融合进去。",
+      "category": "plugin",
+      "url": "https://github.com/obsidianmd/pele",
+      "repo_url": "https://github.com/obsidianmd/pele",
+      "recommenders": [
+        "vista8"
+      ],
+      "source_reply_urls": [
+        "https://x.com/vista8/status/2115321901216325810"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/vista8/status/2115321901216325810",
+          "likes": 4,
+          "bookmarks": 12,
+          "impressions": 1323,
+          "created_at": "2026-10-28T05:56:56.000Z"
+        }
+      ],
+      "image": "/images/products/pele.png",
+      "gallery": [
+        "/images/products/pele-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "插件 / Skill"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
+      "likes": 4,
+      "bookmarks": 12,
+      "impressions": 1323,
+      "like_count": 4,
+      "impression_count": 1323,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "vista8": "/images/avatars/vista8.jpg"
+      },
+      "listed_at": "2026-10-28T05:56:56.000Z",
+      "listed_at_label": "2026-10-28 13:56 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": null,
+      "capabilities": [
+        "Obsidian CEO 出品的 Mermaid 渲染库，更快且支持样式/响应式"
+      ],
+      "summary_full": "Obsidian CEO 出品的 Mermaid 渲染库，更快且支持样式/响应式"
+    },
+    {
+      "id": "8920370b7b",
+      "name": "DSH Message Model Badge",
+      "slug": "dsh-message-model-badge",
+      "summary": "DSH 插件：会话 turn 结束显示 provider/model 标识",
+      "detail": "DSH 插件 会话 turn 结束显示使用的 provider/model 标识",
+      "category": "plugin",
+      "url": "https://github.com/kjx-talesofai/dsh-plugin-message-model-badge",
+      "repo_url": "https://github.com/kjx-talesofai/dsh-plugin-message-model-badge",
+      "recommenders": [
+        "kouhualin"
+      ],
+      "source_reply_urls": [
+        "https://x.com/kouhualin/status/2115321563402904053"
+      ],
+      "replies": [
+        {
+          "url": "https://x.com/kouhualin/status/2115321563402904053",
+          "likes": 0,
+          "bookmarks": 0,
+          "impressions": 50,
+          "created_at": "2026-10-28T05:55:36.000Z"
+        }
+      ],
+      "image": "/images/products/dsh-message-model-badge.png",
+      "gallery": [
+        "/images/products/dsh-message-model-badge-1.png"
+      ],
+      "image_note": null,
+      "tags": [
+        "插件 / Skill"
+      ],
+      "pricing": "免费 / 开源倾向",
+      "stars": null,
+      "likes": 0,
+      "bookmarks": 0,
+      "impressions": 50,
+      "like_count": 0,
+      "impression_count": 50,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
+      "avatars": {
+        "kouhualin": "/images/avatars/kouhualin.jpg"
+      },
+      "listed_at": "2026-10-28T05:55:36.000Z",
+      "listed_at_label": "2026-10-28 13:55 Asia/Shanghai",
+      "listed_at_day": "2026-10-28",
+      "who_for": null,
+      "capabilities": [
+        "DSH 插件：会话 turn 结束显示 provider/model 标识"
+      ],
+      "summary_full": "DSH 插件：会话 turn 结束显示 provider/model 标识"
+    },
     {
       "id": "a31873f1cd",
       "name": "通江 Lab 3D 互动课程",
@@ -36,9 +1060,9 @@
       "replies": [
         {
           "url": "https://x.com/CopperForgeAI/status/2115319997832839246",
-          "likes": 18,
-          "bookmarks": 30,
-          "impressions": 1673,
+          "likes": 19,
+          "bookmarks": 31,
+          "impressions": 2056,
           "created_at": "2026-10-28T05:49:22.000Z"
         }
       ],
@@ -58,12 +1082,12 @@
       ],
       "pricing": "免费 / 开源倾向",
       "stars": 950,
-      "likes": 18,
-      "bookmarks": 30,
-      "impressions": 1673,
-      "like_count": 18,
-      "impression_count": 1673,
-      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "likes": 19,
+      "bookmarks": 31,
+      "impressions": 2056,
+      "like_count": 19,
+      "impression_count": 2056,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "CopperForgeAI": "/images/avatars/CopperForgeAI.jpg"
       },
@@ -100,8 +1124,8 @@
         {
           "url": "https://x.com/LufzzLiz/status/2115322758729216364",
           "likes": 10,
-          "bookmarks": 15,
-          "impressions": 866,
+          "bookmarks": 16,
+          "impressions": 1094,
           "created_at": "2026-10-28T06:00:21.000Z"
         }
       ],
@@ -116,11 +1140,11 @@
       "pricing": "免费 / 开源倾向",
       "stars": null,
       "likes": 10,
-      "bookmarks": 15,
-      "impressions": 866,
+      "bookmarks": 16,
+      "impressions": 1094,
       "like_count": 10,
-      "impression_count": 866,
-      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "impression_count": 1094,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "LufzzLiz": "/images/avatars/LufzzLiz.jpg"
       },
@@ -155,8 +1179,8 @@
         {
           "url": "https://x.com/cgnot996/status/2115320074383053047",
           "likes": 13,
-          "bookmarks": 12,
-          "impressions": 1517,
+          "bookmarks": 15,
+          "impressions": 1810,
           "created_at": "2026-10-28T05:49:41.000Z"
         }
       ],
@@ -171,11 +1195,11 @@
       "pricing": "免费 / 开源倾向",
       "stars": null,
       "likes": 13,
-      "bookmarks": 12,
-      "impressions": 1517,
+      "bookmarks": 15,
+      "impressions": 1810,
       "like_count": 13,
-      "impression_count": 1517,
-      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "impression_count": 1810,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "cgnot996": "/images/avatars/cgnot996.jpg"
       },
@@ -210,8 +1234,8 @@
         {
           "url": "https://x.com/berryxia/status/2115327779327844430",
           "likes": 4,
-          "bookmarks": 12,
-          "impressions": 987,
+          "bookmarks": 14,
+          "impressions": 1145,
           "created_at": "2026-10-28T06:20:18.000Z"
         }
       ],
@@ -227,11 +1251,11 @@
       "pricing": "免费 / 开源倾向",
       "stars": 1472,
       "likes": 4,
-      "bookmarks": 12,
-      "impressions": 987,
+      "bookmarks": 14,
+      "impressions": 1145,
       "like_count": 4,
-      "impression_count": 987,
-      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "impression_count": 1145,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "berryxia": "/images/avatars/berryxia.jpg"
       },
@@ -264,8 +1288,8 @@
         {
           "url": "https://x.com/vista8/status/2115319209437872246",
           "likes": 11,
-          "bookmarks": 7,
-          "impressions": 3762,
+          "bookmarks": 8,
+          "impressions": 4413,
           "created_at": "2026-10-28T05:46:14.000Z"
         }
       ],
@@ -278,11 +1302,11 @@
       "pricing": "免费 / 开源倾向",
       "stars": null,
       "likes": 11,
-      "bookmarks": 7,
-      "impressions": 3762,
+      "bookmarks": 8,
+      "impressions": 4413,
       "like_count": 11,
-      "impression_count": 3762,
-      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "impression_count": 4413,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "vista8": "/images/avatars/vista8.jpg"
       },
@@ -314,9 +1338,9 @@
       "replies": [
         {
           "url": "https://x.com/mamba0805/status/2115363392219480155",
-          "likes": 4,
-          "bookmarks": 4,
-          "impressions": 289,
+          "likes": 5,
+          "bookmarks": 3,
+          "impressions": 462,
           "created_at": "2026-10-28T08:41:48.000Z"
         }
       ],
@@ -328,12 +1352,12 @@
       ],
       "pricing": "免费 / 开源倾向",
       "stars": null,
-      "likes": 4,
-      "bookmarks": 4,
-      "impressions": 289,
-      "like_count": 4,
-      "impression_count": 289,
-      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "likes": 5,
+      "bookmarks": 3,
+      "impressions": 462,
+      "like_count": 5,
+      "impression_count": 462,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "mamba0805": "/images/avatars/mamba0805.jpg"
       },
@@ -366,8 +1390,8 @@
         {
           "url": "https://x.com/bbkirstry/status/2115325767462875539",
           "likes": 5,
-          "bookmarks": 3,
-          "impressions": 451,
+          "bookmarks": 2,
+          "impressions": 543,
           "created_at": "2026-10-28T06:12:18.000Z"
         }
       ],
@@ -380,11 +1404,11 @@
       "pricing": null,
       "stars": null,
       "likes": 5,
-      "bookmarks": 3,
-      "impressions": 451,
+      "bookmarks": 2,
+      "impressions": 543,
       "like_count": 5,
-      "impression_count": 451,
-      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "impression_count": 543,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "bbkirstry": "/images/avatars/bbkirstry.jpg"
       },
@@ -415,7 +1439,7 @@
           "url": "https://x.com/maqibin/status/2115449069435002964",
           "likes": 3,
           "bookmarks": 4,
-          "impressions": 312,
+          "impressions": 451,
           "created_at": "2026-10-28T14:22:15.000Z"
         }
       ],
@@ -431,10 +1455,10 @@
       "stars": null,
       "likes": 3,
       "bookmarks": 4,
-      "impressions": 312,
+      "impressions": 451,
       "like_count": 3,
-      "impression_count": 312,
-      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "impression_count": 451,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "maqibin": "/images/avatars/maqibin.png"
       },
@@ -470,7 +1494,7 @@
           "url": "https://x.com/kkkeric_ai/status/2115441448367898834",
           "likes": 0,
           "bookmarks": 5,
-          "impressions": 96,
+          "impressions": 124,
           "created_at": "2026-10-28T13:51:58.000Z"
         }
       ],
@@ -490,10 +1514,10 @@
       "stars": 278,
       "likes": 0,
       "bookmarks": 5,
-      "impressions": 96,
+      "impressions": 124,
       "like_count": 0,
-      "impression_count": 96,
-      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "impression_count": 124,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "kkkeric_ai": "/images/avatars/kkkeric_ai.jpg"
       },
@@ -531,7 +1555,7 @@
           "url": "https://x.com/AgentWangCN/status/2115430989971530180",
           "likes": 2,
           "bookmarks": 4,
-          "impressions": 316,
+          "impressions": 423,
           "created_at": "2026-10-28T13:10:25.000Z"
         }
       ],
@@ -551,10 +1575,10 @@
       "stars": 2,
       "likes": 2,
       "bookmarks": 4,
-      "impressions": 316,
+      "impressions": 423,
       "like_count": 2,
-      "impression_count": 316,
-      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "impression_count": 423,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "AgentWangCN": "/images/avatars/AgentWangCN.jpg"
       },
@@ -590,9 +1614,9 @@
       "replies": [
         {
           "url": "https://x.com/CatCatMuse/status/2115371661658927254",
-          "likes": 1,
-          "bookmarks": 4,
-          "impressions": 256,
+          "likes": 2,
+          "bookmarks": 6,
+          "impressions": 384,
           "created_at": "2026-10-28T09:14:40.000Z"
         }
       ],
@@ -606,12 +1630,12 @@
       ],
       "pricing": "含付费选项（见官网）",
       "stars": 1,
-      "likes": 1,
-      "bookmarks": 4,
-      "impressions": 256,
-      "like_count": 1,
-      "impression_count": 256,
-      "updated": "2026-10-30 09:36 Asia/Shanghai",
+      "likes": 2,
+      "bookmarks": 6,
+      "impressions": 384,
+      "like_count": 2,
+      "impression_count": 384,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "CatCatMuse": "/images/avatars/CatCatMuse.jpg"
       },
@@ -642,9 +1666,9 @@
       "replies": [
         {
           "url": "https://x.com/RookieRicardoR/status/2115321099118682120",
-          "likes": 3,
-          "bookmarks": 3,
-          "impressions": 1086,
+          "likes": 4,
+          "bookmarks": 5,
+          "impressions": 1300,
           "created_at": "2026-10-28T05:53:45.000Z"
         }
       ],
@@ -656,12 +1680,12 @@
       ],
       "pricing": "免费 / 开源倾向",
       "stars": null,
-      "likes": 3,
-      "bookmarks": 3,
-      "impressions": 1086,
-      "like_count": 3,
-      "impression_count": 1086,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "likes": 4,
+      "bookmarks": 5,
+      "impressions": 1300,
+      "like_count": 4,
+      "impression_count": 1300,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "RookieRicardoR": "/images/avatars/RookieRicardoR.jpg"
       },
@@ -694,7 +1718,7 @@
           "url": "https://x.com/victor_cheng_42/status/2115323803685585120",
           "likes": 2,
           "bookmarks": 3,
-          "impressions": 334,
+          "impressions": 382,
           "created_at": "2026-10-28T06:04:30.000Z"
         }
       ],
@@ -708,10 +1732,10 @@
       "stars": null,
       "likes": 2,
       "bookmarks": 3,
-      "impressions": 334,
+      "impressions": 382,
       "like_count": 2,
-      "impression_count": 334,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 382,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "victor_cheng_42": "/images/avatars/victor_cheng_42.jpg"
       },
@@ -744,7 +1768,7 @@
           "url": "https://x.com/Zkm211/status/2115335505399435339",
           "likes": 1,
           "bookmarks": 3,
-          "impressions": 237,
+          "impressions": 300,
           "created_at": "2026-10-28T06:51:00.000Z"
         }
       ],
@@ -758,10 +1782,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 3,
-      "impressions": 237,
+      "impressions": 300,
       "like_count": 1,
-      "impression_count": 237,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 300,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "Zkm211": "/images/avatars/Zkm211.jpg"
       },
@@ -796,7 +1820,7 @@
           "url": "https://x.com/katcat_AI/status/2115354326285832473",
           "likes": 2,
           "bookmarks": 2,
-          "impressions": 451,
+          "impressions": 565,
           "created_at": "2026-10-28T08:05:47.000Z"
         }
       ],
@@ -810,10 +1834,10 @@
       "stars": null,
       "likes": 2,
       "bookmarks": 2,
-      "impressions": 451,
+      "impressions": 565,
       "like_count": 2,
-      "impression_count": 451,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 565,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "katcat_AI": "/images/avatars/katcat_AI.jpg"
       },
@@ -848,7 +1872,7 @@
           "url": "https://x.com/mmlong8/status/2115357752944218381",
           "likes": 1,
           "bookmarks": 2,
-          "impressions": 228,
+          "impressions": 272,
           "created_at": "2026-10-28T08:19:24.000Z"
         }
       ],
@@ -865,10 +1889,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 2,
-      "impressions": 228,
+      "impressions": 272,
       "like_count": 1,
-      "impression_count": 228,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 272,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "mmlong8": "/images/avatars/mmlong8.jpg"
       },
@@ -901,7 +1925,7 @@
           "url": "https://x.com/RainhappyL/status/2115425581139628433",
           "likes": 1,
           "bookmarks": 2,
-          "impressions": 61,
+          "impressions": 78,
           "created_at": "2026-10-28T12:48:55.000Z"
         }
       ],
@@ -918,10 +1942,10 @@
       "stars": 20,
       "likes": 1,
       "bookmarks": 2,
-      "impressions": 61,
+      "impressions": 78,
       "like_count": 1,
-      "impression_count": 61,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 78,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "RainhappyL": "/images/avatars/RainhappyL.jpg"
       },
@@ -954,9 +1978,9 @@
       "replies": [
         {
           "url": "https://x.com/Alex_Wong1995/status/2115425389992693923",
-          "likes": 1,
-          "bookmarks": 2,
-          "impressions": 62,
+          "likes": 2,
+          "bookmarks": 3,
+          "impressions": 86,
           "created_at": "2026-10-28T12:48:10.000Z"
         }
       ],
@@ -968,12 +1992,12 @@
       ],
       "pricing": null,
       "stars": null,
-      "likes": 1,
-      "bookmarks": 2,
-      "impressions": 62,
-      "like_count": 1,
-      "impression_count": 62,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "likes": 2,
+      "bookmarks": 3,
+      "impressions": 86,
+      "like_count": 2,
+      "impression_count": 86,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "Alex_Wong1995": "/images/avatars/Alex_Wong1995.jpg"
       },
@@ -1009,7 +2033,7 @@
           "url": "https://x.com/lokichris2046/status/2115342572994609537",
           "likes": 1,
           "bookmarks": 2,
-          "impressions": 409,
+          "impressions": 505,
           "created_at": "2026-10-28T07:19:05.000Z"
         }
       ],
@@ -1026,10 +2050,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 2,
-      "impressions": 409,
+      "impressions": 505,
       "like_count": 1,
-      "impression_count": 409,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 505,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "lokichris2046": "/images/avatars/lokichris2046.jpg"
       },
@@ -1064,7 +2088,7 @@
           "url": "https://x.com/y3uc1en/status/2115388007406797059",
           "likes": 0,
           "bookmarks": 2,
-          "impressions": 179,
+          "impressions": 233,
           "created_at": "2026-10-28T10:19:37.000Z"
         }
       ],
@@ -1086,10 +2110,10 @@
       "stars": 102,
       "likes": 0,
       "bookmarks": 2,
-      "impressions": 179,
+      "impressions": 233,
       "like_count": 0,
-      "impression_count": 179,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 233,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "y3uc1en": "/images/avatars/y3uc1en.jpg"
       },
@@ -1127,7 +2151,7 @@
           "url": "https://x.com/yangsir_ai/status/2115328575335444824",
           "likes": 0,
           "bookmarks": 2,
-          "impressions": 245,
+          "impressions": 294,
           "created_at": "2026-10-28T06:23:27.000Z"
         }
       ],
@@ -1144,10 +2168,10 @@
       "stars": 576,
       "likes": 0,
       "bookmarks": 2,
-      "impressions": 245,
+      "impressions": 294,
       "like_count": 0,
-      "impression_count": 245,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 294,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "yangsir_ai": "/images/avatars/yangsir_ai.jpg"
       },
@@ -1181,7 +2205,7 @@
           "url": "https://x.com/AgiRay1015/status/2115324363935453601",
           "likes": 2,
           "bookmarks": 1,
-          "impressions": 407,
+          "impressions": 541,
           "created_at": "2026-10-28T06:06:43.000Z"
         }
       ],
@@ -1198,10 +2222,10 @@
       "stars": 13,
       "likes": 2,
       "bookmarks": 1,
-      "impressions": 407,
+      "impressions": 541,
       "like_count": 2,
-      "impression_count": 407,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 541,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "AgiRay1015": "/images/avatars/AgiRay1015.jpg"
       },
@@ -1237,8 +2261,8 @@
         {
           "url": "https://x.com/Noctropy/status/2115490763861794902",
           "likes": 0,
-          "bookmarks": 2,
-          "impressions": 87,
+          "bookmarks": 3,
+          "impressions": 144,
           "created_at": "2026-10-28T17:07:56.000Z"
         }
       ],
@@ -1251,11 +2275,11 @@
       "pricing": null,
       "stars": null,
       "likes": 0,
-      "bookmarks": 2,
-      "impressions": 87,
+      "bookmarks": 3,
+      "impressions": 144,
       "like_count": 0,
-      "impression_count": 87,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 144,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "Noctropy": "/images/avatars/Noctropy.jpg"
       },
@@ -1286,7 +2310,7 @@
           "url": "https://x.com/rya_nooo/status/2115417767973191754",
           "likes": 0,
           "bookmarks": 2,
-          "impressions": 145,
+          "impressions": 197,
           "created_at": "2026-10-28T12:17:53.000Z"
         }
       ],
@@ -1301,10 +2325,10 @@
       "stars": 2,
       "likes": 0,
       "bookmarks": 2,
-      "impressions": 145,
+      "impressions": 197,
       "like_count": 0,
-      "impression_count": 145,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 197,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "rya_nooo": "/images/avatars/rya_nooo.jpg"
       },
@@ -1335,9 +2359,9 @@
       "replies": [
         {
           "url": "https://x.com/looplj2/status/2115354527809548465",
-          "likes": 1,
-          "bookmarks": 1,
-          "impressions": 257,
+          "likes": 2,
+          "bookmarks": 2,
+          "impressions": 365,
           "created_at": "2026-10-28T08:06:35.000Z"
         }
       ],
@@ -1350,12 +2374,12 @@
       ],
       "pricing": "免费 / 开源倾向",
       "stars": 313,
-      "likes": 1,
-      "bookmarks": 1,
-      "impressions": 257,
-      "like_count": 1,
-      "impression_count": 257,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "likes": 2,
+      "bookmarks": 2,
+      "impressions": 365,
+      "like_count": 2,
+      "impression_count": 365,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "looplj2": "/images/avatars/looplj2.jpg"
       },
@@ -1390,7 +2414,7 @@
           "url": "https://x.com/canghe/status/2115450231324312019",
           "likes": 3,
           "bookmarks": 0,
-          "impressions": 599,
+          "impressions": 724,
           "created_at": "2026-10-28T14:26:52.000Z"
         }
       ],
@@ -1404,10 +2428,10 @@
       "stars": null,
       "likes": 3,
       "bookmarks": 0,
-      "impressions": 599,
+      "impressions": 724,
       "like_count": 3,
-      "impression_count": 599,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 724,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "canghe": "/images/avatars/canghe.jpg"
       },
@@ -1440,7 +2464,7 @@
           "url": "https://x.com/jasoninvest7/status/2115344635317076463",
           "likes": 1,
           "bookmarks": 1,
-          "impressions": 240,
+          "impressions": 318,
           "created_at": "2026-10-28T07:27:16.000Z"
         }
       ],
@@ -1454,10 +2478,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 1,
-      "impressions": 240,
+      "impressions": 318,
       "like_count": 1,
-      "impression_count": 240,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 318,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "jasoninvest7": "/images/avatars/jasoninvest7.jpg"
       },
@@ -1490,7 +2514,7 @@
           "url": "https://x.com/Last_Lighter/status/2115360151058440432",
           "likes": 1,
           "bookmarks": 1,
-          "impressions": 324,
+          "impressions": 424,
           "created_at": "2026-10-28T08:28:56.000Z"
         }
       ],
@@ -1504,10 +2528,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 1,
-      "impressions": 324,
+      "impressions": 424,
       "like_count": 1,
-      "impression_count": 324,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 424,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "Last_Lighter": "/images/avatars/Last_Lighter.jpg"
       },
@@ -1538,7 +2562,7 @@
           "url": "https://x.com/kouhualin/status/2115321371828052371",
           "likes": 1,
           "bookmarks": 1,
-          "impressions": 1052,
+          "impressions": 1279,
           "created_at": "2026-10-28T05:54:50.000Z"
         }
       ],
@@ -1558,10 +2582,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 1,
-      "impressions": 1052,
+      "impressions": 1279,
       "like_count": 1,
-      "impression_count": 1052,
-      "updated": "2026-10-30 09:37 Asia/Shanghai",
+      "impression_count": 1279,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "kouhualin": "/images/avatars/kouhualin.jpg"
       },
@@ -1599,7 +2623,7 @@
           "url": "https://x.com/LiaoKong2024/status/2115481964073591206",
           "likes": 1,
           "bookmarks": 1,
-          "impressions": 218,
+          "impressions": 335,
           "created_at": "2026-10-28T16:32:58.000Z"
         }
       ],
@@ -1618,10 +2642,10 @@
       "stars": 12,
       "likes": 1,
       "bookmarks": 1,
-      "impressions": 218,
+      "impressions": 335,
       "like_count": 1,
-      "impression_count": 218,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 335,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "LiaoKong2024": "/images/avatars/LiaoKong2024.jpg"
       },
@@ -1659,7 +2683,7 @@
           "url": "https://x.com/yubei2025/status/2115335600677273822",
           "likes": 0,
           "bookmarks": 1,
-          "impressions": 230,
+          "impressions": 269,
           "created_at": "2026-10-28T06:51:22.000Z"
         }
       ],
@@ -1673,10 +2697,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 1,
-      "impressions": 230,
+      "impressions": 269,
       "like_count": 0,
-      "impression_count": 230,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 269,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "yubei2025": "/images/avatars/yubei2025.jpg"
       },
@@ -1709,7 +2733,7 @@
           "url": "https://x.com/jakeybruce/status/2115336999309811933",
           "likes": 0,
           "bookmarks": 1,
-          "impressions": 247,
+          "impressions": 322,
           "created_at": "2026-10-28T06:56:56.000Z"
         }
       ],
@@ -1723,10 +2747,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 1,
-      "impressions": 247,
+      "impressions": 322,
       "like_count": 0,
-      "impression_count": 247,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 322,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "jakeybruce": "/images/avatars/jakeybruce.jpg"
       },
@@ -1759,7 +2783,7 @@
           "url": "https://x.com/lianthony292788/status/2115356989044015462",
           "likes": 0,
           "bookmarks": 1,
-          "impressions": 192,
+          "impressions": 229,
           "created_at": "2026-10-28T08:16:22.000Z"
         }
       ],
@@ -1775,10 +2799,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 1,
-      "impressions": 192,
+      "impressions": 229,
       "like_count": 0,
-      "impression_count": 192,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 229,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "lianthony292788": "/images/avatars/lianthony292788.jpg"
       },
@@ -1811,7 +2835,7 @@
           "url": "https://x.com/drmrzhong/status/2115437638203449825",
           "likes": 0,
           "bookmarks": 1,
-          "impressions": 182,
+          "impressions": 242,
           "created_at": "2026-10-28T13:36:50.000Z"
         }
       ],
@@ -1825,10 +2849,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 1,
-      "impressions": 182,
+      "impressions": 242,
       "like_count": 0,
-      "impression_count": 182,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 242,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "drmrzhong": "/images/avatars/drmrzhong.jpg"
       },
@@ -1861,7 +2885,7 @@
           "url": "https://x.com/maomao000211/status/2115329125217100256",
           "likes": 0,
           "bookmarks": 1,
-          "impressions": 196,
+          "impressions": 229,
           "created_at": "2026-10-28T06:25:39.000Z"
         }
       ],
@@ -1875,10 +2899,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 1,
-      "impressions": 196,
+      "impressions": 229,
       "like_count": 0,
-      "impression_count": 196,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 229,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "maomao000211": "/images/avatars/maomao000211.jpg"
       },
@@ -1912,7 +2936,7 @@
           "url": "https://x.com/LauLauzhihao/status/2115342276721528933",
           "likes": 0,
           "bookmarks": 1,
-          "impressions": 123,
+          "impressions": 128,
           "created_at": "2026-10-28T07:17:54.000Z"
         }
       ],
@@ -1926,10 +2950,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 1,
-      "impressions": 123,
+      "impressions": 128,
       "like_count": 0,
-      "impression_count": 123,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 128,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "LauLauzhihao": "/images/avatars/LauLauzhihao.jpg"
       },
@@ -1963,7 +2987,7 @@
           "url": "https://x.com/AkBanana4/status/2115371644877451627",
           "likes": 0,
           "bookmarks": 1,
-          "impressions": 129,
+          "impressions": 163,
           "created_at": "2026-10-28T09:14:36.000Z"
         }
       ],
@@ -1979,10 +3003,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 1,
-      "impressions": 129,
+      "impressions": 163,
       "like_count": 0,
-      "impression_count": 129,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 163,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "AkBanana4": "/images/avatars/AkBanana4.jpg"
       },
@@ -2018,7 +3042,7 @@
           "url": "https://x.com/chessunyan/status/2115330323856900115",
           "likes": 1,
           "bookmarks": 0,
-          "impressions": 28,
+          "impressions": 36,
           "created_at": "2026-10-28T06:30:24.000Z"
         }
       ],
@@ -2034,10 +3058,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 0,
-      "impressions": 28,
+      "impressions": 36,
       "like_count": 1,
-      "impression_count": 28,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 36,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "chessunyan": "/images/avatars/chessunyan.jpg"
       },
@@ -2071,7 +3095,7 @@
           "url": "https://x.com/itsKairoSolo/status/2115479193219899437",
           "likes": 1,
           "bookmarks": 0,
-          "impressions": 41,
+          "impressions": 55,
           "created_at": "2026-10-28T16:21:58.000Z"
         }
       ],
@@ -2085,10 +3109,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 0,
-      "impressions": 41,
+      "impressions": 55,
       "like_count": 1,
-      "impression_count": 41,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 55,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "itsKairoSolo": "/images/avatars/itsKairoSolo.jpg"
       },
@@ -2121,8 +3145,8 @@
         {
           "url": "https://x.com/SamyeeiYu/status/2115458414726009251",
           "likes": 1,
-          "bookmarks": 0,
-          "impressions": 142,
+          "bookmarks": 1,
+          "impressions": 172,
           "created_at": "2026-10-28T14:59:24.000Z"
         }
       ],
@@ -2135,11 +3159,11 @@
       "pricing": null,
       "stars": null,
       "likes": 1,
-      "bookmarks": 0,
-      "impressions": 142,
+      "bookmarks": 1,
+      "impressions": 172,
       "like_count": 1,
-      "impression_count": 142,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 172,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "SamyeeiYu": "/images/avatars/SamyeeiYu.jpg"
       },
@@ -2172,7 +3196,7 @@
           "url": "https://x.com/yinpengxuan/status/2115336225070752096",
           "likes": 1,
           "bookmarks": 0,
-          "impressions": 134,
+          "impressions": 155,
           "created_at": "2026-10-28T06:53:51.000Z"
         }
       ],
@@ -2186,10 +3210,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 0,
-      "impressions": 134,
+      "impressions": 155,
       "like_count": 1,
-      "impression_count": 134,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 155,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "yinpengxuan": "/images/avatars/yinpengxuan.jpg"
       },
@@ -2223,7 +3247,7 @@
           "url": "https://x.com/Decemberww12/status/2115378377129599119",
           "likes": 1,
           "bookmarks": 0,
-          "impressions": 52,
+          "impressions": 63,
           "created_at": "2026-10-28T09:41:21.000Z"
         }
       ],
@@ -2239,10 +3263,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 0,
-      "impressions": 52,
+      "impressions": 63,
       "like_count": 1,
-      "impression_count": 52,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 63,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "Decemberww12": "/images/avatars/Decemberww12.jpg"
       },
@@ -2263,21 +3287,29 @@
       "summary": "自研 token 用量本地统计工具，可备份 harness 清理前的数据",
       "detail": "本地统计。考虑到有些harness会清理，tokei 会备份用户使用token的统计数据，也是在本地",
       "category": "cli",
-      "url": null,
-      "repo_url": null,
+      "url": "https://github.com/cclank/tokei",
+      "repo_url": "https://github.com/cclank/tokei",
       "recommenders": [
         "LufzzLiz"
       ],
       "source_reply_urls": [
-        "https://x.com/LufzzLiz/status/2115612853462073627"
+        "https://x.com/LufzzLiz/status/2115612853462073627",
+        "https://x.com/LufzzLiz/status/2115322251549774111"
       ],
       "replies": [
         {
           "url": "https://x.com/LufzzLiz/status/2115612853462073627",
           "likes": 1,
           "bookmarks": 0,
-          "impressions": 39,
+          "impressions": 72,
           "created_at": "2026-10-29T01:13:05.000Z"
+        },
+        {
+          "url": "https://x.com/LufzzLiz/status/2115322251549774111",
+          "likes": 9,
+          "bookmarks": 7,
+          "impressions": 1775,
+          "created_at": "2026-10-28T05:58:20.000Z"
         }
       ],
       "image": "/images/products/tokei.jpg",
@@ -2288,12 +3320,12 @@
       ],
       "pricing": null,
       "stars": null,
-      "likes": 1,
-      "bookmarks": 0,
-      "impressions": 39,
-      "like_count": 1,
-      "impression_count": 39,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "likes": 10,
+      "bookmarks": 7,
+      "impressions": 1775,
+      "like_count": 10,
+      "impression_count": 1775,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "LufzzLiz": "/images/avatars/LufzzLiz.jpg"
       },
@@ -2326,7 +3358,7 @@
           "url": "https://x.com/dontry018/status/2115325659354665211",
           "likes": 1,
           "bookmarks": 0,
-          "impressions": 332,
+          "impressions": 382,
           "created_at": "2026-10-28T06:11:52.000Z"
         }
       ],
@@ -2340,10 +3372,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 0,
-      "impressions": 332,
+      "impressions": 382,
       "like_count": 1,
-      "impression_count": 332,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 382,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "dontry018": "/images/avatars/dontry018.jpg"
       },
@@ -2374,9 +3406,9 @@
       "replies": [
         {
           "url": "https://x.com/FatsugarD/status/2115338867993874840",
-          "likes": 1,
+          "likes": 2,
           "bookmarks": 0,
-          "impressions": 707,
+          "impressions": 886,
           "created_at": "2026-10-28T07:04:21.000Z"
         }
       ],
@@ -2388,12 +3420,12 @@
       ],
       "pricing": null,
       "stars": null,
-      "likes": 1,
+      "likes": 2,
       "bookmarks": 0,
-      "impressions": 707,
-      "like_count": 1,
-      "impression_count": 707,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impressions": 886,
+      "like_count": 2,
+      "impression_count": 886,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "FatsugarD": "/images/avatars/FatsugarD.jpg"
       },
@@ -2424,7 +3456,7 @@
           "url": "https://x.com/zhengtang364848/status/2115335576073453678",
           "likes": 1,
           "bookmarks": 0,
-          "impressions": 374,
+          "impressions": 443,
           "created_at": "2026-10-28T06:51:17.000Z"
         }
       ],
@@ -2438,10 +3470,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 0,
-      "impressions": 374,
+      "impressions": 443,
       "like_count": 1,
-      "impression_count": 374,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 443,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "zhengtang364848": "/images/avatars/zhengtang364848.jpg"
       },
@@ -2474,7 +3506,7 @@
           "url": "https://x.com/wen0531/status/2115327677343404305",
           "likes": 1,
           "bookmarks": 0,
-          "impressions": 385,
+          "impressions": 488,
           "created_at": "2026-10-28T06:19:53.000Z"
         }
       ],
@@ -2491,10 +3523,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 0,
-      "impressions": 385,
+      "impressions": 488,
       "like_count": 1,
-      "impression_count": 385,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 488,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "wen0531": "/images/avatars/wen0531.jpg"
       },
@@ -2527,7 +3559,7 @@
           "url": "https://x.com/randy102488/status/2115452523066892391",
           "likes": 1,
           "bookmarks": 0,
-          "impressions": 130,
+          "impressions": 184,
           "created_at": "2026-10-28T14:35:59.000Z"
         }
       ],
@@ -2543,10 +3575,10 @@
       "stars": null,
       "likes": 1,
       "bookmarks": 0,
-      "impressions": 130,
+      "impressions": 184,
       "like_count": 1,
-      "impression_count": 130,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 184,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "randy102488": "/images/avatars/randy102488.jpg"
       },
@@ -2714,7 +3746,7 @@
           "url": "https://x.com/DavidChin0110/status/2115853637461463214",
           "likes": 0,
           "bookmarks": 0,
-          "impressions": 7,
+          "impressions": 40,
           "created_at": "2026-10-29T17:09:52.000Z"
         }
       ],
@@ -2728,10 +3760,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 0,
-      "impressions": 7,
+      "impressions": 40,
       "like_count": 0,
-      "impression_count": 7,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 40,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "DavidChin0110": "/images/avatars/DavidChin0110.jpg"
       },
@@ -2764,7 +3796,7 @@
           "url": "https://x.com/qw0258/status/2115395225413972280",
           "likes": 0,
           "bookmarks": 0,
-          "impressions": 8,
+          "impressions": 9,
           "created_at": "2026-10-28T10:48:18.000Z"
         }
       ],
@@ -2778,10 +3810,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 0,
-      "impressions": 8,
+      "impressions": 9,
       "like_count": 0,
-      "impression_count": 8,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 9,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "qw0258": "/images/avatars/qw0258.jpg"
       },
@@ -3067,7 +4099,7 @@
           "url": "https://x.com/sooooong629/status/2115480529885950339",
           "likes": 0,
           "bookmarks": 0,
-          "impressions": 78,
+          "impressions": 112,
           "created_at": "2026-10-28T16:27:16.000Z"
         }
       ],
@@ -3081,10 +4113,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 0,
-      "impressions": 78,
+      "impressions": 112,
       "like_count": 0,
-      "impression_count": 78,
-      "updated": "2026-10-30 09:38 Asia/Shanghai",
+      "impression_count": 112,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "sooooong629": "/images/avatars/sooooong629.jpg"
       },
@@ -3357,7 +4389,7 @@
           "url": "https://x.com/GeekRadioLeo/status/2115330917623574759",
           "likes": 0,
           "bookmarks": 0,
-          "impressions": 108,
+          "impressions": 121,
           "created_at": "2026-10-28T06:32:46.000Z"
         }
       ],
@@ -3373,10 +4405,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 0,
-      "impressions": 108,
+      "impressions": 121,
       "like_count": 0,
-      "impression_count": 108,
-      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "impression_count": 121,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "GeekRadioLeo": "/images/avatars/GeekRadioLeo.jpg"
       },
@@ -3500,7 +4532,7 @@
           "url": "https://x.com/leoai_build/status/2115426745767575997",
           "likes": 0,
           "bookmarks": 0,
-          "impressions": 96,
+          "impressions": 137,
           "created_at": "2026-10-28T12:53:33.000Z"
         }
       ],
@@ -3514,10 +4546,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 0,
-      "impressions": 96,
+      "impressions": 137,
       "like_count": 0,
-      "impression_count": 96,
-      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "impression_count": 137,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "leoai_build": "/images/avatars/leoai_build.png"
       },
@@ -3548,7 +4580,7 @@
           "url": "https://x.com/99daoyou/status/2115470373412294825",
           "likes": 0,
           "bookmarks": 0,
-          "impressions": 29,
+          "impressions": 40,
           "created_at": "2026-10-28T15:46:55.000Z"
         }
       ],
@@ -3562,10 +4594,10 @@
       "stars": null,
       "likes": 0,
       "bookmarks": 0,
-      "impressions": 29,
+      "impressions": 40,
       "like_count": 0,
-      "impression_count": 29,
-      "updated": "2026-10-30 09:39 Asia/Shanghai",
+      "impression_count": 40,
+      "updated": "2026-11-02 10:14 Asia/Shanghai",
       "avatars": {
         "99daoyou": "/images/avatars/99daoyou.jpg"
       },
@@ -3987,7 +5019,23 @@
     "yinpengxuan": "/images/avatars/yinpengxuan.jpg",
     "yubei2025": "/images/avatars/yubei2025.jpg",
     "zhengtang364848": "/images/avatars/zhengtang364848.jpg",
-    "zifeiyuooooooo": "/images/avatars/zifeiyuooooooo.jpg"
+    "zifeiyuooooooo": "/images/avatars/zifeiyuooooooo.jpg",
+    "AIBrewClub": "/images/avatars/AIBrewClub.jpg",
+    "An_zuoan": "/images/avatars/An_zuoan.jpg",
+    "Connorclaw": "/images/avatars/Connorclaw.jpg",
+    "Kubai087": "/images/avatars/Kubai087.jpg",
+    "SeacCheng": "/images/avatars/SeacCheng.jpg",
+    "Tao100086": "/images/avatars/Tao100086.jpg",
+    "antonailog": "/images/avatars/antonailog.jpg",
+    "chaoshentouzi": "/images/avatars/chaoshentouzi.jpg",
+    "ervintrust": "/images/avatars/ervintrust.jpg",
+    "jinx0629": "/images/avatars/jinx0629.jpg",
+    "leemysw": "/images/avatars/leemysw.jpg",
+    "rockeymen": "/images/avatars/rockeymen.jpg",
+    "vince_gotomoon": "/images/avatars/vince_gotomoon.jpg",
+    "waterxig": "/images/avatars/waterxig.jpg",
+    "yscai101": "/images/avatars/yscai101.jpg",
+    "zhouxingai": "/images/avatars/zhouxingai.jpg"
   },
-  "avatar_count": 69
+  "avatar_count": 85
 }
