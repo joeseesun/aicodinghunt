@@ -2,12 +2,49 @@
   "data": [
     {
       "author_id": "2100517382204850176",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-11-01T02:34:46.000Z",
       "edit_history_tweet_ids": [
         "2116720575599304954"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "PastePlus 将剪贴板、截图、待办、二维码和录屏等高频操作收进一个本地入口。",
+            "display_url": "akang.store/apps/pasteplus/",
+            "end": 158,
+            "expanded_url": "https://akang.store/apps/pasteplus/",
+            "images": [
+              {
+                "height": 1121,
+                "url": "https://pbs.twimg.com/news_img/2116720625243070464/cnmXORfH?format=jpg&name=orig",
+                "width": 1964
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2116720625243070464/cnmXORfH?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 135,
+            "status": 200,
+            "title": "PastePlus｜macOS 菜单栏效率工具",
+            "unwound_url": "https://akang.store/apps/pasteplus/",
+            "url": "https://t.co/IzRPOinujU"
+          }
+        ]
+      },
       "id": "2116720575599304954",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 4,
@@ -27,12 +64,24 @@
     },
     {
       "author_id": "1975368953452240896",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-11-01T02:22:04.000Z",
       "edit_history_tweet_ids": [
         "2116717378356822100"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116717378356822100",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 0,
@@ -52,12 +101,49 @@
     },
     {
       "author_id": "1546405527206477825",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-31T04:46:15.000Z",
       "edit_history_tweet_ids": [
         "2116391274798559449"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "All-in-one iPhone toolkit for creators: auto transcribe speech into subtitles, translate bilingual captions, stitch quote screenshots, and restore blurry photos.",
+            "display_url": "yourtools.xyz",
+            "end": 66,
+            "expanded_url": "https://www.yourtools.xyz/",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://pbs.twimg.com/news_img/2116391343182544896/ogj8G4UE?format=png&name=orig",
+                "width": 640
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2116391343182544896/ogj8G4UE?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 43,
+            "status": 200,
+            "title": "Xtools - AI Video & Media Toolkit | Add Subtitles to Video, Subtitle Stitcher & Photo Enhancer",
+            "unwound_url": "https://www.yourtools.xyz/",
+            "url": "https://t.co/p2LMRefbnr"
+          }
+        ]
+      },
       "id": "2116391274798559449",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 10,
@@ -77,16 +163,28 @@
     },
     {
       "author_id": "1165412720025526277",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-31T02:45:48.000Z",
       "edit_history_tweet_ids": [
         "2116360962051870845"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116360962051870845",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 22,
-        "like_count": 0,
+        "impression_count": 30,
+        "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 0
@@ -102,15 +200,39 @@
     },
     {
       "author_id": "1754419073658867712",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T17:43:39.000Z",
       "edit_history_tweet_ids": [
         "2116224527411921267"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "filedev.dev",
+            "end": 49,
+            "expanded_url": "https://filedev.dev",
+            "start": 26,
+            "status": 200,
+            "title": "FileDev-专注产品进化复盘",
+            "unwound_url": "https://filedev.dev",
+            "url": "https://t.co/rMCjF0WMdx"
+          }
+        ]
+      },
       "id": "2116224527411921267",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 15,
+        "impression_count": 18,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -127,15 +249,38 @@
     },
     {
       "author_id": "1754419073658867712",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T17:42:22.000Z",
       "edit_history_tweet_ids": [
         "2116224202957262850"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "chromewebstore.google.com/detail/hbhhlin…",
+            "end": 45,
+            "expanded_url": "https://chromewebstore.google.com/detail/hbhhlinpobccpfbgpkfkgefacmnmldgd?utm_source=item-share-cb",
+            "start": 22,
+            "status": 301,
+            "unwound_url": "https://chromewebstore.google.com/detail/%C3%A7%C2%95%C2%99%C3%A7%C2%97%C2%95-%C3%82%C2%B7-ai-%C3%A6%C2%97%C2%A5%C3%A8%C2%AE%C2%B0/hbhhlinpobccpfbgpkfkgefacmnmldgd?utm_source=item-share-cb",
+            "url": "https://t.co/Js58d3cCZt"
+          }
+        ]
+      },
       "id": "2116224202957262850",
       "in_reply_to_user_id": "6690032",
+      "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 16,
+        "impression_count": 19,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -152,12 +297,30 @@
     },
     {
       "author_id": "2110252897019756544",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T16:25:05.000Z",
       "edit_history_tweet_ids": [
         "2116204756909924369"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1724148821222133761",
+            "start": 0,
+            "username": "mamba0805"
+          },
+          {
+            "end": 18,
+            "id": "6690032",
+            "start": 11,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116204756909924369",
       "in_reply_to_user_id": "1724148821222133761",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 8,
@@ -177,12 +340,49 @@
     },
     {
       "author_id": "1358667972860993536",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T15:27:25.000Z",
       "edit_history_tweet_ids": [
         "2116190240906088583"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "昼星AI说的个人主页，正在装修中。",
+            "display_url": "zhouxingai.com",
+            "end": 40,
+            "expanded_url": "https://zhouxingai.com",
+            "images": [
+              {
+                "height": 2000,
+                "url": "https://pbs.twimg.com/news_img/2115131206832685056/UKO-ZJk4?format=jpg&name=orig",
+                "width": 2000
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115131206832685056/UKO-ZJk4?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 17,
+            "status": 200,
+            "title": "首页 · 昼星AI说",
+            "unwound_url": "https://zhouxingai.com",
+            "url": "https://t.co/IojnActNlI"
+          }
+        ]
+      },
       "id": "2116190240906088583",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 6,
@@ -202,12 +402,49 @@
     },
     {
       "author_id": "1417162519",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T13:04:06.000Z",
       "edit_history_tweet_ids": [
         "2116154176770335072"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "A native macOS enhancement suite: act on any selection, own your clipboard, launch everything — with language learning built in. - seascheng/lexi",
+            "display_url": "github.com/seascheng/lexi",
+            "end": 103,
+            "expanded_url": "https://github.com/seascheng/lexi",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2116154225675907072/pCd4_U-q?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2116154225675907072/pCd4_U-q?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 80,
+            "status": 200,
+            "title": "GitHub - seascheng/lexi: A native macOS enhancement suite: act on any selection, own your clipboard, launch everything — with language learning built in.",
+            "unwound_url": "https://github.com/seascheng/lexi",
+            "url": "https://t.co/y1cmkrHEtE"
+          }
+        ]
+      },
       "id": "2116154176770335072",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 31,
@@ -227,12 +464,30 @@
     },
     {
       "author_id": "1742721986349158400",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T11:22:29.000Z",
       "edit_history_tweet_ids": [
         "2116128602706337917"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1714667306457182208",
+            "start": 0,
+            "username": "woialgorithm"
+          },
+          {
+            "end": 21,
+            "id": "6690032",
+            "start": 14,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116128602706337917",
       "in_reply_to_user_id": "1714667306457182208",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 14,
@@ -252,12 +507,30 @@
     },
     {
       "author_id": "825796613000028160",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T09:40:13.000Z",
       "edit_history_tweet_ids": [
         "2116102868025696278"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "4859150277",
+            "start": 0,
+            "username": "Lumosous"
+          },
+          {
+            "end": 17,
+            "id": "6690032",
+            "start": 10,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116102868025696278",
       "in_reply_to_user_id": "4859150277",
+      "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 1,
@@ -277,12 +550,24 @@
     },
     {
       "author_id": "4859150277",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T09:34:47.000Z",
       "edit_history_tweet_ids": [
         "2116101501500510553"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1062876621621813248",
+            "start": 0,
+            "username": "eth61675"
+          }
+        ]
+      },
       "id": "2116101501500510553",
       "in_reply_to_user_id": "1062876621621813248",
+      "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 15,
@@ -302,12 +587,24 @@
     },
     {
       "author_id": "1062876621621813248",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T09:26:26.000Z",
       "edit_history_tweet_ids": [
         "2116099399436951879"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "4859150277",
+            "start": 0,
+            "username": "Lumosous"
+          }
+        ]
+      },
       "id": "2116099399436951879",
       "in_reply_to_user_id": "4859150277",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 13,
@@ -327,15 +624,27 @@
     },
     {
       "author_id": "4859150277",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T09:19:59.000Z",
       "edit_history_tweet_ids": [
         "2116097775805063662"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116097775805063662",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 91,
+        "impression_count": 103,
         "like_count": 2,
         "quote_count": 0,
         "reply_count": 2,
@@ -352,15 +661,33 @@
     },
     {
       "author_id": "1714667306457182208",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T08:40:42.000Z",
       "edit_history_tweet_ids": [
         "2116087889633128793"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1742721986349158400",
+            "start": 0,
+            "username": "maqibin"
+          },
+          {
+            "end": 16,
+            "id": "6690032",
+            "start": 9,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116087889633128793",
       "in_reply_to_user_id": "1742721986349158400",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 9,
+        "impression_count": 11,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -377,12 +704,30 @@
     },
     {
       "author_id": "796175687023468544",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T08:30:13.000Z",
       "edit_history_tweet_ids": [
         "2116085253135831168"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2074447200495734784",
+            "start": 0,
+            "username": "Bakouecho"
+          },
+          {
+            "end": 18,
+            "id": "6690032",
+            "start": 11,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116085253135831168",
       "in_reply_to_user_id": "2074447200495734784",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 3,
@@ -407,12 +752,45 @@
         ]
       },
       "author_id": "1723554628498030592",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T08:28:06.000Z",
       "edit_history_tweet_ids": [
         "2116084717565116872"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "国内 AI 活动一页看全：大会、黑客松、路演、沙龙，按日历和时间线排好，可按城市、形式、分类筛选。",
+            "display_url": "antonailog.com/more/ai-events/",
+            "end": 51,
+            "expanded_url": "https://antonailog.com/more/ai-events/",
+            "start": 28,
+            "status": 200,
+            "title": "国内AI活动追踪",
+            "unwound_url": "https://antonailog.com/more/ai-events/",
+            "url": "https://t.co/Rp65XjUCRT"
+          },
+          {
+            "display_url": "pic.x.com/FhmOZnAcgZ",
+            "end": 199,
+            "expanded_url": "https://x.com/antonailog/status/2116084717565116872/video/1",
+            "media_key": "13_2116084028327800832",
+            "start": 176,
+            "url": "https://t.co/FhmOZnAcgZ"
+          }
+        ]
+      },
       "id": "2116084717565116872",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 3,
@@ -432,12 +810,30 @@
     },
     {
       "author_id": "1893687938631729152",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T08:21:45.000Z",
       "edit_history_tweet_ids": [
         "2116083121053667833"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          },
+          {
+            "end": 15,
+            "id": "6690032",
+            "start": 8,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116083121053667833",
       "in_reply_to_user_id": "1893687938631729152",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 44,
@@ -462,15 +858,60 @@
         ]
       },
       "author_id": "1893687938631729152",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T08:21:12.000Z",
       "edit_history_tweet_ids": [
         "2116082980410298793"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "The official home of Atlasnote Pro, a local knowledge library and AI workspace for Mac. Explore AI tools, practical courses, sourced daily briefs, and guides.",
+            "display_url": "atlasnote.ai",
+            "end": 184,
+            "expanded_url": "https://atlasnote.ai",
+            "images": [
+              {
+                "height": 900,
+                "url": "https://pbs.twimg.com/news_img/2114573706110615554/d-yYriHA?format=jpg&name=orig",
+                "width": 1440
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2114573706110615554/d-yYriHA?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 161,
+            "status": 200,
+            "title": "Atlasnote.ai · Atlasnote Pro, AI Tools & Practical Courses",
+            "unwound_url": "https://atlasnote.ai/en",
+            "url": "https://t.co/h8SrUkhjUG"
+          },
+          {
+            "display_url": "pic.x.com/u52NjVq4pP",
+            "end": 208,
+            "expanded_url": "https://x.com/Tao100086/status/2116082980410298793/photo/1",
+            "media_key": "3_2116082843411787776",
+            "start": 185,
+            "url": "https://t.co/u52NjVq4pP"
+          }
+        ]
+      },
       "id": "2116082980410298793",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 132,
+        "impression_count": 134,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -487,15 +928,33 @@
     },
     {
       "author_id": "2074447200495734784",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T07:26:10.000Z",
       "edit_history_tweet_ids": [
         "2116069130386514202"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "796175687023468544",
+            "start": 0,
+            "username": "CatCatMuse"
+          },
+          {
+            "end": 19,
+            "id": "6690032",
+            "start": 12,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116069130386514202",
       "in_reply_to_user_id": "796175687023468544",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 18,
+        "impression_count": 21,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -512,15 +971,33 @@
     },
     {
       "author_id": "1207258810512838656",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T07:23:57.000Z",
       "edit_history_tweet_ids": [
         "2116068574695719224"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "26780664",
+            "start": 0,
+            "username": "rockeymen"
+          },
+          {
+            "end": 18,
+            "id": "6690032",
+            "start": 11,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116068574695719224",
       "in_reply_to_user_id": "26780664",
+      "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 18,
+        "impression_count": 19,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -537,15 +1014,33 @@
     },
     {
       "author_id": "1724148821222133761",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T06:32:10.000Z",
       "edit_history_tweet_ids": [
         "2116055541839806789"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "2110252897019756544",
+            "start": 0,
+            "username": "singu46"
+          },
+          {
+            "end": 16,
+            "id": "6690032",
+            "start": 9,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116055541839806789",
       "in_reply_to_user_id": "2110252897019756544",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 31,
+        "impression_count": 32,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -562,12 +1057,30 @@
     },
     {
       "author_id": "1564638661",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T04:47:54.000Z",
       "edit_history_tweet_ids": [
         "2116029303175696478"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1453896737324613636",
+            "start": 0,
+            "username": "FatsugarD"
+          },
+          {
+            "end": 18,
+            "id": "6690032",
+            "start": 11,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2116029303175696478",
       "in_reply_to_user_id": "1453896737324613636",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 11,
@@ -587,15 +1100,52 @@
     },
     {
       "author_id": "703796597335822336",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T04:20:41.000Z",
       "edit_history_tweet_ids": [
         "2116022454900687156"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Lumno is an open-source browser command bar for tabs, bookmarks, history, and site search, plus a minimalist new tab for Chrome, Edge, Dia, other Chromium browsers, and Firefox.",
+            "display_url": "lumno.kubai.design/en/",
+            "end": 36,
+            "expanded_url": "https://lumno.kubai.design/en/",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2116779341019553792/uNqO4bEa?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2116779341019553792/uNqO4bEa?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 13,
+            "status": 200,
+            "title": "Lumno | Focus Search, Browser Command Bar & Minimal New Tab",
+            "unwound_url": "https://lumno.kubai.design/en/",
+            "url": "https://t.co/TZgBzyXe1U"
+          }
+        ]
+      },
       "id": "2116022454900687156",
       "in_reply_to_user_id": "6690032",
+      "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 146,
+        "impression_count": 149,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -612,15 +1162,40 @@
     },
     {
       "author_id": "26780664",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-30T03:24:26.000Z",
       "edit_history_tweet_ids": [
         "2116008299065975175"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "免费交互式3D万物尺度比较：从夸克、碳原子、DNA、细胞，到人类、地球、恒星和银河系。拖动旋转、连续缩放，探索微观世界与宇宙大小。Free interactive 3D size comparison, from atoms to the universe.",
+            "display_url": "scale.rockeymen.xyz",
+            "end": 31,
+            "expanded_url": "https://scale.rockeymen.xyz/",
+            "start": 8,
+            "status": 200,
+            "title": "万物的尺度｜3D大小比较 · The Scale of Everything",
+            "unwound_url": "https://scale.rockeymen.xyz/",
+            "url": "https://t.co/9amSfAhp2I"
+          }
+        ]
+      },
       "id": "2116008299065975175",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 69,
+        "impression_count": 71,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -639,45 +1214,68 @@
   "includes": {
     "media": [
       {
+        "height": 1440,
         "media_key": "13_2116084028327800832",
         "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2116084028327800832/img/oyBavzbOD4MutJug.jpg",
-        "type": "video"
+        "type": "video",
+        "width": 1080
       },
       {
+        "height": 1732,
         "media_key": "3_2116082843411787776",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/HV3WInTbsAA5S2D.jpg"
+        "url": "https://pbs.twimg.com/media/HV3WInTbsAA5S2D.jpg",
+        "width": 2930
       }
     ],
     "tweets": [
       {
         "author_id": "6690032",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T05:44:02.000Z",
         "edit_history_tweet_ids": [
           "2115318655525523714"
         ],
         "id": "2115318655525523714",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 167,
-          "impression_count": 42529,
+          "impression_count": 43107,
           "like_count": 132,
           "quote_count": 6,
-          "reply_count": 129,
-          "retweet_count": 17
+          "reply_count": 128,
+          "retweet_count": 18
         },
         "text": "评论发自己最喜欢用的 AI 工具和项目！\n\n可以是自己 AI Coding的产品，或一直花钱订阅的AI 工具。\n\n产品可以是网站、App、Skill、插件、开源代码。\n\n点赞人多，测试好用，我会转发帮大家加热。\n\n某次「未来硅世界」直播，网友展示了很多有创造力的产品，但缺传播渠道。\n\n索性来个自荐和推荐活动~"
       },
       {
         "author_id": "6690032",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T05:46:14.000Z",
         "edit_history_tweet_ids": [
           "2115319209437872246"
         ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A collection of powerful productivity tools all within an extendable launcher.",
+              "display_url": "raycast.com/?via=joe-seesun",
+              "end": 114,
+              "expanded_url": "https://raycast.com/?via=joe-seesun",
+              "start": 91,
+              "status": 200,
+              "title": "Raycast - Your shortcut to everything",
+              "unwound_url": "https://www.raycast.com/?via=joe-seesun",
+              "url": "https://t.co/BWoXPixwml"
+            }
+          ]
+        },
         "id": "2115319209437872246",
         "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 8,
-          "impression_count": 4413,
+          "impression_count": 4488,
           "like_count": 11,
           "quote_count": 0,
           "reply_count": 8,
@@ -693,15 +1291,33 @@
       },
       {
         "author_id": "1724148821222133761",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-30T06:32:10.000Z",
         "edit_history_tweet_ids": [
           "2116055541839806789"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2110252897019756544",
+              "start": 0,
+              "username": "singu46"
+            },
+            {
+              "end": 16,
+              "id": "6690032",
+              "start": 9,
+              "username": "vista8"
+            }
+          ]
+        },
         "id": "2116055541839806789",
         "in_reply_to_user_id": "2110252897019756544",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 31,
+          "impression_count": 32,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -717,15 +1333,33 @@
       },
       {
         "author_id": "1714667306457182208",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-30T08:40:42.000Z",
         "edit_history_tweet_ids": [
           "2116087889633128793"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1742721986349158400",
+              "start": 0,
+              "username": "maqibin"
+            },
+            {
+              "end": 16,
+              "id": "6690032",
+              "start": 9,
+              "username": "vista8"
+            }
+          ]
+        },
         "id": "2116087889633128793",
         "in_reply_to_user_id": "1742721986349158400",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 9,
+          "impression_count": 11,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -741,15 +1375,27 @@
       },
       {
         "author_id": "4859150277",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-30T09:19:59.000Z",
         "edit_history_tweet_ids": [
           "2116097775805063662"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ]
+        },
         "id": "2116097775805063662",
         "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 91,
+          "impression_count": 103,
           "like_count": 2,
           "quote_count": 0,
           "reply_count": 2,
@@ -765,12 +1411,24 @@
       },
       {
         "author_id": "1062876621621813248",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-30T09:26:26.000Z",
         "edit_history_tweet_ids": [
           "2116099399436951879"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4859150277",
+              "start": 0,
+              "username": "Lumosous"
+            }
+          ]
+        },
         "id": "2116099399436951879",
         "in_reply_to_user_id": "4859150277",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
           "impression_count": 13,
@@ -789,15 +1447,40 @@
       },
       {
         "author_id": "1742721986349158400",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T14:22:15.000Z",
         "edit_history_tweet_ids": [
           "2115449069435002964"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ],
+          "urls": [
+            {
+              "description": "输入内容，AI 自动提炼重点并排版成图文；生成后文字、图片、贴纸与纸张仍可编辑。适合小红书笔记、公众号配图、知识卡片等内容创作。",
+              "display_url": "wencard.com",
+              "end": 31,
+              "expanded_url": "https://wencard.com/",
+              "start": 8,
+              "status": 200,
+              "title": "文卡网 - AI 可编辑图文工具",
+              "unwound_url": "https://wencard.com/",
+              "url": "https://t.co/66xjDuzqkM"
+            }
+          ]
+        },
         "id": "2115449069435002964",
         "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 4,
-          "impression_count": 451,
+          "impression_count": 453,
           "like_count": 3,
           "quote_count": 0,
           "reply_count": 2,
@@ -813,15 +1496,33 @@
       },
       {
         "author_id": "2074447200495734784",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-30T07:26:10.000Z",
         "edit_history_tweet_ids": [
           "2116069130386514202"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "796175687023468544",
+              "start": 0,
+              "username": "CatCatMuse"
+            },
+            {
+              "end": 19,
+              "id": "6690032",
+              "start": 12,
+              "username": "vista8"
+            }
+          ]
+        },
         "id": "2116069130386514202",
         "in_reply_to_user_id": "796175687023468544",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 18,
+          "impression_count": 21,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -842,15 +1543,60 @@
           ]
         },
         "author_id": "1893687938631729152",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-30T08:21:12.000Z",
         "edit_history_tweet_ids": [
           "2116082980410298793"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The official home of Atlasnote Pro, a local knowledge library and AI workspace for Mac. Explore AI tools, practical courses, sourced daily briefs, and guides.",
+              "display_url": "atlasnote.ai",
+              "end": 184,
+              "expanded_url": "https://atlasnote.ai",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2114573706110615554/d-yYriHA?format=jpg&name=orig",
+                  "width": 1440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2114573706110615554/d-yYriHA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 161,
+              "status": 200,
+              "title": "Atlasnote.ai · Atlasnote Pro, AI Tools & Practical Courses",
+              "unwound_url": "https://atlasnote.ai/en",
+              "url": "https://t.co/h8SrUkhjUG"
+            },
+            {
+              "display_url": "pic.x.com/u52NjVq4pP",
+              "end": 208,
+              "expanded_url": "https://x.com/Tao100086/status/2116082980410298793/photo/1",
+              "media_key": "3_2116082843411787776",
+              "start": 185,
+              "url": "https://t.co/u52NjVq4pP"
+            }
+          ]
+        },
         "id": "2116082980410298793",
         "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 132,
+          "impression_count": 134,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -871,15 +1617,60 @@
           ]
         },
         "author_id": "796175687023468544",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T09:14:40.000Z",
         "edit_history_tweet_ids": [
           "2115371661658927254"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ],
+          "urls": [
+            {
+              "description": "MOYU for macOS 官方下载、版本更新与问题反馈. Contribute to CatMuse/MOYU development by creating an account on GitHub.",
+              "display_url": "github.com/CatMuse/MOYU",
+              "end": 77,
+              "expanded_url": "https://github.com/CatMuse/MOYU",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2115369970658078720/gasibsTE?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2115369970658078720/gasibsTE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "GitHub - CatMuse/MOYU: MOYU for macOS 官方下载、版本更新与问题反馈",
+              "unwound_url": "https://github.com/CatMuse/MOYU",
+              "url": "https://t.co/FAeaFELaGG"
+            },
+            {
+              "display_url": "pic.x.com/7BLPYZWeeR",
+              "end": 101,
+              "expanded_url": "https://x.com/CatCatMuse/status/2115371661658927254/photo/1",
+              "media_key": "3_2115371183143305216",
+              "start": 78,
+              "url": "https://t.co/7BLPYZWeeR"
+            }
+          ]
+        },
         "id": "2115371661658927254",
         "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 6,
-          "impression_count": 384,
+          "impression_count": 386,
           "like_count": 2,
           "quote_count": 0,
           "reply_count": 1,
@@ -895,12 +1686,30 @@
       },
       {
         "author_id": "26780664",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-30T03:17:23.000Z",
         "edit_history_tweet_ids": [
           "2116006522560147629"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1207258810512838656",
+              "start": 0,
+              "username": "CopperForgeAI"
+            },
+            {
+              "end": 22,
+              "id": "6690032",
+              "start": 15,
+              "username": "vista8"
+            }
+          ]
+        },
         "id": "2116006522560147629",
         "in_reply_to_user_id": "1207258810512838656",
+        "lang": "ja",
         "public_metrics": {
           "bookmark_count": 0,
           "impression_count": 18,
@@ -919,15 +1728,33 @@
       },
       {
         "author_id": "2110252897019756544",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-29T17:56:54.000Z",
         "edit_history_tweet_ids": [
           "2115865474659746158"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1724148821222133761",
+              "start": 0,
+              "username": "mamba0805"
+            },
+            {
+              "end": 18,
+              "id": "6690032",
+              "start": 11,
+              "username": "vista8"
+            }
+          ]
+        },
         "id": "2115865474659746158",
         "in_reply_to_user_id": "1724148821222133761",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 39,
+          "impression_count": 40,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -943,15 +1770,27 @@
       },
       {
         "author_id": "1453896737324613636",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T07:04:21.000Z",
         "edit_history_tweet_ids": [
           "2115338867993874840"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ]
+        },
         "id": "2115338867993874840",
         "in_reply_to_user_id": "6690032",
+        "lang": "es",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 886,
+          "impression_count": 889,
           "like_count": 2,
           "quote_count": 0,
           "reply_count": 2,
@@ -973,25 +1812,25 @@
         "profile_image_url": "https://pbs.twimg.com/profile_images/2100517944824602624/a5O69fP8_normal.jpg",
         "public_metrics": {
           "followers_count": 0,
-          "following_count": 6,
+          "following_count": 8,
           "like_count": 0,
           "listed_count": 0,
           "media_count": 0,
-          "tweet_count": 1
+          "tweet_count": 2
         },
         "username": "jinx0629"
       },
       {
         "id": "1975368953452240896",
-        "name": "Pegasus",
+        "name": "天马山",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2101667327867781120/XH_1Jcjg_normal.jpg",
         "public_metrics": {
-          "followers_count": 1653,
-          "following_count": 1600,
-          "like_count": 53,
-          "listed_count": 3,
-          "media_count": 163,
-          "tweet_count": 3871
+          "followers_count": 1711,
+          "following_count": 1670,
+          "like_count": 60,
+          "listed_count": 5,
+          "media_count": 171,
+          "tweet_count": 4010
         },
         "username": "PegasusMou23067"
       },
@@ -1000,12 +1839,12 @@
         "name": "薄暮之",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2007267442440208384/6h2Id2G7_normal.jpg",
         "public_metrics": {
-          "followers_count": 21,
+          "followers_count": 22,
           "following_count": 62,
           "like_count": 2,
           "listed_count": 0,
-          "media_count": 144,
-          "tweet_count": 475
+          "media_count": 145,
+          "tweet_count": 490
         },
         "username": "imboomu"
       },
@@ -1014,12 +1853,12 @@
         "name": "Kiwi",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2115717327962714112/YQtXSuic_normal.jpg",
         "public_metrics": {
-          "followers_count": 12,
-          "following_count": 74,
-          "like_count": 15,
+          "followers_count": 17,
+          "following_count": 75,
+          "like_count": 16,
           "listed_count": 0,
-          "media_count": 0,
-          "tweet_count": 37
+          "media_count": 1,
+          "tweet_count": 51
         },
         "username": "Kiwi0961Ai"
       },
@@ -1028,12 +1867,12 @@
         "name": "成云杉YSC",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1999322368733511680/jryLLSsX_normal.jpg",
         "public_metrics": {
-          "followers_count": 573,
+          "followers_count": 570,
           "following_count": 424,
-          "like_count": 3120,
+          "like_count": 3138,
           "listed_count": 6,
-          "media_count": 272,
-          "tweet_count": 1950
+          "media_count": 274,
+          "tweet_count": 1955
         },
         "username": "yscai101"
       },
@@ -1042,12 +1881,12 @@
         "name": "AI进来也要报产地",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2113270705693556736/0L2pO6-w_normal.jpg",
         "public_metrics": {
-          "followers_count": 27,
-          "following_count": 74,
-          "like_count": 47,
+          "followers_count": 32,
+          "following_count": 81,
+          "like_count": 49,
           "listed_count": 0,
-          "media_count": 2,
-          "tweet_count": 75
+          "media_count": 5,
+          "tweet_count": 98
         },
         "username": "singu46"
       },
@@ -1057,7 +1896,7 @@
         "profile_image_url": "https://pbs.twimg.com/profile_images/2109622072129572864/nLtGUpTQ_normal.jpg",
         "public_metrics": {
           "followers_count": 9,
-          "following_count": 144,
+          "following_count": 145,
           "like_count": 1,
           "listed_count": 1,
           "media_count": 5,
@@ -1070,7 +1909,7 @@
         "name": "seaccheng",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1881523020126408704/x-Knv5zp_normal.jpg",
         "public_metrics": {
-          "followers_count": 8,
+          "followers_count": 7,
           "following_count": 246,
           "like_count": 15,
           "listed_count": 0,
@@ -1084,12 +1923,12 @@
         "name": "狂奔滴小马",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1742724073334112256/fc_BemeW_normal.png",
         "public_metrics": {
-          "followers_count": 762,
-          "following_count": 386,
-          "like_count": 482,
+          "followers_count": 765,
+          "following_count": 387,
+          "like_count": 500,
           "listed_count": 6,
           "media_count": 111,
-          "tweet_count": 529
+          "tweet_count": 538
         },
         "username": "maqibin"
       },
@@ -1098,12 +1937,12 @@
         "name": "鲸鱼知识库",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2067827514140233728/pBxm8tUZ_normal.jpg",
         "public_metrics": {
-          "followers_count": 3914,
-          "following_count": 2832,
-          "like_count": 2827,
+          "followers_count": 3918,
+          "following_count": 2833,
+          "like_count": 2878,
           "listed_count": 4,
-          "media_count": 280,
-          "tweet_count": 9750
+          "media_count": 281,
+          "tweet_count": 9994
         },
         "username": "btc5767"
       },
@@ -1114,7 +1953,7 @@
         "public_metrics": {
           "followers_count": 7038,
           "following_count": 1152,
-          "like_count": 3361,
+          "like_count": 3362,
           "listed_count": 89,
           "media_count": 667,
           "tweet_count": 6648
@@ -1123,15 +1962,15 @@
       },
       {
         "id": "1062876621621813248",
-        "name": "家乡郊游版",
+        "name": "家乡诚心焦油版",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2113084844280553472/bSM3gvlO_normal.jpg",
         "public_metrics": {
-          "followers_count": 1383,
-          "following_count": 1296,
-          "like_count": 257,
+          "followers_count": 1458,
+          "following_count": 1414,
+          "like_count": 256,
           "listed_count": 3,
-          "media_count": 547,
-          "tweet_count": 5527
+          "media_count": 556,
+          "tweet_count": 5949
         },
         "username": "eth61675"
       },
@@ -1141,8 +1980,8 @@
         "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
         "public_metrics": {
           "followers_count": 1,
-          "following_count": 34,
-          "like_count": 87,
+          "following_count": 37,
+          "like_count": 93,
           "listed_count": 0,
           "media_count": 0,
           "tweet_count": 7
@@ -1182,12 +2021,12 @@
         "name": "Tao Wang",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2062083482109820930/I7Zk9MPv_normal.jpg",
         "public_metrics": {
-          "followers_count": 1761,
-          "following_count": 341,
-          "like_count": 649,
+          "followers_count": 1771,
+          "following_count": 340,
+          "like_count": 654,
           "listed_count": 9,
-          "media_count": 293,
-          "tweet_count": 1747
+          "media_count": 296,
+          "tweet_count": 1758
         },
         "username": "Tao100086"
       },
@@ -1210,12 +2049,12 @@
         "name": "铜匠・十点睡觉",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1997218796172611584/gudsBQXU_normal.jpg",
         "public_metrics": {
-          "followers_count": 3934,
+          "followers_count": 3979,
           "following_count": 706,
-          "like_count": 1126,
-          "listed_count": 19,
-          "media_count": 403,
-          "tweet_count": 4039
+          "like_count": 1144,
+          "listed_count": 20,
+          "media_count": 406,
+          "tweet_count": 4068
         },
         "username": "CopperForgeAI"
       },
@@ -1225,7 +2064,7 @@
         "profile_image_url": "https://pbs.twimg.com/profile_images/2110322054964944896/w4-IWLp2_normal.jpg",
         "public_metrics": {
           "followers_count": 36,
-          "following_count": 155,
+          "following_count": 152,
           "like_count": 12,
           "listed_count": 0,
           "media_count": 1,
@@ -1252,12 +2091,12 @@
         "name": "枯白啃设计",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2036148968900665346/DblPsR4p_normal.jpg",
         "public_metrics": {
-          "followers_count": 6388,
-          "following_count": 1346,
-          "like_count": 8059,
-          "listed_count": 69,
-          "media_count": 335,
-          "tweet_count": 2184
+          "followers_count": 6717,
+          "following_count": 1356,
+          "like_count": 8170,
+          "listed_count": 72,
+          "media_count": 337,
+          "tweet_count": 2218
         },
         "username": "Kubai087"
       },
@@ -1266,12 +2105,12 @@
         "name": "Rockeymen",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2109860933040582657/isLEN-Hy_normal.jpg",
         "public_metrics": {
-          "followers_count": 127,
-          "following_count": 163,
-          "like_count": 67,
+          "followers_count": 134,
+          "following_count": 184,
+          "like_count": 80,
           "listed_count": 0,
-          "media_count": 107,
-          "tweet_count": 556
+          "media_count": 105,
+          "tweet_count": 643
         },
         "username": "rockeymen"
       }

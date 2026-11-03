@@ -37,9 +37,11 @@
     "author_id": "1546405527206477825",
     "text": "@vista8 我的天，我的App竟然没有留言，那么我就留言一下让老师帮我推广一下：\nhttps://t.co/p2LMRefbnr",
     "created_at": "2026-10-31T04:46:15.000Z",
-    "urls": [],
+    "urls": [
+      "https://www.yourtools.xyz/"
+    ],
     "all_urls": [
-      "https://t.co/p2LMRefbnr"
+      "https://www.yourtools.xyz/"
     ],
     "likes": 0,
     "bookmarks": 0,
@@ -55,9 +57,9 @@
     "created_at": "2026-10-31T02:45:48.000Z",
     "urls": [],
     "all_urls": [],
-    "likes": 0,
+    "likes": 1,
     "bookmarks": 0,
-    "impressions": 22,
+    "impressions": 30,
     "replies": 0,
     "reply_url": "https://x.com/Kiwi0961Ai/status/2116360962051870845"
   },
@@ -68,14 +70,14 @@
     "text": "@vista8 还有一个项目（产品）复盘迭代工具\n\nhttps://t.co/rMCjF0WMdx",
     "created_at": "2026-10-30T17:43:39.000Z",
     "urls": [
-      "https://filedev.dev/"
+      "https://filedev.dev"
     ],
     "all_urls": [
-      "https://filedev.dev/"
+      "https://filedev.dev"
     ],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 15,
+    "impressions": 18,
     "replies": 0,
     "reply_url": "https://x.com/yscai101/status/2116224527411921267"
   },
@@ -86,14 +88,14 @@
     "text": "@vista8 先分享一个类剪存插件吧，\n\nhttps://t.co/Js58d3cCZt",
     "created_at": "2026-10-30T17:42:22.000Z",
     "urls": [
-      "https://chromewebstore.google.com/detail/%e7%95%99%e7%97%95-%c2%b7-ai-%e6%97%a5%e8%ae%b0/hbhhlinpobccpfbgpkfkgefacmnmldgd"
+      "https://chromewebstore.google.com/detail/hbhhlinpobccpfbgpkfkgefacmnmldgd?utm_source=item-share-cb"
     ],
     "all_urls": [
-      "https://chromewebstore.google.com/detail/%e7%95%99%e7%97%95-%c2%b7-ai-%e6%97%a5%e8%ae%b0/hbhhlinpobccpfbgpkfkgefacmnmldgd?utm_source=item-share-cb"
+      "https://chromewebstore.google.com/detail/hbhhlinpobccpfbgpkfkgefacmnmldgd?utm_source=item-share-cb"
     ],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 16,
+    "impressions": 19,
     "replies": 0,
     "reply_url": "https://x.com/yscai101/status/2116224202957262850"
   },
@@ -118,10 +120,10 @@
     "text": "@vista8 我自己的个人网站\nhttps://t.co/IojnActNlI",
     "created_at": "2026-10-30T15:27:25.000Z",
     "urls": [
-      "https://zhouxingai.com/"
+      "https://zhouxingai.com"
     ],
     "all_urls": [
-      "https://zhouxingai.com/"
+      "https://zhouxingai.com"
     ],
     "likes": 0,
     "bookmarks": 0,
@@ -213,7 +215,7 @@
     "all_urls": [],
     "likes": 2,
     "bookmarks": 1,
-    "impressions": 91,
+    "impressions": 103,
     "replies": 2,
     "reply_url": "https://x.com/Lumosous/status/2116097775805063662"
   },
@@ -227,7 +229,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 9,
+    "impressions": 11,
     "replies": 1,
     "reply_url": "https://x.com/woialgorithm/status/2116087889633128793"
   },
@@ -256,7 +258,7 @@
     ],
     "all_urls": [
       "https://antonailog.com/more/ai-events/",
-      "https://twitter.com/antonailog/status/2116084717565116872"
+      "https://x.com/antonailog/status/2116084717565116872/video/1"
     ],
     "likes": 0,
     "bookmarks": 0,
@@ -285,15 +287,15 @@
     "text": "@vista8 自荐一下我独立开发的 Atlasnote Pro，一个本地知识库 + AI 工作台。\n\n把文档、网页、音视频收进知识库，让 AI 结合自己的资料做研究、写文章、处理文件，让收藏的知识真正用起来。\n\n资料本地保存，自选模型，也支持 Skills 和定时任务。目前支持 Apple Silicon Mac。\n\nhttps://t.co/h8SrUkhjUG https://t.co/u52NjVq4pP",
     "created_at": "2026-10-30T08:21:12.000Z",
     "urls": [
-      "https://atlasnote.ai/en"
+      "https://atlasnote.ai"
     ],
     "all_urls": [
-      "https://atlasnote.ai/en",
-      "https://twitter.com/Tao100086/status/2116082980410298793"
+      "https://atlasnote.ai",
+      "https://x.com/Tao100086/status/2116082980410298793/photo/1"
     ],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 132,
+    "impressions": 134,
     "replies": 1,
     "reply_url": "https://x.com/Tao100086/status/2116082980410298793"
   },
@@ -307,7 +309,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 18,
+    "impressions": 21,
     "replies": 1,
     "reply_url": "https://x.com/Bakouecho/status/2116069130386514202"
   },
@@ -321,7 +323,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 18,
+    "impressions": 19,
     "replies": 0,
     "reply_url": "https://x.com/CopperForgeAI/status/2116068574695719224"
   },
@@ -335,7 +337,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 31,
+    "impressions": 32,
     "replies": 1,
     "reply_url": "https://x.com/mamba0805/status/2116055541839806789"
   },
@@ -367,7 +369,7 @@
     ],
     "likes": 1,
     "bookmarks": 0,
-    "impressions": 146,
+    "impressions": 149,
     "replies": 0,
     "reply_url": "https://x.com/Kubai087/status/2116022454900687156"
   },
@@ -385,7 +387,7 @@
     ],
     "likes": 1,
     "bookmarks": 0,
-    "impressions": 69,
+    "impressions": 71,
     "replies": 0,
     "reply_url": "https://x.com/rockeymen/status/2116008299065975175"
   },
@@ -434,8 +436,8 @@
       "https://github.com/leemysw/yovoice"
     ],
     "likes": 0,
-    "bookmarks": 0,
-    "impressions": 48,
+    "bookmarks": 1,
+    "impressions": 53,
     "replies": 0,
     "reply_url": "https://x.com/leemysw/status/2115997079592132841"
   },
@@ -463,7 +465,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 39,
+    "impressions": 40,
     "replies": 1,
     "reply_url": "https://x.com/singu46/status/2115865474659746158"
   },
@@ -477,7 +479,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 40,
+    "impressions": 41,
     "replies": 0,
     "reply_url": "https://x.com/DavidChin0110/status/2115853637461463214"
   },
@@ -498,7 +500,7 @@
     ],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 67,
+    "impressions": 69,
     "replies": 0,
     "reply_url": "https://x.com/MuweiCallisto/status/2115668441847976401"
   },
@@ -542,7 +544,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 20,
+    "impressions": 21,
     "replies": 0,
     "reply_url": "https://x.com/JeanphiloGong/status/2115626332080263290"
   },
@@ -606,7 +608,7 @@
     ],
     "likes": 0,
     "bookmarks": 1,
-    "impressions": 120,
+    "impressions": 123,
     "replies": 0,
     "reply_url": "https://x.com/0xPlato/status/2115614821836354015"
   },
@@ -620,7 +622,7 @@
     "all_urls": [],
     "likes": 1,
     "bookmarks": 0,
-    "impressions": 72,
+    "impressions": 74,
     "replies": 1,
     "reply_url": "https://x.com/LufzzLiz/status/2115612853462073627"
   },
@@ -648,7 +650,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 60,
+    "impressions": 62,
     "replies": 1,
     "reply_url": "https://x.com/huaguoshanxia/status/2115609110846849176"
   },
@@ -680,7 +682,7 @@
     ],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 88,
+    "impressions": 89,
     "replies": 0,
     "reply_url": "https://x.com/yc04bq/status/2115603097775169893"
   },
@@ -730,7 +732,7 @@
     ],
     "likes": 0,
     "bookmarks": 3,
-    "impressions": 140,
+    "impressions": 141,
     "replies": 0,
     "reply_url": "https://x.com/0xCoach/status/2115587624048206141"
   },
@@ -772,7 +774,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 57,
+    "impressions": 60,
     "replies": 0,
     "reply_url": "https://x.com/GloriaXiongY/status/2115529232172679312"
   },
@@ -816,7 +818,7 @@
     ],
     "likes": 0,
     "bookmarks": 3,
-    "impressions": 144,
+    "impressions": 147,
     "replies": 1,
     "reply_url": "https://x.com/Noctropy/status/2115490763861794902"
   },
@@ -826,9 +828,7 @@
     "author_id": "157874367",
     "text": "@vista8 AtlasOS:无限画布开发工作台\nhttps://t.co/ai29lNlQbb https://t.co/3vkKiiVNCd",
     "created_at": "2026-10-28T16:32:58.000Z",
-    "urls": [
-      "https://github.com/liaokongVFX/AtlasOS"
-    ],
+    "urls": [],
     "all_urls": [
       "https://github.com/liaokongVFX/AtlasOS",
       "https://x.com/LiaoKong2024/status/2115481964073591206"
@@ -849,7 +849,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 112,
+    "impressions": 113,
     "replies": 0,
     "reply_url": "https://x.com/sooooong629/status/2115480529885950339"
   },
@@ -859,15 +859,13 @@
     "author_id": "1043789262209126400",
     "text": "@vista8 微信公众号排版网站，欢迎各位使用提出意见\nhttps://t.co/4aNPW6HbSs",
     "created_at": "2026-10-28T16:21:58.000Z",
-    "urls": [
-      "https://kaipai.itskairo.com/"
-    ],
+    "urls": [],
     "all_urls": [
       "https://kaipai.itskairo.com/"
     ],
     "likes": 1,
     "bookmarks": 0,
-    "impressions": 55,
+    "impressions": 56,
     "replies": 0,
     "reply_url": "https://x.com/itsKairoSolo/status/2115479193219899437"
   },
@@ -923,7 +921,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 13,
+    "impressions": 17,
     "replies": 0,
     "reply_url": "https://x.com/Sunkeke_AI/status/2115461984070349073"
   },
@@ -967,7 +965,7 @@
     "all_urls": [],
     "likes": 1,
     "bookmarks": 0,
-    "impressions": 184,
+    "impressions": 185,
     "replies": 0,
     "reply_url": "https://x.com/randy102488/status/2115452523066892391"
   },
@@ -981,7 +979,7 @@
     "all_urls": [],
     "likes": 3,
     "bookmarks": 0,
-    "impressions": 724,
+    "impressions": 730,
     "replies": 0,
     "reply_url": "https://x.com/canghe/status/2115450231324312019"
   },
@@ -991,15 +989,13 @@
     "author_id": "1742721986349158400",
     "text": "@vista8 https://t.co/66xjDuzqkM 专注AI图文，大半年时间做的产品",
     "created_at": "2026-10-28T14:22:15.000Z",
-    "urls": [
-      "https://wencard.com/"
-    ],
+    "urls": [],
     "all_urls": [
       "https://wencard.com/"
     ],
     "likes": 3,
     "bookmarks": 4,
-    "impressions": 451,
+    "impressions": 453,
     "replies": 2,
     "reply_url": "https://x.com/maqibin/status/2115449069435002964"
   },
@@ -1023,15 +1019,13 @@
     "author_id": "2036430645724147712",
     "text": "@vista8 本地开源版本无限画布，支持根据时间线剪辑，所有资产全部保留在本地便于项目管理\nhttps://t.co/xcbf4aWt1f",
     "created_at": "2026-10-28T13:51:58.000Z",
-    "urls": [
-      "https://github.com/BeatAPI/BeatDesign"
-    ],
+    "urls": [],
     "all_urls": [
       "https://github.com/BeatAPI/BeatDesign"
     ],
     "likes": 0,
     "bookmarks": 5,
-    "impressions": 124,
+    "impressions": 126,
     "replies": 0,
     "reply_url": "https://x.com/kkkeric_ai/status/2115441448367898834"
   },
@@ -1041,15 +1035,13 @@
     "author_id": "814884992698368000",
     "text": "@vista8 https://t.co/UHSgcM7zf5\n前段时间做的, 给3-6岁宝宝家长用的宝可梦学英语产品, 给喜欢宝可梦的小朋友们实现训练家的愿望, 又能给小朋友磨耳朵",
     "created_at": "2026-10-28T13:36:50.000Z",
-    "urls": [
-      "https://pokepal-online.pages.dev/"
-    ],
+    "urls": [],
     "all_urls": [
       "https://pokepal-online.pages.dev/"
     ],
     "likes": 0,
     "bookmarks": 1,
-    "impressions": 242,
+    "impressions": 248,
     "replies": 0,
     "reply_url": "https://x.com/drmrzhong/status/2115437638203449825"
   },
@@ -1059,15 +1051,13 @@
     "author_id": "1501547317337354246",
     "text": "@vista8 开源一个视频生成引擎,深度融合与 Anatomy和Hyperframes两大开源生态，通过Vibe Coding生成3D视频\nhttps://t.co/l2kmuM8HIp",
     "created_at": "2026-10-28T13:10:25.000Z",
-    "urls": [
-      "https://github.com/laowang5/anatomy-hyperframes-video"
-    ],
+    "urls": [],
     "all_urls": [
       "https://github.com/laowang5/anatomy-hyperframes-video"
     ],
     "likes": 2,
     "bookmarks": 4,
-    "impressions": 423,
+    "impressions": 425,
     "replies": 0,
     "reply_url": "https://x.com/AgentWangCN/status/2115430989971530180"
   },
@@ -1081,7 +1071,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 207,
+    "impressions": 214,
     "replies": 0,
     "reply_url": "https://x.com/hillrun01/status/2115429612629204995"
   },
@@ -1119,17 +1109,14 @@
     "author_id": "1638340500439674882",
     "text": "@vista8 求推荐：\n灵感视频工作台\n🔗 在线用：https://t.co/XIBBjKzF99\n🔗 GitHub  https://t.co/x6xsTvIgNZ\n\n专门做的一个视频 agent 工作台，想去简化整个视频制作的过程，目前基本流程是闭环的，有问题欢迎提 issue，",
     "created_at": "2026-10-28T12:48:55.000Z",
-    "urls": [
-      "https://coinisi.com/",
-      "https://github.com/Coinsi/inspiration"
-    ],
+    "urls": [],
     "all_urls": [
       "https://coinisi.com/",
       "https://github.com/Coinsi/inspiration"
     ],
     "likes": 1,
     "bookmarks": 2,
-    "impressions": 78,
+    "impressions": 79,
     "replies": 0,
     "reply_url": "https://x.com/RainhappyL/status/2115425581139628433"
   },
@@ -1139,9 +1126,7 @@
     "author_id": "1637576694579212290",
     "text": "@vista8 爆肝三天 vibe  coding 的 自己的专属提词器\n1.将手机变成wIndows电脑的高\n清摄像头\n2.利用本地模型智能滑动提词器\n3.支持连接obs模式或悬浮在原生摄像头上使用的提词器\n这里也分享给和我一样还在坚守android 和 windows 阵营 的自媒体小伙伴，\nhttps://t.co/j2fvhjFjaY https://t.co/xP20aZeRz5",
     "created_at": "2026-10-28T12:48:10.000Z",
-    "urls": [
-      "https://blackjuly.github.io/FlyLens/index.html"
-    ],
+    "urls": [],
     "all_urls": [
       "https://blackjuly.github.io/FlyLens/index.html",
       "https://x.com/Alex_Wong1995/status/2115425389992693923"
@@ -1167,7 +1152,7 @@
     ],
     "likes": 0,
     "bookmarks": 2,
-    "impressions": 197,
+    "impressions": 198,
     "replies": 0,
     "reply_url": "https://x.com/rya_nooo/status/2115417767973191754"
   },
@@ -1181,7 +1166,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 18,
+    "impressions": 20,
     "replies": 0,
     "reply_url": "https://x.com/PanYang0203/status/2115407737039536140"
   },
@@ -1218,7 +1203,7 @@
     ],
     "likes": 0,
     "bookmarks": 2,
-    "impressions": 233,
+    "impressions": 236,
     "replies": 1,
     "reply_url": "https://x.com/y3uc1en/status/2115388007406797059"
   },
@@ -1297,8 +1282,7 @@
       "https://videobee.ai/"
     ],
     "all_urls": [
-      "https://videobee.ai/",
-      "https://t.co/XmZlb8io7X在线压缩视频"
+      "https://videobee.ai/"
     ],
     "likes": 1,
     "bookmarks": 0,
@@ -1316,8 +1300,7 @@
       "https://videobee.ai/"
     ],
     "all_urls": [
-      "https://videobee.ai/",
-      "https://t.co/XmZlb8io7X在线压缩视频"
+      "https://videobee.ai/"
     ],
     "likes": 1,
     "bookmarks": 1,
@@ -1340,7 +1323,7 @@
     ],
     "likes": 2,
     "bookmarks": 6,
-    "impressions": 384,
+    "impressions": 386,
     "replies": 1,
     "reply_url": "https://x.com/CatCatMuse/status/2115371661658927254"
   },
@@ -1372,7 +1355,7 @@
     ],
     "likes": 5,
     "bookmarks": 3,
-    "impressions": 462,
+    "impressions": 467,
     "replies": 1,
     "reply_url": "https://x.com/mamba0805/status/2115363392219480155"
   },
@@ -1390,7 +1373,7 @@
     ],
     "likes": 1,
     "bookmarks": 1,
-    "impressions": 245,
+    "impressions": 246,
     "replies": 1,
     "reply_url": "https://x.com/wycai/status/2115360490188857643"
   },
@@ -1406,7 +1389,7 @@
     ],
     "likes": 1,
     "bookmarks": 1,
-    "impressions": 424,
+    "impressions": 425,
     "replies": 0,
     "reply_url": "https://x.com/Last_Lighter/status/2115360151058440432"
   },
@@ -1420,7 +1403,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 39,
+    "impressions": 40,
     "replies": 0,
     "reply_url": "https://x.com/katcat_AI/status/2115359508101026118"
   },
@@ -1438,7 +1421,7 @@
     ],
     "likes": 1,
     "bookmarks": 2,
-    "impressions": 272,
+    "impressions": 274,
     "replies": 0,
     "reply_url": "https://x.com/mmlong8/status/2115357752944218381"
   },
@@ -1488,7 +1471,7 @@
     ],
     "likes": 2,
     "bookmarks": 2,
-    "impressions": 365,
+    "impressions": 367,
     "replies": 0,
     "reply_url": "https://x.com/looplj2/status/2115354527809548465"
   },
@@ -1507,7 +1490,7 @@
     ],
     "likes": 2,
     "bookmarks": 2,
-    "impressions": 565,
+    "impressions": 567,
     "replies": 0,
     "reply_url": "https://x.com/katcat_AI/status/2115354326285832473"
   },
@@ -1525,7 +1508,7 @@
     ],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 14,
+    "impressions": 15,
     "replies": 0,
     "reply_url": "https://x.com/waterxig/status/2115354022228172883"
   },
@@ -1608,7 +1591,7 @@
     ],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 68,
+    "impressions": 69,
     "replies": 0,
     "reply_url": "https://x.com/Connorclaw/status/2115348377500319793"
   },
@@ -1622,7 +1605,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 55,
+    "impressions": 60,
     "replies": 0,
     "reply_url": "https://x.com/RookieRicardoR/status/2115345082396406035"
   },
@@ -1636,7 +1619,7 @@
     "all_urls": [],
     "likes": 1,
     "bookmarks": 1,
-    "impressions": 318,
+    "impressions": 327,
     "replies": 0,
     "reply_url": "https://x.com/jasoninvest7/status/2115344635317076463"
   },
@@ -1691,7 +1674,7 @@
     ],
     "likes": 1,
     "bookmarks": 2,
-    "impressions": 505,
+    "impressions": 506,
     "replies": 0,
     "reply_url": "https://x.com/lokichris2046/status/2115342572994609537"
   },
@@ -1705,7 +1688,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 1,
-    "impressions": 91,
+    "impressions": 92,
     "replies": 0,
     "reply_url": "https://x.com/FatsugarD/status/2115342403532210202"
   },
@@ -1737,7 +1720,7 @@
     ],
     "likes": 1,
     "bookmarks": 1,
-    "impressions": 169,
+    "impressions": 171,
     "replies": 1,
     "reply_url": "https://x.com/lumm256/status/2115341575341654436"
   },
@@ -1765,7 +1748,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 238,
+    "impressions": 244,
     "replies": 0,
     "reply_url": "https://x.com/AIstar3271/status/2115340030634004635"
   },
@@ -1779,7 +1762,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 204,
+    "impressions": 205,
     "replies": 0,
     "reply_url": "https://x.com/Baoge_AI_/status/2115340025902813584"
   },
@@ -1793,7 +1776,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 88,
+    "impressions": 89,
     "replies": 1,
     "reply_url": "https://x.com/ZJL20373362/status/2115340017023541473"
   },
@@ -1807,7 +1790,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 152,
+    "impressions": 153,
     "replies": 0,
     "reply_url": "https://x.com/lin_tyrion/status/2115339706397532498"
   },
@@ -1821,7 +1804,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 151,
+    "impressions": 152,
     "replies": 0,
     "reply_url": "https://x.com/tiandidadacqqx/status/2115339589615542359"
   },
@@ -1835,7 +1818,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 1,
-    "impressions": 915,
+    "impressions": 919,
     "replies": 1,
     "reply_url": "https://x.com/vista8/status/2115339541855035845"
   },
@@ -1849,7 +1832,7 @@
     "all_urls": [],
     "likes": 2,
     "bookmarks": 0,
-    "impressions": 886,
+    "impressions": 889,
     "replies": 2,
     "reply_url": "https://x.com/FatsugarD/status/2115338867993874840"
   },
@@ -1868,7 +1851,7 @@
     ],
     "likes": 0,
     "bookmarks": 1,
-    "impressions": 322,
+    "impressions": 325,
     "replies": 0,
     "reply_url": "https://x.com/jakeybruce/status/2115336999309811933"
   },
@@ -1886,7 +1869,7 @@
     ],
     "likes": 1,
     "bookmarks": 1,
-    "impressions": 228,
+    "impressions": 229,
     "replies": 0,
     "reply_url": "https://x.com/bankai_ajar/status/2115336812055146856"
   },
@@ -1900,7 +1883,7 @@
     "all_urls": [],
     "likes": 1,
     "bookmarks": 0,
-    "impressions": 155,
+    "impressions": 156,
     "replies": 0,
     "reply_url": "https://x.com/yinpengxuan/status/2115336225070752096"
   },
@@ -1932,7 +1915,7 @@
     ],
     "likes": 1,
     "bookmarks": 0,
-    "impressions": 443,
+    "impressions": 444,
     "replies": 0,
     "reply_url": "https://x.com/zhengtang364848/status/2115335576073453678"
   },
@@ -1948,7 +1931,7 @@
     ],
     "likes": 1,
     "bookmarks": 3,
-    "impressions": 300,
+    "impressions": 303,
     "replies": 0,
     "reply_url": "https://x.com/Zkm211/status/2115335505399435339"
   },
@@ -2006,7 +1989,7 @@
     ],
     "likes": 1,
     "bookmarks": 1,
-    "impressions": 586,
+    "impressions": 589,
     "replies": 0,
     "reply_url": "https://x.com/app_sail/status/2115332617600196705"
   },
@@ -2024,7 +2007,7 @@
     ],
     "likes": 3,
     "bookmarks": 1,
-    "impressions": 391,
+    "impressions": 397,
     "replies": 0,
     "reply_url": "https://x.com/RookieRicardoR/status/2115331478037118976"
   },
@@ -2040,27 +2023,9 @@
     ],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 120,
+    "impressions": 122,
     "replies": 0,
     "reply_url": "https://x.com/vb_zhai/status/2115331433585922454"
-  },
-  {
-    "id": "2115330917623574759",
-    "handle": "GeekRadioLeo",
-    "author_id": "2029758865806610439",
-    "text": "@vista8 自荐一个：https://t.co/MNOJLscAvW 终端里的Z-Library",
-    "created_at": "2026-10-28T06:32:46.000Z",
-    "urls": [
-      "https://zlib.heartleo.dev/"
-    ],
-    "all_urls": [
-      "https://zlib.heartleo.dev/"
-    ],
-    "likes": 0,
-    "bookmarks": 0,
-    "impressions": 121,
-    "replies": 0,
-    "reply_url": "https://x.com/GeekRadioLeo/status/2115330917623574759"
   },
   {
     "id": "2115330323856900115",
@@ -2094,7 +2059,7 @@
     ],
     "likes": 2,
     "bookmarks": 1,
-    "impressions": 430,
+    "impressions": 431,
     "replies": 0,
     "reply_url": "https://x.com/dsholys10/status/2115330060236599438"
   },
@@ -2230,7 +2195,7 @@
     ],
     "likes": 0,
     "bookmarks": 2,
-    "impressions": 294,
+    "impressions": 296,
     "replies": 1,
     "reply_url": "https://x.com/yangsir_ai/status/2115328575335444824"
   },
@@ -2248,7 +2213,7 @@
     ],
     "likes": 4,
     "bookmarks": 14,
-    "impressions": 1145,
+    "impressions": 1149,
     "replies": 0,
     "reply_url": "https://x.com/berryxia/status/2115327779327844430"
   },
@@ -2266,7 +2231,7 @@
     ],
     "likes": 1,
     "bookmarks": 0,
-    "impressions": 488,
+    "impressions": 494,
     "replies": 0,
     "reply_url": "https://x.com/wen0531/status/2115327677343404305"
   },
@@ -2296,7 +2261,7 @@
     ],
     "likes": 5,
     "bookmarks": 2,
-    "impressions": 543,
+    "impressions": 548,
     "replies": 0,
     "reply_url": "https://x.com/bbkirstry/status/2115325767462875539"
   },
@@ -2315,7 +2280,7 @@
     ],
     "likes": 1,
     "bookmarks": 6,
-    "impressions": 666,
+    "impressions": 667,
     "replies": 0,
     "reply_url": "https://x.com/TaXue2025/status/2115325671669133410"
   },
@@ -2347,7 +2312,7 @@
     ],
     "likes": 7,
     "bookmarks": 9,
-    "impressions": 1513,
+    "impressions": 1524,
     "replies": 1,
     "reply_url": "https://x.com/RookieRicardoR/status/2115325496175239245"
   },
@@ -2361,7 +2326,7 @@
     "all_urls": [],
     "likes": 3,
     "bookmarks": 1,
-    "impressions": 1502,
+    "impressions": 1509,
     "replies": 0,
     "reply_url": "https://x.com/vista8/status/2115325309449031946"
   },
@@ -2383,7 +2348,7 @@
     ],
     "likes": 2,
     "bookmarks": 2,
-    "impressions": 166,
+    "impressions": 167,
     "replies": 0,
     "reply_url": "https://x.com/zifeiyuooooooo/status/2115324947354804285"
   },
@@ -2417,7 +2382,7 @@
     ],
     "likes": 11,
     "bookmarks": 10,
-    "impressions": 1664,
+    "impressions": 1677,
     "replies": 2,
     "reply_url": "https://x.com/jryang1997/status/2115324444394897806"
   },
@@ -2435,7 +2400,7 @@
     ],
     "likes": 2,
     "bookmarks": 1,
-    "impressions": 541,
+    "impressions": 545,
     "replies": 1,
     "reply_url": "https://x.com/AgiRay1015/status/2115324363935453601"
   },
@@ -2449,7 +2414,7 @@
     "all_urls": [],
     "likes": 1,
     "bookmarks": 0,
-    "impressions": 180,
+    "impressions": 181,
     "replies": 0,
     "reply_url": "https://x.com/hyz1464269/status/2115324192010727873"
   },
@@ -2463,7 +2428,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 278,
+    "impressions": 280,
     "replies": 0,
     "reply_url": "https://x.com/LufzzLiz/status/2115324152924234007"
   },
@@ -2477,7 +2442,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 1,
-    "impressions": 225,
+    "impressions": 229,
     "replies": 0,
     "reply_url": "https://x.com/yuqingjz/status/2115324139141783633"
   },
@@ -2493,7 +2458,7 @@
     ],
     "likes": 2,
     "bookmarks": 3,
-    "impressions": 382,
+    "impressions": 383,
     "replies": 0,
     "reply_url": "https://x.com/victor_cheng_42/status/2115323803685585120"
   },
@@ -2521,7 +2486,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 128,
+    "impressions": 129,
     "replies": 0,
     "reply_url": "https://x.com/dongrongai/status/2115323583044198769"
   },
@@ -2535,7 +2500,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 254,
+    "impressions": 259,
     "replies": 0,
     "reply_url": "https://x.com/404latitude/status/2115323293599404314"
   },
@@ -2549,7 +2514,7 @@
     "all_urls": [],
     "likes": 2,
     "bookmarks": 0,
-    "impressions": 131,
+    "impressions": 132,
     "replies": 0,
     "reply_url": "https://x.com/RookieRicardoR/status/2115323024526499904"
   },
@@ -2568,7 +2533,7 @@
     ],
     "likes": 10,
     "bookmarks": 16,
-    "impressions": 1094,
+    "impressions": 1113,
     "replies": 1,
     "reply_url": "https://x.com/LufzzLiz/status/2115322758729216364"
   },
@@ -2582,7 +2547,7 @@
     "all_urls": [],
     "likes": 1,
     "bookmarks": 1,
-    "impressions": 1561,
+    "impressions": 1568,
     "replies": 1,
     "reply_url": "https://x.com/vista8/status/2115322750474850765"
   },
@@ -2596,7 +2561,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 131,
+    "impressions": 133,
     "replies": 0,
     "reply_url": "https://x.com/kouhualin/status/2115322430537470113"
   },
@@ -2629,7 +2594,7 @@
     ],
     "likes": 9,
     "bookmarks": 7,
-    "impressions": 1775,
+    "impressions": 1783,
     "replies": 4,
     "reply_url": "https://x.com/LufzzLiz/status/2115322251549774111"
   },
@@ -2661,7 +2626,7 @@
     ],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 42,
+    "impressions": 44,
     "replies": 0,
     "reply_url": "https://x.com/kouhualin/status/2115321907134464419"
   },
@@ -2679,7 +2644,7 @@
     ],
     "likes": 4,
     "bookmarks": 12,
-    "impressions": 1323,
+    "impressions": 1333,
     "replies": 1,
     "reply_url": "https://x.com/vista8/status/2115321901216325810"
   },
@@ -2697,7 +2662,7 @@
     ],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 50,
+    "impressions": 52,
     "replies": 1,
     "reply_url": "https://x.com/kouhualin/status/2115321563402904053"
   },
@@ -2711,7 +2676,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 1235,
+    "impressions": 1240,
     "replies": 1,
     "reply_url": "https://x.com/vista8/status/2115321469727281222"
   },
@@ -2729,7 +2694,7 @@
     ],
     "likes": 1,
     "bookmarks": 1,
-    "impressions": 1279,
+    "impressions": 1282,
     "replies": 2,
     "reply_url": "https://x.com/kouhualin/status/2115321371828052371"
   },
@@ -2757,7 +2722,7 @@
     "all_urls": [],
     "likes": 1,
     "bookmarks": 0,
-    "impressions": 57,
+    "impressions": 58,
     "replies": 0,
     "reply_url": "https://x.com/longhaiqwe123/status/2115321169167761859"
   },
@@ -2771,7 +2736,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 1644,
+    "impressions": 1648,
     "replies": 1,
     "reply_url": "https://x.com/vista8/status/2115321157717303382"
   },
@@ -2781,17 +2746,14 @@
     "author_id": "1497795331488055296",
     "text": "@vista8 我自己做了一个剪切板和一个截图软件， https://t.co/9zyjN6rOYr\nhttps://t.co/Z7GjWIoAWE",
     "created_at": "2026-10-28T05:53:45.000Z",
-    "urls": [
-      "https://clipdot.erduo.dev",
-      "https://snipdot.erduo.dev"
-    ],
+    "urls": [],
     "all_urls": [
       "https://clipdot.erduo.dev",
       "https://snipdot.erduo.dev"
     ],
     "likes": 4,
     "bookmarks": 5,
-    "impressions": 1300,
+    "impressions": 1304,
     "replies": 2,
     "reply_url": "https://x.com/RookieRicardoR/status/2115321099118682120"
   },
@@ -2801,15 +2763,13 @@
     "author_id": "1003243796044238848",
     "text": "@vista8 给大家也补充个免费选项：@idoubicc 老师的 https://t.co/kC28D0Yw8z，我反正切过去了（主要是我基本只用快速启动选项，逗比老师的好像更清爽）",
     "created_at": "2026-10-28T05:53:35.000Z",
-    "urls": [
-      "https://spotcat.ai/zh"
-    ],
+    "urls": [],
     "all_urls": [
       "https://spotcat.ai/zh"
     ],
     "likes": 1,
     "bookmarks": 3,
-    "impressions": 339,
+    "impressions": 350,
     "replies": 0,
     "reply_url": "https://x.com/longhaiqwe123/status/2115321055342682493"
   },
@@ -2823,7 +2783,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 152,
+    "impressions": 153,
     "replies": 0,
     "reply_url": "https://x.com/cgnot996/status/2115320791613235243"
   },
@@ -2837,7 +2797,7 @@
     "all_urls": [],
     "likes": 1,
     "bookmarks": 0,
-    "impressions": 1498,
+    "impressions": 1503,
     "replies": 1,
     "reply_url": "https://x.com/vista8/status/2115320546246398028"
   },
@@ -2851,7 +2811,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 198,
+    "impressions": 202,
     "replies": 0,
     "reply_url": "https://x.com/pingmin12789/status/2115320400725069857"
   },
@@ -2889,15 +2849,13 @@
     "author_id": "1207258810512838656",
     "text": "@vista8 分享我的心头好：https://t.co/2yHMiVtRIx",
     "created_at": "2026-10-28T05:49:56.000Z",
-    "urls": [
-      "https://tongjiang.app/works/car-base/overview/"
-    ],
+    "urls": [],
     "all_urls": [
       "https://tongjiang.app/works/car-base/overview/"
     ],
     "likes": 2,
     "bookmarks": 5,
-    "impressions": 477,
+    "impressions": 480,
     "replies": 0,
     "reply_url": "https://x.com/CopperForgeAI/status/2115320137557680582"
   },
@@ -2907,15 +2865,13 @@
     "author_id": "1997889576187387904",
     "text": "@vista8 我开发的 Grok Bot 浏览器插件\n你在浏览器看到的内容都可以共享给指定的 Bot\n\nhttps://t.co/cQ2sF2wFhB",
     "created_at": "2026-10-28T05:49:41.000Z",
-    "urls": [
-      "https://bot.fmcat.top/ecosystem/grok-bot-clipper"
-    ],
+    "urls": [],
     "all_urls": [
       "https://bot.fmcat.top/ecosystem/grok-bot-clipper"
     ],
     "likes": 13,
     "bookmarks": 15,
-    "impressions": 1810,
+    "impressions": 1819,
     "replies": 3,
     "reply_url": "https://x.com/cgnot996/status/2115320074383053047"
   },
@@ -2925,17 +2881,14 @@
     "author_id": "1207258810512838656",
     "text": "@vista8 求推荐：\n3d互动教育课程开源，目前已经可以开源55门。  \n🔗 在线用：https://t.co/ouQfwqTnEz\n🔗 GitHub https://t.co/HJDJOf8aeU",
     "created_at": "2026-10-28T05:49:22.000Z",
-    "urls": [
-      "https://lab.tongjiang.app",
-      "https://github.com/smithjohn78390/tongjiang-lab"
-    ],
+    "urls": [],
     "all_urls": [
       "https://lab.tongjiang.app",
       "https://github.com/smithjohn78390/tongjiang-lab"
     ],
     "likes": 19,
     "bookmarks": 31,
-    "impressions": 2056,
+    "impressions": 2066,
     "replies": 2,
     "reply_url": "https://x.com/CopperForgeAI/status/2115319997832839246"
   },
@@ -2949,7 +2902,7 @@
     "all_urls": [],
     "likes": 0,
     "bookmarks": 0,
-    "impressions": 295,
+    "impressions": 296,
     "replies": 0,
     "reply_url": "https://x.com/Younik4we/status/2115319655388610754"
   },
@@ -2973,15 +2926,13 @@
     "author_id": "6690032",
     "text": "自己先来，订阅了三年的工具 Raycast AI：\n\n内置几乎所有顶级模型，快捷键对话，比打开 Agent 方便，有丰富的生态，安装了能替代一堆小工具，比如调整窗口、语音转写等。\n\nhttps://t.co/BWoXPixwml",
     "created_at": "2026-10-28T05:46:14.000Z",
-    "urls": [
-      "https://raycast.com/?via=joe-seesun"
-    ],
+    "urls": [],
     "all_urls": [
       "https://raycast.com/?via=joe-seesun"
     ],
     "likes": 11,
     "bookmarks": 8,
-    "impressions": 4413,
+    "impressions": 4488,
     "replies": 8,
     "reply_url": "https://x.com/vista8/status/2115319209437872246"
   },
@@ -2997,7 +2948,7 @@
     ],
     "likes": 1,
     "bookmarks": 4,
-    "impressions": 498,
+    "impressions": 499,
     "replies": 0,
     "reply_url": "https://x.com/longhaiqwe123/status/2115319062976930145"
   },
@@ -3011,8 +2962,8 @@
     "all_urls": [],
     "likes": 132,
     "bookmarks": 167,
-    "impressions": 42529,
-    "replies": 129,
+    "impressions": 43107,
+    "replies": 128,
     "reply_url": "https://x.com/vista8/status/2115318655525523714"
   }
 ]

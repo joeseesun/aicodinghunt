@@ -24,6 +24,8 @@
         ]
       },
       "id": "2116006522560147629",
+      "in_reply_to_user_id": "1207258810512838656",
+      "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 18,
@@ -72,6 +74,8 @@
         ]
       },
       "id": "2116004688529354808",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 1,
@@ -132,9 +136,11 @@
         ]
       },
       "id": "2115997079592132841",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 48,
+        "bookmark_count": 1,
+        "impression_count": 53,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -167,6 +173,8 @@
         ]
       },
       "id": "2115954801330758091",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 25,
@@ -208,9 +216,11 @@
         ]
       },
       "id": "2115865474659746158",
+      "in_reply_to_user_id": "1724148821222133761",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 39,
+        "impression_count": 40,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -243,9 +253,11 @@
         ]
       },
       "id": "2115853637461463214",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 40,
+        "impression_count": 41,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -321,9 +333,11 @@
         ]
       },
       "id": "2115668441847976401",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 67,
+        "impression_count": 69,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -375,6 +389,8 @@
         ]
       },
       "id": "2115658389590270236",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 5,
@@ -416,6 +432,8 @@
         ]
       },
       "id": "2115629446212559226",
+      "in_reply_to_user_id": "1653295891443515392",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 31,
@@ -457,9 +475,11 @@
         ]
       },
       "id": "2115626332080263290",
+      "in_reply_to_user_id": "385212290",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 20,
+        "impression_count": 21,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -517,6 +537,8 @@
         ]
       },
       "id": "2115619834579063117",
+      "in_reply_to_user_id": "2093074694710673408",
+      "lang": "qme",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 2,
@@ -552,6 +574,8 @@
         ]
       },
       "id": "2115619670594330926",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 3,
@@ -593,6 +617,8 @@
         ]
       },
       "id": "2115616104488038610",
+      "in_reply_to_user_id": "1598519155736645632",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 5,
@@ -653,9 +679,11 @@
         ]
       },
       "id": "2115614821836354015",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 120,
+        "impression_count": 123,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -694,9 +722,11 @@
         ]
       },
       "id": "2115612853462073627",
+      "in_reply_to_user_id": "1022657191923216384",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 72,
+        "impression_count": 74,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 1,
@@ -729,6 +759,8 @@
         ]
       },
       "id": "2115612016429908271",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 3,
@@ -770,9 +802,11 @@
         ]
       },
       "id": "2115609110846849176",
+      "in_reply_to_user_id": "1598519155736645632",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 60,
+        "impression_count": 62,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -811,6 +845,8 @@
         ]
       },
       "id": "2115606222150029730",
+      "in_reply_to_user_id": "1894397103751008256",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 9,
@@ -871,9 +907,11 @@
         ]
       },
       "id": "2115603097775169893",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 88,
+        "impression_count": 89,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -912,6 +950,8 @@
         ]
       },
       "id": "2115591797795946769",
+      "in_reply_to_user_id": "1742721986349158400",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 33,
@@ -972,6 +1012,8 @@
         ]
       },
       "id": "2115590206757982330",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
         "impression_count": 51,
@@ -1032,9 +1074,11 @@
         ]
       },
       "id": "2115587624048206141",
+      "in_reply_to_user_id": "6690032",
+      "lang": "ja",
       "public_metrics": {
         "bookmark_count": 3,
-        "impression_count": 140,
+        "impression_count": 141,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -1067,6 +1111,8 @@
         ]
       },
       "id": "2115583606773223626",
+      "in_reply_to_user_id": "6690032",
+      "lang": "tl",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 74,
@@ -1108,6 +1154,8 @@
         ]
       },
       "id": "2115582414147973420",
+      "in_reply_to_user_id": "1497795331488055296",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 16,
@@ -1143,9 +1191,11 @@
         ]
       },
       "id": "2115529232172679312",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 57,
+        "impression_count": 60,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -1164,9 +1214,11 @@
   "includes": {
     "media": [
       {
+        "height": 1080,
         "media_key": "13_2115658287815487490",
         "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115658287815487490/img/ZcNRSUkY0tvWYaLq.jpg",
-        "type": "video"
+        "type": "video",
+        "width": 1920
       }
     ],
     "tweets": [
@@ -1236,9 +1288,11 @@
           ]
         },
         "id": "2115319997832839246",
+        "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 31,
-          "impression_count": 2056,
+          "impression_count": 2066,
           "like_count": 19,
           "quote_count": 0,
           "reply_count": 2,
@@ -1260,13 +1314,14 @@
           "2115318655525523714"
         ],
         "id": "2115318655525523714",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 167,
-          "impression_count": 42529,
+          "impression_count": 43107,
           "like_count": 132,
           "quote_count": 6,
-          "reply_count": 129,
-          "retweet_count": 17
+          "reply_count": 128,
+          "retweet_count": 18
         },
         "text": "评论发自己最喜欢用的 AI 工具和项目！\n\n可以是自己 AI Coding的产品，或一直花钱订阅的AI 工具。\n\n产品可以是网站、App、Skill、插件、开源代码。\n\n点赞人多，测试好用，我会转发帮大家加热。\n\n某次「未来硅世界」直播，网友展示了很多有创造力的产品，但缺传播渠道。\n\n索性来个自荐和推荐活动~"
       },
@@ -1313,9 +1368,11 @@
           ]
         },
         "id": "2115363392219480155",
+        "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 3,
-          "impression_count": 462,
+          "impression_count": 467,
           "like_count": 5,
           "quote_count": 0,
           "reply_count": 1,
@@ -1337,9 +1394,10 @@
           "2106273531738706052"
         ],
         "id": "2106273531738706052",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 299,
+          "impression_count": 301,
           "like_count": 0,
           "quote_count": 1,
           "reply_count": 1,
@@ -1371,6 +1429,8 @@
           ]
         },
         "id": "2115591797795946769",
+        "in_reply_to_user_id": "1742721986349158400",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
           "impression_count": 33,
@@ -1430,9 +1490,11 @@
           ]
         },
         "id": "2115360490188857643",
+        "in_reply_to_user_id": "6690032",
+        "lang": "ja",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 245,
+          "impression_count": 246,
           "like_count": 1,
           "quote_count": 0,
           "reply_count": 1,
@@ -1464,6 +1526,8 @@
           ]
         },
         "id": "2115619670594330926",
+        "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
           "impression_count": 3,
@@ -1504,9 +1568,11 @@
           ]
         },
         "id": "2115612853462073627",
+        "in_reply_to_user_id": "1022657191923216384",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 72,
+          "impression_count": 74,
           "like_count": 1,
           "quote_count": 0,
           "reply_count": 1,
@@ -1544,9 +1610,11 @@
           ]
         },
         "id": "2115609110846849176",
+        "in_reply_to_user_id": "1598519155736645632",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 60,
+          "impression_count": 62,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -1625,9 +1693,11 @@
           ]
         },
         "id": "2115322251549774111",
+        "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 7,
-          "impression_count": 1775,
+          "impression_count": 1783,
           "like_count": 9,
           "quote_count": 0,
           "reply_count": 4,
@@ -1665,6 +1735,8 @@
           ]
         },
         "id": "2115582414147973420",
+        "in_reply_to_user_id": "1497795331488055296",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
           "impression_count": 16,
@@ -1712,9 +1784,11 @@
           ]
         },
         "id": "2115449069435002964",
+        "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 4,
-          "impression_count": 451,
+          "impression_count": 453,
           "like_count": 3,
           "quote_count": 0,
           "reply_count": 2,
@@ -1794,9 +1868,11 @@
           ]
         },
         "id": "2115321099118682120",
+        "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 5,
-          "impression_count": 1300,
+          "impression_count": 1304,
           "like_count": 4,
           "quote_count": 0,
           "reply_count": 2,
@@ -1817,12 +1893,12 @@
         "name": "Rockeymen",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2109860933040582657/isLEN-Hy_normal.jpg",
         "public_metrics": {
-          "followers_count": 127,
-          "following_count": 163,
-          "like_count": 67,
+          "followers_count": 134,
+          "following_count": 184,
+          "like_count": 80,
           "listed_count": 0,
-          "media_count": 107,
-          "tweet_count": 556
+          "media_count": 105,
+          "tweet_count": 643
         },
         "username": "rockeymen"
       },
@@ -1831,12 +1907,12 @@
         "name": "超神投资",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2087374439872913408/ROHbtCVd_normal.jpg",
         "public_metrics": {
-          "followers_count": 375,
-          "following_count": 619,
-          "like_count": 395,
+          "followers_count": 378,
+          "following_count": 626,
+          "like_count": 398,
           "listed_count": 1,
-          "media_count": 66,
-          "tweet_count": 198
+          "media_count": 68,
+          "tweet_count": 203
         },
         "username": "chaoshentouzi"
       },
@@ -1846,8 +1922,8 @@
         "profile_image_url": "https://pbs.twimg.com/profile_images/2110261703199887360/48U-m-NZ_normal.jpg",
         "public_metrics": {
           "followers_count": 542,
-          "following_count": 171,
-          "like_count": 8,
+          "following_count": 172,
+          "like_count": 9,
           "listed_count": 2,
           "media_count": 116,
           "tweet_count": 328
@@ -1859,12 +1935,12 @@
         "name": "Alvis.Chan",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2107772030284353536/M92Ql9Jz_normal.jpg",
         "public_metrics": {
-          "followers_count": 4849,
-          "following_count": 7500,
-          "like_count": 122207,
+          "followers_count": 4835,
+          "following_count": 7499,
+          "like_count": 122369,
           "listed_count": 1,
-          "media_count": 51,
-          "tweet_count": 17553
+          "media_count": 53,
+          "tweet_count": 17590
         },
         "username": "liguozzz"
       },
@@ -1873,12 +1949,12 @@
         "name": "AI进来也要报产地",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2113270705693556736/0L2pO6-w_normal.jpg",
         "public_metrics": {
-          "followers_count": 27,
-          "following_count": 74,
-          "like_count": 47,
+          "followers_count": 32,
+          "following_count": 81,
+          "like_count": 49,
           "listed_count": 0,
-          "media_count": 2,
-          "tweet_count": 75
+          "media_count": 5,
+          "tweet_count": 98
         },
         "username": "singu46"
       },
@@ -1887,12 +1963,12 @@
         "name": "David. AI",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2108772342612844544/6sf67q8x_normal.jpg",
         "public_metrics": {
-          "followers_count": 2840,
-          "following_count": 2944,
-          "like_count": 125,
+          "followers_count": 2885,
+          "following_count": 2998,
+          "like_count": 124,
           "listed_count": 0,
-          "media_count": 158,
-          "tweet_count": 1682
+          "media_count": 160,
+          "tweet_count": 1703
         },
         "username": "DavidChin0110"
       },
@@ -1901,12 +1977,12 @@
         "name": "Muwei",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2058536384282189824/0vMNU3Ix_normal.jpg",
         "public_metrics": {
-          "followers_count": 179,
+          "followers_count": 177,
           "following_count": 77,
           "like_count": 455,
           "listed_count": 1,
           "media_count": 108,
-          "tweet_count": 684
+          "tweet_count": 685
         },
         "username": "MuweiCallisto"
       },
@@ -1915,12 +1991,12 @@
         "name": "郁江（いくえ）",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2114405550368903168/2yL4PcsN_normal.jpg",
         "public_metrics": {
-          "followers_count": 1768,
-          "following_count": 1764,
-          "like_count": 267,
+          "followers_count": 1914,
+          "following_count": 1988,
+          "like_count": 289,
           "listed_count": 1,
           "media_count": 78,
-          "tweet_count": 2172
+          "tweet_count": 2299
         },
         "username": "Ikue6666"
       },
@@ -1929,12 +2005,12 @@
         "name": "狂奔滴小马",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1742724073334112256/fc_BemeW_normal.png",
         "public_metrics": {
-          "followers_count": 762,
-          "following_count": 386,
-          "like_count": 482,
+          "followers_count": 765,
+          "following_count": 387,
+          "like_count": 500,
           "listed_count": 6,
           "media_count": 111,
-          "tweet_count": 529
+          "tweet_count": 538
         },
         "username": "maqibin"
       },
@@ -1943,12 +2019,12 @@
         "name": "Jeanphilo Gong",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1726403608911183872/r9vP6qnM_normal.jpg",
         "public_metrics": {
-          "followers_count": 61,
+          "followers_count": 63,
           "following_count": 24,
           "like_count": 16,
           "listed_count": 0,
           "media_count": 28,
-          "tweet_count": 1148
+          "tweet_count": 1223
         },
         "username": "JeanphiloGong"
       },
@@ -1958,7 +2034,7 @@
         "profile_image_url": "https://pbs.twimg.com/profile_images/2093075223281041408/yQ4WeMTK_normal.jpg",
         "public_metrics": {
           "followers_count": 5,
-          "following_count": 26,
+          "following_count": 27,
           "like_count": 4,
           "listed_count": 0,
           "media_count": 0,
@@ -1973,7 +2049,7 @@
         "public_metrics": {
           "followers_count": 3,
           "following_count": 105,
-          "like_count": 199,
+          "like_count": 201,
           "listed_count": 0,
           "media_count": 9,
           "tweet_count": 44
@@ -1985,12 +2061,12 @@
         "name": "Plato | Seller FDE",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1749719507428335616/SxQ9q1Fy_normal.jpg",
         "public_metrics": {
-          "followers_count": 3393,
-          "following_count": 754,
-          "like_count": 2154,
+          "followers_count": 3392,
+          "following_count": 756,
+          "like_count": 2163,
           "listed_count": 37,
-          "media_count": 240,
-          "tweet_count": 1192
+          "media_count": 243,
+          "tweet_count": 1201
         },
         "username": "0xPlato"
       },
@@ -1999,12 +2075,12 @@
         "name": "岚叔",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1680410719941165058/vWaCNg37_normal.jpg",
         "public_metrics": {
-          "followers_count": 25769,
+          "followers_count": 25822,
           "following_count": 769,
-          "like_count": 9995,
+          "like_count": 10026,
           "listed_count": 287,
-          "media_count": 1386,
-          "tweet_count": 7636
+          "media_count": 1388,
+          "tweet_count": 7662
         },
         "username": "LufzzLiz"
       },
@@ -2013,12 +2089,12 @@
         "name": "kor~",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2110759213685415936/aX0oSvCP_normal.jpg",
         "public_metrics": {
-          "followers_count": 733,
-          "following_count": 785,
-          "like_count": 39,
+          "followers_count": 745,
+          "following_count": 798,
+          "like_count": 43,
           "listed_count": 1,
-          "media_count": 32,
-          "tweet_count": 262
+          "media_count": 38,
+          "tweet_count": 278
         },
         "username": "ai_funs"
       },
@@ -2027,12 +2103,12 @@
         "name": "耳朵",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1750086551839883264/KER7NzZp_normal.jpg",
         "public_metrics": {
-          "followers_count": 11182,
+          "followers_count": 11181,
           "following_count": 488,
-          "like_count": 3016,
-          "listed_count": 262,
-          "media_count": 228,
-          "tweet_count": 4114
+          "like_count": 3017,
+          "listed_count": 263,
+          "media_count": 229,
+          "tweet_count": 4120
         },
         "username": "RookieRicardoR"
       },
@@ -2041,7 +2117,7 @@
         "name": "YC | Applied AI",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2103645379518672896/eCfaib6-_normal.jpg",
         "public_metrics": {
-          "followers_count": 133,
+          "followers_count": 131,
           "following_count": 101,
           "like_count": 24,
           "listed_count": 0,
@@ -2055,12 +2131,12 @@
         "name": "Tyler",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2093090612061073409/y09goG8v_normal.jpg",
         "public_metrics": {
-          "followers_count": 393,
+          "followers_count": 390,
           "following_count": 665,
-          "like_count": 56,
+          "like_count": 57,
           "listed_count": 0,
           "media_count": 227,
-          "tweet_count": 2230
+          "tweet_count": 2231
         },
         "username": "md440326799"
       },
@@ -2069,8 +2145,8 @@
         "name": "0xCoach",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1547599312938418177/d6Ny7a2F_normal.jpg",
         "public_metrics": {
-          "followers_count": 228,
-          "following_count": 538,
+          "followers_count": 227,
+          "following_count": 539,
           "like_count": 125,
           "listed_count": 0,
           "media_count": 38,
@@ -2083,12 +2159,12 @@
         "name": "多喝热水",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2107052398204366848/93HEg7Co_normal.jpg",
         "public_metrics": {
-          "followers_count": 4912,
-          "following_count": 5275,
-          "like_count": 13227,
+          "followers_count": 5028,
+          "following_count": 5414,
+          "like_count": 13950,
           "listed_count": 1,
           "media_count": 145,
-          "tweet_count": 9423
+          "tweet_count": 10104
         },
         "username": "dohewater"
       },
@@ -2099,10 +2175,10 @@
         "public_metrics": {
           "followers_count": 1,
           "following_count": 42,
-          "like_count": 214,
+          "like_count": 222,
           "listed_count": 0,
           "media_count": 0,
-          "tweet_count": 88
+          "tweet_count": 90
         },
         "username": "Lyzone2025"
       },
@@ -2112,7 +2188,7 @@
         "profile_image_url": "https://pbs.twimg.com/profile_images/2109508667699843072/8l4Qqu_0_normal.jpg",
         "public_metrics": {
           "followers_count": 4,
-          "following_count": 59,
+          "following_count": 62,
           "like_count": 13,
           "listed_count": 0,
           "media_count": 1,

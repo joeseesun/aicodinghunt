@@ -2,12 +2,24 @@
   "data": [
     {
       "author_id": "200932519",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:47:32.000Z",
       "edit_history_tweet_ids": [
         "2115334632262820245"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115334632262820245",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 277,
@@ -27,12 +39,24 @@
     },
     {
       "author_id": "1514784737403236354",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:46:01.000Z",
       "edit_history_tweet_ids": [
         "2115334252950876253"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115334252950876253",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 143,
@@ -52,15 +76,36 @@
     },
     {
       "author_id": "3151608288",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:39:31.000Z",
       "edit_history_tweet_ids": [
         "2115332617600196705"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/app_sail/statu…",
+            "end": 45,
+            "expanded_url": "https://x.com/app_sail/status/2115126953825185925",
+            "start": 22,
+            "url": "https://t.co/RymHCIcqEa"
+          }
+        ]
+      },
       "id": "2115332617600196705",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 586,
+        "impression_count": 589,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -81,15 +126,52 @@
     },
     {
       "author_id": "1497795331488055296",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:34:59.000Z",
       "edit_history_tweet_ids": [
         "2115331478037118976"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "基于 TradingView Trading Terminal 的 CME 期货复盘回测台。限价、止损、括号单按 1 分钟逐根撮合，跳空按真实规则给价。ES、NQ 覆盖 2016 年至今共 754 万根 1 分钟 K 线，真实成交价口径。",
+            "display_url": "chartsreplay.app",
+            "end": 63,
+            "expanded_url": "https://chartsreplay.app",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2115331479660277760/g24pt5aW?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115331479660277760/g24pt5aW?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 40,
+            "status": 200,
+            "title": "Charts Replay · 挂单到价才成交的期货回测",
+            "unwound_url": "https://chartsreplay.app",
+            "url": "https://t.co/lUMxo2I9Wv"
+          }
+        ]
+      },
       "id": "2115331478037118976",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 391,
+        "impression_count": 397,
         "like_count": 3,
         "quote_count": 0,
         "reply_count": 0,
@@ -111,15 +193,43 @@
         ]
       },
       "author_id": "1503300553295937538",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:34:49.000Z",
       "edit_history_tweet_ids": [
         "2115331433585922454"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1598519155736645632",
+            "start": 0,
+            "username": "LufzzLiz"
+          },
+          {
+            "end": 17,
+            "id": "6690032",
+            "start": 10,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/Xxnx32mEj5",
+            "end": 41,
+            "expanded_url": "https://x.com/vb_zhai/status/2115331433585922454/photo/1",
+            "media_key": "3_2115331409888051200",
+            "start": 18,
+            "url": "https://t.co/Xxnx32mEj5"
+          }
+        ]
+      },
       "id": "2115331433585922454",
       "in_reply_to_user_id": "1598519155736645632",
+      "lang": "qme",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 120,
+        "impression_count": 122,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -135,38 +245,50 @@
       "url": "https://x.com/vb_zhai/status/2115331433585922454"
     },
     {
-      "author_id": "2029758865806610439",
-      "created_at": "2026-10-28T06:32:46.000Z",
-      "edit_history_tweet_ids": [
-        "2115330917623574759"
-      ],
-      "id": "2115330917623574759",
-      "in_reply_to_user_id": "6690032",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 121,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2115318655525523714",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@vista8 自荐一个：https://t.co/MNOJLscAvW 终端里的Z-Library",
-      "url": "https://x.com/GeekRadioLeo/status/2115330917623574759"
-    },
-    {
       "author_id": "1963274141517352960",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:30:24.000Z",
       "edit_history_tweet_ids": [
         "2115330323856900115"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "ChatGPT vs Claude vs DeepSeek vs Grok！模型大乱斗，直播间格斗 PK，浏览器打开就能和好友联机。",
+            "display_url": "aimodelpk.site",
+            "end": 60,
+            "expanded_url": "https://aimodelpk.site/",
+            "images": [
+              {
+                "height": 1260,
+                "url": "https://pbs.twimg.com/news_img/2114920254564663296/_r41Ud2U?format=jpg&name=orig",
+                "width": 2400
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2114920254564663296/_r41Ud2U?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 37,
+            "status": 200,
+            "title": "谁才是最强AI大模型",
+            "unwound_url": "https://aimodelpk.site/",
+            "url": "https://t.co/Ka9k7FovUx"
+          }
+        ]
+      },
       "id": "2115330323856900115",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 36,
@@ -186,15 +308,52 @@
     },
     {
       "author_id": "1951266099368173571",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:29:21.000Z",
       "edit_history_tweet_ids": [
         "2115330060236599438"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "76 DeepSeek Harness (dsh) plugins, each with an honest review, the real install command, and clear advice on when it's better than the alternatives. Updated Oct 2026.",
+            "display_url": "harnesscatalog.com",
+            "end": 67,
+            "expanded_url": "https://harnesscatalog.com/",
+            "images": [
+              {
+                "height": 800,
+                "url": "https://pbs.twimg.com/news_img/2115330073477955586/zjJag5C2?format=jpg&name=orig",
+                "width": 1500
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115330073477955586/zjJag5C2?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 44,
+            "status": 200,
+            "title": "DeepSeek Harness Plugins — Best DSH Plugins Reviewed",
+            "unwound_url": "https://harnesscatalog.com/",
+            "url": "https://t.co/2aHQm2QdCI"
+          }
+        ]
+      },
       "id": "2115330060236599438",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 430,
+        "impression_count": 431,
         "like_count": 2,
         "quote_count": 0,
         "reply_count": 0,
@@ -211,12 +370,49 @@
     },
     {
       "author_id": "783729200",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:28:25.000Z",
       "edit_history_tweet_ids": [
         "2115329824407634290"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "PixStag｜AI Video Generator - 720P from just $0.015/sec, ready in 3 minutes",
+            "display_url": "PixStag.com",
+            "end": 52,
+            "expanded_url": "https://PixStag.com",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2116363106620407808/XKmwHiLZ?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2116363106620407808/XKmwHiLZ?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 29,
+            "status": 200,
+            "title": "PixStag｜AI Video Generator - 720P from just $0.015/sec, ready in 3 minutes",
+            "unwound_url": "https://PixStag.com",
+            "url": "https://t.co/i7sxCFf3Vr"
+          }
+        ]
+      },
       "id": "2115329824407634290",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 254,
@@ -236,12 +432,95 @@
     },
     {
       "author_id": "1655386219285454850",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:27:56.000Z",
       "edit_history_tweet_ids": [
         "2115329703548719412"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "十一创导航，高效聚合优质资源，智能分类与收藏助您快速触达所需。",
+            "display_url": "shiyichuang.com",
+            "end": 55,
+            "expanded_url": "https://shiyichuang.com/",
+            "images": [
+              {
+                "height": 1576,
+                "url": "https://pbs.twimg.com/news_img/2115329704786108416/Er3ChrWZ?format=png&name=orig",
+                "width": 1576
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115329704786108416/Er3ChrWZ?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 32,
+            "status": 200,
+            "title": "十一创导航 - 您的实用资源宝库",
+            "unwound_url": "https://shiyichuang.com/",
+            "url": "https://t.co/4swwpvkKlK"
+          },
+          {
+            "description": "建委JIANWEI是独立设计师在线平台，汇聚视频案例、平面案例与编程案例，让优质作品被更多人看见。",
+            "display_url": "jianwei.appmiaoda.com",
+            "end": 86,
+            "expanded_url": "https://jianwei.appmiaoda.com/",
+            "images": [
+              {
+                "height": 599,
+                "url": "https://pbs.twimg.com/news_img/2115329704379232256/sjPji3SF?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115329704379232256/sjPji3SF?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 63,
+            "status": 200,
+            "title": "建委JIANWEI — 独立设计师在线平台",
+            "unwound_url": "https://jianwei.appmiaoda.com/",
+            "url": "https://t.co/OOLyW7AHzr"
+          },
+          {
+            "description": "一键上传HTML网页代码，即刻生成永久分享链接，分享设计作品与项目演示。",
+            "display_url": "html.shiyichuang.com",
+            "end": 121,
+            "expanded_url": "https://html.shiyichuang.com/",
+            "images": [
+              {
+                "height": 96,
+                "url": "https://pbs.twimg.com/news_img/2115329707290120192/6YJ6xDee?format=png&name=orig",
+                "width": 96
+              },
+              {
+                "height": 96,
+                "url": "https://pbs.twimg.com/news_img/2115329707290120192/6YJ6xDee?format=png&name=150x150",
+                "width": 96
+              }
+            ],
+            "start": 98,
+            "status": 200,
+            "title": "十一创｜AI 网页一键部署与分享平台",
+            "unwound_url": "https://html.shiyichuang.com/",
+            "url": "https://t.co/lJiqNiRlbE"
+          }
+        ]
+      },
       "id": "2115329703548719412",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 14,
@@ -261,12 +540,24 @@
     },
     {
       "author_id": "50387662",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:27:23.000Z",
       "edit_history_tweet_ids": [
         "2115329564326936613"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115329564326936613",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 274,
@@ -286,12 +577,24 @@
     },
     {
       "author_id": "1958074319348850688",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:25:39.000Z",
       "edit_history_tweet_ids": [
         "2115329125217100256"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115329125217100256",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
         "impression_count": 229,
@@ -311,12 +614,37 @@
     },
     {
       "author_id": "2037812816292323328",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:25:37.000Z",
       "edit_history_tweet_ids": [
         "2115329118720147835"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "SuperAPI 是 AI API 服务平台：一个密钥统一接入 Claude、GPT、Gemini 和国产模型，兼容 OpenAI 与 Anthropic 接口，支持 Claude Code、Codex、OpenCode，统一管理密钥、用量与费用。",
+            "display_url": "superapi.store/register?aff=K…",
+            "end": 82,
+            "expanded_url": "https://superapi.store/register?aff=KJ3DN47JXH2J",
+            "start": 59,
+            "status": 200,
+            "title": "SuperAPI - AI API Gateway",
+            "unwound_url": "https://superapi.store/register?aff=KJ3DN47JXH2J",
+            "url": "https://t.co/NaUrWnjlH3"
+          }
+        ]
+      },
       "id": "2115329118720147835",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
         "impression_count": 12,
@@ -336,12 +664,49 @@
     },
     {
       "author_id": "1451382594398949381",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:23:54.000Z",
       "edit_history_tweet_ids": [
         "2115328685842763914"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "A free Typora alternative with tabs and a file-tree workspace. Open source, for Windows, macOS, Linux and Android.",
+            "display_url": "Horsemd.yangsir.net",
+            "end": 34,
+            "expanded_url": "https://Horsemd.yangsir.net",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2115328688783052800/E4tlZnbj?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115328688783052800/E4tlZnbj?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 11,
+            "status": 200,
+            "title": "HorseMD — One window. Every .md file.",
+            "unwound_url": "https://Horsemd.yangsir.net",
+            "url": "https://t.co/BTiVOrsMAi"
+          }
+        ]
+      },
       "id": "2115328685842763914",
       "in_reply_to_user_id": "1451382594398949381",
+      "lang": "ja",
       "public_metrics": {
         "bookmark_count": 1,
         "impression_count": 16,
@@ -361,12 +726,30 @@
     },
     {
       "author_id": "1756697112853544960",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:23:53.000Z",
       "edit_history_tweet_ids": [
         "2115328682567086360"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "2048232027338780672",
+            "start": 0,
+            "username": "jryang1997"
+          },
+          {
+            "end": 19,
+            "id": "6690032",
+            "start": 12,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115328682567086360",
       "in_reply_to_user_id": "2048232027338780672",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 65,
@@ -386,15 +769,52 @@
     },
     {
       "author_id": "1451382594398949381",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:23:27.000Z",
       "edit_history_tweet_ids": [
         "2115328575335444824"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "A free Typora alternative, and then some — tabs + file-tree + WYSIWYG Markdown editor for Windows, macOS & Linux | 免费的 Typora 平替：标签页 + 文件树 + 所见即所得 - BND-1/horseMD",
+            "display_url": "github.com/BND-1/horseMD",
+            "end": 47,
+            "expanded_url": "https://github.com/BND-1/horseMD",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2115328578242142208/pN7Kurc5?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115328578242142208/pN7Kurc5?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 24,
+            "status": 200,
+            "title": "GitHub - BND-1/horseMD: A free Typora alternative, and then some — tabs + file-tree + WYSIWYG Markdown editor for Windows, macOS & Linux | 免费的 Typora 平替：标签页 + 文件树 + 所见即所得",
+            "unwound_url": "https://github.com/BND-1/horseMD",
+            "url": "https://t.co/VOz3MfIjzJ"
+          }
+        ]
+      },
       "id": "2115328575335444824",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 2,
-        "impression_count": 294,
+        "impression_count": 296,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -411,15 +831,52 @@
     },
     {
       "author_id": "431617343",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:20:18.000Z",
       "edit_history_tweet_ids": [
         "2115327779327844430"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy … ...",
+            "display_url": "github.com/andyhuo520/dig…",
+            "end": 77,
+            "expanded_url": "https://github.com/andyhuo520/digital-human-koubo",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2117227110679097344/7jOPY54K?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2117227110679097344/7jOPY54K?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 54,
+            "status": 200,
+            "title": "GitHub - andyhuo520/digital-human-koubo: AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+            "unwound_url": "https://github.com/andyhuo520/digital-human-koubo",
+            "url": "https://t.co/ewHxREe88M"
+          }
+        ]
+      },
       "id": "2115327779327844430",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 14,
-        "impression_count": 1145,
+        "impression_count": 1149,
         "like_count": 4,
         "quote_count": 0,
         "reply_count": 0,
@@ -436,15 +893,52 @@
     },
     {
       "author_id": "80229210",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:19:53.000Z",
       "edit_history_tweet_ids": [
         "2115327677343404305"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Contribute to wen0531/m5stack-qiuqiu development by creating an account on GitHub.",
+            "display_url": "github.com/wen0531/m5stac…",
+            "end": 93,
+            "expanded_url": "https://github.com/wen0531/m5stack-qiuqiu",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2114580060476936192/71o1DtzQ?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2114580060476936192/71o1DtzQ?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 70,
+            "status": 200,
+            "title": "GitHub - wen0531/m5stack-qiuqiu",
+            "unwound_url": "https://github.com/wen0531/m5stack-qiuqiu",
+            "url": "https://t.co/b1gPSfn7Bi"
+          }
+        ]
+      },
       "id": "2115327677343404305",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 488,
+        "impression_count": 494,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -461,12 +955,24 @@
     },
     {
       "author_id": "2552062118",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:14:24.000Z",
       "edit_history_tweet_ids": [
         "2115326295751942321"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115326295751942321",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 154,
@@ -486,15 +992,36 @@
     },
     {
       "author_id": "1923981862273417222",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:12:18.000Z",
       "edit_history_tweet_ids": [
         "2115325767462875539"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/bbkirstry/stat…",
+            "end": 127,
+            "expanded_url": "https://x.com/bbkirstry/status/2112836743183716497?a=cS5-Y-6QkncmzOleabg&s=20",
+            "start": 104,
+            "url": "https://t.co/QNeVsbvscG"
+          }
+        ]
+      },
       "id": "2115325767462875539",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 2,
-        "impression_count": 543,
+        "impression_count": 548,
         "like_count": 5,
         "quote_count": 0,
         "reply_count": 0,
@@ -521,15 +1048,68 @@
         ]
       },
       "author_id": "1893087994174939138",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:11:55.000Z",
       "edit_history_tweet_ids": [
         "2115325671669133410"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "专门为 agent 打造的开源 agent 搜索工具，具备 200+的搜索源及多语言搜索能力，覆盖中文/英文/学术/代码/购物/金融/新闻/百科。 - taxueseek/argo",
+            "display_url": "github.com/taxueseek/argo",
+            "end": 94,
+            "expanded_url": "https://github.com/taxueseek/argo",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2115325721942077440/zFWl1o0u?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115325721942077440/zFWl1o0u?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 71,
+            "status": 200,
+            "title": "GitHub - taxueseek/argo: 专门为 agent 打造的开源 agent 搜索工具，具备 200+的搜索源及多语言搜索能力，覆盖中文/英文/学术/代码/购物/金融/新闻/百科。",
+            "unwound_url": "https://github.com/taxueseek/argo",
+            "url": "https://t.co/dPLCMCgkzu"
+          },
+          {
+            "display_url": "pic.x.com/tkbHqVLGFw",
+            "end": 118,
+            "expanded_url": "https://x.com/TaXue2025/status/2115325671669133410/photo/1",
+            "media_key": "3_2115325376406990848",
+            "start": 95,
+            "url": "https://t.co/tkbHqVLGFw"
+          },
+          {
+            "display_url": "pic.x.com/tkbHqVLGFw",
+            "end": 118,
+            "expanded_url": "https://x.com/TaXue2025/status/2115325671669133410/photo/1",
+            "media_key": "3_2115325613351583744",
+            "start": 95,
+            "url": "https://t.co/tkbHqVLGFw"
+          }
+        ]
+      },
       "id": "2115325671669133410",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 6,
-        "impression_count": 666,
+        "impression_count": 667,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -546,12 +1126,24 @@
     },
     {
       "author_id": "769526644860006404",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:11:52.000Z",
       "edit_history_tweet_ids": [
         "2115325659354665211"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115325659354665211",
       "in_reply_to_user_id": "6690032",
+      "lang": "de",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 382,
@@ -571,15 +1163,52 @@
     },
     {
       "author_id": "1497795331488055296",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:11:13.000Z",
       "edit_history_tweet_ids": [
         "2115325496175239245"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Cortext combines AI with your local Markdown knowledge base, building a local Wiki-style network and memory from files, edits, and conversations.",
+            "display_url": "cortext.app",
+            "end": 40,
+            "expanded_url": "https://cortext.app",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2113143910700916736/FH32Y8Fw?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2113143910700916736/FH32Y8Fw?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 17,
+            "status": 200,
+            "title": "Cortext - AI for your local Markdown workspace",
+            "unwound_url": "https://cortext.app",
+            "url": "https://t.co/UpWLyCNpFf"
+          }
+        ]
+      },
       "id": "2115325496175239245",
       "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 9,
-        "impression_count": 1513,
+        "impression_count": 1524,
         "like_count": 7,
         "quote_count": 1,
         "reply_count": 1,
@@ -596,15 +1225,27 @@
     },
     {
       "author_id": "6690032",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:10:29.000Z",
       "edit_history_tweet_ids": [
         "2115325309449031946"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "2048232027338780672",
+            "start": 0,
+            "username": "jryang1997"
+          }
+        ]
+      },
       "id": "2115325309449031946",
       "in_reply_to_user_id": "2048232027338780672",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 1502,
+        "impression_count": 1509,
         "like_count": 3,
         "quote_count": 0,
         "reply_count": 0,
@@ -623,36 +1264,44 @@
   "includes": {
     "media": [
       {
+        "height": 546,
         "media_key": "3_2115331409888051200",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/HVsqtbSagAARwjE.png"
+        "url": "https://pbs.twimg.com/media/HVsqtbSagAARwjE.png",
+        "width": 722
       },
       {
+        "height": 1534,
         "media_key": "3_2115325376406990848",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/HVslOO0bsAAuA05.jpg"
+        "url": "https://pbs.twimg.com/media/HVslOO0bsAAuA05.jpg",
+        "width": 1198
       },
       {
+        "height": 1534,
         "media_key": "3_2115325613351583744",
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/HVslcBgbQAAGH1Y.jpg"
+        "url": "https://pbs.twimg.com/media/HVslcBgbQAAGH1Y.jpg",
+        "width": 1198
       }
     ],
     "tweets": [
       {
         "author_id": "6690032",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T05:44:02.000Z",
         "edit_history_tweet_ids": [
           "2115318655525523714"
         ],
         "id": "2115318655525523714",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 167,
-          "impression_count": 42529,
+          "impression_count": 43107,
           "like_count": 132,
           "quote_count": 6,
-          "reply_count": 129,
-          "retweet_count": 17
+          "reply_count": 128,
+          "retweet_count": 18
         },
         "text": "评论发自己最喜欢用的 AI 工具和项目！\n\n可以是自己 AI Coding的产品，或一直花钱订阅的AI 工具。\n\n产品可以是网站、App、Skill、插件、开源代码。\n\n点赞人多，测试好用，我会转发帮大家加热。\n\n某次「未来硅世界」直播，网友展示了很多有创造力的产品，但缺传播渠道。\n\n索性来个自荐和推荐活动~"
       },
@@ -664,18 +1313,40 @@
           ]
         },
         "author_id": "3151608288",
+        "conversation_id": "2115126953825185925",
         "created_at": "2026-10-27T17:02:17.000Z",
         "edit_history_tweet_ids": [
           "2115126953825185925"
         ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ktZ4sIoiPa",
+              "end": 188,
+              "expanded_url": "https://x.com/app_sail/status/2115126953825185925/photo/1",
+              "media_key": "3_2115125661853757440",
+              "start": 165,
+              "url": "https://t.co/ktZ4sIoiPa"
+            },
+            {
+              "display_url": "pic.x.com/ktZ4sIoiPa",
+              "end": 188,
+              "expanded_url": "https://x.com/app_sail/status/2115126953825185925/photo/1",
+              "media_key": "3_2115125894612451328",
+              "start": 165,
+              "url": "https://t.co/ktZ4sIoiPa"
+            }
+          ]
+        },
         "id": "2115126953825185925",
+        "lang": "zh",
         "public_metrics": {
-          "bookmark_count": 304,
-          "impression_count": 35506,
-          "like_count": 181,
+          "bookmark_count": 309,
+          "impression_count": 36607,
+          "like_count": 184,
           "quote_count": 6,
           "reply_count": 29,
-          "retweet_count": 21
+          "retweet_count": 22
         },
         "text": "最近 𝕏 上很多关于 DMIT、搬瓦工 被封禁、掉线的讨论，再加上 Claude 封号越来越频繁，整个中推圈一片鬼哭狼嚎 😂\n\n你可能需要一台合适的 VPS ！\n\n正好我前段时间也在折腾 VPS，订阅 Claude、安装 Claude Code。一开始选的机器延迟太高，严重影响使用体验，来回折腾了不少时间。\n\n折腾下来发现，选 https://t.co/ktZ4sIoiPa"
       },
@@ -687,15 +1358,68 @@
           ]
         },
         "author_id": "1598519155736645632",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T05:58:20.000Z",
         "edit_history_tweet_ids": [
           "2115322251549774111"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Contribute to cclank/tokei development by creating an account on GitHub.",
+              "display_url": "github.com/cclank/tokei",
+              "end": 63,
+              "expanded_url": "https://github.com/cclank/tokei",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2115322299691978752/J57PfzKR?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2115322299691978752/J57PfzKR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "GitHub - cclank/tokei",
+              "unwound_url": "https://github.com/cclank/tokei",
+              "url": "https://t.co/0I52YwTbo6"
+            },
+            {
+              "display_url": "pic.x.com/DITGWWNfpQ",
+              "end": 87,
+              "expanded_url": "https://x.com/LufzzLiz/status/2115322251549774111/photo/1",
+              "media_key": "3_2115321611566166016",
+              "start": 64,
+              "url": "https://t.co/DITGWWNfpQ"
+            },
+            {
+              "display_url": "pic.x.com/DITGWWNfpQ",
+              "end": 87,
+              "expanded_url": "https://x.com/LufzzLiz/status/2115322251549774111/photo/1",
+              "media_key": "3_2115322140866342912",
+              "start": 64,
+              "url": "https://t.co/DITGWWNfpQ"
+            }
+          ]
+        },
         "id": "2115322251549774111",
         "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 7,
-          "impression_count": 1775,
+          "impression_count": 1783,
           "like_count": 9,
           "quote_count": 0,
           "reply_count": 4,
@@ -711,15 +1435,52 @@
       },
       {
         "author_id": "1451382594398949381",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T06:23:27.000Z",
         "edit_history_tweet_ids": [
           "2115328575335444824"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A free Typora alternative, and then some — tabs + file-tree + WYSIWYG Markdown editor for Windows, macOS & Linux | 免费的 Typora 平替：标签页 + 文件树 + 所见即所得 - BND-1/horseMD",
+              "display_url": "github.com/BND-1/horseMD",
+              "end": 47,
+              "expanded_url": "https://github.com/BND-1/horseMD",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2115328578242142208/pN7Kurc5?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2115328578242142208/pN7Kurc5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "GitHub - BND-1/horseMD: A free Typora alternative, and then some — tabs + file-tree + WYSIWYG Markdown editor for Windows, macOS & Linux | 免费的 Typora 平替：标签页 + 文件树 + 所见即所得",
+              "unwound_url": "https://github.com/BND-1/horseMD",
+              "url": "https://t.co/VOz3MfIjzJ"
+            }
+          ]
+        },
         "id": "2115328575335444824",
         "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 2,
-          "impression_count": 294,
+          "impression_count": 296,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -735,15 +1496,52 @@
       },
       {
         "author_id": "2048232027338780672",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T06:07:03.000Z",
         "edit_history_tweet_ids": [
           "2115324444394897806"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Control Xiaomi Mijia from your Mac menu bar or Windows tray. Home Assistant supported on macOS. - jryang1997/MenuBarMijia",
+              "display_url": "github.com/jryang1997/Men…",
+              "end": 174,
+              "expanded_url": "https://github.com/jryang1997/MenuBarMijia",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2116776254850433024/NhbPZDx2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2116776254850433024/NhbPZDx2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 151,
+              "status": 200,
+              "title": "GitHub - jryang1997/MenuBarMijia: Control Xiaomi Mijia from your Mac menu bar or Windows tray. Home Assistant supported on macOS.",
+              "unwound_url": "https://github.com/jryang1997/MenuBarMijia",
+              "url": "https://t.co/jwmgtBP33u"
+            }
+          ]
+        },
         "id": "2115324444394897806",
         "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 10,
-          "impression_count": 1664,
+          "impression_count": 1677,
           "like_count": 11,
           "quote_count": 1,
           "reply_count": 2,
@@ -764,14 +1562,42 @@
           ]
         },
         "author_id": "1923981862273417222",
+        "conversation_id": "2112836743183716497",
         "created_at": "2026-10-21T09:21:48.000Z",
         "edit_history_tweet_ids": [
           "2112836743183716497"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 107,
+              "id": "1997889576187387904",
+              "start": 98,
+              "username": "cgnot996"
+            },
+            {
+              "end": 149,
+              "id": "2085838061347217408",
+              "start": 145,
+              "username": "bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1mbCJ49pD",
+              "end": 177,
+              "expanded_url": "https://x.com/bbkirstry/status/2112836743183716497/video/1",
+              "media_key": "13_2112834672728387584",
+              "start": 154,
+              "url": "https://t.co/H1mbCJ49pD"
+            }
+          ]
+        },
         "id": "2112836743183716497",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 17,
-          "impression_count": 16260,
+          "impression_count": 16298,
           "like_count": 84,
           "quote_count": 16,
           "reply_count": 30,
@@ -786,12 +1612,12 @@
         "name": "紫苏子ACG",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1971233571596845056/aYUpvGcC_normal.png",
         "public_metrics": {
-          "followers_count": 1182,
+          "followers_count": 1183,
           "following_count": 7500,
-          "like_count": 35040,
-          "listed_count": 15,
+          "like_count": 35075,
+          "listed_count": 16,
           "media_count": 178,
-          "tweet_count": 1890
+          "tweet_count": 1893
         },
         "username": "Pixelxzen"
       },
@@ -800,12 +1626,12 @@
         "name": "阳葱头头",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2002314447667539968/KUMWtmWl_normal.jpg",
         "public_metrics": {
-          "followers_count": 485,
-          "following_count": 640,
+          "followers_count": 495,
+          "following_count": 655,
           "like_count": 187,
           "listed_count": 0,
           "media_count": 15,
-          "tweet_count": 242
+          "tweet_count": 243
         },
         "username": "lyounthzzz"
       },
@@ -814,12 +1640,12 @@
         "name": "Asa",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2004066300289753088/5qO6kRP7_normal.jpg",
         "public_metrics": {
-          "followers_count": 33689,
-          "following_count": 2806,
-          "like_count": 17451,
+          "followers_count": 33709,
+          "following_count": 2810,
+          "like_count": 17460,
           "listed_count": 251,
           "media_count": 662,
-          "tweet_count": 11582
+          "tweet_count": 11586
         },
         "username": "app_sail"
       },
@@ -828,12 +1654,12 @@
         "name": "耳朵",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1750086551839883264/KER7NzZp_normal.jpg",
         "public_metrics": {
-          "followers_count": 11182,
+          "followers_count": 11181,
           "following_count": 488,
-          "like_count": 3016,
-          "listed_count": 262,
-          "media_count": 228,
-          "tweet_count": 4114
+          "like_count": 3017,
+          "listed_count": 263,
+          "media_count": 229,
+          "tweet_count": 4120
         },
         "username": "RookieRicardoR"
       },
@@ -843,35 +1669,21 @@
         "profile_image_url": "https://pbs.twimg.com/profile_images/1557989210883497985/4o3WTRWH_normal.jpg",
         "public_metrics": {
           "followers_count": 15,
-          "following_count": 132,
-          "like_count": 1670,
+          "following_count": 134,
+          "like_count": 1673,
           "listed_count": 0,
           "media_count": 51,
-          "tweet_count": 818
+          "tweet_count": 819
         },
         "username": "vb_zhai"
-      },
-      {
-        "id": "2029758865806610439",
-        "name": "Heart Leo",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2029758941878747136/QzVnub8o_normal.jpg",
-        "public_metrics": {
-          "followers_count": 4,
-          "following_count": 167,
-          "like_count": 0,
-          "listed_count": 0,
-          "media_count": 0,
-          "tweet_count": 2
-        },
-        "username": "GeekRadioLeo"
       },
       {
         "id": "1963274141517352960",
         "name": "一颗西红柿番茄",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2112896754391957504/V2I0__H2_normal.jpg",
         "public_metrics": {
-          "followers_count": 419,
-          "following_count": 298,
+          "followers_count": 421,
+          "following_count": 300,
           "like_count": 531,
           "listed_count": 2,
           "media_count": 55,
@@ -884,12 +1696,12 @@
         "name": "程序员大圣的日常",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2019218249557372945/E0CYPf_1_normal.jpg",
         "public_metrics": {
-          "followers_count": 188,
-          "following_count": 318,
-          "like_count": 107,
+          "followers_count": 187,
+          "following_count": 322,
+          "like_count": 108,
           "listed_count": 1,
           "media_count": 35,
-          "tweet_count": 184
+          "tweet_count": 185
         },
         "username": "dsholys10"
       },
@@ -898,12 +1710,12 @@
         "name": "汤光头",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1892512101677277184/3h6Svthz_normal.jpg",
         "public_metrics": {
-          "followers_count": 22669,
-          "following_count": 346,
+          "followers_count": 22664,
+          "following_count": 347,
           "like_count": 4941,
-          "listed_count": 201,
+          "listed_count": 202,
           "media_count": 1926,
-          "tweet_count": 15962
+          "tweet_count": 15973
         },
         "username": "tangpanqing"
       },
@@ -926,12 +1738,12 @@
         "name": "Michael Hu",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2106777709070422016/Z56SDdz7_normal.jpg",
         "public_metrics": {
-          "followers_count": 2045,
-          "following_count": 1651,
-          "like_count": 563,
+          "followers_count": 2053,
+          "following_count": 1667,
+          "like_count": 564,
           "listed_count": 3,
-          "media_count": 196,
-          "tweet_count": 1349
+          "media_count": 200,
+          "tweet_count": 1360
         },
         "username": "Michael_AI_Hu"
       },
@@ -940,12 +1752,12 @@
         "name": "mao mao",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2007687936750575616/nRMHrxuV_normal.jpg",
         "public_metrics": {
-          "followers_count": 452,
-          "following_count": 555,
+          "followers_count": 457,
+          "following_count": 556,
           "like_count": 32,
           "listed_count": 2,
           "media_count": 7,
-          "tweet_count": 3932
+          "tweet_count": 3986
         },
         "username": "maomao000211"
       },
@@ -968,8 +1780,8 @@
         "name": "Evan YanG",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2056199462587158528/up6k4S2v_normal.jpg",
         "public_metrics": {
-          "followers_count": 205,
-          "following_count": 329,
+          "followers_count": 204,
+          "following_count": 330,
           "like_count": 187,
           "listed_count": 1,
           "media_count": 63,
@@ -982,9 +1794,9 @@
         "name": "Wayne_Bybit",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1931204585953370112/GERLwDSf_normal.jpg",
         "public_metrics": {
-          "followers_count": 20,
+          "followers_count": 19,
           "following_count": 87,
-          "like_count": 126,
+          "like_count": 127,
           "listed_count": 0,
           "media_count": 0,
           "tweet_count": 100
@@ -996,12 +1808,12 @@
         "name": "Berryxia.AI",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2016043556964605952/Tqi9KA2r_normal.jpg",
         "public_metrics": {
-          "followers_count": 53371,
-          "following_count": 770,
-          "like_count": 7777,
-          "listed_count": 714,
-          "media_count": 2161,
-          "tweet_count": 11160
+          "followers_count": 53472,
+          "following_count": 772,
+          "like_count": 7822,
+          "listed_count": 715,
+          "media_count": 2167,
+          "tweet_count": 11198
         },
         "username": "berryxia"
       },
@@ -1012,10 +1824,10 @@
         "public_metrics": {
           "followers_count": 14,
           "following_count": 113,
-          "like_count": 21,
+          "like_count": 25,
           "listed_count": 0,
-          "media_count": 7,
-          "tweet_count": 101
+          "media_count": 8,
+          "tweet_count": 104
         },
         "username": "wen0531"
       },
@@ -1024,12 +1836,12 @@
         "name": "克拉克｜趁火打劫版",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2109240345066418176/7zUxa87F_normal.jpg",
         "public_metrics": {
-          "followers_count": 633,
-          "following_count": 585,
-          "like_count": 652,
+          "followers_count": 629,
+          "following_count": 595,
+          "like_count": 656,
           "listed_count": 2,
-          "media_count": 42,
-          "tweet_count": 1159
+          "media_count": 44,
+          "tweet_count": 1193
         },
         "username": "linghuzengzeng"
       },
@@ -1038,12 +1850,12 @@
         "name": "小晚不在",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2059964490326880256/hPFkU6wC_normal.jpg",
         "public_metrics": {
-          "followers_count": 6121,
-          "following_count": 371,
-          "like_count": 1492,
-          "listed_count": 37,
-          "media_count": 375,
-          "tweet_count": 2256
+          "followers_count": 6158,
+          "following_count": 376,
+          "like_count": 1510,
+          "listed_count": 39,
+          "media_count": 382,
+          "tweet_count": 2289
         },
         "username": "bbkirstry"
       },
@@ -1052,12 +1864,12 @@
         "name": "踏雪寻仙",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2088176155237240832/ETtnpms1_normal.jpg",
         "public_metrics": {
-          "followers_count": 1172,
-          "following_count": 467,
-          "like_count": 27726,
+          "followers_count": 1177,
+          "following_count": 468,
+          "like_count": 27802,
           "listed_count": 21,
-          "media_count": 634,
-          "tweet_count": 4961
+          "media_count": 639,
+          "tweet_count": 4979
         },
         "username": "TaXue2025"
       },
@@ -1068,10 +1880,10 @@
         "public_metrics": {
           "followers_count": 99,
           "following_count": 398,
-          "like_count": 7722,
+          "like_count": 7726,
           "listed_count": 1,
           "media_count": 88,
-          "tweet_count": 1986
+          "tweet_count": 1990
         },
         "username": "dontry018"
       },
@@ -1080,12 +1892,12 @@
         "name": "向阳乔木",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
         "public_metrics": {
-          "followers_count": 135054,
-          "following_count": 1683,
-          "like_count": 12424,
-          "listed_count": 2287,
-          "media_count": 3480,
-          "tweet_count": 10738
+          "followers_count": 135646,
+          "following_count": 1682,
+          "like_count": 12442,
+          "listed_count": 2300,
+          "media_count": 3484,
+          "tweet_count": 10760
         },
         "username": "vista8"
       }
@@ -1095,6 +1907,6 @@
     "newest_id": "2115334632262820245",
     "next_token": "b26v89c19zqg8o3juzlxo08nx1hv8nsajo75cp8nyfxj1",
     "oldest_id": "2115325309449031946",
-    "result_count": 24
+    "result_count": 23
   }
 }

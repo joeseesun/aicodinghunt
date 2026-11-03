@@ -1,0 +1,272 @@
+{
+  "new_count": 1,
+  "new": [
+    {
+      "name": "Xtools",
+      "slug": "xtools",
+      "url": "https://www.yourtools.xyz/",
+      "recommender": "imboomu",
+      "source_reply_url": "https://x.com/imboomu/status/2116391274798559449"
+    }
+  ],
+  "metrics_changed": 50,
+  "material_metrics": 13,
+  "product_count": 99,
+  "posts_fetched": 188,
+  "reply_count_reported": 128,
+  "updated_at_label": "2026-11-03 10:12 Asia/Shanghai",
+  "material": [
+    {
+      "name": "yovoice",
+      "slug": "yovoice",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 1,
+        "impressions": 5
+      },
+      "old": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 48
+      },
+      "new": {
+        "likes": 0,
+        "bookmarks": 1,
+        "impressions": 53
+      }
+    },
+    {
+      "name": "Pele",
+      "slug": "pele",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 10
+      },
+      "old": {
+        "likes": 4,
+        "bookmarks": 12,
+        "impressions": 1323
+      },
+      "new": {
+        "likes": 4,
+        "bookmarks": 12,
+        "impressions": 1333
+      }
+    },
+    {
+      "name": "通江 Lab 3D 互动课程",
+      "slug": "通江-lab-3d-互动课程",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 10
+      },
+      "old": {
+        "likes": 19,
+        "bookmarks": 31,
+        "impressions": 2056
+      },
+      "new": {
+        "likes": 19,
+        "bookmarks": 31,
+        "impressions": 2066
+      }
+    },
+    {
+      "name": "QuickShot",
+      "slug": "quickshot",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 19
+      },
+      "old": {
+        "likes": 10,
+        "bookmarks": 16,
+        "impressions": 1094
+      },
+      "new": {
+        "likes": 10,
+        "bookmarks": 16,
+        "impressions": 1113
+      }
+    },
+    {
+      "name": "Grok Bot Clipper",
+      "slug": "grok-bot-clipper",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 9
+      },
+      "old": {
+        "likes": 13,
+        "bookmarks": 15,
+        "impressions": 1810
+      },
+      "new": {
+        "likes": 13,
+        "bookmarks": 15,
+        "impressions": 1819
+      }
+    },
+    {
+      "name": "Raycast AI",
+      "slug": "raycast-ai",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 75
+      },
+      "old": {
+        "likes": 11,
+        "bookmarks": 8,
+        "impressions": 4413
+      },
+      "new": {
+        "likes": 11,
+        "bookmarks": 8,
+        "impressions": 4488
+      }
+    },
+    {
+      "name": "书签管理器",
+      "slug": "书签管理器",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 5
+      },
+      "old": {
+        "likes": 5,
+        "bookmarks": 3,
+        "impressions": 462
+      },
+      "new": {
+        "likes": 5,
+        "bookmarks": 3,
+        "impressions": 467
+      }
+    },
+    {
+      "name": "赛博小晚",
+      "slug": "赛博小晚",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 5
+      },
+      "old": {
+        "likes": 5,
+        "bookmarks": 2,
+        "impressions": 543
+      },
+      "new": {
+        "likes": 5,
+        "bookmarks": 2,
+        "impressions": 548
+      }
+    },
+    {
+      "name": "WeSight",
+      "slug": "wesight",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 6
+      },
+      "old": {
+        "likes": 3,
+        "bookmarks": 0,
+        "impressions": 724
+      },
+      "new": {
+        "likes": 3,
+        "bookmarks": 0,
+        "impressions": 730
+      }
+    },
+    {
+      "name": "TinyCast",
+      "slug": "tinycast",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 9
+      },
+      "old": {
+        "likes": 1,
+        "bookmarks": 1,
+        "impressions": 318
+      },
+      "new": {
+        "likes": 1,
+        "bookmarks": 1,
+        "impressions": 327
+      }
+    },
+    {
+      "name": "宝可梦学英语",
+      "slug": "宝可梦学英语",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 6
+      },
+      "old": {
+        "likes": 0,
+        "bookmarks": 1,
+        "impressions": 242
+      },
+      "new": {
+        "likes": 0,
+        "bookmarks": 1,
+        "impressions": 248
+      }
+    },
+    {
+      "name": "Tokei",
+      "slug": "tokei",
+      "delta": {
+        "likes": -1,
+        "bookmarks": 0,
+        "impressions": 8
+      },
+      "old": {
+        "likes": 10,
+        "bookmarks": 7,
+        "impressions": 1775
+      },
+      "new": {
+        "likes": 9,
+        "bookmarks": 7,
+        "impressions": 1783
+      }
+    },
+    {
+      "name": "M5Stack Stopwatch 固件",
+      "slug": "m5stack-stopwatch-固件",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 6
+      },
+      "old": {
+        "likes": 1,
+        "bookmarks": 0,
+        "impressions": 488
+      },
+      "new": {
+        "likes": 1,
+        "bookmarks": 0,
+        "impressions": 494
+      }
+    }
+  ],
+  "notes": [
+    "No brand-new conversation replies vs 2026-11-02; 1 prior reply deleted (Library source GeekRadioLeo/2115330917623574759) — kept product, metrics frozen from last capture.",
+    "Added Xtools (yourtools.xyz) after entity expansion resolved previously opaque t.co on imboomu reply.",
+    "Linked Timezone Override to MuweiCallisto source reply."
+  ]
+}
