@@ -2,12 +2,29 @@
   "data": [
     {
       "author_id": "1003243796044238848",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:54:02.000Z",
       "edit_history_tweet_ids": [
         "2115321169167761859"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1997889576187387904",
+            "start": 0,
+            "username": "cgnot996"
+          },
+          {
+            "end": 17,
+            "id": "6690032",
+            "start": 10,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115321169167761859",
-      "in_reply_to_user_id": "1997889576187387904",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 58,
@@ -27,15 +44,26 @@
     },
     {
       "author_id": "6690032",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:53:59.000Z",
       "edit_history_tweet_ids": [
         "2115321157717303382"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1207258810512838656",
+            "start": 0,
+            "username": "CopperForgeAI"
+          }
+        ]
+      },
       "id": "2115321157717303382",
-      "in_reply_to_user_id": "1207258810512838656",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 1648,
+        "impression_count": 1649,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -52,15 +80,74 @@
     },
     {
       "author_id": "1497795331488055296",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:53:45.000Z",
       "edit_history_tweet_ids": [
         "2115321099118682120"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Everything you copy is still there. One shortcut, one startup toggle, and almost nothing to configure.",
+            "display_url": "clipdot.erduo.dev",
+            "end": 50,
+            "expanded_url": "https://clipdot.erduo.dev",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2113067830505869312/pBWzwtlk?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2113067830505869312/pBWzwtlk?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 27,
+            "status": 200,
+            "title": "ClipDot — A Tiny Native Clipboard for macOS",
+            "unwound_url": "https://clipdot.erduo.dev",
+            "url": "https://t.co/9zyjN6rOYr"
+          },
+          {
+            "description": "A macOS screenshot tool that does four things well: capture, annotate, pin, read text.",
+            "display_url": "snipdot.erduo.dev",
+            "end": 74,
+            "expanded_url": "https://snipdot.erduo.dev",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2113067816861696000/9UI-crV0?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2113067816861696000/9UI-crV0?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 51,
+            "status": 200,
+            "title": "SnipDot — A Restrained Screenshot Tool for macOS",
+            "unwound_url": "https://snipdot.erduo.dev",
+            "url": "https://t.co/Z7GjWIoAWE"
+          }
+        ]
+      },
       "id": "2115321099118682120",
-      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 5,
-        "impression_count": 1304,
+        "impression_count": 1305,
         "like_count": 4,
         "quote_count": 0,
         "reply_count": 2,
@@ -77,15 +164,45 @@
     },
     {
       "author_id": "1003243796044238848",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:53:35.000Z",
       "edit_history_tweet_ids": [
         "2115321055342682493"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          },
+          {
+            "end": 29,
+            "id": "950460643173216256",
+            "start": 20,
+            "username": "idoubicc"
+          }
+        ],
+        "urls": [
+          {
+            "description": "按 ⌥Space，输入，回车。Spotcat 是快速、原生的 macOS 启动器：应用、文件、网页、扩展和 AI，一个输入框搞定。免费且开源。",
+            "display_url": "spotcat.ai/zh",
+            "end": 57,
+            "expanded_url": "https://spotcat.ai/zh",
+            "start": 34,
+            "status": 200,
+            "title": "Spotcat — 快速、原生的 macOS 启动器",
+            "unwound_url": "https://spotcat.ai/zh",
+            "url": "https://t.co/kC28D0Yw8z"
+          }
+        ]
+      },
       "id": "2115321055342682493",
-      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 3,
-        "impression_count": 350,
+        "impression_count": 351,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -102,12 +219,23 @@
     },
     {
       "author_id": "1997889576187387904",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:52:32.000Z",
       "edit_history_tweet_ids": [
         "2115320791613235243"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115320791613235243",
-      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 153,
@@ -127,15 +255,26 @@
     },
     {
       "author_id": "6690032",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:51:33.000Z",
       "edit_history_tweet_ids": [
         "2115320546246398028"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1997889576187387904",
+            "start": 0,
+            "username": "cgnot996"
+          }
+        ]
+      },
       "id": "2115320546246398028",
-      "in_reply_to_user_id": "1997889576187387904",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 1503,
+        "impression_count": 1504,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 1,
@@ -152,12 +291,23 @@
     },
     {
       "author_id": "1976898060799430656",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:50:58.000Z",
       "edit_history_tweet_ids": [
         "2115320400725069857"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115320400725069857",
-      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 202,
@@ -177,12 +327,23 @@
     },
     {
       "author_id": "26780664",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:50:35.000Z",
       "edit_history_tweet_ids": [
         "2115320301122924815"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115320301122924815",
-      "in_reply_to_user_id": "6690032",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 167,
@@ -202,12 +363,23 @@
     },
     {
       "author_id": "1976898060799430656",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:50:31.000Z",
       "edit_history_tweet_ids": [
         "2115320283582312845"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115320283582312845",
-      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 106,
@@ -227,12 +399,48 @@
     },
     {
       "author_id": "1207258810512838656",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:49:56.000Z",
       "edit_history_tweet_ids": [
         "2115320137557680582"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "铜匠汽车 · 整车制造基地：按生产顺序看冲压车间、压铸车间、焊装车间、涂装车间、电池 PACK 装配车间、总装车间，每个都有动态片段、作品介绍和 3D 交互入口；整座工厂能一层层拆开，单台设备还能拆成部件。",
+            "display_url": "tongjiang.app/works/car-base…",
+            "end": 39,
+            "expanded_url": "https://tongjiang.app/works/car-base/overview/",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2115315521839300608/ZmhxoPxm?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115315521839300608/ZmhxoPxm?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 16,
+            "status": 200,
+            "title": "铜匠汽车 · 整车制造基地：六个车间的 3D 整车工厂 · 铜匠十点睡觉",
+            "unwound_url": "https://tongjiang.app/works/car-base/overview/",
+            "url": "https://t.co/2yHMiVtRIx"
+          }
+        ]
+      },
       "id": "2115320137557680582",
-      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 5,
         "impression_count": 480,
@@ -252,15 +460,51 @@
     },
     {
       "author_id": "1997889576187387904",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:49:41.000Z",
       "edit_history_tweet_ids": [
         "2115320074383053047"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Grok Bot Clipper 是铁柱AGI 独立开发的非官方第三方扩展。你可以把网页选区、正文、截图、社媒内容和文件收进材料篮，发给自己的 Grok Bot 并在侧栏查看回复与追问。支持 Chrome、Edge 与 Firefox，提供实操演示视频和安装包下载。",
+            "display_url": "bot.fmcat.top/ecosystem/grok…",
+            "end": 76,
+            "expanded_url": "https://bot.fmcat.top/ecosystem/grok-bot-clipper",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2115320078933901312/8MJVIQ6M?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115320078933901312/8MJVIQ6M?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 53,
+            "status": 200,
+            "title": "Grok Bot Clipper 浏览器插件 | Grok Bot 新手指南",
+            "unwound_url": "https://bot.fmcat.top/ecosystem/grok-bot-clipper",
+            "url": "https://t.co/cQ2sF2wFhB"
+          }
+        ]
+      },
       "id": "2115320074383053047",
-      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 15,
-        "impression_count": 1819,
+        "impression_count": 1822,
         "like_count": 13,
         "quote_count": 0,
         "reply_count": 3,
@@ -277,15 +521,95 @@
     },
     {
       "author_id": "1207258810512838656",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:49:22.000Z",
       "edit_history_tweet_ids": [
         "2115319997832839246"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "55 门可交互的高中物理、化学、生物、地理 3D 实验课件，对齐中国课标与人教版教材。免费、可下载单文件 HTML、断网也能投屏上课。",
+            "display_url": "lab.tongjiang.app",
+            "end": 68,
+            "expanded_url": "https://lab.tongjiang.app",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2115310964262477824/-hGE4bkV?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115310964262477824/-hGE4bkV?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 45,
+            "status": 200,
+            "title": "铜匠实验室 · 免费开源的高中科学 3D 实验课件",
+            "unwound_url": "https://lab.tongjiang.app",
+            "url": "https://t.co/ouQfwqTnEz"
+          },
+          {
+            "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app - smithjohn78390/tongjiang-lab",
+            "display_url": "github.com/smithjohn78390…",
+            "end": 101,
+            "expanded_url": "https://github.com/smithjohn78390/tongjiang-lab",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2115310966284165120/R82U7cJ8?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115310966284165120/R82U7cJ8?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 78,
+            "status": 200,
+            "title": "GitHub - smithjohn78390/tongjiang-lab: Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+            "unwound_url": "https://github.com/smithjohn78390/tongjiang-lab",
+            "url": "https://t.co/HJDJOf8aeU"
+          }
+        ]
+      },
       "id": "2115319997832839246",
-      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "lab.tongjiang.app",
+              "end": 60,
+              "expanded_url": "http://lab.tongjiang.app",
+              "start": 37,
+              "url": "https://t.co/O4Pm54GHsc"
+            },
+            {
+              "display_url": "github.com/smithjohn78390…",
+              "end": 93,
+              "expanded_url": "http://github.com/smithjohn78390/tongjiang-lab",
+              "start": 70,
+              "url": "https://t.co/jwidnvL5ny"
+            }
+          ]
+        },
+        "text": "求推荐：\n3d互动教育课程开源，目前已经可以开源55门。  \n🔗 在线用：https://t.co/O4Pm54GHsc\n🔗 GitHub https://t.co/jwidnvL5ny \n\n覆盖物理、化学、生物、地理四科，按中国高中课标和人教版教材做：合成氨、接触法制硫酸、氯碱工业、高炉炼铁、电流的磁场、光电效应、有丝分裂、神经冲动、三圈环流、厄尔尼诺……  \n每门课是什么样： · 一个 3D 世界，能拖、能转、能剖开看塔里面 · 右边一台中控台，滑杆和开关每一步都能动，读数和曲线实时变 · 一条步骤线，老师一路按「下一步」就能讲完一节课，学生没动手的步骤会自动演示 · 最后一步是考核，有目标值"
+      },
       "public_metrics": {
         "bookmark_count": 31,
-        "impression_count": 2066,
+        "impression_count": 2073,
         "like_count": 19,
         "quote_count": 0,
         "reply_count": 2,
@@ -302,15 +626,26 @@
     },
     {
       "author_id": "2076112393919508480",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:48:01.000Z",
       "edit_history_tweet_ids": [
         "2115319655388610754"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115319655388610754",
-      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 296,
+        "impression_count": 297,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -327,12 +662,23 @@
     },
     {
       "author_id": "1229348878429777920",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:47:07.000Z",
       "edit_history_tweet_ids": [
         "2115319431425564723"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
       "id": "2115319431425564723",
-      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 308,
@@ -352,15 +698,31 @@
     },
     {
       "author_id": "6690032",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:46:14.000Z",
       "edit_history_tweet_ids": [
         "2115319209437872246"
       ],
+      "entities": {
+        "urls": [
+          {
+            "description": "A collection of powerful productivity tools all within an extendable launcher.",
+            "display_url": "raycast.com/?via=joe-seesun",
+            "end": 114,
+            "expanded_url": "https://raycast.com/?via=joe-seesun",
+            "start": 91,
+            "status": 200,
+            "title": "Raycast - Your shortcut to everything",
+            "unwound_url": "https://www.raycast.com/?via=joe-seesun",
+            "url": "https://t.co/BWoXPixwml"
+          }
+        ]
+      },
       "id": "2115319209437872246",
-      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 8,
-        "impression_count": 4488,
+        "impression_count": 4532,
         "like_count": 11,
         "quote_count": 0,
         "reply_count": 8,
@@ -377,15 +739,35 @@
     },
     {
       "author_id": "1003243796044238848",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:45:39.000Z",
       "edit_history_tweet_ids": [
         "2115319062976930145"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/longhaiqwe123/…",
+            "end": 58,
+            "expanded_url": "https://x.com/longhaiqwe123/status/2113192539679510927",
+            "start": 35,
+            "url": "https://t.co/LksU3pwoAs"
+          }
+        ]
+      },
       "id": "2115319062976930145",
-      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 4,
-        "impression_count": 499,
+        "impression_count": 500,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -406,15 +788,17 @@
     },
     {
       "author_id": "6690032",
+      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T05:44:02.000Z",
       "edit_history_tweet_ids": [
         "2115318655525523714"
       ],
       "id": "2115318655525523714",
+      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 167,
-        "impression_count": 43107,
-        "like_count": 132,
+        "impression_count": 43513,
+        "like_count": 131,
         "quote_count": 6,
         "reply_count": 128,
         "retweet_count": 18
@@ -427,15 +811,51 @@
     "tweets": [
       {
         "author_id": "1997889576187387904",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T05:49:41.000Z",
         "edit_history_tweet_ids": [
           "2115320074383053047"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Grok Bot Clipper 是铁柱AGI 独立开发的非官方第三方扩展。你可以把网页选区、正文、截图、社媒内容和文件收进材料篮，发给自己的 Grok Bot 并在侧栏查看回复与追问。支持 Chrome、Edge 与 Firefox，提供实操演示视频和安装包下载。",
+              "display_url": "bot.fmcat.top/ecosystem/grok…",
+              "end": 76,
+              "expanded_url": "https://bot.fmcat.top/ecosystem/grok-bot-clipper",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2115320078933901312/8MJVIQ6M?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2115320078933901312/8MJVIQ6M?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "Grok Bot Clipper 浏览器插件 | Grok Bot 新手指南",
+              "unwound_url": "https://bot.fmcat.top/ecosystem/grok-bot-clipper",
+              "url": "https://t.co/cQ2sF2wFhB"
+            }
+          ]
+        },
         "id": "2115320074383053047",
-        "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 15,
-          "impression_count": 1819,
+          "impression_count": 1822,
           "like_count": 13,
           "quote_count": 0,
           "reply_count": 3,
@@ -451,15 +871,95 @@
       },
       {
         "author_id": "1207258810512838656",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T05:49:22.000Z",
         "edit_history_tweet_ids": [
           "2115319997832839246"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ],
+          "urls": [
+            {
+              "description": "55 门可交互的高中物理、化学、生物、地理 3D 实验课件，对齐中国课标与人教版教材。免费、可下载单文件 HTML、断网也能投屏上课。",
+              "display_url": "lab.tongjiang.app",
+              "end": 68,
+              "expanded_url": "https://lab.tongjiang.app",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2115310964262477824/-hGE4bkV?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2115310964262477824/-hGE4bkV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 45,
+              "status": 200,
+              "title": "铜匠实验室 · 免费开源的高中科学 3D 实验课件",
+              "unwound_url": "https://lab.tongjiang.app",
+              "url": "https://t.co/ouQfwqTnEz"
+            },
+            {
+              "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app - smithjohn78390/tongjiang-lab",
+              "display_url": "github.com/smithjohn78390…",
+              "end": 101,
+              "expanded_url": "https://github.com/smithjohn78390/tongjiang-lab",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2115310966284165120/R82U7cJ8?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2115310966284165120/R82U7cJ8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 78,
+              "status": 200,
+              "title": "GitHub - smithjohn78390/tongjiang-lab: Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+              "unwound_url": "https://github.com/smithjohn78390/tongjiang-lab",
+              "url": "https://t.co/HJDJOf8aeU"
+            }
+          ]
+        },
         "id": "2115319997832839246",
-        "in_reply_to_user_id": "6690032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "lab.tongjiang.app",
+                "end": 60,
+                "expanded_url": "http://lab.tongjiang.app",
+                "start": 37,
+                "url": "https://t.co/O4Pm54GHsc"
+              },
+              {
+                "display_url": "github.com/smithjohn78390…",
+                "end": 93,
+                "expanded_url": "http://github.com/smithjohn78390/tongjiang-lab",
+                "start": 70,
+                "url": "https://t.co/jwidnvL5ny"
+              }
+            ]
+          },
+          "text": "求推荐：\n3d互动教育课程开源，目前已经可以开源55门。  \n🔗 在线用：https://t.co/O4Pm54GHsc\n🔗 GitHub https://t.co/jwidnvL5ny \n\n覆盖物理、化学、生物、地理四科，按中国高中课标和人教版教材做：合成氨、接触法制硫酸、氯碱工业、高炉炼铁、电流的磁场、光电效应、有丝分裂、神经冲动、三圈环流、厄尔尼诺……  \n每门课是什么样： · 一个 3D 世界，能拖、能转、能剖开看塔里面 · 右边一台中控台，滑杆和开关每一步都能动，读数和曲线实时变 · 一条步骤线，老师一路按「下一步」就能讲完一节课，学生没动手的步骤会自动演示 · 最后一步是考核，有目标值"
+        },
         "public_metrics": {
           "bookmark_count": 31,
-          "impression_count": 2066,
+          "impression_count": 2073,
           "like_count": 19,
           "quote_count": 0,
           "reply_count": 2,
@@ -475,15 +975,17 @@
       },
       {
         "author_id": "6690032",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T05:44:02.000Z",
         "edit_history_tweet_ids": [
           "2115318655525523714"
         ],
         "id": "2115318655525523714",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 167,
-          "impression_count": 43107,
-          "like_count": 132,
+          "impression_count": 43513,
+          "like_count": 131,
           "quote_count": 6,
           "reply_count": 128,
           "retweet_count": 18
@@ -492,15 +994,31 @@
       },
       {
         "author_id": "6690032",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T05:46:14.000Z",
         "edit_history_tweet_ids": [
           "2115319209437872246"
         ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A collection of powerful productivity tools all within an extendable launcher.",
+              "display_url": "raycast.com/?via=joe-seesun",
+              "end": 114,
+              "expanded_url": "https://raycast.com/?via=joe-seesun",
+              "start": 91,
+              "status": 200,
+              "title": "Raycast - Your shortcut to everything",
+              "unwound_url": "https://www.raycast.com/?via=joe-seesun",
+              "url": "https://t.co/BWoXPixwml"
+            }
+          ]
+        },
         "id": "2115319209437872246",
-        "in_reply_to_user_id": "6690032",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 8,
-          "impression_count": 4488,
+          "impression_count": 4532,
           "like_count": 11,
           "quote_count": 0,
           "reply_count": 8,
@@ -516,15 +1034,26 @@
       },
       {
         "author_id": "6690032",
+        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T05:51:33.000Z",
         "edit_history_tweet_ids": [
           "2115320546246398028"
         ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1997889576187387904",
+              "start": 0,
+              "username": "cgnot996"
+            }
+          ]
+        },
         "id": "2115320546246398028",
-        "in_reply_to_user_id": "1997889576187387904",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1503,
+          "impression_count": 1504,
           "like_count": 1,
           "quote_count": 0,
           "reply_count": 1,
@@ -543,14 +1072,43 @@
           "title": "人人都能做产品：一次性分享我的 12 个真实案例，给你找点灵感"
         },
         "author_id": "1003243796044238848",
+        "conversation_id": "2113192539679510927",
         "created_at": "2026-10-22T08:55:37.000Z",
         "edit_history_tweet_ids": [
           "2113192539679510927"
         ],
+        "entities": {
+          "urls": [
+            {
+              "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+              "display_url": "x.com/i/article/2113…",
+              "end": 121,
+              "expanded_url": "https://x.com/i/article/2113190745687654400",
+              "images": [
+                {
+                  "height": 1024,
+                  "url": "https://pbs.twimg.com/news_img/2117114183275937793/k65qNL8S?format=png&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2117114183275937793/k65qNL8S?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "X. It’s what’s happening",
+              "unwound_url": "https://x.com/",
+              "url": "https://t.co/gRVlES6oQW"
+            }
+          ]
+        },
         "id": "2113192539679510927",
+        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 473,
-          "impression_count": 52676,
+          "impression_count": 52870,
           "like_count": 306,
           "quote_count": 26,
           "reply_count": 39,
@@ -561,130 +1119,157 @@
     ],
     "users": [
       {
+        "created_at": "2018-06-03T11:55:35.000Z",
+        "description": "👨‍🎓 AI 生活家 ｜ 立志成为 X 上最会找痛点的男人\n🤖 产品：拾音 FM ｜ 中国故事 ｜ OhMyX ｜ OhMyTab\n☎️ 微信：longhaiqwe",
         "id": "1003243796044238848",
         "name": "龙海",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2113192869897146368/aVlq1cjk_normal.jpg",
         "public_metrics": {
-          "followers_count": 5806,
-          "following_count": 1486,
-          "like_count": 4219,
-          "listed_count": 34,
-          "media_count": 317,
-          "tweet_count": 3982
+          "followers_count": 5899,
+          "following_count": 1495,
+          "like_count": 4296,
+          "listed_count": 33,
+          "media_count": 320,
+          "tweet_count": 4038
         },
-        "username": "longhaiqwe123"
+        "username": "longhaiqwe123",
+        "verified": false
       },
       {
+        "created_at": "2007-06-09T05:48:52.000Z",
+        "description": "喜欢摇滚乐、爱钓鱼的PM\n第二届GEO大会报名-11-21/22日-深圳南山\nhttps://t.co/N75cblhK9R",
         "id": "6690032",
         "name": "向阳乔木",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
         "public_metrics": {
-          "followers_count": 135646,
+          "followers_count": 136167,
           "following_count": 1682,
-          "like_count": 12442,
-          "listed_count": 2300,
-          "media_count": 3484,
-          "tweet_count": 10760
+          "like_count": 12475,
+          "listed_count": 2306,
+          "media_count": 3498,
+          "tweet_count": 10797
         },
-        "username": "vista8"
+        "username": "vista8",
+        "verified": false
       },
       {
+        "created_at": "2022-02-27T04:47:12.000Z",
+        "description": "🤖 AI LLM / Agent / Skill / MCP 观察与深度应用\n👨‍💻 高级软件工程师 / 签约作者 / 软件工程 AI 实践\n📈 标普/ 纳斯达克交易员/回测网站：https://t.co/Su9AWj2yeF\n💪 AI 领域付费咨询请私信",
         "id": "1497795331488055296",
         "name": "耳朵",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1750086551839883264/KER7NzZp_normal.jpg",
         "public_metrics": {
-          "followers_count": 11181,
-          "following_count": 488,
-          "like_count": 3017,
+          "followers_count": 11187,
+          "following_count": 489,
+          "like_count": 3023,
           "listed_count": 263,
           "media_count": 229,
-          "tweet_count": 4120
+          "tweet_count": 4128
         },
-        "username": "RookieRicardoR"
+        "username": "RookieRicardoR",
+        "verified": false
       },
       {
+        "created_at": "2025-12-08T04:42:54.000Z",
+        "description": "Build ambassador · SpaceXSI Community\n开源 Grok App / Grok Bot 浏览器插件 作者\nGrok Bot 重度用户，持续分享使用技巧\n199 付费答疑群 + V：AI_Tiezhu\n百万级项目 FDE 实施中，定期复盘经验",
         "id": "1997889576187387904",
         "name": "铁柱AGI",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2114913390091235329/OxXTtEdT_normal.jpg",
         "public_metrics": {
-          "followers_count": 11620,
-          "following_count": 1582,
-          "like_count": 11879,
-          "listed_count": 88,
-          "media_count": 638,
-          "tweet_count": 6657
+          "followers_count": 11717,
+          "following_count": 1589,
+          "like_count": 11981,
+          "listed_count": 91,
+          "media_count": 645,
+          "tweet_count": 6705
         },
-        "username": "cgnot996"
+        "username": "cgnot996",
+        "verified": false
       },
       {
+        "created_at": "2025-10-11T10:26:15.000Z",
+        "description": "10年运营，曾就职于b站，趣头条，自己创业过四年公司，目前就职于某公司负责运营，科技领域爱好者，喜欢最新的AI技术。AI漫剧；coding；\n喜欢实践和分享自己的AI实操经验。",
         "id": "1976898060799430656",
         "name": "qutuya",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2006528287842119681/7RjbKPMg_normal.jpg",
         "public_metrics": {
-          "followers_count": 428,
-          "following_count": 238,
+          "followers_count": 425,
+          "following_count": 241,
           "like_count": 44,
           "listed_count": 0,
           "media_count": 41,
-          "tweet_count": 967
+          "tweet_count": 973
         },
-        "username": "pingmin12789"
+        "username": "pingmin12789",
+        "verified": false
       },
       {
+        "created_at": "2009-03-26T16:02:58.000Z",
+        "description": "前 字节PM / PICO VR 软件产品 Lead\n深耕 VR 行业9年\n做了 https://t.co/iAupZrmc7v：838+ 个 Three.js 3D 游戏与 互动作品 聚合\n分享各种 AI coding 经验\n个人作品站：https://t.co/2RTtQFxjTU\nVR专栏：https://t.co/UrvrGm1jml",
         "id": "26780664",
         "name": "Rockeymen",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2109860933040582657/isLEN-Hy_normal.jpg",
         "public_metrics": {
-          "followers_count": 134,
-          "following_count": 184,
-          "like_count": 80,
+          "followers_count": 137,
+          "following_count": 187,
+          "like_count": 83,
           "listed_count": 0,
-          "media_count": 105,
-          "tweet_count": 643
+          "media_count": 106,
+          "tweet_count": 669
         },
-        "username": "rockeymen"
+        "username": "rockeymen",
+        "verified": false
       },
       {
+        "created_at": "2019-12-18T11:18:34.000Z",
+        "description": "每周拆解真实场景,用AI来重构工作和生活\nAI仿真/出海/AI在工业中的应用探索\n我的目标是每晚10点睡觉,其他的交给Ai\n天行健,君子以自强不息;\n日日精进,久久为功\n分享真实生活,结交朋友",
         "id": "1207258810512838656",
         "name": "铜匠・十点睡觉",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1997218796172611584/gudsBQXU_normal.jpg",
         "public_metrics": {
-          "followers_count": 3979,
-          "following_count": 706,
-          "like_count": 1144,
+          "followers_count": 4029,
+          "following_count": 705,
+          "like_count": 1184,
           "listed_count": 20,
-          "media_count": 406,
-          "tweet_count": 4068
+          "media_count": 409,
+          "tweet_count": 4139
         },
-        "username": "CopperForgeAI"
+        "username": "CopperForgeAI",
+        "verified": false
       },
       {
+        "created_at": "2026-07-12T01:14:53.000Z",
+        "description": "记录生活，分享日常\n聊聊 AI，也聊聊有趣的见闻\n不谈政治，心怀家国\n本人小店有需要自行下单 https://t.co/5ruJAZN56v\n部分图片来自网络，如有侵权请私信删除",
         "id": "2076112393919508480",
         "name": "Youni",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2108127665911980032/MGnDZMcS_normal.jpg",
         "public_metrics": {
-          "followers_count": 7141,
-          "following_count": 7411,
-          "like_count": 10481,
+          "followers_count": 7272,
+          "following_count": 7213,
+          "like_count": 10553,
           "listed_count": 0,
-          "media_count": 331,
-          "tweet_count": 12936
+          "media_count": 333,
+          "tweet_count": 12982
         },
-        "username": "Younik4we"
+        "username": "Younik4we",
+        "verified": false
       },
       {
+        "created_at": "2020-02-17T10:16:43.000Z",
+        "description": "想都是问题，做才有答案｜独立开发者，用 AI 从 0 做工具和出海｜让 AI 不睡觉，我睡着也有收入",
         "id": "1229348878429777920",
         "name": "AINoSleep",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2106776628764532737/sRsDUc9N_normal.jpg",
         "public_metrics": {
-          "followers_count": 1505,
-          "following_count": 1792,
-          "like_count": 981,
+          "followers_count": 1517,
+          "following_count": 1802,
+          "like_count": 1008,
           "listed_count": 0,
-          "media_count": 210,
-          "tweet_count": 1989
+          "media_count": 220,
+          "tweet_count": 2036
         },
-        "username": "AINoSleep"
+        "username": "AINoSleep",
+        "verified": false
       }
     ]
   },

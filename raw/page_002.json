@@ -24,7 +24,6 @@
         ]
       },
       "id": "2116006522560147629",
-      "in_reply_to_user_id": "1207258810512838656",
       "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
@@ -74,7 +73,6 @@
         ]
       },
       "id": "2116004688529354808",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -136,7 +134,6 @@
         ]
       },
       "id": "2115997079592132841",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
@@ -173,7 +170,6 @@
         ]
       },
       "id": "2115954801330758091",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -216,11 +212,10 @@
         ]
       },
       "id": "2115865474659746158",
-      "in_reply_to_user_id": "1724148821222133761",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 40,
+        "impression_count": 41,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -253,7 +248,6 @@
         ]
       },
       "id": "2115853637461463214",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -333,7 +327,6 @@
         ]
       },
       "id": "2115668441847976401",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -389,8 +382,21 @@
         ]
       },
       "id": "2115658389590270236",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/mizhidaili/ver…",
+              "end": 230,
+              "expanded_url": "https://github.com/mizhidaili/version",
+              "start": 207,
+              "url": "https://t.co/CfifvBGTkN"
+            }
+          ]
+        },
+        "text": "我做了一个 Obsidian 插件，叫 Multi-Version Notes，想让同一篇笔记的不同版本都能保留下来，方便切换和管理。\n\n我比较在意的是，一篇笔记改了以后，之前的想法也不一定就失去价值了。有时只是换了一个角度，有时是自己在不同阶段有了不同的理解。我希望这些内容可以同时存在，需要的时候能直接切换着看。\n\n插件也做了单独的版本管理界面，可以拖动整理。这里附上演示视频，会更直观一些。\n\n项目已经开源：https://t.co/CfifvBGTkN"
+      },
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 5,
@@ -432,11 +438,10 @@
         ]
       },
       "id": "2115629446212559226",
-      "in_reply_to_user_id": "1653295891443515392",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 31,
+        "impression_count": 32,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -475,11 +480,10 @@
         ]
       },
       "id": "2115626332080263290",
-      "in_reply_to_user_id": "385212290",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 21,
+        "impression_count": 24,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -537,7 +541,6 @@
         ]
       },
       "id": "2115619834579063117",
-      "in_reply_to_user_id": "2093074694710673408",
       "lang": "qme",
       "public_metrics": {
         "bookmark_count": 0,
@@ -574,7 +577,6 @@
         ]
       },
       "id": "2115619670594330926",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -617,7 +619,6 @@
         ]
       },
       "id": "2115616104488038610",
-      "in_reply_to_user_id": "1598519155736645632",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -679,11 +680,10 @@
         ]
       },
       "id": "2115614821836354015",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 123,
+        "impression_count": 124,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -722,11 +722,10 @@
         ]
       },
       "id": "2115612853462073627",
-      "in_reply_to_user_id": "1022657191923216384",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 74,
+        "impression_count": 75,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 1,
@@ -759,7 +758,6 @@
         ]
       },
       "id": "2115612016429908271",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -802,7 +800,6 @@
         ]
       },
       "id": "2115609110846849176",
-      "in_reply_to_user_id": "1598519155736645632",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -845,7 +842,6 @@
         ]
       },
       "id": "2115606222150029730",
-      "in_reply_to_user_id": "1894397103751008256",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -907,7 +903,6 @@
         ]
       },
       "id": "2115603097775169893",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -950,7 +945,6 @@
         ]
       },
       "id": "2115591797795946769",
-      "in_reply_to_user_id": "1742721986349158400",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -1012,7 +1006,6 @@
         ]
       },
       "id": "2115590206757982330",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
@@ -1074,7 +1067,6 @@
         ]
       },
       "id": "2115587624048206141",
-      "in_reply_to_user_id": "6690032",
       "lang": "ja",
       "public_metrics": {
         "bookmark_count": 3,
@@ -1111,7 +1103,6 @@
         ]
       },
       "id": "2115583606773223626",
-      "in_reply_to_user_id": "6690032",
       "lang": "tl",
       "public_metrics": {
         "bookmark_count": 0,
@@ -1154,7 +1145,6 @@
         ]
       },
       "id": "2115582414147973420",
-      "in_reply_to_user_id": "1497795331488055296",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -1191,11 +1181,10 @@
         ]
       },
       "id": "2115529232172679312",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 60,
+        "impression_count": 62,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -1288,11 +1277,31 @@
           ]
         },
         "id": "2115319997832839246",
-        "in_reply_to_user_id": "6690032",
         "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "lab.tongjiang.app",
+                "end": 60,
+                "expanded_url": "http://lab.tongjiang.app",
+                "start": 37,
+                "url": "https://t.co/O4Pm54GHsc"
+              },
+              {
+                "display_url": "github.com/smithjohn78390…",
+                "end": 93,
+                "expanded_url": "http://github.com/smithjohn78390/tongjiang-lab",
+                "start": 70,
+                "url": "https://t.co/jwidnvL5ny"
+              }
+            ]
+          },
+          "text": "求推荐：\n3d互动教育课程开源，目前已经可以开源55门。  \n🔗 在线用：https://t.co/O4Pm54GHsc\n🔗 GitHub https://t.co/jwidnvL5ny \n\n覆盖物理、化学、生物、地理四科，按中国高中课标和人教版教材做：合成氨、接触法制硫酸、氯碱工业、高炉炼铁、电流的磁场、光电效应、有丝分裂、神经冲动、三圈环流、厄尔尼诺……  \n每门课是什么样： · 一个 3D 世界，能拖、能转、能剖开看塔里面 · 右边一台中控台，滑杆和开关每一步都能动，读数和曲线实时变 · 一条步骤线，老师一路按「下一步」就能讲完一节课，学生没动手的步骤会自动演示 · 最后一步是考核，有目标值"
+        },
         "public_metrics": {
           "bookmark_count": 31,
-          "impression_count": 2066,
+          "impression_count": 2073,
           "like_count": 19,
           "quote_count": 0,
           "reply_count": 2,
@@ -1317,8 +1326,8 @@
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 167,
-          "impression_count": 43107,
-          "like_count": 132,
+          "impression_count": 43513,
+          "like_count": 131,
           "quote_count": 6,
           "reply_count": 128,
           "retweet_count": 18
@@ -1368,11 +1377,10 @@
           ]
         },
         "id": "2115363392219480155",
-        "in_reply_to_user_id": "6690032",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 3,
-          "impression_count": 467,
+          "impression_count": 470,
           "like_count": 5,
           "quote_count": 0,
           "reply_count": 1,
@@ -1395,6 +1403,9 @@
         ],
         "id": "2106273531738706052",
         "lang": "zh",
+        "note_tweet": {
+          "text": "做了个 Chrome 小扩展：Timezone Override.\n\n用 Claude Code 这类工具把系统时区、region 都改掉了，但公司网站的时间显示就全乱了。改回又怕被封号…\n\n•  支持全局模式或按域名配规则设置（只设置内网）\n•  排除名单：指定网站强制用设备时区\n•  点工具栏图标就能看到当前标签页的实际时区和当地时间\n•  时区按城市 / IANA / UTC 偏移搜\n•  不收集任何数据，设置都存本地\n\nChrome 商店免费已上架 👇"
+        },
         "public_metrics": {
           "bookmark_count": 0,
           "impression_count": 301,
@@ -1429,7 +1440,6 @@
           ]
         },
         "id": "2115591797795946769",
-        "in_reply_to_user_id": "1742721986349158400",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
@@ -1490,11 +1500,10 @@
           ]
         },
         "id": "2115360490188857643",
-        "in_reply_to_user_id": "6690032",
         "lang": "ja",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 246,
+          "impression_count": 253,
           "like_count": 1,
           "quote_count": 0,
           "reply_count": 1,
@@ -1526,7 +1535,6 @@
           ]
         },
         "id": "2115619670594330926",
-        "in_reply_to_user_id": "6690032",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
@@ -1568,11 +1576,10 @@
           ]
         },
         "id": "2115612853462073627",
-        "in_reply_to_user_id": "1022657191923216384",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 74,
+          "impression_count": 75,
           "like_count": 1,
           "quote_count": 0,
           "reply_count": 1,
@@ -1610,7 +1617,6 @@
           ]
         },
         "id": "2115609110846849176",
-        "in_reply_to_user_id": "1598519155736645632",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
@@ -1693,11 +1699,10 @@
           ]
         },
         "id": "2115322251549774111",
-        "in_reply_to_user_id": "6690032",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 7,
-          "impression_count": 1783,
+          "impression_count": 1786,
           "like_count": 9,
           "quote_count": 0,
           "reply_count": 4,
@@ -1735,7 +1740,6 @@
           ]
         },
         "id": "2115582414147973420",
-        "in_reply_to_user_id": "1497795331488055296",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
@@ -1784,11 +1788,10 @@
           ]
         },
         "id": "2115449069435002964",
-        "in_reply_to_user_id": "6690032",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 4,
-          "impression_count": 453,
+          "impression_count": 454,
           "like_count": 3,
           "quote_count": 0,
           "reply_count": 2,
@@ -1868,11 +1871,10 @@
           ]
         },
         "id": "2115321099118682120",
-        "in_reply_to_user_id": "6690032",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 5,
-          "impression_count": 1304,
+          "impression_count": 1305,
           "like_count": 4,
           "quote_count": 0,
           "reply_count": 2,
@@ -1889,300 +1891,365 @@
     ],
     "users": [
       {
+        "created_at": "2009-03-26T16:02:58.000Z",
+        "description": "前 字节PM / PICO VR 软件产品 Lead\n深耕 VR 行业9年\n做了 https://t.co/iAupZrmc7v：838+ 个 Three.js 3D 游戏与 互动作品 聚合\n分享各种 AI coding 经验\n个人作品站：https://t.co/2RTtQFxjTU\nVR专栏：https://t.co/UrvrGm1jml",
         "id": "26780664",
         "name": "Rockeymen",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2109860933040582657/isLEN-Hy_normal.jpg",
         "public_metrics": {
-          "followers_count": 134,
-          "following_count": 184,
-          "like_count": 80,
+          "followers_count": 137,
+          "following_count": 187,
+          "like_count": 83,
           "listed_count": 0,
-          "media_count": 105,
-          "tweet_count": 643
+          "media_count": 106,
+          "tweet_count": 669
         },
-        "username": "rockeymen"
+        "username": "rockeymen",
+        "verified": false
       },
       {
+        "created_at": "2014-07-11T05:24:06.000Z",
+        "description": "📈 交易员｜Crypto & 金融市场\n🤖 AI 实践｜🛠️ 产品构建\n🌐 科技 · 创新 · 独立思考\n\n🧠 Think deeper. Build smarter. https://t.co/koNlFQb6GC",
         "id": "2616722856",
         "name": "超神投资",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2087374439872913408/ROHbtCVd_normal.jpg",
         "public_metrics": {
-          "followers_count": 378,
-          "following_count": 626,
+          "followers_count": 375,
+          "following_count": 632,
           "like_count": 398,
           "listed_count": 1,
-          "media_count": 68,
-          "tweet_count": 203
+          "media_count": 71,
+          "tweet_count": 207
         },
-        "username": "chaoshentouzi"
+        "username": "chaoshentouzi",
+        "verified": false
       },
       {
+        "created_at": "2017-07-05T09:29:14.000Z",
+        "description": "macOS · AI工具开发 | Be in the world, but not of it.\nbuilding：\n未晞 - https://t.co/G9aRKtE2VR\n烹小鲜 - https://t.co/yMoOJ0mKXq",
         "id": "882531809438744576",
         "name": "leemysw",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2110261703199887360/48U-m-NZ_normal.jpg",
         "public_metrics": {
-          "followers_count": 542,
+          "followers_count": 541,
           "following_count": 172,
           "like_count": 9,
           "listed_count": 2,
           "media_count": 116,
           "tweet_count": 328
         },
-        "username": "leemysw"
+        "username": "leemysw",
+        "verified": false
       },
       {
+        "created_at": "2018-08-05T05:27:32.000Z",
+        "description": "AI Researcher &\nUS Stockmarket &\nCrypto\n互关必回",
         "id": "1025976578143006721",
         "name": "Alvis.Chan",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2107772030284353536/M92Ql9Jz_normal.jpg",
         "public_metrics": {
-          "followers_count": 4835,
-          "following_count": 7499,
-          "like_count": 122369,
+          "followers_count": 4827,
+          "following_count": 7496,
+          "like_count": 122489,
           "listed_count": 1,
           "media_count": 53,
-          "tweet_count": 17590
+          "tweet_count": 17596
         },
-        "username": "liguozzz"
+        "username": "liguozzz",
+        "verified": false
       },
       {
+        "created_at": "2026-10-14T06:15:36.000Z",
+        "description": "经常去商K的兄弟都知道，开门那一下最开心。中年带娃打工人，用AI搓工具、整攻略、做旅行功课，好用不好用照实说。周二聊工具，周日聊玩。88~愿世界和平。",
         "id": "2110252897019756544",
         "name": "AI进来也要报产地",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2113270705693556736/0L2pO6-w_normal.jpg",
         "public_metrics": {
-          "followers_count": 32,
+          "followers_count": 31,
           "following_count": 81,
           "like_count": 49,
           "listed_count": 0,
-          "media_count": 5,
-          "tweet_count": 98
+          "media_count": 6,
+          "tweet_count": 119
         },
-        "username": "singu46"
+        "username": "singu46",
+        "verified": false
       },
       {
+        "created_at": "2022-04-28T18:03:36.000Z",
+        "description": "🎖️  蓝V新人 / 浇朋友\n🤖 AI成瘾者 / Agent 应用\n💼 10+年 解决方案老兵\n🛠 Claude 解封前codex钉子户\n🏃 保持运动，保持好奇心",
         "id": "1519739053976920066",
         "name": "David. AI",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2108772342612844544/6sf67q8x_normal.jpg",
         "public_metrics": {
-          "followers_count": 2885,
-          "following_count": 2998,
+          "followers_count": 2917,
+          "following_count": 3039,
           "like_count": 124,
           "listed_count": 0,
-          "media_count": 160,
-          "tweet_count": 1703
+          "media_count": 164,
+          "tweet_count": 1728
         },
-        "username": "DavidChin0110"
+        "username": "DavidChin0110",
+        "verified": false
       },
       {
+        "created_at": "2026-02-10T14:44:42.000Z",
+        "description": "10+ years swe. \nBreaking AI dev tools. Sharing hands-on experience with AI tools.\nBuilding in public.",
         "id": "2021233756078850049",
         "name": "Muwei",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2058536384282189824/0vMNU3Ix_normal.jpg",
         "public_metrics": {
-          "followers_count": 177,
+          "followers_count": 174,
           "following_count": 77,
           "like_count": 455,
           "listed_count": 1,
           "media_count": 108,
           "tweet_count": 685
         },
-        "username": "MuweiCallisto"
+        "username": "MuweiCallisto",
+        "verified": false
       },
       {
+        "created_at": "2025-09-11T15:24:45.000Z",
+        "description": "自我教育·斯多葛主义·语言学习\nObsidian×AI Agent×PKM\nMulti-Version Notes for Obsidian 开发者\n没有幽默感的时间线，不会有光明的未来。",
         "id": "1966160926778040320",
         "name": "郁江（いくえ）",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2114405550368903168/2yL4PcsN_normal.jpg",
         "public_metrics": {
-          "followers_count": 1914,
-          "following_count": 1988,
-          "like_count": 289,
+          "followers_count": 1957,
+          "following_count": 2011,
+          "like_count": 292,
           "listed_count": 1,
-          "media_count": 78,
-          "tweet_count": 2299
+          "media_count": 79,
+          "tweet_count": 2310
         },
-        "username": "Ikue6666"
+        "username": "Ikue6666",
+        "verified": false
       },
       {
+        "created_at": "2024-01-04T01:38:18.000Z",
+        "description": "狂奔滴小马 🐎 前端跑路工程师\nNode.js / React / AI Coding 日常\nhttps://t.co/ONwrAXn1h1\nhttps://t.co/t7IEiYRdoH",
         "id": "1742721986349158400",
         "name": "狂奔滴小马",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1742724073334112256/fc_BemeW_normal.png",
         "public_metrics": {
-          "followers_count": 765,
-          "following_count": 387,
-          "like_count": 500,
-          "listed_count": 6,
+          "followers_count": 774,
+          "following_count": 398,
+          "like_count": 502,
+          "listed_count": 7,
           "media_count": 111,
-          "tweet_count": 538
+          "tweet_count": 541
         },
-        "username": "maqibin"
+        "username": "maqibin",
+        "verified": false
       },
       {
+        "created_at": "2023-04-17T07:26:06.000Z",
+        "description": "AI + Web3 builder. I share practical agent systems, research workflows, and the lessons behind shipping real products.",
         "id": "1647863949466140672",
         "name": "Jeanphilo Gong",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1726403608911183872/r9vP6qnM_normal.jpg",
         "public_metrics": {
-          "followers_count": 63,
+          "followers_count": 65,
           "following_count": 24,
           "like_count": 16,
           "listed_count": 0,
           "media_count": 28,
-          "tweet_count": 1223
+          "tweet_count": 1286
         },
-        "username": "JeanphiloGong"
+        "username": "JeanphiloGong",
+        "verified": false
       },
       {
+        "created_at": "2026-08-27T20:35:10.000Z",
+        "description": "Sustainable Intelligence in AI Era",
         "id": "2093074694710673408",
         "name": "Zeyu",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2093075223281041408/yQ4WeMTK_normal.jpg",
         "public_metrics": {
-          "followers_count": 5,
+          "followers_count": 6,
           "following_count": 27,
           "like_count": 4,
           "listed_count": 0,
           "media_count": 0,
           "tweet_count": 11
         },
-        "username": "Zeyu_J"
+        "username": "Zeyu_J",
+        "verified": false
       },
       {
+        "created_at": "2018-07-27T01:37:29.000Z",
+        "description": "",
         "id": "1022657191923216384",
         "name": "花果山下",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2046190836900335616/rb2yHiNe_normal.jpg",
         "public_metrics": {
           "followers_count": 3,
-          "following_count": 105,
-          "like_count": 201,
+          "following_count": 106,
+          "like_count": 210,
           "listed_count": 0,
           "media_count": 9,
-          "tweet_count": 44
+          "tweet_count": 46
         },
-        "username": "huaguoshanxia"
+        "username": "huaguoshanxia",
+        "verified": false
       },
       {
+        "created_at": "2022-03-20T16:02:32.000Z",
+        "description": "FDE for Global Sellers:https://t.co/0liH5wDJTr\n\nPast:@TencentGlobal",
         "id": "1505575492086165505",
         "name": "Plato | Seller FDE",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1749719507428335616/SxQ9q1Fy_normal.jpg",
         "public_metrics": {
-          "followers_count": 3392,
+          "followers_count": 3390,
           "following_count": 756,
-          "like_count": 2163,
+          "like_count": 2169,
           "listed_count": 37,
-          "media_count": 243,
-          "tweet_count": 1201
+          "media_count": 244,
+          "tweet_count": 1206
         },
-        "username": "0xPlato"
+        "username": "0xPlato",
+        "verified": false
       },
       {
+        "created_at": "2022-12-02T03:27:35.000Z",
+        "description": "Al 创作者•LLM 爱好者•Al Agent 构建者\nAI 生视频•AI 生图\n输出有温度的洞察。 致力于降低 AI 使用门槛，让更多人受益。\n某大厂架构师-多模态、模型私有化领域\n企业 AI方案设计• FDE\n关注AI产品、AI结合教育、艺术创作领域\n📮: lanshulan007@gmail.com",
         "id": "1598519155736645632",
         "name": "岚叔",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1680410719941165058/vWaCNg37_normal.jpg",
         "public_metrics": {
-          "followers_count": 25822,
+          "followers_count": 25885,
           "following_count": 769,
-          "like_count": 10026,
-          "listed_count": 287,
-          "media_count": 1388,
-          "tweet_count": 7662
+          "like_count": 10057,
+          "listed_count": 288,
+          "media_count": 1390,
+          "tweet_count": 7684
         },
-        "username": "LufzzLiz"
+        "username": "LufzzLiz",
+        "verified": false
       },
       {
+        "created_at": "2026-02-14T14:35:38.000Z",
+        "description": "AI打工仔",
         "id": "2022681088494309378",
         "name": "kor~",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2110759213685415936/aX0oSvCP_normal.jpg",
         "public_metrics": {
-          "followers_count": 745,
-          "following_count": 798,
-          "like_count": 43,
+          "followers_count": 746,
+          "following_count": 793,
+          "like_count": 44,
           "listed_count": 1,
-          "media_count": 38,
-          "tweet_count": 278
+          "media_count": 39,
+          "tweet_count": 285
         },
-        "username": "ai_funs"
+        "username": "ai_funs",
+        "verified": false
       },
       {
+        "created_at": "2022-02-27T04:47:12.000Z",
+        "description": "🤖 AI LLM / Agent / Skill / MCP 观察与深度应用\n👨‍💻 高级软件工程师 / 签约作者 / 软件工程 AI 实践\n📈 标普/ 纳斯达克交易员/回测网站：https://t.co/Su9AWj2yeF\n💪 AI 领域付费咨询请私信",
         "id": "1497795331488055296",
         "name": "耳朵",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1750086551839883264/KER7NzZp_normal.jpg",
         "public_metrics": {
-          "followers_count": 11181,
-          "following_count": 488,
-          "like_count": 3017,
+          "followers_count": 11187,
+          "following_count": 489,
+          "like_count": 3023,
           "listed_count": 263,
           "media_count": 229,
-          "tweet_count": 4120
+          "tweet_count": 4128
         },
-        "username": "RookieRicardoR"
+        "username": "RookieRicardoR",
+        "verified": false
       },
       {
+        "created_at": "2021-07-14T23:31:29.000Z",
+        "description": "04 | AI | Web3\nApplied AI & LLM systems\nBuilding tools + sharing the process\nVibe coding daily | Zero hype",
         "id": "1415453854880079873",
         "name": "YC | Applied AI",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2103645379518672896/eCfaib6-_normal.jpg",
         "public_metrics": {
-          "followers_count": 131,
-          "following_count": 101,
-          "like_count": 24,
+          "followers_count": 132,
+          "following_count": 102,
+          "like_count": 25,
           "listed_count": 0,
           "media_count": 9,
-          "tweet_count": 227
+          "tweet_count": 236
         },
-        "username": "yc04bq"
+        "username": "yc04bq",
+        "verified": false
       },
       {
+        "created_at": "2023-05-02T07:12:13.000Z",
+        "description": "用 AI 写代码、做产品、搞出海｜每天一条资讯点评 + 实测心得，欢迎来聊",
         "id": "1653295891443515392",
         "name": "Tyler",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2093090612061073409/y09goG8v_normal.jpg",
         "public_metrics": {
-          "followers_count": 390,
-          "following_count": 665,
-          "like_count": 57,
+          "followers_count": 388,
+          "following_count": 664,
+          "like_count": 58,
           "listed_count": 0,
           "media_count": 227,
-          "tweet_count": 2231
+          "tweet_count": 2232
         },
-        "username": "md440326799"
+        "username": "md440326799",
+        "verified": false
       },
       {
+        "created_at": "2022-06-06T18:15:11.000Z",
+        "description": "0xCoach | 阿涛\n分享 AI 工具、Vibe Coding、Agent 与开源项目，分享从想法到产品的实践过程。",
         "id": "1533875128274079744",
         "name": "0xCoach",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1547599312938418177/d6Ny7a2F_normal.jpg",
         "public_metrics": {
-          "followers_count": 227,
-          "following_count": 539,
+          "followers_count": 226,
+          "following_count": 540,
           "like_count": 125,
           "listed_count": 0,
           "media_count": 38,
           "tweet_count": 409
         },
-        "username": "0xCoach"
+        "username": "0xCoach",
+        "verified": false
       },
       {
+        "created_at": "2026-10-05T10:15:00.000Z",
+        "description": "在AI生图、skill开发与vibe coding之间持续实践。\n\n浇个朋友：https://t.co/y8z6fLb9v1",
         "id": "2107051193478545408",
         "name": "多喝热水",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2107052398204366848/93HEg7Co_normal.jpg",
         "public_metrics": {
-          "followers_count": 5028,
-          "following_count": 5414,
-          "like_count": 13950,
+          "followers_count": 5253,
+          "following_count": 5682,
+          "like_count": 14593,
           "listed_count": 1,
-          "media_count": 145,
-          "tweet_count": 10104
+          "media_count": 150,
+          "tweet_count": 10685
         },
-        "username": "dohewater"
+        "username": "dohewater",
+        "verified": false
       },
       {
+        "created_at": "2025-02-25T14:41:23.000Z",
+        "description": "",
         "id": "1894397103751008256",
         "name": "jun kobe",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1894397285607636992/3qZv8sEE_normal.jpg",
         "public_metrics": {
           "followers_count": 1,
           "following_count": 42,
-          "like_count": 222,
+          "like_count": 224,
           "listed_count": 0,
           "media_count": 0,
-          "tweet_count": 90
+          "tweet_count": 93
         },
-        "username": "Lyzone2025"
+        "username": "Lyzone2025",
+        "verified": false
       },
       {
+        "created_at": "2026-10-12T04:54:53.000Z",
+        "description": "Helping businesses go global with AI marketing & GEO｜帮企业出海做 AI 营销，自家包装工厂也在 AI 转型｜🇨🇳🇺🇸｜mom-to-be · foodie · 🏊‍♀️｜Building in public",
         "id": "2109507785134362624",
         "name": "Gloriaxiong",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2109508667699843072/8l4Qqu_0_normal.jpg",
@@ -2194,7 +2261,8 @@
           "media_count": 1,
           "tweet_count": 18
         },
-        "username": "GloriaXiongY"
+        "username": "GloriaXiongY",
+        "verified": false
       }
     ]
   },

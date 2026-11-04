@@ -2,24 +2,12 @@
   "data": [
     {
       "author_id": "2084811423297998848",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:42:52.000Z",
       "edit_history_tweet_ids": [
         "2115348559453208590"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115348559453208590",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 1,
@@ -39,49 +27,12 @@
     },
     {
       "author_id": "2030917389324283904",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:42:09.000Z",
       "edit_history_tweet_ids": [
         "2115348377500319793"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Explore a free interactive 3D garden by Alicia: four seasons, nature sounds, colour editing and photography in your browser. No account required.",
-            "display_url": "digitalgarden.si",
-            "end": 76,
-            "expanded_url": "https://digitalgarden.si/",
-            "images": [
-              {
-                "height": 630,
-                "url": "https://pbs.twimg.com/news_img/2115348419892113408/NdbZA2bh?format=jpg&name=orig",
-                "width": 1200
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2115348419892113408/NdbZA2bh?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 53,
-            "status": 200,
-            "title": "Free Interactive 3D Garden | Digital Garden by Alicia",
-            "unwound_url": "https://digitalgarden.si/",
-            "url": "https://t.co/TImjB9XJsb"
-          }
-        ]
-      },
       "id": "2115348377500319793",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 69,
@@ -101,33 +52,15 @@
     },
     {
       "author_id": "1497795331488055296",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:29:03.000Z",
       "edit_history_tweet_ids": [
         "2115345082396406035"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 12,
-            "id": "1031175155098107905",
-            "start": 0,
-            "username": "ZJL20373362"
-          },
-          {
-            "end": 20,
-            "id": "6690032",
-            "start": 13,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115345082396406035",
       "in_reply_to_user_id": "1031175155098107905",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 60,
+        "impression_count": 61,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -144,27 +77,15 @@
     },
     {
       "author_id": "2054292218199027712",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:27:16.000Z",
       "edit_history_tweet_ids": [
         "2115344635317076463"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115344635317076463",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 327,
+        "impression_count": 329,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -186,57 +107,12 @@
         ]
       },
       "author_id": "1726981174038532096",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:21:04.000Z",
       "edit_history_tweet_ids": [
         "2115343072351678643"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Local-first desktop app for inspecting and safely managing the Skills, MCP servers, CLIs, and instruction files your AI agents use. - 599yongyang/larder",
-            "display_url": "github.com/599yongyang/la…",
-            "end": 102,
-            "expanded_url": "https://github.com/599yongyang/larder",
-            "images": [
-              {
-                "height": 600,
-                "url": "https://pbs.twimg.com/news_img/2117284707268501505/F64PDEfG?format=jpg&name=orig",
-                "width": 1200
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2117284707268501505/F64PDEfG?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 79,
-            "status": 200,
-            "title": "GitHub - 599yongyang/larder: Local-first desktop app for inspecting and safely managing the Skills, MCP servers, CLIs, and instruction files your AI agents use.",
-            "unwound_url": "https://github.com/599yongyang/larder",
-            "url": "https://t.co/RrBgnBAVAY"
-          },
-          {
-            "display_url": "pic.x.com/P38rDAUTG0",
-            "end": 126,
-            "expanded_url": "https://x.com/aaaaang_y63488/status/2115343072351678643/photo/1",
-            "media_key": "3_2115343006920478720",
-            "start": 103,
-            "url": "https://t.co/P38rDAUTG0"
-          }
-        ]
-      },
       "id": "2115343072351678643",
       "in_reply_to_user_id": "6690032",
-      "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 182,
@@ -256,49 +132,12 @@
     },
     {
       "author_id": "1892445190830637056",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:19:37.000Z",
       "edit_history_tweet_ids": [
         "2115342708021813631"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ],
-        "urls": [
-          {
-            "description": "本地批量给图片加文件名，支持自动选位、预览和逐张微调。Local batch image captioning with per-image controls. - loki2046-mao/smart-name-stamp",
-            "display_url": "github.com/loki2046-mao/s…",
-            "end": 82,
-            "expanded_url": "https://github.com/loki2046-mao/smart-name-stamp",
-            "images": [
-              {
-                "height": 600,
-                "url": "https://pbs.twimg.com/news_img/2115342711486394368/Ojj5NoeQ?format=jpg&name=orig",
-                "width": 1200
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2115342711486394368/Ojj5NoeQ?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 59,
-            "status": 200,
-            "title": "GitHub - loki2046-mao/smart-name-stamp: 本地批量给图片加文件名，支持自动选位、预览和逐张微调。Local batch image captioning with per-image controls.",
-            "unwound_url": "https://github.com/loki2046-mao/smart-name-stamp",
-            "url": "https://t.co/wnnP8SqVyQ"
-          }
-        ]
-      },
       "id": "2115342708021813631",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 196,
@@ -318,49 +157,12 @@
     },
     {
       "author_id": "1892445190830637056",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:19:05.000Z",
       "edit_history_tweet_ids": [
         "2115342572994609537"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ],
-        "urls": [
-          {
-            "description": "一个用 Cola 做的简洁 macOS 电子书格式转换工具，基于 Calibre，支持批量转换、进度显示和自定义保存位置。 - loki2046-mao/loki-ebook-converter",
-            "display_url": "github.com/loki2046-mao/l…",
-            "end": 84,
-            "expanded_url": "https://github.com/loki2046-mao/loki-ebook-converter",
-            "images": [
-              {
-                "height": 600,
-                "url": "https://pbs.twimg.com/news_img/2115342573879570432/HYXiQxqe?format=jpg&name=orig",
-                "width": 1200
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2115342573879570432/HYXiQxqe?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 61,
-            "status": 200,
-            "title": "GitHub - loki2046-mao/loki-ebook-converter: 一个用 Cola 做的简洁 macOS 电子书格式转换工具，基于 Calibre，支持批量转换、进度显示和自定义保存位置。",
-            "unwound_url": "https://github.com/loki2046-mao/loki-ebook-converter",
-            "url": "https://t.co/geSHztBXWV"
-          }
-        ]
-      },
       "id": "2115342572994609537",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 2,
         "impression_count": 506,
@@ -380,24 +182,12 @@
     },
     {
       "author_id": "1453896737324613636",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:18:24.000Z",
       "edit_history_tweet_ids": [
         "2115342403532210202"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115342403532210202",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
         "impression_count": 92,
@@ -417,24 +207,12 @@
     },
     {
       "author_id": "4716346122",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:17:54.000Z",
       "edit_history_tweet_ids": [
         "2115342276721528933"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115342276721528933",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
         "impression_count": 128,
@@ -454,52 +232,15 @@
     },
     {
       "author_id": "1661680339729932295",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:15:07.000Z",
       "edit_history_tweet_ids": [
         "2115341575341654436"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ],
-        "urls": [
-          {
-            "description": "AI video effects from one photo: make the videos trending on TikTok, like Flying Broom, Ceiling Fan Transition, AI Arrest. Vertical clips with sound, ready in minutes.",
-            "display_url": "blinkpop.video",
-            "end": 62,
-            "expanded_url": "https://blinkpop.video",
-            "images": [
-              {
-                "height": 630,
-                "url": "https://pbs.twimg.com/news_img/2115341580123136000/fU0u4G0d?format=jpg&name=orig",
-                "width": 1200
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2115341580123136000/fU0u4G0d?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 39,
-            "status": 200,
-            "title": "Trending AI Video Effects From One Photo | BlinkPop",
-            "unwound_url": "https://blinkpop.video",
-            "url": "https://t.co/mUDAT0sybl"
-          }
-        ]
-      },
       "id": "2115341575341654436",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 171,
+        "impression_count": 173,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 1,
@@ -516,24 +257,12 @@
     },
     {
       "author_id": "1707322478",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:12:31.000Z",
       "edit_history_tweet_ids": [
         "2115340923437547542"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115340923437547542",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 128,
@@ -553,24 +282,12 @@
     },
     {
       "author_id": "1923350866624729088",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:08:59.000Z",
       "edit_history_tweet_ids": [
         "2115340030634004635"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115340030634004635",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 244,
@@ -590,24 +307,12 @@
     },
     {
       "author_id": "308301306",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:08:57.000Z",
       "edit_history_tweet_ids": [
         "2115340025902813584"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115340025902813584",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 205,
@@ -627,33 +332,15 @@
     },
     {
       "author_id": "1031175155098107905",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:08:55.000Z",
       "edit_history_tweet_ids": [
         "2115340017023541473"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 15,
-            "id": "1497795331488055296",
-            "start": 0,
-            "username": "RookieRicardoR"
-          },
-          {
-            "end": 23,
-            "id": "6690032",
-            "start": 16,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115340017023541473",
       "in_reply_to_user_id": "1497795331488055296",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 89,
+        "impression_count": 90,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -670,24 +357,12 @@
     },
     {
       "author_id": "1571250933161676801",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:07:41.000Z",
       "edit_history_tweet_ids": [
         "2115339706397532498"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115339706397532498",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 153,
@@ -707,24 +382,12 @@
     },
     {
       "author_id": "2078125254615212033",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:07:13.000Z",
       "edit_history_tweet_ids": [
         "2115339589615542359"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115339589615542359",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 152,
@@ -744,24 +407,12 @@
     },
     {
       "author_id": "6690032",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:07:02.000Z",
       "edit_history_tweet_ids": [
         "2115339541855035845"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 10,
-            "id": "1453896737324613636",
-            "start": 0,
-            "username": "FatsugarD"
-          }
-        ]
-      },
       "id": "2115339541855035845",
       "in_reply_to_user_id": "1453896737324613636",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
         "impression_count": 919,
@@ -781,24 +432,12 @@
     },
     {
       "author_id": "1453896737324613636",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T07:04:21.000Z",
       "edit_history_tweet_ids": [
         "2115338867993874840"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115338867993874840",
       "in_reply_to_user_id": "6690032",
-      "lang": "es",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 889,
@@ -823,44 +462,12 @@
         ]
       },
       "author_id": "790386246556131328",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:56:56.000Z",
       "edit_history_tweet_ids": [
         "2115336999309811933"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "zhuomi.cc",
-            "end": 90,
-            "expanded_url": "https://zhuomi.cc/",
-            "start": 67,
-            "status": 200,
-            "title": "啄米 AI",
-            "unwound_url": "https://zhuomi.cc/",
-            "url": "https://t.co/bh7JE2NOi0"
-          },
-          {
-            "display_url": "pic.x.com/y4KJ0sE9UX",
-            "end": 114,
-            "expanded_url": "https://x.com/jakeybruce/status/2115336999309811933/photo/1",
-            "media_key": "3_2115336240795095041",
-            "start": 91,
-            "url": "https://t.co/y4KJ0sE9UX"
-          }
-        ]
-      },
       "id": "2115336999309811933",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
         "impression_count": 325,
@@ -880,49 +487,12 @@
     },
     {
       "author_id": "1763122830378696704",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:56:11.000Z",
       "edit_history_tweet_ids": [
         "2115336812055146856"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Independent public-source X algorithm change monitoring with evidence and human-reviewed digests - loonslo/x-algo-watch",
-            "display_url": "github.com/loonslo/x-algo…",
-            "end": 87,
-            "expanded_url": "https://github.com/loonslo/x-algo-watch",
-            "images": [
-              {
-                "height": 600,
-                "url": "https://pbs.twimg.com/news_img/2113583829332164608/R-IEcVA5?format=jpg&name=orig",
-                "width": 1200
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2113583829332164608/R-IEcVA5?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 64,
-            "status": 200,
-            "title": "GitHub - loonslo/x-algo-watch: Independent public-source X algorithm change monitoring with evidence and human-reviewed digests",
-            "unwound_url": "https://github.com/loonslo/x-algo-watch",
-            "url": "https://t.co/yPSg66kbCR"
-          }
-        ]
-      },
       "id": "2115336812055146856",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
         "impression_count": 229,
@@ -942,24 +512,12 @@
     },
     {
       "author_id": "477752809",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:53:51.000Z",
       "edit_history_tweet_ids": [
         "2115336225070752096"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115336225070752096",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 156,
@@ -984,34 +542,12 @@
         ]
       },
       "author_id": "1910124297294856192",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:51:22.000Z",
       "edit_history_tweet_ids": [
         "2115335600677273822"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "pic.x.com/hfVdWIb81Z",
-            "end": 54,
-            "expanded_url": "https://x.com/yubei2025/status/2115335600677273822/photo/1",
-            "media_key": "3_2115335353896992768",
-            "start": 31,
-            "url": "https://t.co/hfVdWIb81Z"
-          }
-        ]
-      },
       "id": "2115335600677273822",
       "in_reply_to_user_id": "6690032",
-      "lang": "ja",
       "public_metrics": {
         "bookmark_count": 1,
         "impression_count": 269,
@@ -1031,33 +567,12 @@
     },
     {
       "author_id": "1722989263980285952",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:51:17.000Z",
       "edit_history_tweet_ids": [
         "2115335576073453678"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "x.com/zhengtang36484…",
-            "end": 153,
-            "expanded_url": "https://twitter.com/zhengtang364848/status/2114622442714911083",
-            "start": 130,
-            "url": "https://t.co/6AIlcn9KeT"
-          }
-        ]
-      },
       "id": "2115335576073453678",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 444,
@@ -1081,36 +596,15 @@
     },
     {
       "author_id": "1791131699042267136",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:51:00.000Z",
       "edit_history_tweet_ids": [
         "2115335505399435339"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "x.com/Zkm211/status/…",
-            "end": 96,
-            "expanded_url": "https://x.com/Zkm211/status/2110036886303740201?a=rjjapR94KXj63AnxAT8&s=20",
-            "start": 73,
-            "url": "https://t.co/IDciPU3amX"
-          }
-        ]
-      },
       "id": "2115335505399435339",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 3,
-        "impression_count": 303,
+        "impression_count": 310,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -1131,24 +625,12 @@
     },
     {
       "author_id": "2059776904568487936",
-      "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:49:42.000Z",
       "edit_history_tweet_ids": [
         "2115335178880999535"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
       "id": "2115335178880999535",
       "in_reply_to_user_id": "6690032",
-      "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 177,
@@ -1194,17 +676,15 @@
     "tweets": [
       {
         "author_id": "6690032",
-        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T05:44:02.000Z",
         "edit_history_tweet_ids": [
           "2115318655525523714"
         ],
         "id": "2115318655525523714",
-        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 167,
-          "impression_count": 43107,
-          "like_count": 132,
+          "impression_count": 43513,
+          "like_count": 131,
           "quote_count": 6,
           "reply_count": 128,
           "retweet_count": 18
@@ -1213,33 +693,15 @@
       },
       {
         "author_id": "1031175155098107905",
-        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T07:08:55.000Z",
         "edit_history_tweet_ids": [
           "2115340017023541473"
         ],
-        "entities": {
-          "mentions": [
-            {
-              "end": 15,
-              "id": "1497795331488055296",
-              "start": 0,
-              "username": "RookieRicardoR"
-            },
-            {
-              "end": 23,
-              "id": "6690032",
-              "start": 16,
-              "username": "vista8"
-            }
-          ]
-        },
         "id": "2115340017023541473",
         "in_reply_to_user_id": "1497795331488055296",
-        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 89,
+          "impression_count": 90,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -1255,32 +717,15 @@
       },
       {
         "author_id": "6690032",
-        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T05:46:14.000Z",
         "edit_history_tweet_ids": [
           "2115319209437872246"
         ],
-        "entities": {
-          "urls": [
-            {
-              "description": "A collection of powerful productivity tools all within an extendable launcher.",
-              "display_url": "raycast.com/?via=joe-seesun",
-              "end": 114,
-              "expanded_url": "https://raycast.com/?via=joe-seesun",
-              "start": 91,
-              "status": 200,
-              "title": "Raycast - Your shortcut to everything",
-              "unwound_url": "https://www.raycast.com/?via=joe-seesun",
-              "url": "https://t.co/BWoXPixwml"
-            }
-          ]
-        },
         "id": "2115319209437872246",
         "in_reply_to_user_id": "6690032",
-        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 8,
-          "impression_count": 4488,
+          "impression_count": 4532,
           "like_count": 11,
           "quote_count": 0,
           "reply_count": 8,
@@ -1296,24 +741,12 @@
       },
       {
         "author_id": "6690032",
-        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T07:07:02.000Z",
         "edit_history_tweet_ids": [
           "2115339541855035845"
         ],
-        "entities": {
-          "mentions": [
-            {
-              "end": 10,
-              "id": "1453896737324613636",
-              "start": 0,
-              "username": "FatsugarD"
-            }
-          ]
-        },
         "id": "2115339541855035845",
         "in_reply_to_user_id": "1453896737324613636",
-        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 1,
           "impression_count": 919,
@@ -1332,52 +765,15 @@
       },
       {
         "author_id": "1497795331488055296",
-        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T06:11:13.000Z",
         "edit_history_tweet_ids": [
           "2115325496175239245"
         ],
-        "entities": {
-          "mentions": [
-            {
-              "end": 7,
-              "id": "6690032",
-              "start": 0,
-              "username": "vista8"
-            }
-          ],
-          "urls": [
-            {
-              "description": "Cortext combines AI with your local Markdown knowledge base, building a local Wiki-style network and memory from files, edits, and conversations.",
-              "display_url": "cortext.app",
-              "end": 40,
-              "expanded_url": "https://cortext.app",
-              "images": [
-                {
-                  "height": 630,
-                  "url": "https://pbs.twimg.com/news_img/2113143910700916736/FH32Y8Fw?format=jpg&name=orig",
-                  "width": 1200
-                },
-                {
-                  "height": 150,
-                  "url": "https://pbs.twimg.com/news_img/2113143910700916736/FH32Y8Fw?format=jpg&name=150x150",
-                  "width": 150
-                }
-              ],
-              "start": 17,
-              "status": 200,
-              "title": "Cortext - AI for your local Markdown workspace",
-              "unwound_url": "https://cortext.app",
-              "url": "https://t.co/UpWLyCNpFf"
-            }
-          ]
-        },
         "id": "2115325496175239245",
         "in_reply_to_user_id": "6690032",
-        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 9,
-          "impression_count": 1524,
+          "impression_count": 1532,
           "like_count": 7,
           "quote_count": 1,
           "reply_count": 1,
@@ -1393,24 +789,12 @@
       },
       {
         "author_id": "1453896737324613636",
-        "conversation_id": "2115318655525523714",
         "created_at": "2026-10-28T07:04:21.000Z",
         "edit_history_tweet_ids": [
           "2115338867993874840"
         ],
-        "entities": {
-          "mentions": [
-            {
-              "end": 7,
-              "id": "6690032",
-              "start": 0,
-              "username": "vista8"
-            }
-          ]
-        },
         "id": "2115338867993874840",
         "in_reply_to_user_id": "6690032",
-        "lang": "es",
         "public_metrics": {
           "bookmark_count": 0,
           "impression_count": 889,
@@ -1434,28 +818,14 @@
           ]
         },
         "author_id": "1722989263980285952",
-        "conversation_id": "2114622442714911083",
         "created_at": "2026-10-26T07:37:32.000Z",
         "edit_history_tweet_ids": [
           "2114622442714911083"
         ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/A1EX0Yyw3I",
-              "end": 195,
-              "expanded_url": "https://x.com/zhengtang364848/status/2114622442714911083/photo/1",
-              "media_key": "3_2114622439741124608",
-              "start": 172,
-              "url": "https://t.co/A1EX0Yyw3I"
-            }
-          ]
-        },
         "id": "2114622442714911083",
-        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 6,
-          "impression_count": 6071,
+          "impression_count": 6073,
           "like_count": 6,
           "quote_count": 1,
           "reply_count": 3,
@@ -1468,29 +838,14 @@
           "title": "《零推广做到近 12% 订阅率，我可能做出了第一个真正意义上的 AI 健身教练》"
         },
         "author_id": "1791131699042267136",
-        "conversation_id": "2110036886303740201",
         "created_at": "2026-10-13T15:56:10.000Z",
         "edit_history_tweet_ids": [
           "2110036886303740201"
         ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "x.com/i/article/2110…",
-              "end": 146,
-              "expanded_url": "https://x.com/i/article/2110021030656016384",
-              "start": 123,
-              "status": 404,
-              "unwound_url": "https://x.com/i/article/2110021030656016384",
-              "url": "https://t.co/KH0iIikdRd"
-            }
-          ]
-        },
         "id": "2110036886303740201",
-        "lang": "zh",
         "public_metrics": {
           "bookmark_count": 3,
-          "impression_count": 1023,
+          "impression_count": 1031,
           "like_count": 4,
           "quote_count": 2,
           "reply_count": 1,
@@ -1501,76 +856,93 @@
     ],
     "users": [
       {
+        "created_at": "2026-08-05T01:21:32.000Z",
+        "description": "MT",
         "id": "2084811423297998848",
         "name": "han",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2087442979887964160/tZ9GbF7k_normal.jpg",
         "public_metrics": {
-          "followers_count": 1162,
-          "following_count": 2422,
-          "like_count": 2193,
+          "followers_count": 1190,
+          "following_count": 2478,
+          "like_count": 2252,
           "listed_count": 1,
           "media_count": 15,
-          "tweet_count": 2392
+          "tweet_count": 2477
         },
-        "username": "han8jrp"
+        "username": "han8jrp",
+        "verified": false
       },
       {
+        "created_at": "2026-03-09T08:06:03.000Z",
+        "description": "Fan-made AI character series · Not affiliated with the AI companies",
         "id": "2030917389324283904",
         "name": "Connor",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2114584324439961600/coDYH8oJ_normal.jpg",
         "public_metrics": {
           "followers_count": 143,
-          "following_count": 241,
-          "like_count": 123,
+          "following_count": 246,
+          "like_count": 127,
           "listed_count": 0,
-          "media_count": 97,
-          "tweet_count": 841
+          "media_count": 111,
+          "tweet_count": 882
         },
-        "username": "Connorclaw"
+        "username": "Connorclaw",
+        "verified": false
       },
       {
+        "created_at": "2022-02-27T04:47:12.000Z",
+        "description": "🤖 AI LLM / Agent / Skill / MCP 观察与深度应用\n👨‍💻 高级软件工程师 / 签约作者 / 软件工程 AI 实践\n📈 标普/ 纳斯达克交易员/回测网站：https://t.co/Su9AWj2yeF\n💪 AI 领域付费咨询请私信",
         "id": "1497795331488055296",
         "name": "耳朵",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1750086551839883264/KER7NzZp_normal.jpg",
         "public_metrics": {
-          "followers_count": 11181,
-          "following_count": 488,
-          "like_count": 3017,
+          "followers_count": 11187,
+          "following_count": 489,
+          "like_count": 3023,
           "listed_count": 263,
           "media_count": 229,
-          "tweet_count": 4120
+          "tweet_count": 4128
         },
-        "username": "RookieRicardoR"
+        "username": "RookieRicardoR",
+        "verified": false
       },
       {
+        "created_at": "2026-05-12T20:07:11.000Z",
+        "description": "Ex-Bytedance; Keep learning\nhttps://t.co/kHl850kIfU\nhttps://t.co/bDZnZdpw3q",
         "id": "2054292218199027712",
         "name": "JC",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2106653677381677056/4BYBsgzR_normal.jpg",
         "public_metrics": {
-          "followers_count": 40,
-          "following_count": 159,
-          "like_count": 41,
+          "followers_count": 39,
+          "following_count": 160,
+          "like_count": 42,
           "listed_count": 0,
           "media_count": 7,
-          "tweet_count": 89
+          "tweet_count": 91
         },
-        "username": "jasoninvest7"
+        "username": "jasoninvest7",
+        "verified": false
       },
       {
+        "created_at": "2023-11-21T15:10:00.000Z",
+        "description": "",
         "id": "1726981174038532096",
         "name": "yongyang",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1726982020126171136/vSBcZr3M_normal.jpg",
         "public_metrics": {
           "followers_count": 2,
-          "following_count": 54,
-          "like_count": 85,
+          "following_count": 56,
+          "like_count": 86,
           "listed_count": 0,
           "media_count": 3,
           "tweet_count": 5
         },
-        "username": "aaaaang_y63488"
+        "username": "aaaaang_y63488",
+        "verified": false
       },
       {
+        "created_at": "2025-02-20T05:24:40.000Z",
+        "description": "K12视频人｜白天改排期，晚上跟 Codex 和 Cola 干活｜实测工具坑点，少踩雷｜公众号：赛博小熊猫Loki",
         "id": "1892445190830637056",
         "name": "赛博小熊猫Loki",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2109279003647623168/WsWwZFPq_normal.jpg",
@@ -1580,81 +952,99 @@
           "like_count": 11,
           "listed_count": 0,
           "media_count": 32,
-          "tweet_count": 225
+          "tweet_count": 226
         },
-        "username": "lokichris2046"
+        "username": "lokichris2046",
+        "verified": false
       },
       {
+        "created_at": "2021-10-29T01:29:44.000Z",
+        "description": "不止于代码\n在技术与思考之间，记录关于 AI、软件工程、系统架构与数字世界的探索。分享实践，也分享观点。",
         "id": "1453896737324613636",
         "name": "Kain",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2109098788212396033/9-edSvw3_normal.jpg",
         "public_metrics": {
           "followers_count": 10,
           "following_count": 11,
-          "like_count": 28,
+          "like_count": 27,
           "listed_count": 0,
           "media_count": 9,
-          "tweet_count": 103
+          "tweet_count": 104
         },
-        "username": "FatsugarD"
+        "username": "FatsugarD",
+        "verified": false
       },
       {
+        "created_at": "2016-01-06T02:42:40.000Z",
+        "description": "让AI agent替我做英文YouTube频道，火柴人科普。\n播放数难看也照发，这次我要死磕到底。",
         "id": "4716346122",
         "name": "老记号",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2105087245262913536/Cvyz9TLg_normal.jpg",
         "public_metrics": {
-          "followers_count": 990,
+          "followers_count": 983,
           "following_count": 1106,
-          "like_count": 162,
+          "like_count": 163,
           "listed_count": 3,
           "media_count": 213,
-          "tweet_count": 2262
+          "tweet_count": 2264
         },
-        "username": "LauLauzhihao"
+        "username": "LauLauzhihao",
+        "verified": false
       },
       {
+        "created_at": "2023-05-25T10:27:36.000Z",
+        "description": "前端 · 做了4个广告站，80$/m；AI SaaS 站 1 个，0$/m。\n出海建站 / 美卡 / 美股 —— 赚美元 / 薅美元 / 存美元。",
         "id": "1661680339729932295",
         "name": "路漫漫",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1661680578381611008/oSK-ej_Z_normal.jpg",
         "public_metrics": {
-          "followers_count": 1864,
-          "following_count": 2101,
+          "followers_count": 1869,
+          "following_count": 2104,
           "like_count": 259,
           "listed_count": 5,
           "media_count": 49,
           "tweet_count": 425
         },
-        "username": "lumm256"
+        "username": "lumm256",
+        "verified": false
       },
       {
+        "created_at": "2013-08-28T13:34:59.000Z",
+        "description": "研究AI增长与商业机会，聚焦AI营销、智能体和自动化工作流，助力企业降本增效。",
         "id": "1707322478",
         "name": "景哥｜AI增长与落地",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2097138872018710528/_Dd89Str_normal.jpg",
         "public_metrics": {
-          "followers_count": 1578,
-          "following_count": 1387,
-          "like_count": 2108,
-          "listed_count": 4,
+          "followers_count": 1580,
+          "following_count": 1382,
+          "like_count": 2161,
+          "listed_count": 3,
           "media_count": 46,
-          "tweet_count": 8911
+          "tweet_count": 9029
         },
-        "username": "whb0821"
+        "username": "whb0821",
+        "verified": false
       },
       {
+        "created_at": "2025-05-16T12:12:47.000Z",
+        "description": "Ai变现",
         "id": "1923350866624729088",
         "name": "AIstar",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2045881141031510016/SN6gEr5d_normal.jpg",
         "public_metrics": {
           "followers_count": 11,
           "following_count": 31,
-          "like_count": 105,
+          "like_count": 110,
           "listed_count": 0,
           "media_count": 1,
-          "tweet_count": 41
+          "tweet_count": 45
         },
-        "username": "AIstar3271"
+        "username": "AIstar3271",
+        "verified": false
       },
       {
+        "created_at": "2011-05-31T05:12:18.000Z",
+        "description": "宝哥 | AI讲师教练 (TTT) CCTV 财经频道采访讲师 8个月打造 AI 课程，变现18万（我做到了） 专注帮你把 AI 技能变成课 ：1、课程设计（把“你会的”变“别人想学的”） 2、 授课交付（把“干货”讲“明白”） 👇 不懂做课？来评论区问我",
         "id": "308301306",
         "name": "宝哥 | 培训师",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1983327366740099072/ed0wHDou_normal.jpg",
@@ -1666,9 +1056,12 @@
           "media_count": 33,
           "tweet_count": 167
         },
-        "username": "Baoge_AI_"
+        "username": "Baoge_AI_",
+        "verified": false
       },
       {
+        "created_at": "2018-08-19T13:44:50.000Z",
+        "description": "",
         "id": "1031175155098107905",
         "name": "麦辣鸡腿堡大人",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2107059256650571776/tPqEaVlU_normal.jpg",
@@ -1680,93 +1073,114 @@
           "media_count": 0,
           "tweet_count": 12
         },
-        "username": "ZJL20373362"
+        "username": "ZJL20373362",
+        "verified": false
       },
       {
+        "created_at": "2022-09-17T21:33:45.000Z",
+        "description": "",
         "id": "1571250933161676801",
         "name": "tyrion lin",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1571251083636518912/IKp8j__g_normal.jpg",
         "public_metrics": {
           "followers_count": 0,
           "following_count": 44,
-          "like_count": 12,
+          "like_count": 13,
           "listed_count": 0,
           "media_count": 5,
           "tweet_count": 12
         },
-        "username": "lin_tyrion"
+        "username": "lin_tyrion",
+        "verified": false
       },
       {
+        "created_at": "2026-07-17T14:31:28.000Z",
+        "description": "用 AI 做真实产品｜记录工具实测、开发过程与踩坑｜从想法到可运行项目",
         "id": "2078125254615212033",
         "name": "俯仰｜AI 独立开发",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2083494605685989376/4nCme9eu_normal.jpg",
         "public_metrics": {
-          "followers_count": 122,
-          "following_count": 112,
-          "like_count": 284,
+          "followers_count": 126,
+          "following_count": 113,
+          "like_count": 287,
           "listed_count": 0,
           "media_count": 11,
-          "tweet_count": 257
+          "tweet_count": 268
         },
-        "username": "tiandidadacqqx"
+        "username": "tiandidadacqqx",
+        "verified": false
       },
       {
+        "created_at": "2007-06-09T05:48:52.000Z",
+        "description": "喜欢摇滚乐、爱钓鱼的PM\n第二届GEO大会报名-11-21/22日-深圳南山\nhttps://t.co/N75cblhK9R",
         "id": "6690032",
         "name": "向阳乔木",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
         "public_metrics": {
-          "followers_count": 135646,
+          "followers_count": 136167,
           "following_count": 1682,
-          "like_count": 12442,
-          "listed_count": 2300,
-          "media_count": 3484,
-          "tweet_count": 10760
+          "like_count": 12475,
+          "listed_count": 2306,
+          "media_count": 3498,
+          "tweet_count": 10797
         },
-        "username": "vista8"
+        "username": "vista8",
+        "verified": false
       },
       {
+        "created_at": "2016-10-24T02:55:40.000Z",
+        "description": "资深 AI 魔法师 🪄\n\n专注 AI 短剧与 AI 视觉创作，\nAI 编程实战派｜多项 AI 产品已上线\n不只研究 AI 能做什么，更关心怎么把 AI 真正做成内容、工作流和产品。",
         "id": "790386246556131328",
         "name": "开发者/创作者Bruce",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1823756345855627264/AfevITRf_normal.jpg",
         "public_metrics": {
-          "followers_count": 109,
-          "following_count": 496,
-          "like_count": 1354,
+          "followers_count": 108,
+          "following_count": 495,
+          "like_count": 1355,
           "listed_count": 0,
-          "media_count": 309,
-          "tweet_count": 1162
+          "media_count": 310,
+          "tweet_count": 1163
         },
-        "username": "jakeybruce"
+        "username": "jakeybruce",
+        "verified": false
       },
       {
+        "created_at": "2024-02-29T08:43:51.000Z",
+        "description": "🤖 一个正在学AI的街溜子\n🎮 Game Design → Android → QA → AI\n📈 定投标普、纳指中\n🤝 利人即利己",
         "id": "1763122830378696704",
         "name": "半開",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2097927694029828098/br2w1XNH_normal.jpg",
         "public_metrics": {
-          "followers_count": 2306,
-          "following_count": 1636,
-          "like_count": 2174,
+          "followers_count": 2298,
+          "following_count": 1642,
+          "like_count": 2193,
           "listed_count": 0,
-          "media_count": 90,
-          "tweet_count": 1500
+          "media_count": 95,
+          "tweet_count": 1525
         },
-        "username": "bankai_ajar"
+        "username": "bankai_ajar",
+        "verified": false
       },
       {
+        "created_at": "2012-01-29T14:44:08.000Z",
+        "description": "A Chinese guy who speaks Urdu. Ex-CRI Urdu journalist · Ex-Lenovo ZUK camera PM · now Xiaomi PM, obsessed with AI. AI · Pakistan · Photography in EN · 中文 · Urdu",
         "id": "477752809",
         "name": "鹏轩 | Peng | Faraz Cheen",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1791077331/image_normal.jpg",
         "public_metrics": {
-          "followers_count": 882,
-          "following_count": 1101,
+          "followers_count": 873,
+          "following_count": 1095,
           "like_count": 323,
           "listed_count": 1,
-          "media_count": 107,
-          "tweet_count": 717
+          "media_count": 114,
+          "tweet_count": 739
         },
-        "username": "yinpengxuan"
+        "username": "yinpengxuan",
+        "verified": false
       },
       {
+        "created_at": "2025-04-10T00:15:05.000Z",
+        "description": "8年程序开发经验，VibeCoding全栈开发工程师，万人社群AI编程教练",
         "id": "1910124297294856192",
         "name": "予贝AI",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2105126073935794176/jTT9yUwG_normal.jpg",
@@ -1778,49 +1192,59 @@
           "media_count": 1,
           "tweet_count": 1
         },
-        "username": "yubei2025"
+        "username": "yubei2025",
+        "verified": false
       },
       {
+        "created_at": "2023-11-10T14:47:30.000Z",
+        "description": "🤖 AI 技术探索者 | 捣鼓不同prompt | 记录研究、实验与作品 | Agent克星 \n🆔 持续研究 AI 生图领域 励志ai生图作为输出日常 持续输出，质量各异prompt\n🎭 拆解，分享",
         "id": "1722989263980285952",
         "name": "秋/十三",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2107885248071806976/BtTBR5Vn_normal.jpg",
         "public_metrics": {
-          "followers_count": 62,
-          "following_count": 131,
+          "followers_count": 63,
+          "following_count": 132,
           "like_count": 101,
           "listed_count": 0,
-          "media_count": 152,
-          "tweet_count": 585
+          "media_count": 154,
+          "tweet_count": 597
         },
-        "username": "zhengtang364848"
+        "username": "zhengtang364848",
+        "verified": false
       },
       {
+        "created_at": "2024-05-16T15:41:01.000Z",
+        "description": "🚀 AI技术探索者｜效率工具测评｜终身学习实践者\n🎯 独立开发者｜产品：练境-AI 健身教练 已上架 AppStore，欢迎体验\n💡 学到什么，分享什么",
         "id": "1791131699042267136",
         "name": "Km",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2042131969526714368/MWJTFbFB_normal.jpg",
         "public_metrics": {
           "followers_count": 1019,
           "following_count": 255,
-          "like_count": 714,
+          "like_count": 717,
           "listed_count": 7,
-          "media_count": 255,
-          "tweet_count": 953
+          "media_count": 257,
+          "tweet_count": 955
         },
-        "username": "Zkm211"
+        "username": "Zkm211",
+        "verified": false
       },
       {
+        "created_at": "2026-05-27T23:22:45.000Z",
+        "description": "AI加金融 地狱都不敢收的人\n十五岁当兵 八年自媒体 现在带十几个AI bot干活\n人自由了 钱还在路上",
         "id": "2059776904568487936",
         "name": "反应堆",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2115761321568550912/OF_JG4Cd_normal.jpg",
         "public_metrics": {
-          "followers_count": 72,
+          "followers_count": 71,
           "following_count": 121,
           "like_count": 3,
           "listed_count": 0,
           "media_count": 17,
           "tweet_count": 322
         },
-        "username": "94PengGe"
+        "username": "94PengGe",
+        "verified": false
       }
     ]
   },

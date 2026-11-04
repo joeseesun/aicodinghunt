@@ -43,7 +43,6 @@
         ]
       },
       "id": "2116720575599304954",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -80,7 +79,6 @@
         ]
       },
       "id": "2116717378356822100",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -142,7 +140,6 @@
         ]
       },
       "id": "2116391274798559449",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -179,11 +176,10 @@
         ]
       },
       "id": "2116360962051870845",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 30,
+        "impression_count": 31,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -228,7 +224,6 @@
         ]
       },
       "id": "2116224527411921267",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -276,7 +271,6 @@
         ]
       },
       "id": "2116224202957262850",
-      "in_reply_to_user_id": "6690032",
       "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
@@ -319,11 +313,10 @@
         ]
       },
       "id": "2116204756909924369",
-      "in_reply_to_user_id": "1724148821222133761",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 8,
+        "impression_count": 9,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -381,7 +374,6 @@
         ]
       },
       "id": "2116190240906088583",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -443,7 +435,6 @@
         ]
       },
       "id": "2116154176770335072",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -486,7 +477,6 @@
         ]
       },
       "id": "2116128602706337917",
-      "in_reply_to_user_id": "1714667306457182208",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -529,7 +519,6 @@
         ]
       },
       "id": "2116102868025696278",
-      "in_reply_to_user_id": "4859150277",
       "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
@@ -566,11 +555,10 @@
         ]
       },
       "id": "2116101501500510553",
-      "in_reply_to_user_id": "1062876621621813248",
       "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 15,
+        "impression_count": 16,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -603,11 +591,10 @@
         ]
       },
       "id": "2116099399436951879",
-      "in_reply_to_user_id": "4859150277",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 13,
+        "impression_count": 14,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -640,11 +627,24 @@
         ]
       },
       "id": "2116097775805063662",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "cococut.app",
+              "end": 222,
+              "expanded_url": "https://cococut.app",
+              "start": 199,
+              "url": "https://t.co/Kqv1qFwBD7"
+            }
+          ]
+        },
+        "text": "在日本做独立开发的第 3 年，我做了一颗小椰子 ，叫 CocoCut\n\n契机其实很简单\n我自己很爱看大家分享一天的生活切片，但传统软件要把每个片段的时间逐个敲上去并排好顺序\n\n摩擦感实在太重了。 我想让记录回归纯粹的快乐\n\nCocoCut 把拍摄和剪辑做在一起，片段自带时间信息，拖拽就能顺滑排序\n\n不希望大家在琐碎的工具里消耗热情\n\n每次打开它，就当去海边椰林散了个步，轻松记下今天的美好就好\n\nhttps://t.co/Kqv1qFwBD7"
+      },
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 103,
+        "impression_count": 106,
         "like_count": 2,
         "quote_count": 0,
         "reply_count": 2,
@@ -683,7 +683,6 @@
         ]
       },
       "id": "2116087889633128793",
-      "in_reply_to_user_id": "1742721986349158400",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -726,7 +725,6 @@
         ]
       },
       "id": "2116085253135831168",
-      "in_reply_to_user_id": "2074447200495734784",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -789,7 +787,6 @@
         ]
       },
       "id": "2116084717565116872",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -832,11 +829,10 @@
         ]
       },
       "id": "2116083121053667833",
-      "in_reply_to_user_id": "1893687938631729152",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 44,
+        "impression_count": 45,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -874,19 +870,19 @@
         ],
         "urls": [
           {
-            "description": "The official home of Atlasnote Pro, a local knowledge library and AI workspace for Mac. Explore AI tools, practical courses, sourced daily briefs, and guides.",
+            "description": "The official home of Atlasnote Pro, a local knowledge library and AI workspace, with a macOS release and a Windows internal preview. Explore AI tools, practical courses, sourced daily briefs, and guides.",
             "display_url": "atlasnote.ai",
             "end": 184,
             "expanded_url": "https://atlasnote.ai",
             "images": [
               {
                 "height": 900,
-                "url": "https://pbs.twimg.com/news_img/2114573706110615554/d-yYriHA?format=jpg&name=orig",
+                "url": "https://pbs.twimg.com/news_img/2117504734907310080/F8qFyapL?format=jpg&name=orig",
                 "width": 1440
               },
               {
                 "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2114573706110615554/d-yYriHA?format=jpg&name=150x150",
+                "url": "https://pbs.twimg.com/news_img/2117504734907310080/F8qFyapL?format=jpg&name=150x150",
                 "width": 150
               }
             ],
@@ -907,11 +903,10 @@
         ]
       },
       "id": "2116082980410298793",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 134,
+        "impression_count": 137,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -950,11 +945,10 @@
         ]
       },
       "id": "2116069130386514202",
-      "in_reply_to_user_id": "796175687023468544",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 21,
+        "impression_count": 22,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -993,7 +987,6 @@
         ]
       },
       "id": "2116068574695719224",
-      "in_reply_to_user_id": "26780664",
       "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
@@ -1036,7 +1029,6 @@
         ]
       },
       "id": "2116055541839806789",
-      "in_reply_to_user_id": "2110252897019756544",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -1079,7 +1071,6 @@
         ]
       },
       "id": "2116029303175696478",
-      "in_reply_to_user_id": "1453896737324613636",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
@@ -1141,7 +1132,6 @@
         ]
       },
       "id": "2116022454900687156",
-      "in_reply_to_user_id": "6690032",
       "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
@@ -1191,11 +1181,10 @@
         ]
       },
       "id": "2116008299065975175",
-      "in_reply_to_user_id": "6690032",
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 71,
+        "impression_count": 72,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -1240,8 +1229,8 @@
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 167,
-          "impression_count": 43107,
-          "like_count": 132,
+          "impression_count": 43513,
+          "like_count": 131,
           "quote_count": 6,
           "reply_count": 128,
           "retweet_count": 18
@@ -1271,11 +1260,10 @@
           ]
         },
         "id": "2115319209437872246",
-        "in_reply_to_user_id": "6690032",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 8,
-          "impression_count": 4488,
+          "impression_count": 4532,
           "like_count": 11,
           "quote_count": 0,
           "reply_count": 8,
@@ -1313,7 +1301,6 @@
           ]
         },
         "id": "2116055541839806789",
-        "in_reply_to_user_id": "2110252897019756544",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
@@ -1355,7 +1342,6 @@
           ]
         },
         "id": "2116087889633128793",
-        "in_reply_to_user_id": "1742721986349158400",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
@@ -1391,11 +1377,24 @@
           ]
         },
         "id": "2116097775805063662",
-        "in_reply_to_user_id": "6690032",
         "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "cococut.app",
+                "end": 222,
+                "expanded_url": "https://cococut.app",
+                "start": 199,
+                "url": "https://t.co/Kqv1qFwBD7"
+              }
+            ]
+          },
+          "text": "在日本做独立开发的第 3 年，我做了一颗小椰子 ，叫 CocoCut\n\n契机其实很简单\n我自己很爱看大家分享一天的生活切片，但传统软件要把每个片段的时间逐个敲上去并排好顺序\n\n摩擦感实在太重了。 我想让记录回归纯粹的快乐\n\nCocoCut 把拍摄和剪辑做在一起，片段自带时间信息，拖拽就能顺滑排序\n\n不希望大家在琐碎的工具里消耗热情\n\n每次打开它，就当去海边椰林散了个步，轻松记下今天的美好就好\n\nhttps://t.co/Kqv1qFwBD7"
+        },
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 103,
+          "impression_count": 106,
           "like_count": 2,
           "quote_count": 0,
           "reply_count": 2,
@@ -1427,11 +1426,10 @@
           ]
         },
         "id": "2116099399436951879",
-        "in_reply_to_user_id": "4859150277",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 13,
+          "impression_count": 14,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -1476,11 +1474,10 @@
           ]
         },
         "id": "2115449069435002964",
-        "in_reply_to_user_id": "6690032",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 4,
-          "impression_count": 453,
+          "impression_count": 454,
           "like_count": 3,
           "quote_count": 0,
           "reply_count": 2,
@@ -1518,11 +1515,10 @@
           ]
         },
         "id": "2116069130386514202",
-        "in_reply_to_user_id": "796175687023468544",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 21,
+          "impression_count": 22,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -1559,19 +1555,19 @@
           ],
           "urls": [
             {
-              "description": "The official home of Atlasnote Pro, a local knowledge library and AI workspace for Mac. Explore AI tools, practical courses, sourced daily briefs, and guides.",
+              "description": "The official home of Atlasnote Pro, a local knowledge library and AI workspace, with a macOS release and a Windows internal preview. Explore AI tools, practical courses, sourced daily briefs, and guides.",
               "display_url": "atlasnote.ai",
               "end": 184,
               "expanded_url": "https://atlasnote.ai",
               "images": [
                 {
                   "height": 900,
-                  "url": "https://pbs.twimg.com/news_img/2114573706110615554/d-yYriHA?format=jpg&name=orig",
+                  "url": "https://pbs.twimg.com/news_img/2117504734907310080/F8qFyapL?format=jpg&name=orig",
                   "width": 1440
                 },
                 {
                   "height": 150,
-                  "url": "https://pbs.twimg.com/news_img/2114573706110615554/d-yYriHA?format=jpg&name=150x150",
+                  "url": "https://pbs.twimg.com/news_img/2117504734907310080/F8qFyapL?format=jpg&name=150x150",
                   "width": 150
                 }
               ],
@@ -1592,11 +1588,10 @@
           ]
         },
         "id": "2116082980410298793",
-        "in_reply_to_user_id": "6690032",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 134,
+          "impression_count": 137,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -1666,7 +1661,6 @@
           ]
         },
         "id": "2115371661658927254",
-        "in_reply_to_user_id": "6690032",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 6,
@@ -1708,7 +1702,6 @@
           ]
         },
         "id": "2116006522560147629",
-        "in_reply_to_user_id": "1207258810512838656",
         "lang": "ja",
         "public_metrics": {
           "bookmark_count": 0,
@@ -1750,11 +1743,10 @@
           ]
         },
         "id": "2115865474659746158",
-        "in_reply_to_user_id": "1724148821222133761",
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 40,
+          "impression_count": 41,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -1786,7 +1778,6 @@
           ]
         },
         "id": "2115338867993874840",
-        "in_reply_to_user_id": "6690032",
         "lang": "es",
         "public_metrics": {
           "bookmark_count": 0,
@@ -1807,6 +1798,8 @@
     ],
     "users": [
       {
+        "created_at": "2026-09-17T09:29:53.000Z",
+        "description": "",
         "id": "2100517382204850176",
         "name": "JINX",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2100517944824602624/a5O69fP8_normal.jpg",
@@ -1818,23 +1811,29 @@
           "media_count": 0,
           "tweet_count": 2
         },
-        "username": "jinx0629"
+        "username": "jinx0629",
+        "verified": false
       },
       {
+        "created_at": "2025-10-07T01:14:17.000Z",
+        "description": "前IT老兵，专注 AI 落地 × 跨境电商\n每天一条人话版 AI 技术解读 + 真用的工具，不吹不水\n关注我，少踩坑、多搞钱，送你一份《跨境AI工具包》 AI × cross-border commerce\nDaily no-BS AI breakdowns in plain Chinese + tools I act",
         "id": "1975368953452240896",
         "name": "天马山",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2101667327867781120/XH_1Jcjg_normal.jpg",
         "public_metrics": {
-          "followers_count": 1711,
-          "following_count": 1670,
+          "followers_count": 1732,
+          "following_count": 1684,
           "like_count": 60,
-          "listed_count": 5,
-          "media_count": 171,
-          "tweet_count": 4010
+          "listed_count": 4,
+          "media_count": 172,
+          "tweet_count": 4079
         },
-        "username": "PegasusMou23067"
+        "username": "PegasusMou23067",
+        "verified": false
       },
       {
+        "created_at": "2022-07-11T08:06:34.000Z",
+        "description": "大厂产品经理，专注AI与Agent的应用探索与落地。\n分享前沿AI技术、实用工具与产品思考。\n产品经理，正在构建一套AI+产品的工作流\n独立开发者 & 个人创业者，正在用AI构建自己的产品。\n欢迎一起聊AI、产品与创业 🚀\nAI工具「Xtools」推荐：https://t.co/RNa5wwWjsm",
         "id": "1546405527206477825",
         "name": "薄暮之",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2007267442440208384/6h2Id2G7_normal.jpg",
@@ -1846,65 +1845,80 @@
           "media_count": 145,
           "tweet_count": 490
         },
-        "username": "imboomu"
+        "username": "imboomu",
+        "verified": false
       },
       {
+        "created_at": "2019-08-24T23:57:27.000Z",
+        "description": "🥝 Kiwi｜一个喜欢折腾 AI 的普通人\n🤖 关注 AI 新动态，发现好用的工具\n💡 分享真实体验、实用技巧和有趣的想法\n🚀 一起探索 AI，让工作和生活更简单",
         "id": "1165412720025526277",
         "name": "Kiwi",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2115717327962714112/YQtXSuic_normal.jpg",
         "public_metrics": {
           "followers_count": 17,
           "following_count": 75,
-          "like_count": 16,
+          "like_count": 17,
           "listed_count": 0,
-          "media_count": 1,
-          "tweet_count": 51
+          "media_count": 2,
+          "tweet_count": 62
         },
-        "username": "Kiwi0961Ai"
+        "username": "Kiwi0961Ai",
+        "verified": false
       },
       {
+        "created_at": "2024-02-05T08:18:27.000Z",
+        "description": "📚专注AI编程＆AI工具测评、商业思考与个人成长分享\n🍀希望能带给你不一样的视角\n✨公众号：成云杉",
         "id": "1754419073658867712",
         "name": "成云杉YSC",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1999322368733511680/jryLLSsX_normal.jpg",
         "public_metrics": {
-          "followers_count": 570,
+          "followers_count": 571,
           "following_count": 424,
-          "like_count": 3138,
+          "like_count": 3157,
           "listed_count": 6,
-          "media_count": 274,
-          "tweet_count": 1955
+          "media_count": 275,
+          "tweet_count": 1964
         },
-        "username": "yscai101"
+        "username": "yscai101",
+        "verified": false
       },
       {
+        "created_at": "2026-10-14T06:15:36.000Z",
+        "description": "经常去商K的兄弟都知道，开门那一下最开心。中年带娃打工人，用AI搓工具、整攻略、做旅行功课，好用不好用照实说。周二聊工具，周日聊玩。88~愿世界和平。",
         "id": "2110252897019756544",
         "name": "AI进来也要报产地",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2113270705693556736/0L2pO6-w_normal.jpg",
         "public_metrics": {
-          "followers_count": 32,
+          "followers_count": 31,
           "following_count": 81,
           "like_count": 49,
           "listed_count": 0,
-          "media_count": 5,
-          "tweet_count": 98
+          "media_count": 6,
+          "tweet_count": 119
         },
-        "username": "singu46"
+        "username": "singu46",
+        "verified": false
       },
       {
+        "created_at": "2021-02-08T06:44:31.000Z",
+        "description": "AI Researcher | 以后的人生，兴趣是主线任务。",
         "id": "1358667972860993536",
         "name": "昼星AI说",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2109622072129572864/nLtGUpTQ_normal.jpg",
         "public_metrics": {
-          "followers_count": 9,
-          "following_count": 145,
+          "followers_count": 8,
+          "following_count": 146,
           "like_count": 1,
           "listed_count": 1,
           "media_count": 5,
-          "tweet_count": 29
+          "tweet_count": 32
         },
-        "username": "zhouxingai"
+        "username": "zhouxingai",
+        "verified": false
       },
       {
+        "created_at": "2013-05-10T04:25:50.000Z",
+        "description": "",
         "id": "1417162519",
         "name": "seaccheng",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1881523020126408704/x-Knv5zp_normal.jpg",
@@ -1914,67 +1928,82 @@
           "like_count": 15,
           "listed_count": 0,
           "media_count": 6,
-          "tweet_count": 895
+          "tweet_count": 898
         },
-        "username": "SeacCheng"
+        "username": "SeacCheng",
+        "verified": false
       },
       {
+        "created_at": "2024-01-04T01:38:18.000Z",
+        "description": "狂奔滴小马 🐎 前端跑路工程师\nNode.js / React / AI Coding 日常\nhttps://t.co/ONwrAXn1h1\nhttps://t.co/t7IEiYRdoH",
         "id": "1742721986349158400",
         "name": "狂奔滴小马",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1742724073334112256/fc_BemeW_normal.png",
         "public_metrics": {
-          "followers_count": 765,
-          "following_count": 387,
-          "like_count": 500,
-          "listed_count": 6,
+          "followers_count": 774,
+          "following_count": 398,
+          "like_count": 502,
+          "listed_count": 7,
           "media_count": 111,
-          "tweet_count": 538
+          "tweet_count": 541
         },
-        "username": "maqibin"
+        "username": "maqibin",
+        "verified": false
       },
       {
+        "created_at": "2017-01-29T20:03:49.000Z",
+        "description": "Web3 老 OG，炒币翻过车，也做了七年海外流量。现在带团队做出海基建（账号、支付、广告），币、美股和黄金也一直在做。这里只聊真实的钱和流量。",
         "id": "825796613000028160",
         "name": "鲸鱼知识库",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2067827514140233728/pBxm8tUZ_normal.jpg",
         "public_metrics": {
-          "followers_count": 3918,
-          "following_count": 2833,
-          "like_count": 2878,
+          "followers_count": 3919,
+          "following_count": 2831,
+          "like_count": 2937,
           "listed_count": 4,
-          "media_count": 281,
-          "tweet_count": 9994
+          "media_count": 282,
+          "tweet_count": 10224
         },
-        "username": "btc5767"
+        "username": "btc5767",
+        "verified": false
       },
       {
+        "created_at": "2016-01-29T06:04:00.000Z",
+        "description": "- Try https://t.co/wml9CCSfAm to learn languages through daily life.\n- Use https://t.co/Kqv1qFw3Nz to shoot a few seconds of your day.",
         "id": "4859150277",
         "name": "広志",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1684165489227100161/Gr6G9wHS_normal.jpg",
         "public_metrics": {
           "followers_count": 7038,
-          "following_count": 1152,
-          "like_count": 3362,
+          "following_count": 1153,
+          "like_count": 3371,
           "listed_count": 89,
           "media_count": 667,
-          "tweet_count": 6648
+          "tweet_count": 6653
         },
-        "username": "Lumosous"
+        "username": "Lumosous",
+        "verified": false
       },
       {
+        "created_at": "2018-11-15T01:15:08.000Z",
+        "description": "SATLOOT｜独立开发\n就爱用AI搓点东西\n链上宇宙 · 空投雷达 · 风控工具 · 小游戏",
         "id": "1062876621621813248",
         "name": "家乡诚心焦油版",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2113084844280553472/bSM3gvlO_normal.jpg",
         "public_metrics": {
-          "followers_count": 1458,
-          "following_count": 1414,
-          "like_count": 256,
-          "listed_count": 3,
-          "media_count": 556,
-          "tweet_count": 5949
+          "followers_count": 1879,
+          "following_count": 1807,
+          "like_count": 683,
+          "listed_count": 4,
+          "media_count": 559,
+          "tweet_count": 6879
         },
-        "username": "eth61675"
+        "username": "eth61675",
+        "verified": false
       },
       {
+        "created_at": "2023-10-18T15:38:52.000Z",
+        "description": "love algorithm",
         "id": "1714667306457182208",
         "name": "woialgorithm",
         "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
@@ -1986,23 +2015,29 @@
           "media_count": 0,
           "tweet_count": 7
         },
-        "username": "woialgorithm"
+        "username": "woialgorithm",
+        "verified": false
       },
       {
+        "created_at": "2016-11-09T02:20:50.000Z",
+        "description": "",
         "id": "796175687023468544",
         "name": "CatMuse",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1924395287306448897/SVFYu9a6_normal.jpg",
         "public_metrics": {
           "followers_count": 11,
-          "following_count": 271,
+          "following_count": 270,
           "like_count": 277,
           "listed_count": 2,
           "media_count": 15,
           "tweet_count": 38
         },
-        "username": "CatCatMuse"
+        "username": "CatCatMuse",
+        "verified": false
       },
       {
+        "created_at": "2023-11-12T04:13:48.000Z",
+        "description": "AI Builder | ex 美团 字节 | AI研发→产品→策略\n产品：https://t.co/ULlBRlVeo0 | 博客：https://t.co/qFnqbYSQIn\n公众号：阿東的AI手记\n分享 AI 一线所见所闻，在时代列车上享受好奇心",
         "id": "1723554628498030592",
         "name": "阿東的AI手记",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2112817739715039234/eGdu-RQN_normal.jpg",
@@ -2014,23 +2049,29 @@
           "media_count": 2,
           "tweet_count": 28
         },
-        "username": "antonailog"
+        "username": "antonailog",
+        "verified": false
       },
       {
+        "created_at": "2025-02-23T15:43:04.000Z",
+        "description": "沉迷Vibe coding的投资人，「阿宅在ai时代」主理人，atlasnote 独立开发，网站：https://t.co/OnOjw8uLN2，Learn，Build，and Share",
         "id": "1893687938631729152",
         "name": "Tao Wang",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2062083482109820930/I7Zk9MPv_normal.jpg",
         "public_metrics": {
-          "followers_count": 1771,
+          "followers_count": 1774,
           "following_count": 340,
-          "like_count": 654,
+          "like_count": 665,
           "listed_count": 9,
-          "media_count": 296,
-          "tweet_count": 1758
+          "media_count": 300,
+          "tweet_count": 1766
         },
-        "username": "Tao100086"
+        "username": "Tao100086",
+        "verified": false
       },
       {
+        "created_at": "2026-07-07T10:56:01.000Z",
+        "description": "",
         "id": "2074447200495734784",
         "name": "Bakou echo",
         "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
@@ -2042,77 +2083,93 @@
           "media_count": 0,
           "tweet_count": 5
         },
-        "username": "Bakouecho"
+        "username": "Bakouecho",
+        "verified": false
       },
       {
+        "created_at": "2019-12-18T11:18:34.000Z",
+        "description": "每周拆解真实场景,用AI来重构工作和生活\nAI仿真/出海/AI在工业中的应用探索\n我的目标是每晚10点睡觉,其他的交给Ai\n天行健,君子以自强不息;\n日日精进,久久为功\n分享真实生活,结交朋友",
         "id": "1207258810512838656",
         "name": "铜匠・十点睡觉",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1997218796172611584/gudsBQXU_normal.jpg",
         "public_metrics": {
-          "followers_count": 3979,
-          "following_count": 706,
-          "like_count": 1144,
+          "followers_count": 4029,
+          "following_count": 705,
+          "like_count": 1184,
           "listed_count": 20,
-          "media_count": 406,
-          "tweet_count": 4068
+          "media_count": 409,
+          "tweet_count": 4139
         },
-        "username": "CopperForgeAI"
+        "username": "CopperForgeAI",
+        "verified": false
       },
       {
+        "created_at": "2023-11-13T19:35:01.000Z",
+        "description": "",
         "id": "1724148821222133761",
         "name": "Allen",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2110322054964944896/w4-IWLp2_normal.jpg",
         "public_metrics": {
-          "followers_count": 36,
-          "following_count": 152,
+          "followers_count": 37,
+          "following_count": 147,
           "like_count": 12,
           "listed_count": 0,
           "media_count": 1,
           "tweet_count": 6
         },
-        "username": "mamba0805"
+        "username": "mamba0805",
+        "verified": false
       },
       {
+        "created_at": "2013-07-03T02:19:53.000Z",
+        "description": "Developer ｜奶爸｜",
         "id": "1564638661",
         "name": "HC91",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1485991798904340482/BH86Zdwy_normal.jpg",
         "public_metrics": {
           "followers_count": 36,
           "following_count": 739,
-          "like_count": 842,
+          "like_count": 843,
           "listed_count": 1,
-          "media_count": 34,
-          "tweet_count": 150
+          "media_count": 35,
+          "tweet_count": 155
         },
-        "username": "hucheng9110"
+        "username": "hucheng9110",
+        "verified": false
       },
       {
+        "created_at": "2016-02-28T04:19:19.000Z",
+        "description": "Crafting app icons ✦ building small, well-made tools\nDaily design tips to make your product feel crafted\n\nBuilding https://t.co/uOt4s9PEO6",
         "id": "703796597335822336",
         "name": "枯白啃设计",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2036148968900665346/DblPsR4p_normal.jpg",
         "public_metrics": {
-          "followers_count": 6717,
-          "following_count": 1356,
-          "like_count": 8170,
+          "followers_count": 6818,
+          "following_count": 1368,
+          "like_count": 8282,
           "listed_count": 72,
-          "media_count": 337,
-          "tweet_count": 2218
+          "media_count": 341,
+          "tweet_count": 2261
         },
-        "username": "Kubai087"
+        "username": "Kubai087",
+        "verified": false
       },
       {
+        "created_at": "2009-03-26T16:02:58.000Z",
+        "description": "前 字节PM / PICO VR 软件产品 Lead\n深耕 VR 行业9年\n做了 https://t.co/iAupZrmc7v：838+ 个 Three.js 3D 游戏与 互动作品 聚合\n分享各种 AI coding 经验\n个人作品站：https://t.co/2RTtQFxjTU\nVR专栏：https://t.co/UrvrGm1jml",
         "id": "26780664",
         "name": "Rockeymen",
         "profile_image_url": "https://pbs.twimg.com/profile_images/2109860933040582657/isLEN-Hy_normal.jpg",
         "public_metrics": {
-          "followers_count": 134,
-          "following_count": 184,
-          "like_count": 80,
+          "followers_count": 137,
+          "following_count": 187,
+          "like_count": 83,
           "listed_count": 0,
-          "media_count": 105,
-          "tweet_count": 643
+          "media_count": 106,
+          "tweet_count": 669
         },
-        "username": "rockeymen"
+        "username": "rockeymen",
+        "verified": false
       }
     ]
   },

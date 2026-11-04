@@ -2,56 +2,37 @@
   "new_count": 1,
   "new": [
     {
-      "name": "Xtools",
-      "slug": "xtools",
-      "url": "https://www.yourtools.xyz/",
-      "recommender": "imboomu",
-      "source_reply_url": "https://x.com/imboomu/status/2116391274798559449"
+      "name": "CocoCut",
+      "slug": "cococut",
+      "url": "https://cococut.app",
+      "recommender": "Lumosous",
+      "source_reply_url": "https://x.com/Lumosous/status/2116097775805063662"
     }
   ],
-  "metrics_changed": 50,
-  "material_metrics": 13,
-  "product_count": 99,
+  "metrics_changed": 28,
+  "material_metrics": 7,
+  "product_count": 100,
   "posts_fetched": 188,
   "reply_count_reported": 128,
-  "updated_at_label": "2026-11-03 10:12 Asia/Shanghai",
+  "updated_at_label": "2026-11-04 10:08 Asia/Shanghai",
   "material": [
-    {
-      "name": "yovoice",
-      "slug": "yovoice",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 1,
-        "impressions": 5
-      },
-      "old": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 48
-      },
-      "new": {
-        "likes": 0,
-        "bookmarks": 1,
-        "impressions": 53
-      }
-    },
     {
       "name": "Pele",
       "slug": "pele",
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 10
+        "impressions": 18
       },
       "old": {
         "likes": 4,
         "bookmarks": 12,
-        "impressions": 1323
+        "impressions": 1333
       },
       "new": {
         "likes": 4,
         "bookmarks": 12,
-        "impressions": 1333
+        "impressions": 1351
       }
     },
     {
@@ -60,17 +41,17 @@
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 10
+        "impressions": 7
       },
       "old": {
         "likes": 19,
         "bookmarks": 31,
-        "impressions": 2056
+        "impressions": 2066
       },
       "new": {
         "likes": 19,
         "bookmarks": 31,
-        "impressions": 2066
+        "impressions": 2073
       }
     },
     {
@@ -79,36 +60,17 @@
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 19
+        "impressions": 6
       },
       "old": {
-        "likes": 10,
-        "bookmarks": 16,
-        "impressions": 1094
-      },
-      "new": {
         "likes": 10,
         "bookmarks": 16,
         "impressions": 1113
-      }
-    },
-    {
-      "name": "Grok Bot Clipper",
-      "slug": "grok-bot-clipper",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 9
-      },
-      "old": {
-        "likes": 13,
-        "bookmarks": 15,
-        "impressions": 1810
       },
       "new": {
-        "likes": 13,
-        "bookmarks": 15,
-        "impressions": 1819
+        "likes": 10,
+        "bookmarks": 16,
+        "impressions": 1119
       }
     },
     {
@@ -117,131 +79,55 @@
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 75
+        "impressions": 44
       },
       "old": {
-        "likes": 11,
-        "bookmarks": 8,
-        "impressions": 4413
-      },
-      "new": {
         "likes": 11,
         "bookmarks": 8,
         "impressions": 4488
-      }
-    },
-    {
-      "name": "书签管理器",
-      "slug": "书签管理器",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 5
-      },
-      "old": {
-        "likes": 5,
-        "bookmarks": 3,
-        "impressions": 462
       },
       "new": {
-        "likes": 5,
-        "bookmarks": 3,
-        "impressions": 467
+        "likes": 11,
+        "bookmarks": 8,
+        "impressions": 4532
       }
     },
     {
-      "name": "赛博小晚",
-      "slug": "赛博小晚",
+      "name": "AI 健身应用",
+      "slug": "ai-健身应用",
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 5
-      },
-      "old": {
-        "likes": 5,
-        "bookmarks": 2,
-        "impressions": 543
-      },
-      "new": {
-        "likes": 5,
-        "bookmarks": 2,
-        "impressions": 548
-      }
-    },
-    {
-      "name": "WeSight",
-      "slug": "wesight",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 6
-      },
-      "old": {
-        "likes": 3,
-        "bookmarks": 0,
-        "impressions": 724
-      },
-      "new": {
-        "likes": 3,
-        "bookmarks": 0,
-        "impressions": 730
-      }
-    },
-    {
-      "name": "TinyCast",
-      "slug": "tinycast",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 9
+        "impressions": 7
       },
       "old": {
         "likes": 1,
-        "bookmarks": 1,
-        "impressions": 318
+        "bookmarks": 3,
+        "impressions": 303
       },
       "new": {
         "likes": 1,
-        "bookmarks": 1,
-        "impressions": 327
-      }
-    },
-    {
-      "name": "宝可梦学英语",
-      "slug": "宝可梦学英语",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 6
-      },
-      "old": {
-        "likes": 0,
-        "bookmarks": 1,
-        "impressions": 242
-      },
-      "new": {
-        "likes": 0,
-        "bookmarks": 1,
-        "impressions": 248
+        "bookmarks": 3,
+        "impressions": 310
       }
     },
     {
       "name": "Tokei",
       "slug": "tokei",
       "delta": {
-        "likes": -1,
+        "likes": 1,
         "bookmarks": 0,
-        "impressions": 8
+        "impressions": 78
       },
       "old": {
-        "likes": 10,
-        "bookmarks": 7,
-        "impressions": 1775
-      },
-      "new": {
         "likes": 9,
         "bookmarks": 7,
         "impressions": 1783
+      },
+      "new": {
+        "likes": 10,
+        "bookmarks": 7,
+        "impressions": 1861
       }
     },
     {
@@ -249,24 +135,24 @@
       "slug": "m5stack-stopwatch-固件",
       "delta": {
         "likes": 0,
-        "bookmarks": 0,
-        "impressions": 6
+        "bookmarks": 1,
+        "impressions": 5
       },
       "old": {
         "likes": 1,
         "bookmarks": 0,
-        "impressions": 488
+        "impressions": 494
       },
       "new": {
         "likes": 1,
-        "bookmarks": 0,
-        "impressions": 494
+        "bookmarks": 1,
+        "impressions": 499
       }
     }
   ],
   "notes": [
-    "No brand-new conversation replies vs 2026-11-02; 1 prior reply deleted (Library source GeekRadioLeo/2115330917623574759) — kept product, metrics frozen from last capture.",
-    "Added Xtools (yourtools.xyz) after entity expansion resolved previously opaque t.co on imboomu reply.",
-    "Linked Timezone Override to MuweiCallisto source reply."
+    "No brand-new conversation replies vs 2026-11-03 (still 188 posts / reply_count 128).",
+    "Added CocoCut (cococut.app) from Lumosous note_tweet URL that prior syncs missed.",
+    "Parent impressions 43107→43513; likes 131."
   ]
 }
