@@ -1,6 +1,271 @@
 {
   "data": [
     {
+      "author_id": "1923981862273417222",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:12:18.000Z",
+      "edit_history_tweet_ids": [
+        "2115325767462875539"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/bbkirstry/stat…",
+            "end": 127,
+            "expanded_url": "https://x.com/bbkirstry/status/2112836743183716497?a=cS5-Y-6QkncmzOleabg&s=20",
+            "start": 104,
+            "url": "https://t.co/QNeVsbvscG"
+          }
+        ]
+      },
+      "id": "2115325767462875539",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 551,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112836743183716497",
+          "type": "quoted"
+        },
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 老师看看赛博小晚！\n\n我把自己的思考方式+判断逻辑+工作经验蒸馏了做成一个 skill，然后铁柱老师把它做成了一个 Grok bot 里面的 bot，现在被很多朋友当成主 bot 来使用🍻\n https://t.co/QNeVsbvscG",
+      "url": "https://x.com/bbkirstry/status/2115325767462875539"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115325376406990848",
+          "3_2115325613351583744"
+        ]
+      },
+      "author_id": "1893087994174939138",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:11:55.000Z",
+      "edit_history_tweet_ids": [
+        "2115325671669133410"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "专门为 agent 打造的开源 agent 搜索工具，具备 200+的搜索源及多语言搜索能力，覆盖中文/英文/学术/代码/购物/金融/新闻/百科。 - taxueseek/argo",
+            "display_url": "github.com/taxueseek/argo",
+            "end": 94,
+            "expanded_url": "https://github.com/taxueseek/argo",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2115325721942077440/zFWl1o0u?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115325721942077440/zFWl1o0u?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 71,
+            "status": 200,
+            "title": "GitHub - taxueseek/argo: 专门为 agent 打造的开源 agent 搜索工具，具备 200+的搜索源及多语言搜索能力，覆盖中文/英文/学术/代码/购物/金融/新闻/百科。",
+            "unwound_url": "https://github.com/taxueseek/argo",
+            "url": "https://t.co/dPLCMCgkzu"
+          },
+          {
+            "display_url": "pic.x.com/tkbHqVLGFw",
+            "end": 118,
+            "expanded_url": "https://x.com/TaXue2025/status/2115325671669133410/photo/1",
+            "media_key": "3_2115325376406990848",
+            "start": 95,
+            "url": "https://t.co/tkbHqVLGFw"
+          },
+          {
+            "display_url": "pic.x.com/tkbHqVLGFw",
+            "end": 118,
+            "expanded_url": "https://x.com/TaXue2025/status/2115325671669133410/photo/1",
+            "media_key": "3_2115325613351583744",
+            "start": 95,
+            "url": "https://t.co/tkbHqVLGFw"
+          }
+        ]
+      },
+      "id": "2115325671669133410",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 669,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 我做了一个超实用的 agent 搜索 skill 还支持 dsh 插件。200+的搜索源功能丰富，开箱即用，也可以自己调整设置https://t.co/dPLCMCgkzu https://t.co/tkbHqVLGFw",
+      "url": "https://x.com/TaXue2025/status/2115325671669133410"
+    },
+    {
+      "author_id": "769526644860006404",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:11:52.000Z",
+      "edit_history_tweet_ids": [
+        "2115325659354665211"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ]
+      },
+      "id": "2115325659354665211",
+      "lang": "de",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 382,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 orca， codexbar",
+      "url": "https://x.com/dontry018/status/2115325659354665211"
+    },
+    {
+      "author_id": "1497795331488055296",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:11:13.000Z",
+      "edit_history_tweet_ids": [
+        "2115325496175239245"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Cortext combines AI with your local Markdown knowledge base, building a local Wiki-style network and memory from files, edits, and conversations.",
+            "display_url": "cortext.app",
+            "end": 40,
+            "expanded_url": "https://cortext.app",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2113143910700916736/FH32Y8Fw?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2113143910700916736/FH32Y8Fw?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 17,
+            "status": 200,
+            "title": "Cortext - AI for your local Markdown workspace",
+            "unwound_url": "https://cortext.app",
+            "url": "https://t.co/UpWLyCNpFf"
+          }
+        ]
+      },
+      "id": "2115325496175239245",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 1540,
+        "like_count": 7,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 还有第三款软件  https://t.co/UpWLyCNpFf，纯粹的 markdown ai 知识库软件 +llm wiki 的形式，理念就是无感智能知识库，带 AI 功能 自动识别 本地的 Claude code 内置了一个 pi，这款软件我至少做了 8 个月，花费超过 5000 美金以上额度，一直没发布，以前总感觉达不到我想要的效果，兼容",
+      "url": "https://x.com/RookieRicardoR/status/2115325496175239245"
+    },
+    {
+      "author_id": "6690032",
+      "conversation_id": "2115318655525523714",
+      "created_at": "2026-10-28T06:10:29.000Z",
+      "edit_history_tweet_ids": [
+        "2115325309449031946"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "2048232027338780672",
+            "start": 0,
+            "username": "jryang1997"
+          }
+        ]
+      },
+      "id": "2115325309449031946",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1517,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115324444394897806",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jryang1997 感觉这个技术含量高，我家里装了小爱音箱控制空调、电灯，试试这个。",
+      "url": "https://x.com/vista8/status/2115325309449031946"
+    },
+    {
       "author_id": "1503452263",
       "conversation_id": "2115318655525523714",
       "created_at": "2026-10-28T06:09:02.000Z",
@@ -219,7 +484,7 @@
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 10,
-        "impression_count": 1691,
+        "impression_count": 1700,
         "like_count": 11,
         "quote_count": 1,
         "reply_count": 2,
@@ -278,23 +543,9 @@
       },
       "id": "2115324363935453601",
       "lang": "zh",
-      "note_tweet": {
-        "entities": {
-          "urls": [
-            {
-              "display_url": "github.com/akira82-ai/ech…",
-              "end": 53,
-              "expanded_url": "https://github.com/akira82-ai/echo-app",
-              "start": 30,
-              "url": "https://t.co/I8kvcXWmaH"
-            }
-          ]
-        },
-        "text": "感恩乔帮主，自荐 vibe 的 mac 智能剪贴板 APP\nhttps://t.co/I8kvcXWmaH\n----\nEcho 是一款原生 Mac 菜单栏剪贴板工具，从找回内容，到整理、提问，再到粘贴使用，在同一个面板里完成，目前支持：\n- 剪贴板历史：自动记录文本、图片和 Finder 文件，快捷键呼出，输入关键词即可查找。\n- Markdown 粘贴：将富文本和常见表格转成 Markdown，方便整理到笔记或文档，转换在本地完成。\n- 多条合并粘贴：最多选择 5 条文本，按选择顺序合并，减少反复切换。\n- 随手算：输入 ! 进入计算模式，支持四则运算和常用函数，回车直接粘贴结果。\n- 随时问：输入 @ 向 DeepSeek 提问，支持按需搜索、读取网页，也可自定义系统提示词。\n- 引用剪贴板提问：输入 @ 后选择 1～5，引用当前页对应文本，再输入翻译、总结或改写指令。\n- 查看内容来源：显示来源应用，识别到网页地址时可直接返回原页面。\n- 原生 Mac 体验：支持系统明暗主题、中英日三种语言，以及长文本展开输入。"
-      },
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 549,
+        "impression_count": 550,
         "like_count": 2,
         "quote_count": 0,
         "reply_count": 1,
@@ -366,7 +617,7 @@
       "lang": "ja",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 280,
+        "impression_count": 281,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -402,7 +653,7 @@
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 229,
+        "impression_count": 230,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -565,7 +816,7 @@
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 259,
+        "impression_count": 260,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -646,12 +897,12 @@
             "images": [
               {
                 "height": 630,
-                "url": "https://pbs.twimg.com/news_img/2113919637918498817/H99FBP1q?format=jpg&name=orig",
+                "url": "https://pbs.twimg.com/news_img/2117861979851493376/7munBvV0?format=jpg&name=orig",
                 "width": 1200
               },
               {
                 "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2113919637918498817/H99FBP1q?format=jpg&name=150x150",
+                "url": "https://pbs.twimg.com/news_img/2117861979851493376/7munBvV0?format=jpg&name=150x150",
                 "width": 150
               }
             ],
@@ -675,7 +926,7 @@
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 16,
-        "impression_count": 1119,
+        "impression_count": 1123,
         "like_count": 10,
         "quote_count": 0,
         "reply_count": 1,
@@ -711,7 +962,7 @@
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 1569,
+        "impression_count": 1574,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 1,
@@ -747,7 +998,7 @@
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 135,
+        "impression_count": 136,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -866,7 +1117,7 @@
       "lang": "zh",
       "public_metrics": {
         "bookmark_count": 7,
-        "impression_count": 1786,
+        "impression_count": 1789,
         "like_count": 9,
         "quote_count": 0,
         "reply_count": 4,
@@ -977,265 +1228,24 @@
       ],
       "text": "@vista8 DSH 插件 session cmd+K 浮窗会话列表，搜索，打标签，类似 vs-code https://t.co/9MXQ78OmHN 这个我最推荐",
       "url": "https://x.com/kouhualin/status/2115321907134464419"
-    },
-    {
-      "author_id": "6690032",
-      "conversation_id": "2115318655525523714",
-      "created_at": "2026-10-28T05:56:56.000Z",
-      "edit_history_tweet_ids": [
-        "2115321901216325810"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 10,
-            "id": "140463511",
-            "start": 0,
-            "username": "kouhualin"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Renders Mermaid diagrams faster than you'd run from a volcano! 🌋 - obsidianmd/pele",
-            "display_url": "github.com/obsidianmd/pele",
-            "end": 47,
-            "expanded_url": "https://github.com/obsidianmd/pele",
-            "images": [
-              {
-                "height": 640,
-                "url": "https://pbs.twimg.com/news_img/2116885472978890753/FeLhKido?format=png&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2116885472978890753/FeLhKido?format=png&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 24,
-            "status": 200,
-            "title": "GitHub - obsidianmd/pele: Renders Mermaid diagrams faster than you'd run from a volcano! 🌋",
-            "unwound_url": "https://github.com/obsidianmd/pele",
-            "url": "https://t.co/59qbTzzxS5"
-          }
-        ]
-      },
-      "id": "2115321901216325810",
-      "lang": "zh",
-      "public_metrics": {
-        "bookmark_count": 12,
-        "impression_count": 1351,
-        "like_count": 4,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2115321371828052371",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@kouhualin 实用工具，可以看看这个库 https://t.co/59qbTzzxS5\n\nObsidian CEO 刚弄的，也支持 mermaid 渲染，速度更快，而且支持样式设置，响应式布局。\n\n感觉可以融合进去。",
-      "url": "https://x.com/vista8/status/2115321901216325810"
-    },
-    {
-      "author_id": "140463511",
-      "conversation_id": "2115318655525523714",
-      "created_at": "2026-10-28T05:55:36.000Z",
-      "edit_history_tweet_ids": [
-        "2115321563402904053"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ],
-        "urls": [
-          {
-            "description": "See which provider and model produced a reply, in the message's own action row. - kjx-talesofai/dsh-plugin-message-model-badge",
-            "display_url": "github.com/kjx-talesofai/…",
-            "end": 72,
-            "expanded_url": "https://github.com/kjx-talesofai/dsh-plugin-message-model-badge",
-            "images": [
-              {
-                "height": 600,
-                "url": "https://pbs.twimg.com/news_img/2115321606495207424/I3AC9Tg1?format=jpg&name=orig",
-                "width": 1200
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2115321606495207424/I3AC9Tg1?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 49,
-            "status": 200,
-            "title": "GitHub - kjx-talesofai/dsh-plugin-message-model-badge: See which provider and model produced a reply, in the message's own action row.",
-            "unwound_url": "https://github.com/kjx-talesofai/dsh-plugin-message-model-badge",
-            "url": "https://t.co/2FVEm1EgLW"
-          }
-        ]
-      },
-      "id": "2115321563402904053",
-      "lang": "zh",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 55,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2115321371828052371",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@vista8 DSH 插件 会话 turn 结束显示使用的 provider/model 标识 https://t.co/2FVEm1EgLW",
-      "url": "https://x.com/kouhualin/status/2115321563402904053"
-    },
-    {
-      "author_id": "6690032",
-      "conversation_id": "2115318655525523714",
-      "created_at": "2026-10-28T05:55:13.000Z",
-      "edit_history_tweet_ids": [
-        "2115321469727281222"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 15,
-            "id": "1497795331488055296",
-            "start": 0,
-            "username": "RookieRicardoR"
-          }
-        ]
-      },
-      "id": "2115321469727281222",
-      "lang": "zh",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 1241,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2115321099118682120",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@RookieRicardoR 剪贴板这个有意思啊，自动对媒体类型分类。之前在 PH 看到过一个类似工具，没想到你也开发了一个。",
-      "url": "https://x.com/vista8/status/2115321469727281222"
-    },
-    {
-      "author_id": "140463511",
-      "conversation_id": "2115318655525523714",
-      "created_at": "2026-10-28T05:54:50.000Z",
-      "edit_history_tweet_ids": [
-        "2115321371828052371"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Draws mermaid code blocks in DSH replies as diagrams, including while the reply is still streaming. - kjx-talesofai/dsh-plugin-mermaid",
-            "display_url": "github.com/kjx-talesofai/…",
-            "end": 51,
-            "expanded_url": "https://github.com/kjx-talesofai/dsh-plugin-mermaid",
-            "images": [
-              {
-                "height": 600,
-                "url": "https://pbs.twimg.com/news_img/2115321373224747008/HzMsoruJ?format=jpg&name=orig",
-                "width": 1200
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2115321373224747008/HzMsoruJ?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 28,
-            "status": 200,
-            "title": "GitHub - kjx-talesofai/dsh-plugin-mermaid: Draws mermaid code blocks in DSH replies as diagrams, including while the reply is still streaming.",
-            "unwound_url": "https://github.com/kjx-talesofai/dsh-plugin-mermaid",
-            "url": "https://t.co/Bi48LbPJ6P"
-          }
-        ]
-      },
-      "id": "2115321371828052371",
-      "lang": "zh",
-      "public_metrics": {
-        "bookmark_count": 1,
-        "impression_count": 1286,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 2,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2115318655525523714",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@vista8 DSH 插件 会话渲染 mermaid https://t.co/Bi48LbPJ6P",
-      "url": "https://x.com/kouhualin/status/2115321371828052371"
-    },
-    {
-      "author_id": "323554812",
-      "conversation_id": "2115318655525523714",
-      "created_at": "2026-10-28T05:54:28.000Z",
-      "edit_history_tweet_ids": [
-        "2115321279188517205"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "6690032",
-            "start": 0,
-            "username": "vista8"
-          }
-        ]
-      },
-      "id": "2115321279188517205",
-      "lang": "zh",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 213,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2115318655525523714",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@vista8 我天天用的还是那几个 说多了像托",
-      "url": "https://x.com/LonglinX/status/2115321279188517205"
     }
   ],
   "includes": {
     "media": [
+      {
+        "height": 1534,
+        "media_key": "3_2115325376406990848",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVslOO0bsAAuA05.jpg",
+        "width": 1198
+      },
+      {
+        "height": 1534,
+        "media_key": "3_2115325613351583744",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVslcBgbQAAGH1Y.jpg",
+        "width": 1198
+      },
       {
         "height": 720,
         "media_key": "16_2115324525260984320",
@@ -1297,14 +1307,124 @@
         "id": "2115318655525523714",
         "lang": "zh",
         "public_metrics": {
-          "bookmark_count": 167,
-          "impression_count": 43513,
+          "bookmark_count": 168,
+          "impression_count": 43756,
           "like_count": 131,
           "quote_count": 6,
           "reply_count": 128,
           "retweet_count": 18
         },
         "text": "评论发自己最喜欢用的 AI 工具和项目！\n\n可以是自己 AI Coding的产品，或一直花钱订阅的AI 工具。\n\n产品可以是网站、App、Skill、插件、开源代码。\n\n点赞人多，测试好用，我会转发帮大家加热。\n\n某次「未来硅世界」直播，网友展示了很多有创造力的产品，但缺传播渠道。\n\n索性来个自荐和推荐活动~"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2112834672728387584"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2112836743183716497",
+        "created_at": "2026-10-21T09:21:48.000Z",
+        "edit_history_tweet_ids": [
+          "2112836743183716497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 107,
+              "id": "1997889576187387904",
+              "start": 98,
+              "username": "cgnot996"
+            },
+            {
+              "end": 149,
+              "id": "2085838061347217408",
+              "start": 145,
+              "username": "bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1mbCJ49pD",
+              "end": 177,
+              "expanded_url": "https://x.com/bbkirstry/status/2112836743183716497/video/1",
+              "media_key": "13_2112834672728387584",
+              "start": 154,
+              "url": "https://t.co/H1mbCJ49pD"
+            }
+          ]
+        },
+        "id": "2112836743183716497",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 16370,
+          "like_count": 84,
+          "quote_count": 16,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "text": "去年我开始策划一个AI分身，叫赛博小晚\n\n本来我只想让它替我为自己和朋友们分担烦恼，今年5月正式上线之后，发现它真的可以陪大家从更多维度思考问题、开始行动\n\n9月底开始，随着GrokBot的上线和@cgnot996 铁柱哥的推广，赛博小晚逐渐被更多人看见和喜欢\n\n这条片子，我花了一整晚用 @bot 做出来 https://t.co/H1mbCJ49pD"
+      },
+      {
+        "author_id": "2048232027338780672",
+        "conversation_id": "2115318655525523714",
+        "created_at": "2026-10-28T06:07:03.000Z",
+        "edit_history_tweet_ids": [
+          "2115324444394897806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Control Xiaomi Mijia from your Mac menu bar or Windows tray. Home Assistant supported on macOS. - jryang1997/MenuBarMijia",
+              "display_url": "github.com/jryang1997/Men…",
+              "end": 174,
+              "expanded_url": "https://github.com/jryang1997/MenuBarMijia",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2116776254850433024/NhbPZDx2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2116776254850433024/NhbPZDx2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 151,
+              "status": 200,
+              "title": "GitHub - jryang1997/MenuBarMijia: Control Xiaomi Mijia from your Mac menu bar or Windows tray. Home Assistant supported on macOS.",
+              "unwound_url": "https://github.com/jryang1997/MenuBarMijia",
+              "url": "https://t.co/jwmgtBP33u"
+            }
+          ]
+        },
+        "id": "2115324444394897806",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1700,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115318655525523714",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@vista8 我自己 vibe coding 的时候，想调一下灯光和空调，用小爱同学一来一回太烦了，用手机米家每次要解锁-找 app-找设备-点击，也很麻烦。就手搓了个 Mac 菜单栏控制中心。后来觉得手点也麻烦，又加了 jev 预测 和按住说话的语音控制，用下来真的蛮方便，推荐大家试试看！开源的：https://t.co/jwmgtBP33u"
       },
       {
         "author_id": "1889214164322951168",
@@ -1350,23 +1470,9 @@
         },
         "id": "2115324363935453601",
         "lang": "zh",
-        "note_tweet": {
-          "entities": {
-            "urls": [
-              {
-                "display_url": "github.com/akira82-ai/ech…",
-                "end": 53,
-                "expanded_url": "https://github.com/akira82-ai/echo-app",
-                "start": 30,
-                "url": "https://t.co/I8kvcXWmaH"
-              }
-            ]
-          },
-          "text": "感恩乔帮主，自荐 vibe 的 mac 智能剪贴板 APP\nhttps://t.co/I8kvcXWmaH\n----\nEcho 是一款原生 Mac 菜单栏剪贴板工具，从找回内容，到整理、提问，再到粘贴使用，在同一个面板里完成，目前支持：\n- 剪贴板历史：自动记录文本、图片和 Finder 文件，快捷键呼出，输入关键词即可查找。\n- Markdown 粘贴：将富文本和常见表格转成 Markdown，方便整理到笔记或文档，转换在本地完成。\n- 多条合并粘贴：最多选择 5 条文本，按选择顺序合并，减少反复切换。\n- 随手算：输入 ! 进入计算模式，支持四则运算和常用函数，回车直接粘贴结果。\n- 随时问：输入 @ 向 DeepSeek 提问，支持按需搜索、读取网页，也可自定义系统提示词。\n- 引用剪贴板提问：输入 @ 后选择 1～5，引用当前页对应文本，再输入翻译、总结或改写指令。\n- 查看内容来源：显示来源应用，识别到网页地址时可直接返回原页面。\n- 原生 Mac 体验：支持系统明暗主题、中英日三种语言，以及长文本展开输入。"
-        },
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 549,
+          "impression_count": 550,
           "like_count": 2,
           "quote_count": 0,
           "reply_count": 1,
@@ -1401,7 +1507,7 @@
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 1569,
+          "impression_count": 1574,
           "like_count": 1,
           "quote_count": 0,
           "reply_count": 1,
@@ -1441,7 +1547,7 @@
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 8,
-          "impression_count": 4532,
+          "impression_count": 4563,
           "like_count": 11,
           "quote_count": 0,
           "reply_count": 8,
@@ -1500,7 +1606,7 @@
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 95,
-          "impression_count": 8345,
+          "impression_count": 8354,
           "like_count": 57,
           "quote_count": 2,
           "reply_count": 7,
@@ -1582,7 +1688,7 @@
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 7,
-          "impression_count": 1786,
+          "impression_count": 1789,
           "like_count": 9,
           "quote_count": 0,
           "reply_count": 4,
@@ -1617,7 +1723,7 @@
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1241,
+          "impression_count": 1245,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -1677,7 +1783,7 @@
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 12,
-          "impression_count": 1351,
+          "impression_count": 1354,
           "like_count": 4,
           "quote_count": 0,
           "reply_count": 1,
@@ -1712,7 +1818,7 @@
         "lang": "zh",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 1649,
+          "impression_count": 1652,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -1785,430 +1891,249 @@
           }
         ],
         "text": "@vista8 DSH 插件 会话 turn 结束显示使用的 provider/model 标识 https://t.co/2FVEm1EgLW"
-      },
-      {
-        "author_id": "140463511",
-        "conversation_id": "2115318655525523714",
-        "created_at": "2026-10-28T05:54:50.000Z",
-        "edit_history_tweet_ids": [
-          "2115321371828052371"
-        ],
-        "entities": {
-          "mentions": [
-            {
-              "end": 7,
-              "id": "6690032",
-              "start": 0,
-              "username": "vista8"
-            }
-          ],
-          "urls": [
-            {
-              "description": "Draws mermaid code blocks in DSH replies as diagrams, including while the reply is still streaming. - kjx-talesofai/dsh-plugin-mermaid",
-              "display_url": "github.com/kjx-talesofai/…",
-              "end": 51,
-              "expanded_url": "https://github.com/kjx-talesofai/dsh-plugin-mermaid",
-              "images": [
-                {
-                  "height": 600,
-                  "url": "https://pbs.twimg.com/news_img/2115321373224747008/HzMsoruJ?format=jpg&name=orig",
-                  "width": 1200
-                },
-                {
-                  "height": 150,
-                  "url": "https://pbs.twimg.com/news_img/2115321373224747008/HzMsoruJ?format=jpg&name=150x150",
-                  "width": 150
-                }
-              ],
-              "start": 28,
-              "status": 200,
-              "title": "GitHub - kjx-talesofai/dsh-plugin-mermaid: Draws mermaid code blocks in DSH replies as diagrams, including while the reply is still streaming.",
-              "unwound_url": "https://github.com/kjx-talesofai/dsh-plugin-mermaid",
-              "url": "https://t.co/Bi48LbPJ6P"
-            }
-          ]
-        },
-        "id": "2115321371828052371",
-        "lang": "zh",
-        "public_metrics": {
-          "bookmark_count": 1,
-          "impression_count": 1286,
-          "like_count": 1,
-          "quote_count": 0,
-          "reply_count": 2,
-          "retweet_count": 0
-        },
-        "referenced_tweets": [
-          {
-            "id": "2115318655525523714",
-            "type": "replied_to"
-          }
-        ],
-        "text": "@vista8 DSH 插件 会话渲染 mermaid https://t.co/Bi48LbPJ6P"
-      },
-      {
-        "author_id": "1497795331488055296",
-        "conversation_id": "2115318655525523714",
-        "created_at": "2026-10-28T05:53:45.000Z",
-        "edit_history_tweet_ids": [
-          "2115321099118682120"
-        ],
-        "entities": {
-          "mentions": [
-            {
-              "end": 7,
-              "id": "6690032",
-              "start": 0,
-              "username": "vista8"
-            }
-          ],
-          "urls": [
-            {
-              "description": "Everything you copy is still there. One shortcut, one startup toggle, and almost nothing to configure.",
-              "display_url": "clipdot.erduo.dev",
-              "end": 50,
-              "expanded_url": "https://clipdot.erduo.dev",
-              "images": [
-                {
-                  "height": 630,
-                  "url": "https://pbs.twimg.com/news_img/2113067830505869312/pBWzwtlk?format=jpg&name=orig",
-                  "width": 1200
-                },
-                {
-                  "height": 150,
-                  "url": "https://pbs.twimg.com/news_img/2113067830505869312/pBWzwtlk?format=jpg&name=150x150",
-                  "width": 150
-                }
-              ],
-              "start": 27,
-              "status": 200,
-              "title": "ClipDot — A Tiny Native Clipboard for macOS",
-              "unwound_url": "https://clipdot.erduo.dev",
-              "url": "https://t.co/9zyjN6rOYr"
-            },
-            {
-              "description": "A macOS screenshot tool that does four things well: capture, annotate, pin, read text.",
-              "display_url": "snipdot.erduo.dev",
-              "end": 74,
-              "expanded_url": "https://snipdot.erduo.dev",
-              "images": [
-                {
-                  "height": 630,
-                  "url": "https://pbs.twimg.com/news_img/2113067816861696000/9UI-crV0?format=jpg&name=orig",
-                  "width": 1200
-                },
-                {
-                  "height": 150,
-                  "url": "https://pbs.twimg.com/news_img/2113067816861696000/9UI-crV0?format=jpg&name=150x150",
-                  "width": 150
-                }
-              ],
-              "start": 51,
-              "status": 200,
-              "title": "SnipDot — A Restrained Screenshot Tool for macOS",
-              "unwound_url": "https://snipdot.erduo.dev",
-              "url": "https://t.co/Z7GjWIoAWE"
-            }
-          ]
-        },
-        "id": "2115321099118682120",
-        "lang": "zh",
-        "public_metrics": {
-          "bookmark_count": 5,
-          "impression_count": 1305,
-          "like_count": 4,
-          "quote_count": 0,
-          "reply_count": 2,
-          "retweet_count": 0
-        },
-        "referenced_tweets": [
-          {
-            "id": "2115318655525523714",
-            "type": "replied_to"
-          }
-        ],
-        "text": "@vista8 我自己做了一个剪切板和一个截图软件， https://t.co/9zyjN6rOYr\nhttps://t.co/Z7GjWIoAWE"
       }
     ],
     "users": [
       {
-        "created_at": "2013-06-11T13:54:29.000Z",
-        "description": "一个喜欢玩AI应用的网络好友，仅此而已。\nSite：https://t.co/NUyuWvNRSI\n微信自动化运营平台：https://t.co/TnoJYbdgJ5",
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "public_metrics": {
+          "followers_count": 6211,
+          "following_count": 377,
+          "like_count": 1552,
+          "listed_count": 41,
+          "media_count": 386,
+          "tweet_count": 2310
+        },
+        "username": "bbkirstry"
+      },
+      {
+        "id": "1893087994174939138",
+        "name": "踏雪寻仙",
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 470,
+          "like_count": 27909,
+          "listed_count": 21,
+          "media_count": 645,
+          "tweet_count": 5015
+        },
+        "username": "TaXue2025"
+      },
+      {
+        "id": "769526644860006404",
+        "name": "dontry",
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 398,
+          "like_count": 7735,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1990
+        },
+        "username": "dontry018"
+      },
+      {
+        "id": "1497795331488055296",
+        "name": "耳朵",
+        "public_metrics": {
+          "followers_count": 11198,
+          "following_count": 493,
+          "like_count": 3033,
+          "listed_count": 262,
+          "media_count": 231,
+          "tweet_count": 4146
+        },
+        "username": "RookieRicardoR"
+      },
+      {
+        "id": "6690032",
+        "name": "向阳乔木",
+        "public_metrics": {
+          "followers_count": 136540,
+          "following_count": 1683,
+          "like_count": 12495,
+          "listed_count": 2322,
+          "media_count": 3504,
+          "tweet_count": 10814
+        },
+        "username": "vista8"
+      },
+      {
         "id": "1503452263",
         "name": "Jaylee",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1995320988322635776/WocsGfVo_normal.jpg",
         "public_metrics": {
           "followers_count": 29,
-          "following_count": 352,
-          "like_count": 283,
+          "following_count": 354,
+          "like_count": 289,
           "listed_count": 0,
-          "media_count": 5,
-          "tweet_count": 53
+          "media_count": 6,
+          "tweet_count": 56
         },
-        "username": "zifeiyuooooooo",
-        "verified": false
+        "username": "zifeiyuooooooo"
       },
       {
-        "created_at": "2025-02-11T07:25:46.000Z",
-        "description": "20 年商业分析与数据智能经验，把 AI 用进真实工作\n文档：《100 个问题》系列、《上下文工程》中文版\n作品：Echo - Mac 极简智能剪贴板",
         "id": "1889214164322951168",
         "name": "AI磊叔",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2010595031686709248/bulNpxVd_normal.jpg",
         "public_metrics": {
-          "followers_count": 1611,
-          "following_count": 288,
-          "like_count": 585,
-          "listed_count": 14,
-          "media_count": 564,
-          "tweet_count": 1742
+          "followers_count": 1610,
+          "following_count": 289,
+          "like_count": 587,
+          "listed_count": 13,
+          "media_count": 566,
+          "tweet_count": 1746
         },
-        "username": "AgiRay1015",
-        "verified": false
+        "username": "AgiRay1015"
       },
       {
-        "created_at": "2026-04-26T02:46:04.000Z",
-        "description": "数字媒体技术出身 · 非科班 Vibe Coder 🐑 \n少数派作者（23.7w+ 阅读）\n小红书 @赛博一只羊\n手搓 macOS 原生小工具（MenuBarMijia / DSH 鲸鱼与语音胶囊）\n Building in Public 🛠️",
         "id": "2048232027338780672",
         "name": "一群小羊说",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2113998044601716736/bUfw7pmq_normal.jpg",
         "public_metrics": {
-          "followers_count": 26,
-          "following_count": 138,
-          "like_count": 129,
+          "followers_count": 28,
+          "following_count": 139,
+          "like_count": 131,
           "listed_count": 0,
           "media_count": 14,
-          "tweet_count": 88
+          "tweet_count": 90
         },
-        "username": "jryang1997",
-        "verified": false
+        "username": "jryang1997"
       },
       {
-        "created_at": "2024-03-26T11:38:43.000Z",
-        "description": "冷静地思考 热情地生活\n\nAI | AIGC | 互联网 | 运营\n分享一些有趣的芝士🧀\n欢迎关注～",
         "id": "1772588958599507968",
         "name": "Anoxia_",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2100551980489863168/Ou39QFP7_normal.jpg",
         "public_metrics": {
-          "followers_count": 2498,
-          "following_count": 2465,
-          "like_count": 4451,
-          "listed_count": 2,
-          "media_count": 28,
-          "tweet_count": 5035
+          "followers_count": 2524,
+          "following_count": 2463,
+          "like_count": 4620,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 5183
         },
-        "username": "hyz1464269",
-        "verified": false
+        "username": "hyz1464269"
       },
       {
-        "created_at": "2022-12-02T03:27:35.000Z",
-        "description": "Al 创作者•LLM 爱好者•Al Agent 构建者\nAI 生视频•AI 生图\n输出有温度的洞察。 致力于降低 AI 使用门槛，让更多人受益。\n某大厂架构师-多模态、模型私有化领域\n企业 AI方案设计• FDE\n关注AI产品、AI结合教育、艺术创作领域\n📮: lanshulan007@gmail.com",
         "id": "1598519155736645632",
         "name": "岚叔",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1680410719941165058/vWaCNg37_normal.jpg",
         "public_metrics": {
-          "followers_count": 25886,
+          "followers_count": 25901,
           "following_count": 769,
-          "like_count": 10057,
-          "listed_count": 288,
-          "media_count": 1390,
-          "tweet_count": 7684
+          "like_count": 10071,
+          "listed_count": 289,
+          "media_count": 1395,
+          "tweet_count": 7700
         },
-        "username": "LufzzLiz",
-        "verified": false
+        "username": "LufzzLiz"
       },
       {
-        "created_at": "2026-03-07T06:57:09.000Z",
-        "description": "雨晴｜盯AI订阅、额度、封号和降价｜大白话讲清普通人怎么选｜每天早上发AI额度天气",
         "id": "2030175862553989126",
         "name": "yuqing--雨晴",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2096237421512052736/bPbVuQcv_normal.jpg",
         "public_metrics": {
-          "followers_count": 1736,
-          "following_count": 1829,
-          "like_count": 5531,
+          "followers_count": 1735,
+          "following_count": 1827,
+          "like_count": 5544,
           "listed_count": 0,
-          "media_count": 161,
-          "tweet_count": 5083
+          "media_count": 162,
+          "tweet_count": 5099
         },
-        "username": "yuqingjz",
-        "verified": false
+        "username": "yuqingjz"
       },
       {
-        "created_at": "2010-04-24T07:28:57.000Z",
-        "description": "Science/documentary/museum enthusiast, Excel weirdo, Underdog developer, UI/UX designer, Life witness | 科学、纪录片、博物馆爱好者；Excel狂魔；蹩脚开发者；UI/UX设计；生活观察者 | 公众号：Victor42",
         "id": "136549634",
         "name": "Victor_42",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1253188599459139584/r9qO0x10_normal.jpg",
         "public_metrics": {
-          "followers_count": 846,
+          "followers_count": 847,
           "following_count": 143,
-          "like_count": 1516,
+          "like_count": 1517,
           "listed_count": 18,
           "media_count": 319,
-          "tweet_count": 2637
+          "tweet_count": 2641
         },
-        "username": "victor_cheng_42",
-        "verified": false
+        "username": "victor_cheng_42"
       },
       {
-        "created_at": "2026-10-24T23:05:17.000Z",
-        "description": "🤖 只分享亲测过的 AI 工具实操\n🛠️ Prompt 技巧 · AI 编程 · 提效工作流\n📈 每天追热点，讲你能照着做的那一步",
         "id": "2114129898772037632",
         "name": "Rt Chan",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2114132995581902848/z_DodwRn_normal.jpg",
         "public_metrics": {
           "followers_count": 4,
           "following_count": 21,
-          "like_count": 269,
+          "like_count": 296,
           "listed_count": 0,
           "media_count": 0,
-          "tweet_count": 506
+          "tweet_count": 588
         },
-        "username": "muse999us",
-        "verified": false
+        "username": "muse999us"
       },
       {
-        "created_at": "2025-11-27T10:20:05.000Z",
-        "description": "寻找低成本、高杠杆的机会\nAI｜Web3｜美股\n分享研究、工具与实战复盘",
         "id": "1993988128953208832",
         "name": "东荣玩AI",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2087925237568675840/lKp8PP2w_normal.jpg",
         "public_metrics": {
-          "followers_count": 471,
-          "following_count": 1005,
-          "like_count": 351,
+          "followers_count": 469,
+          "following_count": 1006,
+          "like_count": 350,
           "listed_count": 0,
           "media_count": 102,
           "tweet_count": 467
         },
-        "username": "dongrongai",
-        "verified": false
+        "username": "dongrongai"
       },
       {
-        "created_at": "2026-05-11T11:34:42.000Z",
-        "description": "免费分享 AI 资料｜电子书｜实用工具｜副业资源，每日更新，记得收藏。",
         "id": "2053800927858167808",
         "name": "404资源库",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2068986008352493568/RyrS6e1I_normal.jpg",
         "public_metrics": {
-          "followers_count": 2036,
-          "following_count": 2473,
+          "followers_count": 2098,
+          "following_count": 2547,
           "like_count": 519,
-          "listed_count": 4,
-          "media_count": 267,
-          "tweet_count": 8892
+          "listed_count": 6,
+          "media_count": 281,
+          "tweet_count": 9505
         },
-        "username": "404latitude",
-        "verified": false
+        "username": "404latitude"
       },
       {
-        "created_at": "2022-02-27T04:47:12.000Z",
-        "description": "🤖 AI LLM / Agent / Skill / MCP 观察与深度应用\n👨‍💻 高级软件工程师 / 签约作者 / 软件工程 AI 实践\n📈 标普/ 纳斯达克交易员/回测网站：https://t.co/Su9AWj2yeF\n💪 AI 领域付费咨询请私信",
-        "id": "1497795331488055296",
-        "name": "耳朵",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1750086551839883264/KER7NzZp_normal.jpg",
-        "public_metrics": {
-          "followers_count": 11187,
-          "following_count": 489,
-          "like_count": 3023,
-          "listed_count": 263,
-          "media_count": 229,
-          "tweet_count": 4128
-        },
-        "username": "RookieRicardoR",
-        "verified": false
-      },
-      {
-        "created_at": "2007-06-09T05:48:52.000Z",
-        "description": "喜欢摇滚乐、爱钓鱼的PM\n第二届GEO大会报名-11-21/22日-深圳南山\nhttps://t.co/N75cblhK9R",
-        "id": "6690032",
-        "name": "向阳乔木",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
-        "public_metrics": {
-          "followers_count": 136167,
-          "following_count": 1682,
-          "like_count": 12475,
-          "listed_count": 2306,
-          "media_count": 3498,
-          "tweet_count": 10797
-        },
-        "username": "vista8",
-        "verified": false
-      },
-      {
-        "created_at": "2010-05-05T15:11:32.000Z",
-        "description": "Pretty old school.",
         "id": "140463511",
         "name": "Hualin",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/913777686677356545/nxnjfnks_normal.jpg",
         "public_metrics": {
           "followers_count": 536,
-          "following_count": 1209,
-          "like_count": 7871,
+          "following_count": 1210,
+          "like_count": 7893,
           "listed_count": 32,
-          "media_count": 909,
-          "tweet_count": 16262
+          "media_count": 910,
+          "tweet_count": 16269
         },
-        "username": "kouhualin",
-        "verified": false
+        "username": "kouhualin"
       },
       {
-        "created_at": "2026-01-05T17:32:55.000Z",
-        "description": "阿力｜95后，在中国，折腾 AI 创业中。\n专攻低成本起步：AI 工具实测、免费资源情报、网络与外币卡这些出海基建，一样一样自己趟。\n每天分享实测结果和真实账本，成了是经验，败了是教训。\n目标：攒够底气，出去看看更大的世界。",
         "id": "2008230172437442560",
         "name": "阿力_折腾捣鼓AI",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2115747221027082240/ySw92_2e_normal.jpg",
         "public_metrics": {
           "followers_count": 23,
           "following_count": 74,
           "like_count": 1029,
           "listed_count": 0,
           "media_count": 1,
-          "tweet_count": 420
+          "tweet_count": 423
         },
-        "username": "GaoQianALi",
-        "verified": false
+        "username": "GaoQianALi"
       },
       {
-        "created_at": "2019-12-18T11:18:34.000Z",
-        "description": "每周拆解真实场景,用AI来重构工作和生活\nAI仿真/出海/AI在工业中的应用探索\n我的目标是每晚10点睡觉,其他的交给Ai\n天行健,君子以自强不息;\n日日精进,久久为功\n分享真实生活,结交朋友",
         "id": "1207258810512838656",
         "name": "铜匠・十点睡觉",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1997218796172611584/gudsBQXU_normal.jpg",
         "public_metrics": {
-          "followers_count": 4029,
-          "following_count": 705,
-          "like_count": 1184,
+          "followers_count": 4048,
+          "following_count": 706,
+          "like_count": 1205,
           "listed_count": 20,
-          "media_count": 409,
-          "tweet_count": 4139
+          "media_count": 416,
+          "tweet_count": 4210
         },
-        "username": "CopperForgeAI",
-        "verified": false
-      },
-      {
-        "created_at": "2011-06-25T01:16:08.000Z",
-        "description": "AI × Product × Growth 🚀\n\nBuilding, scaling, nomading.\n\nUrban Planner → PropTech → AI Product Builder 🏗️→🚀\nAffiliate Dev & Product Maker Nomading with Kelly🐕",
-        "id": "323554812",
-        "name": "龙鳞",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1983520250290429953/UXeeCxVf_normal.jpg",
-        "public_metrics": {
-          "followers_count": 603,
-          "following_count": 688,
-          "like_count": 731,
-          "listed_count": 4,
-          "media_count": 50,
-          "tweet_count": 4716
-        },
-        "username": "LonglinX",
-        "verified": false
+        "username": "CopperForgeAI"
       }
     ]
   },
   "meta": {
-    "newest_id": "2115324947354804285",
-    "next_token": "b26v89c19zqg8o3juzlxo08nqysqxn1ecejqypxmfveyl",
-    "oldest_id": "2115321279188517205",
+    "newest_id": "2115325767462875539",
+    "next_token": "b26v89c19zqg8o3juzlxo08nr0ab1uwoix4ntc2i33rel",
+    "oldest_id": "2115321907134464419",
     "result_count": 24
   }
 }

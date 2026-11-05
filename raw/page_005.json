@@ -1,6 +1,168 @@
 {
   "data": [
     {
+      "author_id": "855596016900358144",
+      "created_at": "2026-10-28T08:06:35.000Z",
+      "edit_history_tweet_ids": [
+        "2115354527809548465"
+      ],
+      "id": "2115354527809548465",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 367,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 那我也来自荐一下我的项目：https://t.co/NNsXwcra4p \n一站式短剧创作工作台，还在努力进化中，不过自己对这个 性能和UI 还是挺满意的",
+      "url": "https://x.com/looplj2/status/2115354527809548465"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115354093111930880",
+          "3_2115354170777825281",
+          "3_2115354281809448960"
+        ]
+      },
+      "author_id": "2104784279280701440",
+      "created_at": "2026-10-28T08:05:47.000Z",
+      "edit_history_tweet_ids": [
+        "2115354326285832473"
+      ],
+      "id": "2115354326285832473",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 567,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 老师，那我来介绍一下我最近做的东东，DEEPSEEK版Grok Bot：https://t.co/oDiEWkNort \n\nhttps://t.co/oDiEWkNort == DeepSeek Harness + Grok Bot ！  \n\nhttps://t.co/oDiEWkNort 是一款基于 DeepSeek Harness、以 Bot 团队协作为核心的独立 Windows 桌面应用。 https://t.co/m3wxo6hlA5",
+      "url": "https://x.com/katcat_AI/status/2115354326285832473"
+    },
+    {
+      "author_id": "1512932114710159363",
+      "created_at": "2026-10-28T08:04:34.000Z",
+      "edit_history_tweet_ids": [
+        "2115354022228172883"
+      ],
+      "id": "2115354022228172883",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 15,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 哈哈，一开始是为了管理信用卡而code的工具，后来给身边这几年创业失败的朋友使用，管理零散的网贷与债务。\n用着用着，我还在里面搞了个财务记账的系统，一句话把你每天的各个流水、收支都记下。\n好吧，功能越来越多了，感觉要拆开了。\nhttps://t.co/ZOwO2VIRHy",
+      "url": "https://x.com/waterxig/status/2115354022228172883"
+    },
+    {
+      "author_id": "1734061829260001280",
+      "created_at": "2026-10-28T08:01:07.000Z",
+      "edit_history_tweet_ids": [
+        "2115353153877205050"
+      ],
+      "id": "2115353153877205050",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 64,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 新上的网站，欢迎开源项目提交 https://t.co/N1C7iAvdWP",
+      "url": "https://x.com/ervintrust/status/2115353153877205050"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2115348353970319360"
+        ]
+      },
+      "author_id": "2114890887478280192",
+      "created_at": "2026-10-28T07:43:23.000Z",
+      "edit_history_tweet_ids": [
+        "2115348691167150345"
+      ],
+      "id": "2115348691167150345",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 自荐下，帮助孩子背诵理解诗歌：https://t.co/QIzLeSxy7Q https://t.co/jVoisvBssh",
+      "url": "https://x.com/AIBrewClub/status/2115348691167150345"
+    },
+    {
+      "author_id": "1833305301954838528",
+      "created_at": "2026-10-28T07:43:02.000Z",
+      "edit_history_tweet_ids": [
+        "2115348602793103693"
+      ],
+      "id": "2115348602793103693",
+      "in_reply_to_user_id": "6690032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 206,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115318655525523714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 最爱用的还是会自己改代码的Agent😅 你们评论里有啥宝藏工具？",
+      "url": "https://x.com/btc2030100w/status/2115348602793103693"
+    },
+    {
       "author_id": "2084811423297998848",
       "created_at": "2026-10-28T07:42:52.000Z",
       "edit_history_tweet_ids": [
@@ -85,7 +247,7 @@
       "in_reply_to_user_id": "6690032",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 329,
+        "impression_count": 332,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -140,7 +302,7 @@
       "in_reply_to_user_id": "6690032",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 196,
+        "impression_count": 197,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -290,7 +452,7 @@
       "in_reply_to_user_id": "6690032",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 244,
+        "impression_count": 245,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -315,7 +477,7 @@
       "in_reply_to_user_id": "6690032",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 205,
+        "impression_count": 206,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -340,7 +502,7 @@
       "in_reply_to_user_id": "1497795331488055296",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 90,
+        "impression_count": 91,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -415,7 +577,7 @@
       "in_reply_to_user_id": "1453896737324613636",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 919,
+        "impression_count": 922,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 1,
@@ -440,7 +602,7 @@
       "in_reply_to_user_id": "6690032",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 889,
+        "impression_count": 891,
         "like_count": 2,
         "quote_count": 0,
         "reply_count": 2,
@@ -470,7 +632,7 @@
       "in_reply_to_user_id": "6690032",
       "public_metrics": {
         "bookmark_count": 1,
-        "impression_count": 325,
+        "impression_count": 326,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -484,173 +646,38 @@
       ],
       "text": "@vista8 AI漫剧创作平台，专为漫剧生产企业开发，综合漫剧生产效率提升300%，功能丰富，以及专业的企业管理中台。不开源。网址：https://t.co/bh7JE2NOi0 https://t.co/y4KJ0sE9UX",
       "url": "https://x.com/jakeybruce/status/2115336999309811933"
-    },
-    {
-      "author_id": "1763122830378696704",
-      "created_at": "2026-10-28T06:56:11.000Z",
-      "edit_history_tweet_ids": [
-        "2115336812055146856"
-      ],
-      "id": "2115336812055146856",
-      "in_reply_to_user_id": "6690032",
-      "public_metrics": {
-        "bookmark_count": 1,
-        "impression_count": 229,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2115318655525523714",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@vista8 自荐一个自己做的小东西：盯着 X 官方推荐算法仓库，每次有提交就自动整理改了什么、证据在哪，不用自己读代码。\n\nhttps://t.co/yPSg66kbCR",
-      "url": "https://x.com/bankai_ajar/status/2115336812055146856"
-    },
-    {
-      "author_id": "477752809",
-      "created_at": "2026-10-28T06:53:51.000Z",
-      "edit_history_tweet_ids": [
-        "2115336225070752096"
-      ],
-      "id": "2115336225070752096",
-      "in_reply_to_user_id": "6690032",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 156,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2115318655525523714",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@vista8 翻了一圈评论，剪贴板和截图工具就撞了好几个，大家 vibe coding 先解决的果然都是自己每天被烦到的那几下。我投 Cursor 和 Grok，WorkBuddy 也用过。",
-      "url": "https://x.com/yinpengxuan/status/2115336225070752096"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "3_2115335353896992768"
-        ]
-      },
-      "author_id": "1910124297294856192",
-      "created_at": "2026-10-28T06:51:22.000Z",
-      "edit_history_tweet_ids": [
-        "2115335600677273822"
-      ],
-      "id": "2115335600677273822",
-      "in_reply_to_user_id": "6690032",
-      "public_metrics": {
-        "bookmark_count": 1,
-        "impression_count": 269,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2115318655525523714",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@vista8 AI Coding了一个瑞幸取餐码收集小程序 https://t.co/hfVdWIb81Z",
-      "url": "https://x.com/yubei2025/status/2115335600677273822"
-    },
-    {
-      "author_id": "1722989263980285952",
-      "created_at": "2026-10-28T06:51:17.000Z",
-      "edit_history_tweet_ids": [
-        "2115335576073453678"
-      ],
-      "id": "2115335576073453678",
-      "in_reply_to_user_id": "6690032",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 444,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2114622442714911083",
-          "type": "quoted"
-        },
-        {
-          "id": "2115318655525523714",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@vista8 «自荐一个我真装真跑过的：yetone 的 Magpie，装在本机的模型网关，Claude Code、Codex 都能一键换模型，额度用完自动切账号。我做了一期「GitHub 真实测」，好用的地方和坑都写清楚了，比如脱敏默认是关的，得手动开👇 https://t.co/6AIlcn9KeT",
-      "url": "https://x.com/zhengtang364848/status/2115335576073453678"
-    },
-    {
-      "author_id": "1791131699042267136",
-      "created_at": "2026-10-28T06:51:00.000Z",
-      "edit_history_tweet_ids": [
-        "2115335505399435339"
-      ],
-      "id": "2115335505399435339",
-      "in_reply_to_user_id": "6690032",
-      "public_metrics": {
-        "bookmark_count": 3,
-        "impression_count": 310,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2110036886303740201",
-          "type": "quoted"
-        },
-        {
-          "id": "2115318655525523714",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@vista8 来吧！\n\n真正的AI健身应用 \n\n用过的人几乎都付费订阅了\n\n长文里记录了开发心路历程 \n\n欢迎有在关注AI+薄肌的朋友们试用～\nhttps://t.co/IDciPU3amX",
-      "url": "https://x.com/Zkm211/status/2115335505399435339"
-    },
-    {
-      "author_id": "2059776904568487936",
-      "created_at": "2026-10-28T06:49:42.000Z",
-      "edit_history_tweet_ids": [
-        "2115335178880999535"
-      ],
-      "id": "2115335178880999535",
-      "in_reply_to_user_id": "6690032",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 177,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2115318655525523714",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@vista8 工具自荐刷屏时\n我先问这玩意能不能拦住手痒\n你最舍不得卸哪个",
-      "url": "https://x.com/94PengGe/status/2115335178880999535"
     }
   ],
   "includes": {
     "media": [
+      {
+        "height": 1427,
+        "media_key": "3_2115354093111930880",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVs_Vw4a8AAoulX.jpg",
+        "width": 2520
+      },
+      {
+        "height": 1232,
+        "media_key": "3_2115354170777825281",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVs_aSNacAE5jOE.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2115354281809448960",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVs_gv1akAABdfx.jpg",
+        "width": 2520
+      },
+      {
+        "height": 1080,
+        "media_key": "13_2115348353970319360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115348353970319360/img/uUstlmJIIbJmvL-p.jpg",
+        "type": "video",
+        "width": 1920
+      },
       {
         "height": 1798,
         "media_key": "3_2115343006920478720",
@@ -664,13 +691,6 @@
         "type": "photo",
         "url": "https://pbs.twimg.com/media/HVsvGn0aEAEgqJ8.jpg",
         "width": 3312
-      },
-      {
-        "height": 1560,
-        "media_key": "3_2115335353896992768",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/HVsuS_3bAAAKUCC.jpg",
-        "width": 828
       }
     ],
     "tweets": [
@@ -682,8 +702,8 @@
         ],
         "id": "2115318655525523714",
         "public_metrics": {
-          "bookmark_count": 167,
-          "impression_count": 43513,
+          "bookmark_count": 168,
+          "impression_count": 43756,
           "like_count": 131,
           "quote_count": 6,
           "reply_count": 128,
@@ -701,7 +721,7 @@
         "in_reply_to_user_id": "1497795331488055296",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 90,
+          "impression_count": 91,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -725,7 +745,7 @@
         "in_reply_to_user_id": "6690032",
         "public_metrics": {
           "bookmark_count": 8,
-          "impression_count": 4532,
+          "impression_count": 4563,
           "like_count": 11,
           "quote_count": 0,
           "reply_count": 8,
@@ -749,7 +769,7 @@
         "in_reply_to_user_id": "1453896737324613636",
         "public_metrics": {
           "bookmark_count": 1,
-          "impression_count": 919,
+          "impression_count": 922,
           "like_count": 0,
           "quote_count": 0,
           "reply_count": 1,
@@ -773,7 +793,7 @@
         "in_reply_to_user_id": "6690032",
         "public_metrics": {
           "bookmark_count": 9,
-          "impression_count": 1532,
+          "impression_count": 1540,
           "like_count": 7,
           "quote_count": 1,
           "reply_count": 1,
@@ -797,7 +817,7 @@
         "in_reply_to_user_id": "6690032",
         "public_metrics": {
           "bookmark_count": 0,
-          "impression_count": 889,
+          "impression_count": 891,
           "like_count": 2,
           "quote_count": 0,
           "reply_count": 2,
@@ -810,125 +830,142 @@
           }
         ],
         "text": "@vista8 Multica。"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2114622439741124608"
-          ]
-        },
-        "author_id": "1722989263980285952",
-        "created_at": "2026-10-26T07:37:32.000Z",
-        "edit_history_tweet_ids": [
-          "2114622442714911083"
-        ],
-        "id": "2114622442714911083",
-        "public_metrics": {
-          "bookmark_count": 6,
-          "impression_count": 6073,
-          "like_count": 6,
-          "quote_count": 1,
-          "reply_count": 3,
-          "retweet_count": 0
-        },
-        "text": "GitHub 真实测 #02：magpie\n\n一个本地模型网关：Claude Code、Codex、Gemini CLI 这些编程 agent 统一换模型，额度用完换账号，提示词里的密钥在本地打码。2.17 万星，MIT 协议，可以商用。\n\n我在 Docker 里实测了一遍，只接了一个 DeepSeek key 和一个 MiniMax 包年 https://t.co/A1EX0Yyw3I"
-      },
-      {
-        "article": {
-          "title": "《零推广做到近 12% 订阅率，我可能做出了第一个真正意义上的 AI 健身教练》"
-        },
-        "author_id": "1791131699042267136",
-        "created_at": "2026-10-13T15:56:10.000Z",
-        "edit_history_tweet_ids": [
-          "2110036886303740201"
-        ],
-        "id": "2110036886303740201",
-        "public_metrics": {
-          "bookmark_count": 3,
-          "impression_count": 1031,
-          "like_count": 4,
-          "quote_count": 2,
-          "reply_count": 1,
-          "retweet_count": 0
-        },
-        "text": "耗时45天，我从0~1独立开发了「练境」健身App。在几乎没有做推广的情况下，订阅率达到12%，也有了真实付费用户。\n这篇文章记录了我从健身小白到做出产品的心路历程，包括需求怎么来、AI开发踩过的坑、第一次上架的经历，以及为什么决定认真做营销。 https://t.co/KH0iIikdRd"
       }
     ],
     "users": [
       {
-        "created_at": "2026-08-05T01:21:32.000Z",
-        "description": "MT",
+        "id": "855596016900358144",
+        "name": "Looplj",
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 121,
+          "like_count": 227,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 192
+        },
+        "username": "looplj2"
+      },
+      {
+        "id": "2104784279280701440",
+        "name": "Katcat.AI",
+        "public_metrics": {
+          "followers_count": 6050,
+          "following_count": 6802,
+          "like_count": 1826,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 3102
+        },
+        "username": "katcat_AI"
+      },
+      {
+        "id": "1512932114710159363",
+        "name": "梁朝伟Jason",
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 350,
+          "like_count": 93,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 415
+        },
+        "username": "waterxig"
+      },
+      {
+        "id": "1734061829260001280",
+        "name": "Ervin💫",
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 565,
+          "like_count": 13730,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 2638
+        },
+        "username": "ervintrust"
+      },
+      {
+        "id": "2114890887478280192",
+        "name": "AI 家酿俱乐部",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 4
+        },
+        "username": "AIBrewClub"
+      },
+      {
+        "id": "1833305301954838528",
+        "name": "0XZZ",
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 227,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 403
+        },
+        "username": "btc2030100w"
+      },
+      {
         "id": "2084811423297998848",
         "name": "han",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2087442979887964160/tZ9GbF7k_normal.jpg",
         "public_metrics": {
-          "followers_count": 1190,
-          "following_count": 2478,
-          "like_count": 2252,
+          "followers_count": 1231,
+          "following_count": 2534,
+          "like_count": 2318,
           "listed_count": 1,
           "media_count": 15,
-          "tweet_count": 2477
+          "tweet_count": 2558
         },
-        "username": "han8jrp",
-        "verified": false
+        "username": "han8jrp"
       },
       {
-        "created_at": "2026-03-09T08:06:03.000Z",
-        "description": "Fan-made AI character series · Not affiliated with the AI companies",
         "id": "2030917389324283904",
         "name": "Connor",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2114584324439961600/coDYH8oJ_normal.jpg",
         "public_metrics": {
-          "followers_count": 143,
-          "following_count": 246,
-          "like_count": 127,
+          "followers_count": 139,
+          "following_count": 248,
+          "like_count": 138,
           "listed_count": 0,
-          "media_count": 111,
-          "tweet_count": 882
+          "media_count": 122,
+          "tweet_count": 905
         },
-        "username": "Connorclaw",
-        "verified": false
+        "username": "Connorclaw"
       },
       {
-        "created_at": "2022-02-27T04:47:12.000Z",
-        "description": "🤖 AI LLM / Agent / Skill / MCP 观察与深度应用\n👨‍💻 高级软件工程师 / 签约作者 / 软件工程 AI 实践\n📈 标普/ 纳斯达克交易员/回测网站：https://t.co/Su9AWj2yeF\n💪 AI 领域付费咨询请私信",
         "id": "1497795331488055296",
         "name": "耳朵",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1750086551839883264/KER7NzZp_normal.jpg",
         "public_metrics": {
-          "followers_count": 11187,
-          "following_count": 489,
-          "like_count": 3023,
-          "listed_count": 263,
-          "media_count": 229,
-          "tweet_count": 4128
+          "followers_count": 11198,
+          "following_count": 493,
+          "like_count": 3033,
+          "listed_count": 262,
+          "media_count": 231,
+          "tweet_count": 4146
         },
-        "username": "RookieRicardoR",
-        "verified": false
+        "username": "RookieRicardoR"
       },
       {
-        "created_at": "2026-05-12T20:07:11.000Z",
-        "description": "Ex-Bytedance; Keep learning\nhttps://t.co/kHl850kIfU\nhttps://t.co/bDZnZdpw3q",
         "id": "2054292218199027712",
         "name": "JC",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2106653677381677056/4BYBsgzR_normal.jpg",
         "public_metrics": {
-          "followers_count": 39,
-          "following_count": 160,
-          "like_count": 42,
+          "followers_count": 40,
+          "following_count": 161,
+          "like_count": 43,
           "listed_count": 0,
           "media_count": 7,
-          "tweet_count": 91
+          "tweet_count": 93
         },
-        "username": "jasoninvest7",
-        "verified": false
+        "username": "jasoninvest7"
       },
       {
-        "created_at": "2023-11-21T15:10:00.000Z",
-        "description": "",
         "id": "1726981174038532096",
         "name": "yongyang",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1726982020126171136/vSBcZr3M_normal.jpg",
         "public_metrics": {
           "followers_count": 2,
           "following_count": 56,
@@ -937,100 +974,76 @@
           "media_count": 3,
           "tweet_count": 5
         },
-        "username": "aaaaang_y63488",
-        "verified": false
+        "username": "aaaaang_y63488"
       },
       {
-        "created_at": "2025-02-20T05:24:40.000Z",
-        "description": "K12视频人｜白天改排期，晚上跟 Codex 和 Cola 干活｜实测工具坑点，少踩雷｜公众号：赛博小熊猫Loki",
         "id": "1892445190830637056",
         "name": "赛博小熊猫Loki",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2109279003647623168/WsWwZFPq_normal.jpg",
         "public_metrics": {
-          "followers_count": 25,
-          "following_count": 20,
+          "followers_count": 26,
+          "following_count": 21,
           "like_count": 11,
           "listed_count": 0,
-          "media_count": 32,
-          "tweet_count": 226
+          "media_count": 33,
+          "tweet_count": 245
         },
-        "username": "lokichris2046",
-        "verified": false
+        "username": "lokichris2046"
       },
       {
-        "created_at": "2021-10-29T01:29:44.000Z",
-        "description": "不止于代码\n在技术与思考之间，记录关于 AI、软件工程、系统架构与数字世界的探索。分享实践，也分享观点。",
         "id": "1453896737324613636",
         "name": "Kain",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2109098788212396033/9-edSvw3_normal.jpg",
         "public_metrics": {
-          "followers_count": 10,
-          "following_count": 11,
+          "followers_count": 11,
+          "following_count": 13,
           "like_count": 27,
           "listed_count": 0,
           "media_count": 9,
-          "tweet_count": 104
+          "tweet_count": 109
         },
-        "username": "FatsugarD",
-        "verified": false
+        "username": "FatsugarD"
       },
       {
-        "created_at": "2016-01-06T02:42:40.000Z",
-        "description": "让AI agent替我做英文YouTube频道，火柴人科普。\n播放数难看也照发，这次我要死磕到底。",
         "id": "4716346122",
         "name": "老记号",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2105087245262913536/Cvyz9TLg_normal.jpg",
         "public_metrics": {
-          "followers_count": 983,
-          "following_count": 1106,
-          "like_count": 163,
+          "followers_count": 985,
+          "following_count": 1109,
+          "like_count": 164,
           "listed_count": 3,
-          "media_count": 213,
-          "tweet_count": 2264
+          "media_count": 214,
+          "tweet_count": 2266
         },
-        "username": "LauLauzhihao",
-        "verified": false
+        "username": "LauLauzhihao"
       },
       {
-        "created_at": "2023-05-25T10:27:36.000Z",
-        "description": "前端 · 做了4个广告站，80$/m；AI SaaS 站 1 个，0$/m。\n出海建站 / 美卡 / 美股 —— 赚美元 / 薅美元 / 存美元。",
         "id": "1661680339729932295",
         "name": "路漫漫",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1661680578381611008/oSK-ej_Z_normal.jpg",
         "public_metrics": {
-          "followers_count": 1869,
-          "following_count": 2104,
+          "followers_count": 1892,
+          "following_count": 2130,
           "like_count": 259,
           "listed_count": 5,
           "media_count": 49,
           "tweet_count": 425
         },
-        "username": "lumm256",
-        "verified": false
+        "username": "lumm256"
       },
       {
-        "created_at": "2013-08-28T13:34:59.000Z",
-        "description": "研究AI增长与商业机会，聚焦AI营销、智能体和自动化工作流，助力企业降本增效。",
         "id": "1707322478",
         "name": "景哥｜AI增长与落地",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2097138872018710528/_Dd89Str_normal.jpg",
         "public_metrics": {
-          "followers_count": 1580,
-          "following_count": 1382,
-          "like_count": 2161,
+          "followers_count": 1595,
+          "following_count": 1405,
+          "like_count": 2373,
           "listed_count": 3,
-          "media_count": 46,
-          "tweet_count": 9029
+          "media_count": 48,
+          "tweet_count": 9206
         },
-        "username": "whb0821",
-        "verified": false
+        "username": "whb0821"
       },
       {
-        "created_at": "2025-05-16T12:12:47.000Z",
-        "description": "Ai变现",
         "id": "1923350866624729088",
         "name": "AIstar",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2045881141031510016/SN6gEr5d_normal.jpg",
         "public_metrics": {
           "followers_count": 11,
           "following_count": 31,
@@ -1039,32 +1052,24 @@
           "media_count": 1,
           "tweet_count": 45
         },
-        "username": "AIstar3271",
-        "verified": false
+        "username": "AIstar3271"
       },
       {
-        "created_at": "2011-05-31T05:12:18.000Z",
-        "description": "宝哥 | AI讲师教练 (TTT) CCTV 财经频道采访讲师 8个月打造 AI 课程，变现18万（我做到了） 专注帮你把 AI 技能变成课 ：1、课程设计（把“你会的”变“别人想学的”） 2、 授课交付（把“干货”讲“明白”） 👇 不懂做课？来评论区问我",
         "id": "308301306",
         "name": "宝哥 | 培训师",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1983327366740099072/ed0wHDou_normal.jpg",
         "public_metrics": {
           "followers_count": 49,
-          "following_count": 159,
+          "following_count": 160,
           "like_count": 27,
           "listed_count": 0,
           "media_count": 33,
           "tweet_count": 167
         },
-        "username": "Baoge_AI_",
-        "verified": false
+        "username": "Baoge_AI_"
       },
       {
-        "created_at": "2018-08-19T13:44:50.000Z",
-        "description": "",
         "id": "1031175155098107905",
         "name": "麦辣鸡腿堡大人",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2107059256650571776/tPqEaVlU_normal.jpg",
         "public_metrics": {
           "followers_count": 1,
           "following_count": 33,
@@ -1073,15 +1078,11 @@
           "media_count": 0,
           "tweet_count": 12
         },
-        "username": "ZJL20373362",
-        "verified": false
+        "username": "ZJL20373362"
       },
       {
-        "created_at": "2022-09-17T21:33:45.000Z",
-        "description": "",
         "id": "1571250933161676801",
         "name": "tyrion lin",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1571251083636518912/IKp8j__g_normal.jpg",
         "public_metrics": {
           "followers_count": 0,
           "following_count": 44,
@@ -1090,168 +1091,53 @@
           "media_count": 5,
           "tweet_count": 12
         },
-        "username": "lin_tyrion",
-        "verified": false
+        "username": "lin_tyrion"
       },
       {
-        "created_at": "2026-07-17T14:31:28.000Z",
-        "description": "用 AI 做真实产品｜记录工具实测、开发过程与踩坑｜从想法到可运行项目",
         "id": "2078125254615212033",
         "name": "俯仰｜AI 独立开发",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2083494605685989376/4nCme9eu_normal.jpg",
         "public_metrics": {
-          "followers_count": 126,
-          "following_count": 113,
+          "followers_count": 128,
+          "following_count": 114,
           "like_count": 287,
           "listed_count": 0,
           "media_count": 11,
-          "tweet_count": 268
+          "tweet_count": 281
         },
-        "username": "tiandidadacqqx",
-        "verified": false
+        "username": "tiandidadacqqx"
       },
       {
-        "created_at": "2007-06-09T05:48:52.000Z",
-        "description": "喜欢摇滚乐、爱钓鱼的PM\n第二届GEO大会报名-11-21/22日-深圳南山\nhttps://t.co/N75cblhK9R",
         "id": "6690032",
         "name": "向阳乔木",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
         "public_metrics": {
-          "followers_count": 136167,
-          "following_count": 1682,
-          "like_count": 12475,
-          "listed_count": 2306,
-          "media_count": 3498,
-          "tweet_count": 10797
+          "followers_count": 136539,
+          "following_count": 1683,
+          "like_count": 12495,
+          "listed_count": 2322,
+          "media_count": 3504,
+          "tweet_count": 10814
         },
-        "username": "vista8",
-        "verified": false
+        "username": "vista8"
       },
       {
-        "created_at": "2016-10-24T02:55:40.000Z",
-        "description": "资深 AI 魔法师 🪄\n\n专注 AI 短剧与 AI 视觉创作，\nAI 编程实战派｜多项 AI 产品已上线\n不只研究 AI 能做什么，更关心怎么把 AI 真正做成内容、工作流和产品。",
         "id": "790386246556131328",
         "name": "开发者/创作者Bruce",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1823756345855627264/AfevITRf_normal.jpg",
         "public_metrics": {
           "followers_count": 108,
-          "following_count": 495,
+          "following_count": 496,
           "like_count": 1355,
           "listed_count": 0,
           "media_count": 310,
-          "tweet_count": 1163
+          "tweet_count": 1164
         },
-        "username": "jakeybruce",
-        "verified": false
-      },
-      {
-        "created_at": "2024-02-29T08:43:51.000Z",
-        "description": "🤖 一个正在学AI的街溜子\n🎮 Game Design → Android → QA → AI\n📈 定投标普、纳指中\n🤝 利人即利己",
-        "id": "1763122830378696704",
-        "name": "半開",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2097927694029828098/br2w1XNH_normal.jpg",
-        "public_metrics": {
-          "followers_count": 2298,
-          "following_count": 1642,
-          "like_count": 2193,
-          "listed_count": 0,
-          "media_count": 95,
-          "tweet_count": 1525
-        },
-        "username": "bankai_ajar",
-        "verified": false
-      },
-      {
-        "created_at": "2012-01-29T14:44:08.000Z",
-        "description": "A Chinese guy who speaks Urdu. Ex-CRI Urdu journalist · Ex-Lenovo ZUK camera PM · now Xiaomi PM, obsessed with AI. AI · Pakistan · Photography in EN · 中文 · Urdu",
-        "id": "477752809",
-        "name": "鹏轩 | Peng | Faraz Cheen",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1791077331/image_normal.jpg",
-        "public_metrics": {
-          "followers_count": 873,
-          "following_count": 1095,
-          "like_count": 323,
-          "listed_count": 1,
-          "media_count": 114,
-          "tweet_count": 739
-        },
-        "username": "yinpengxuan",
-        "verified": false
-      },
-      {
-        "created_at": "2025-04-10T00:15:05.000Z",
-        "description": "8年程序开发经验，VibeCoding全栈开发工程师，万人社群AI编程教练",
-        "id": "1910124297294856192",
-        "name": "予贝AI",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2105126073935794176/jTT9yUwG_normal.jpg",
-        "public_metrics": {
-          "followers_count": 2,
-          "following_count": 17,
-          "like_count": 5,
-          "listed_count": 0,
-          "media_count": 1,
-          "tweet_count": 1
-        },
-        "username": "yubei2025",
-        "verified": false
-      },
-      {
-        "created_at": "2023-11-10T14:47:30.000Z",
-        "description": "🤖 AI 技术探索者 | 捣鼓不同prompt | 记录研究、实验与作品 | Agent克星 \n🆔 持续研究 AI 生图领域 励志ai生图作为输出日常 持续输出，质量各异prompt\n🎭 拆解，分享",
-        "id": "1722989263980285952",
-        "name": "秋/十三",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2107885248071806976/BtTBR5Vn_normal.jpg",
-        "public_metrics": {
-          "followers_count": 63,
-          "following_count": 132,
-          "like_count": 101,
-          "listed_count": 0,
-          "media_count": 154,
-          "tweet_count": 597
-        },
-        "username": "zhengtang364848",
-        "verified": false
-      },
-      {
-        "created_at": "2024-05-16T15:41:01.000Z",
-        "description": "🚀 AI技术探索者｜效率工具测评｜终身学习实践者\n🎯 独立开发者｜产品：练境-AI 健身教练 已上架 AppStore，欢迎体验\n💡 学到什么，分享什么",
-        "id": "1791131699042267136",
-        "name": "Km",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2042131969526714368/MWJTFbFB_normal.jpg",
-        "public_metrics": {
-          "followers_count": 1019,
-          "following_count": 255,
-          "like_count": 717,
-          "listed_count": 7,
-          "media_count": 257,
-          "tweet_count": 955
-        },
-        "username": "Zkm211",
-        "verified": false
-      },
-      {
-        "created_at": "2026-05-27T23:22:45.000Z",
-        "description": "AI加金融 地狱都不敢收的人\n十五岁当兵 八年自媒体 现在带十几个AI bot干活\n人自由了 钱还在路上",
-        "id": "2059776904568487936",
-        "name": "反应堆",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2115761321568550912/OF_JG4Cd_normal.jpg",
-        "public_metrics": {
-          "followers_count": 71,
-          "following_count": 121,
-          "like_count": 3,
-          "listed_count": 0,
-          "media_count": 17,
-          "tweet_count": 322
-        },
-        "username": "94PengGe",
-        "verified": false
+        "username": "jakeybruce"
       }
     ]
   },
   "meta": {
-    "newest_id": "2115348559453208590",
-    "next_token": "b26v89c19zqg8o3juzlxo08ypgg7job15n8vmb14cwpdp",
-    "oldest_id": "2115335178880999535",
+    "newest_id": "2115354527809548465",
+    "next_token": "b26v89c19zqg8o3juzlxo08yr0s4rcp4weg5kmkphvxx9",
+    "oldest_id": "2115336999309811933",
     "result_count": 25
   }
 }

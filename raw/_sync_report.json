@@ -1,40 +1,13 @@
 {
-  "new_count": 1,
-  "new": [
-    {
-      "name": "CocoCut",
-      "slug": "cococut",
-      "url": "https://cococut.app",
-      "recommender": "Lumosous",
-      "source_reply_url": "https://x.com/Lumosous/status/2116097775805063662"
-    }
-  ],
-  "metrics_changed": 28,
-  "material_metrics": 7,
+  "new_count": 0,
+  "new": [],
+  "metrics_changed": 30,
+  "material_metrics": 5,
   "product_count": 100,
   "posts_fetched": 188,
   "reply_count_reported": 128,
-  "updated_at_label": "2026-11-04 10:08 Asia/Shanghai",
+  "updated_at_label": "2026-11-05 10:19 Asia/Shanghai",
   "material": [
-    {
-      "name": "Pele",
-      "slug": "pele",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 18
-      },
-      "old": {
-        "likes": 4,
-        "bookmarks": 12,
-        "impressions": 1333
-      },
-      "new": {
-        "likes": 4,
-        "bookmarks": 12,
-        "impressions": 1351
-      }
-    },
     {
       "name": "通江 Lab 3D 互动课程",
       "slug": "通江-lab-3d-互动课程",
@@ -46,31 +19,12 @@
       "old": {
         "likes": 19,
         "bookmarks": 31,
-        "impressions": 2066
+        "impressions": 2073
       },
       "new": {
         "likes": 19,
         "bookmarks": 31,
-        "impressions": 2073
-      }
-    },
-    {
-      "name": "QuickShot",
-      "slug": "quickshot",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 6
-      },
-      "old": {
-        "likes": 10,
-        "bookmarks": 16,
-        "impressions": 1113
-      },
-      "new": {
-        "likes": 10,
-        "bookmarks": 16,
-        "impressions": 1119
+        "impressions": 2080
       }
     },
     {
@@ -79,17 +33,36 @@
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 44
+        "impressions": 31
       },
       "old": {
         "likes": 11,
         "bookmarks": 8,
-        "impressions": 4488
+        "impressions": 4532
       },
       "new": {
         "likes": 11,
         "bookmarks": 8,
-        "impressions": 4532
+        "impressions": 4563
+      }
+    },
+    {
+      "name": "剪贴板 + 截图套件",
+      "slug": "剪贴板-截图套件",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 6
+      },
+      "old": {
+        "likes": 4,
+        "bookmarks": 5,
+        "impressions": 1305
+      },
+      "new": {
+        "likes": 4,
+        "bookmarks": 5,
+        "impressions": 1311
       }
     },
     {
@@ -98,36 +71,17 @@
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 7
+        "impressions": 5
       },
       "old": {
-        "likes": 1,
-        "bookmarks": 3,
-        "impressions": 303
-      },
-      "new": {
         "likes": 1,
         "bookmarks": 3,
         "impressions": 310
-      }
-    },
-    {
-      "name": "Tokei",
-      "slug": "tokei",
-      "delta": {
-        "likes": 1,
-        "bookmarks": 0,
-        "impressions": 78
-      },
-      "old": {
-        "likes": 9,
-        "bookmarks": 7,
-        "impressions": 1783
       },
       "new": {
-        "likes": 10,
-        "bookmarks": 7,
-        "impressions": 1861
+        "likes": 1,
+        "bookmarks": 3,
+        "impressions": 315
       }
     },
     {
@@ -135,24 +89,25 @@
       "slug": "m5stack-stopwatch-固件",
       "delta": {
         "likes": 0,
-        "bookmarks": 1,
-        "impressions": 5
+        "bookmarks": 0,
+        "impressions": 8
       },
       "old": {
         "likes": 1,
-        "bookmarks": 0,
-        "impressions": 494
+        "bookmarks": 1,
+        "impressions": 499
       },
       "new": {
         "likes": 1,
         "bookmarks": 1,
-        "impressions": 499
+        "impressions": 507
       }
     }
   ],
   "notes": [
-    "No brand-new conversation replies vs 2026-11-03 (still 188 posts / reply_count 128).",
-    "Added CocoCut (cococut.app) from Lumosous note_tweet URL that prior syncs missed.",
-    "Parent impressions 43107→43513; likes 131."
+    "No brand-new conversation replies vs 2026-11-04 (still 188 posts / reply_count 128; newest still 2116720575599304954).",
+    "Parent impressions 43756; likes 131; bookmarks 168.",
+    "Material metrics: 5 products with likes/bookmarks delta or |impressions|>=5.",
+    "No new product candidates from top-level replies with product URLs."
   ]
 }
