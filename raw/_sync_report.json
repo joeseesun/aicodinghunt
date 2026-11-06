@@ -1,31 +1,52 @@
 {
   "new_count": 0,
   "new": [],
-  "metrics_changed": 30,
-  "material_metrics": 5,
+  "metrics_changed": 29,
+  "material_metrics": 4,
   "product_count": 100,
   "posts_fetched": 188,
   "reply_count_reported": 128,
-  "updated_at_label": "2026-11-05 10:19 Asia/Shanghai",
+  "updated_at_label": "2026-11-06 10:19 Asia/Shanghai",
   "material": [
     {
-      "name": "通江 Lab 3D 互动课程",
-      "slug": "通江-lab-3d-互动课程",
+      "name": "CocoCut",
+      "slug": "cococut",
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 7
+        "impressions": 5
       },
       "old": {
-        "likes": 19,
-        "bookmarks": 31,
-        "impressions": 2073
+        "likes": 2,
+        "bookmarks": 1,
+        "impressions": 108
       },
       "new": {
-        "likes": 19,
-        "bookmarks": 31,
-        "impressions": 2080
-      }
+        "likes": 2,
+        "bookmarks": 1,
+        "impressions": 113
+      },
+      "missing_replies": []
+    },
+    {
+      "name": "Grok Bot Clipper",
+      "slug": "grok-bot-clipper",
+      "delta": {
+        "likes": 0,
+        "bookmarks": 0,
+        "impressions": 5
+      },
+      "old": {
+        "likes": 13,
+        "bookmarks": 15,
+        "impressions": 1826
+      },
+      "new": {
+        "likes": 13,
+        "bookmarks": 15,
+        "impressions": 1831
+      },
+      "missing_replies": []
     },
     {
       "name": "Raycast AI",
@@ -33,81 +54,45 @@
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 31
+        "impressions": 23
       },
       "old": {
-        "likes": 11,
-        "bookmarks": 8,
-        "impressions": 4532
-      },
-      "new": {
         "likes": 11,
         "bookmarks": 8,
         "impressions": 4563
-      }
-    },
-    {
-      "name": "剪贴板 + 截图套件",
-      "slug": "剪贴板-截图套件",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 6
-      },
-      "old": {
-        "likes": 4,
-        "bookmarks": 5,
-        "impressions": 1305
       },
       "new": {
-        "likes": 4,
-        "bookmarks": 5,
-        "impressions": 1311
-      }
+        "likes": 11,
+        "bookmarks": 8,
+        "impressions": 4586
+      },
+      "missing_replies": []
     },
     {
-      "name": "AI 健身应用",
-      "slug": "ai-健身应用",
+      "name": "Tokei",
+      "slug": "tokei",
       "delta": {
-        "likes": 0,
+        "likes": -1,
         "bookmarks": 0,
-        "impressions": 5
+        "impressions": -72
       },
       "old": {
-        "likes": 1,
-        "bookmarks": 3,
-        "impressions": 310
+        "likes": 10,
+        "bookmarks": 7,
+        "impressions": 1864
       },
       "new": {
-        "likes": 1,
-        "bookmarks": 3,
-        "impressions": 315
-      }
-    },
-    {
-      "name": "M5Stack Stopwatch 固件",
-      "slug": "m5stack-stopwatch-固件",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 8
+        "likes": 9,
+        "bookmarks": 7,
+        "impressions": 1792
       },
-      "old": {
-        "likes": 1,
-        "bookmarks": 1,
-        "impressions": 499
-      },
-      "new": {
-        "likes": 1,
-        "bookmarks": 1,
-        "impressions": 507
-      }
+      "missing_replies": []
     }
   ],
   "notes": [
-    "No brand-new conversation replies vs 2026-11-04 (still 188 posts / reply_count 128; newest still 2116720575599304954).",
-    "Parent impressions 43756; likes 131; bookmarks 168.",
-    "Material metrics: 5 products with likes/bookmarks delta or |impressions|>=5.",
-    "No new product candidates from top-level replies with product URLs."
+    "search_posts_all returned 503 throughout; refreshed product-linked reply metrics via get_posts_by_ids (79/80; 2115330917623574759 not found/deleted).",
+    "Parent impressions 43896; likes 132; bookmarks 169; reply_count still 128.",
+    "No evidence of new top-level replies (reply_count unchanged at 128; newest known product reply still 2116720575599304954 / PastePlus).",
+    "Material metrics: 4 products with likes/bookmarks delta or |impressions|>=5."
   ]
 }
