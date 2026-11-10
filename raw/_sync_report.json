@@ -1,90 +1,30 @@
 {
   "new_count": 0,
   "new": [],
-  "metrics_changed": 68,
-  "material_metrics": 9,
+  "metrics_changed": 65,
+  "material_metrics": 2,
   "product_count": 100,
   "posts_fetched": 188,
   "reply_count_reported": 128,
-  "updated_at_label": "2026-11-09 10:11 Asia/Shanghai",
+  "updated_at_label": "2026-11-10 10:04 Asia/Shanghai",
   "material": [
-    {
-      "name": "Lumno",
-      "slug": "lumno",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 5
-      },
-      "old": {
-        "likes": 1,
-        "bookmarks": 0,
-        "impressions": 154
-      },
-      "new": {
-        "likes": 1,
-        "bookmarks": 0,
-        "impressions": 159
-      },
-      "missing_replies": []
-    },
-    {
-      "name": "通江 Lab 3D 互动课程",
-      "slug": "通江-lab-3d-互动课程",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 7
-      },
-      "old": {
-        "likes": 19,
-        "bookmarks": 31,
-        "impressions": 2084
-      },
-      "new": {
-        "likes": 19,
-        "bookmarks": 31,
-        "impressions": 2091
-      },
-      "missing_replies": []
-    },
     {
       "name": "QuickShot",
       "slug": "quickshot",
       "delta": {
         "likes": 0,
-        "bookmarks": 0,
-        "impressions": 10
+        "bookmarks": -1,
+        "impressions": 2
       },
       "old": {
-        "likes": 10,
-        "bookmarks": 16,
-        "impressions": 1124
-      },
-      "new": {
         "likes": 10,
         "bookmarks": 16,
         "impressions": 1134
       },
-      "missing_replies": []
-    },
-    {
-      "name": "Grok Bot Clipper",
-      "slug": "grok-bot-clipper",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 6
-      },
-      "old": {
-        "likes": 13,
-        "bookmarks": 15,
-        "impressions": 1831
-      },
       "new": {
-        "likes": 13,
+        "likes": 10,
         "bookmarks": 15,
-        "impressions": 1837
+        "impressions": 1136
       },
       "missing_replies": []
     },
@@ -94,106 +34,26 @@
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 39
+        "impressions": 14
       },
       "old": {
-        "likes": 11,
-        "bookmarks": 8,
-        "impressions": 4586
-      },
-      "new": {
         "likes": 11,
         "bookmarks": 8,
         "impressions": 4625
       },
-      "missing_replies": []
-    },
-    {
-      "name": "剪贴板 + 截图套件",
-      "slug": "剪贴板-截图套件",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 5
-      },
-      "old": {
-        "likes": 4,
-        "bookmarks": 5,
-        "impressions": 1313
-      },
       "new": {
-        "likes": 4,
-        "bookmarks": 5,
-        "impressions": 1318
-      },
-      "missing_replies": []
-    },
-    {
-      "name": "WeSight",
-      "slug": "wesight",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 5
-      },
-      "old": {
-        "likes": 3,
-        "bookmarks": 0,
-        "impressions": 735
-      },
-      "new": {
-        "likes": 3,
-        "bookmarks": 0,
-        "impressions": 740
-      },
-      "missing_replies": []
-    },
-    {
-      "name": "DSH Mermaid 插件",
-      "slug": "dsh-mermaid-插件",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 5
-      },
-      "old": {
-        "likes": 1,
-        "bookmarks": 1,
-        "impressions": 1290
-      },
-      "new": {
-        "likes": 1,
-        "bookmarks": 1,
-        "impressions": 1295
-      },
-      "missing_replies": []
-    },
-    {
-      "name": "Tokei",
-      "slug": "tokei",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 6
-      },
-      "old": {
-        "likes": 9,
-        "bookmarks": 7,
-        "impressions": 1792
-      },
-      "new": {
-        "likes": 9,
-        "bookmarks": 7,
-        "impressions": 1798
+        "likes": 11,
+        "bookmarks": 8,
+        "impressions": 4639
       },
       "missing_replies": []
     }
   ],
   "notes": [
     "No new conversation posts: parent reply_count still 128; search_posts_all page 1 newest still 2116720575599304954 (PastePlus, 2026-11-01).",
-    "Paginated conversation search through at least 3 pages (recency); first page identical to 2026-11-06 snapshot.",
+    "Paginated conversation search through 3 pages (recency); first page IDs identical to 2026-11-09 snapshot; pages 2-3 also had no unseen IDs.",
     "Refreshed product-linked reply metrics via get_posts_by_ids (79/80; 2115330917623574759 still not found/deleted).",
-    "Parent impressions 44117; likes 132; bookmarks 168; reply_count still 128.",
+    "Parent impressions 44173; likes 132; bookmarks 168; reply_count still 128.",
     "Material metrics: products with likes/bookmarks delta or |impressions|>=5."
   ]
 }
