@@ -1,70 +1,30 @@
 {
   "new_count": 0,
   "new": [],
-  "metrics_changed": 62,
-  "material_metrics": 13,
+  "metrics_changed": 50,
+  "material_metrics": 4,
   "product_count": 100,
   "posts_fetched": 188,
   "reply_count_reported": 128,
-  "updated_at_label": "2026-11-11 09:51 Asia/Shanghai",
+  "updated_at_label": "2026-11-12 09:51 Asia/Shanghai",
   "material": [
-    {
-      "name": "Pele",
-      "slug": "pele",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 6
-      },
-      "old": {
-        "likes": 4,
-        "bookmarks": 12,
-        "impressions": 1362
-      },
-      "new": {
-        "likes": 4,
-        "bookmarks": 12,
-        "impressions": 1368
-      },
-      "missing_replies": []
-    },
     {
       "name": "通江 Lab 3D 互动课程",
       "slug": "通江-lab-3d-互动课程",
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 7
+        "impressions": 9
       },
       "old": {
-        "likes": 19,
-        "bookmarks": 31,
-        "impressions": 2093
-      },
-      "new": {
         "likes": 19,
         "bookmarks": 31,
         "impressions": 2100
       },
-      "missing_replies": []
-    },
-    {
-      "name": "QuickShot",
-      "slug": "quickshot",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 6
-      },
-      "old": {
-        "likes": 10,
-        "bookmarks": 15,
-        "impressions": 1136
-      },
       "new": {
-        "likes": 10,
-        "bookmarks": 15,
-        "impressions": 1142
+        "likes": 19,
+        "bookmarks": 31,
+        "impressions": 2109
       },
       "missing_replies": []
     },
@@ -74,17 +34,17 @@
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 8
+        "impressions": 5
       },
       "old": {
         "likes": 13,
         "bookmarks": 15,
-        "impressions": 1839
+        "impressions": 1847
       },
       "new": {
         "likes": 13,
         "bookmarks": 15,
-        "impressions": 1847
+        "impressions": 1852
       },
       "missing_replies": []
     },
@@ -94,77 +54,17 @@
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 9
+        "impressions": 6
       },
       "old": {
-        "likes": 11,
-        "bookmarks": 8,
-        "impressions": 4639
-      },
-      "new": {
         "likes": 11,
         "bookmarks": 8,
         "impressions": 4648
       },
-      "missing_replies": []
-    },
-    {
-      "name": "书签管理器",
-      "slug": "书签管理器",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 5
-      },
-      "old": {
-        "likes": 5,
-        "bookmarks": 3,
-        "impressions": 476
-      },
       "new": {
-        "likes": 5,
-        "bookmarks": 3,
-        "impressions": 481
-      },
-      "missing_replies": []
-    },
-    {
-      "name": "赛博小晚",
-      "slug": "赛博小晚",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 7
-      },
-      "old": {
-        "likes": 5,
-        "bookmarks": 2,
-        "impressions": 560
-      },
-      "new": {
-        "likes": 5,
-        "bookmarks": 2,
-        "impressions": 567
-      },
-      "missing_replies": []
-    },
-    {
-      "name": "Vibe 3D 视频引擎",
-      "slug": "vibe-3d-视频引擎",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 5
-      },
-      "old": {
-        "likes": 2,
-        "bookmarks": 4,
-        "impressions": 430
-      },
-      "new": {
-        "likes": 2,
-        "bookmarks": 4,
-        "impressions": 435
+        "likes": 11,
+        "bookmarks": 8,
+        "impressions": 4654
       },
       "missing_replies": []
     },
@@ -174,97 +74,17 @@
       "delta": {
         "likes": 0,
         "bookmarks": 0,
-        "impressions": 6
+        "impressions": 5
       },
       "old": {
-        "likes": 4,
-        "bookmarks": 5,
-        "impressions": 1319
-      },
-      "new": {
         "likes": 4,
         "bookmarks": 5,
         "impressions": 1325
       },
-      "missing_replies": []
-    },
-    {
-      "name": "AI 健身应用",
-      "slug": "ai-健身应用",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 6
-      },
-      "old": {
-        "likes": 1,
-        "bookmarks": 3,
-        "impressions": 317
-      },
       "new": {
-        "likes": 1,
-        "bookmarks": 3,
-        "impressions": 323
-      },
-      "missing_replies": []
-    },
-    {
-      "name": "Echo",
-      "slug": "echo",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 7
-      },
-      "old": {
-        "likes": 2,
-        "bookmarks": 1,
-        "impressions": 557
-      },
-      "new": {
-        "likes": 2,
-        "bookmarks": 1,
-        "impressions": 564
-      },
-      "missing_replies": []
-    },
-    {
-      "name": "Imagifly",
-      "slug": "imagifly",
-      "delta": {
-        "likes": 0,
-        "bookmarks": 0,
-        "impressions": 5
-      },
-      "old": {
-        "likes": 1,
-        "bookmarks": 1,
-        "impressions": 429
-      },
-      "new": {
-        "likes": 1,
-        "bookmarks": 1,
-        "impressions": 434
-      },
-      "missing_replies": []
-    },
-    {
-      "name": "Tokei",
-      "slug": "tokei",
-      "delta": {
-        "likes": 1,
-        "bookmarks": 0,
-        "impressions": 81
-      },
-      "old": {
-        "likes": 9,
-        "bookmarks": 7,
-        "impressions": 1799
-      },
-      "new": {
-        "likes": 10,
-        "bookmarks": 7,
-        "impressions": 1880
+        "likes": 4,
+        "bookmarks": 5,
+        "impressions": 1330
       },
       "missing_replies": []
     }
@@ -273,7 +93,7 @@
     "No new conversation posts: parent reply_count still 128; search_posts_all page 1 newest still 2116720575599304954 (PastePlus, 2026-11-01).",
     "Paginated conversation search through 3 pages (recency); pages 1-3 had no unseen IDs versus the 188-post snapshot.",
     "Refreshed product-linked reply metrics via get_posts_by_ids (79/80; 2115330917623574759 still not found/deleted).",
-    "Parent impressions 44212; likes 132; bookmarks 169; reply_count still 128.",
+    "Parent impressions 44244; likes 132; bookmarks 168; reply_count still 128.",
     "Material metrics: products with likes/bookmarks delta or |impressions|>=5."
   ]
 }
